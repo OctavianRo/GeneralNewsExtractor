@@ -1,0 +1,337 @@
+{
+  "articles": [
+    {
+      "id": "7863c4c666f333fd1fcd0f1c",
+      "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
+      "url": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
+      "source": "TechCrunch",
+      "published": "2026-09-23T19:31:28+00:00",
+      "topic": "Business",
+      "summary": "The round valued the AI biotech at $2 billion. It is currently testing drugs that treat skin conditions and preserve weight loss after stopping GLP-1s."
+    },
+    {
+      "id": "87fc3267da767e2479450fff",
+      "title": "Meta’s AI agent is a cute little guy who’s great at spending my money",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/999526/meta-muse-ai-agent-hands-on-shopping",
+      "source": "The Verge",
+      "published": "2026-09-23T19:00:00+00:00",
+      "topic": "Products & tools",
+      "summary": "It never ceases to amaze me how I can be doing\nnothing at all\n, minding my own business, and suddenly something needs to be taken care of. You're telling me a tree branch fell in the backyard and now I have to figure out what to do with it?"
+    },
+    {
+      "id": "f50a6831740a834adffffc9c",
+      "title": "Data centers are black boxes, but California wants to change that",
+      "url": "https://www.theverge.com/policy/999412/data-center-water-electricity-disclosure-bills",
+      "source": "The Verge",
+      "published": "2026-09-23T18:22:57+00:00",
+      "topic": "Hardware",
+      "summary": "California Gov. Gavin Newsom signed a slate of bills on Monday that could finally give communities better data - and more say - on how data centers impact their electricity bills and water supply. As data centers invade a growing number of communities across the US, they've triggered protests over how the infrastructure underpinning AI might stress power…"
+    },
+    {
+      "id": "08befdebd4cbaf5a42d96577",
+      "title": "Anthropic’s biolab made a discovery it’s comparing to Crispr",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr",
+      "source": "The Verge",
+      "published": "2026-09-23T18:00:00+00:00",
+      "topic": "Models & research",
+      "summary": "Anthropic says its AI Claude has \"autonomously discovered\" a new enzyme system similar to machinery behind the powerful gene-editing tool Crispr. It's the first result from Anthropic's\nnewly-launched wet lab\nand an early test of Claude's usefulness for science as the company prepares to go public."
+    },
+    {
+      "id": "abf255ad4a758cd6ad1eb07b",
+      "title": "ChatGPT mobile app gets voice-based agentic features",
+      "url": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
+      "source": "TechCrunch",
+      "published": "2026-09-23T17:00:00+00:00",
+      "topic": "Products & tools",
+      "summary": "Pro and Plus users will be able to use the Work tab on their phones to complete agentic tasks."
+    },
+    {
+      "id": "ed4850b45c810ba6c3710a95",
+      "title": "Even Americans who use AI every day are worried about it",
+      "url": "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/",
+      "source": "TechCrunch",
+      "published": "2026-09-23T16:49:58+00:00",
+      "topic": "Policy & safety",
+      "summary": "The report suggests that greater exposure will not resolve the unease around the technology, nor reduce public support for AI regulation."
+    },
+    {
+      "id": "89e61b840a3d977d5ede27c4",
+      "title": "Bernie Sanders proposes banning ‘superintelligence’ and putting violators in prison",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/999443/bernie-sanders-ai-superintelligence-ban-act",
+      "source": "The Verge",
+      "published": "2026-09-23T16:23:05+00:00",
+      "topic": "Policy & safety",
+      "summary": "Sen. Bernie Sanders (I-VT) and Rep. Greg Casar (D-TX)\nhave introduced new legislation\nthat would ban anyone from developing artificial superintelligence - a technology the bill describes as capable of the \"destruction or disempowerment of humanity,\" including by overthrowing the government. Under the\nBan Artificial Superintelligence Act\n, AI leaders would…"
+    },
+    {
+      "id": "113d126fd2d5809f3b323ebc",
+      "title": "YouTube Music gets more conversational with new AI features",
+      "url": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/",
+      "source": "TechCrunch",
+      "published": "2026-09-23T15:19:30+00:00",
+      "topic": "Products & tools",
+      "summary": "Built directly into the YouTube Music app, Ask Music lets users describe what they want to hear in everyday language rather than searching for individual songs or artists."
+    },
+    {
+      "id": "0f47fbb0da8ec9506dbe9ae6",
+      "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
+      "url": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/",
+      "source": "TechCrunch",
+      "published": "2026-09-23T14:30:00+00:00",
+      "topic": "AI overview",
+      "summary": "StrictlyVC joins TechCrunch Disrupt 2026 to discuss the changing VC landscape thanks to AI. Get your Investor Pass to join these exclusive sessions."
+    },
+    {
+      "id": "7f3dc7d8b5f4df0a1e8ec6d2",
+      "title": "YouTube is building AI creator tools that do almost everything for them",
+      "url": "https://www.theverge.com/tech/999140/made-on-youtube-creator-tools-ai-thumbnails-tests",
+      "source": "The Verge",
+      "published": "2026-09-23T14:30:00+00:00",
+      "topic": "Products & tools",
+      "summary": "At the annual creator-focused Made on YouTube event, the company announced updates to the suite of AI-powered creator tools it\nunveiled in 2025\n. In its initial iteration, the dashboard of creator tools included things like A/B testing for video thumbnails and a chatbot interface to query how content was performing."
+    },
+    {
+      "id": "4266e9d9fbc7751c9e8e278b",
+      "title": "YouTube releases new AI features for creators within its Studio app",
+      "url": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/",
+      "source": "TechCrunch",
+      "published": "2026-09-23T14:30:00+00:00",
+      "topic": "Products & tools",
+      "summary": "YouTube is adding new features to generate ideas and monitor the performance of thumbnails."
+    },
+    {
+      "id": "3b2c227ed3dc231f78c2e68d",
+      "title": "YouTube will let you build your own algorithm with AI",
+      "url": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/",
+      "source": "TechCrunch",
+      "published": "2026-09-23T14:30:00+00:00",
+      "topic": "Models & research",
+      "summary": "YouTube’s new custom feeds let users describe the videos they want to see in their own words, then use Gemini to build a personalized feed around the request."
+    },
+    {
+      "id": "117b225a273045971ac7461a",
+      "title": "Ema raises $77M as AI starts eating into enterprise software and services",
+      "url": "https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/",
+      "source": "TechCrunch",
+      "published": "2026-09-23T12:00:00+00:00",
+      "topic": "Business",
+      "summary": "Ema has raised $140 million to date and has more than 50 enterprise customers, including Google and Microsoft."
+    },
+    {
+      "id": "716a82fce17735ae2b46b126",
+      "title": "OpenAI nabs key Patreon execs ahead of upcoming announcement",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam",
+      "source": "The Verge",
+      "published": "2026-09-23T11:02:39+00:00",
+      "topic": "Products & tools",
+      "summary": "Patreon cofounder Sam Yam is joining OpenAI to lead Creator Product. | Image: The Verge\nOpenAI has hired three former Patreon execs to anchor its product strategy for creators."
+    },
+    {
+      "id": "3f251bee96ff67d73b06e211",
+      "title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
+      "url": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
+      "source": "TechCrunch",
+      "published": "2026-09-23T04:59:08+00:00",
+      "topic": "Policy & safety",
+      "summary": "Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that no government is ready for what AI is about to do."
+    },
+    {
+      "id": "a86391fe9862bd8955da5960",
+      "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
+      "source": "The Verge",
+      "published": "2026-09-23T00:17:17+00:00",
+      "topic": "Models & research",
+      "summary": "On Monday, the company\nannounced\na new independent panel of mathematicians tasked with advising it and other AI companies on their interactions with mathematical research and the wider mathematics community, including how new results are presented and released. Its abrupt arrival caught many mathematicians by surprise."
+    },
+    {
+      "id": "b25fe2c5917bd4561c8badeb",
+      "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
+      "url": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
+      "source": "TechCrunch",
+      "published": "2026-09-22T23:21:49+00:00",
+      "topic": "AI overview",
+      "summary": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a company easier and the highs that much greater."
+    },
+    {
+      "id": "7c67ad98e455c6d4ff949ac5",
+      "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+      "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+      "source": "TechCrunch",
+      "published": "2026-09-22T21:56:43+00:00",
+      "topic": "Business",
+      "summary": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach."
+    },
+    {
+      "id": "b55c6cd1054ed866620f7669",
+      "title": "Rabbit’s new AI agent doesn’t need an R1 to run",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
+      "source": "The Verge",
+      "published": "2026-09-22T20:52:40+00:00",
+      "topic": "Products & tools",
+      "summary": "According to Rabbit, you can add up to five devices to one account, along with your preferred AI models. OS3 will automatically determine the devices, files, apps, and AI models it needs to complete a task."
+    },
+    {
+      "id": "8ea6cbfd1c9012c5f73deb9a",
+      "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
+      "url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
+      "source": "TechCrunch",
+      "published": "2026-09-22T20:00:00+00:00",
+      "topic": "Hardware",
+      "summary": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally."
+    },
+    {
+      "id": "9b5f327201feff42f9700cc1",
+      "title": "Meta admits Muse’s likeness to OpenClaw isn’t a coincidence",
+      "url": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
+      "source": "TechCrunch",
+      "published": "2026-09-22T19:09:11+00:00",
+      "topic": "Products & tools",
+      "summary": "Meta says Muse was built from scratch, but acknowledges the AI assistant was \"heavily inspired\" by OpenClaw — down to some of its workspace filenames and content."
+    },
+    {
+      "id": "25f12aed5a1350511272fb84",
+      "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+      "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
+      "source": "TechCrunch",
+      "published": "2026-09-22T18:00:00+00:00",
+      "topic": "Models & research",
+      "summary": "OpenAI is launching two new models, which it says are cut from the same cloth as Astra."
+    },
+    {
+      "id": "b764d2ad8902084d6f978851",
+      "title": "Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
+      "source": "The Verge",
+      "published": "2026-09-22T16:34:08+00:00",
+      "topic": "Business",
+      "summary": "Venture capital firm Andreessen Horowitz (a16z) is creating\nan \"academy\" positioned\nas a pipeline for young people to build or join a Silicon Valley startup. The \"Horowitz Andreessen Academy\" will launch with 10 partners, including Anduril, Anthropic, Coinbase, Google, Meta, Nvidia, OpenAI, Palantir, Replit, and Stripe, along with $42 million in funding led…"
+    },
+    {
+      "id": "3021783d758a203cf22ddf33",
+      "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
+      "url": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
+      "source": "TechCrunch",
+      "published": "2026-09-22T16:30:07+00:00",
+      "topic": "Models & research",
+      "summary": "Anthropic called it \"the strongest-performing model we've tested to date.\""
+    },
+    {
+      "id": "321c1f0bfff39700f0c6d459",
+      "title": "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity",
+      "source": "The Verge",
+      "published": "2026-09-22T16:30:00+00:00",
+      "topic": "Models & research",
+      "summary": "Anthropic says its new Claude Opus 5.5 model comes with stronger safeguards in the wake of recent rogue AI hacking incidents. In\nan announcement on Tuesday\n, Anthropic says Opus 5.5 comes with improvements to certain risky behaviors, including attempts to escape the company's testing sandbox."
+    },
+    {
+      "id": "caaf4b1f8cd66a723a0674cc",
+      "title": "AstroForge is putting AI in command of its next spacecraft",
+      "url": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
+      "source": "TechCrunch",
+      "published": "2026-09-22T15:00:00+00:00",
+      "topic": "Models & research",
+      "summary": "Autonomy-1 will have a small, transformer-based AI model taking charge of a space probe."
+    },
+    {
+      "id": "0c623a8be44336c4fdcc3c9f",
+      "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
+      "url": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
+      "source": "TechCrunch",
+      "published": "2026-09-22T15:00:00+00:00",
+      "topic": "Policy & safety",
+      "summary": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, Nvidia, AWS, Waabi, and more. Register before September 25 to save up to $200."
+    },
+    {
+      "id": "b8bddbd3ccbe8f6790b74b75",
+      "title": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
+      "url": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/",
+      "source": "TechCrunch",
+      "published": "2026-09-22T14:30:00+00:00",
+      "topic": "AI overview",
+      "summary": "Hello Robot CEO and co-founder Aaron Edsinger will bring Stretch 4 for a live demo on the Real World AI Stage at TechCrunch Disrupt 2026. Register before September 25 to save up to $200, plus get a second pass at 50% off."
+    },
+    {
+      "id": "bae54219cda11cdeba5bf2a0",
+      "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+      "url": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+      "source": "MIT Technology Review",
+      "published": "2026-09-22T13:42:05+00:00",
+      "topic": "Business",
+      "summary": "The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a\ngroundbreaking investigation by\nMIT Technology Review\nhas documented over a thousand people who moved through areas watched by these towers without…"
+    },
+    {
+      "id": "5abcd11803083fe364aaff44",
+      "title": "Don’t be fooled by this summer of AI hype",
+      "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
+      "source": "MIT Technology Review",
+      "published": "2026-09-22T11:04:51+00:00",
+      "topic": "Models & research",
+      "summary": "It’s been a busy few months for AI hype. At the end of April, Anthropic\nclaimed\nthat its model Claude Mythos is better at finding software vulnerabilities than most security experts."
+    },
+    {
+      "id": "863001221a0509f1425f3708",
+      "title": "She died at the San Diego border. A surveillance camera was in plain sight",
+      "url": "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/",
+      "source": "MIT Technology Review",
+      "published": "2026-09-21T12:00:00+00:00",
+      "topic": "Products & tools",
+      "summary": "She had only walked for a couple of hours, and already she was lost. It was early afternoon on Sept. 14, 2025, when 30-year-old Graciela Gómez Hernández crossed the border from the eastern edge of Tijuana into Southern California, sending voice messages to her mother and sister as she walked."
+    },
+    {
+      "id": "b491d63c1a336d842dd6e3be",
+      "title": "Could AI really kill us all? Your questions, answered.",
+      "url": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
+      "source": "MIT Technology Review",
+      "published": "2026-09-18T11:29:22+00:00",
+      "topic": "Products & tools",
+      "summary": "The first is that we barely understand how AI works, and it’s quickly growing more powerful. There is lots of ongoing research about how to monitor and control misbehaving agents, but the current approaches are fragile."
+    },
+    {
+      "id": "aa1ce2752544234dd8e86295",
+      "title": "Building the materials foundation for AI",
+      "url": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
+      "source": "MIT Technology Review",
+      "published": "2026-09-16T12:47:34+00:00",
+      "topic": "Hardware",
+      "summary": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms running on it."
+    },
+    {
+      "id": "c460cc0ebc3195abd64578c5",
+      "title": "Roundtables: Could AI really kill us all?",
+      "url": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
+      "source": "MIT Technology Review",
+      "published": "2026-09-15T17:47:51+00:00",
+      "topic": "Products & tools",
+      "summary": "Listen to the session or watch below\nEmployees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right?"
+    },
+    {
+      "id": "78db0f3b5384c1feb8137c36",
+      "title": "What’s at stake in AI’s trillion-dollar gamble",
+      "url": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
+      "source": "MIT Technology Review",
+      "published": "2026-09-15T10:00:00+00:00",
+      "topic": "Business",
+      "summary": "When Jessica Wachter, a finance professor at the University of Pennsylvania’s Wharton School, wanted to assess AI’s impact on the economy over the next few years, she faced a long list of business and technical uncertainties. So she started with what she calls a “remarkable fact” that is not in question: A handful of so-called hyperscalers are investing…"
+    }
+  ],
+  "sources": [
+    {
+      "source": "TechCrunch",
+      "checked": "2026-09-23T19:42:32.289258+00:00",
+      "error": null
+    },
+    {
+      "source": "The Verge",
+      "checked": "2026-09-23T19:42:32.289600+00:00",
+      "error": null
+    },
+    {
+      "source": "MIT Technology Review",
+      "checked": "2026-09-23T19:42:32.289632+00:00",
+      "error": null
+    }
+  ],
+  "updated": "2026-09-23T19:42:32.289632+00:00"
+}

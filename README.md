@@ -1,3 +1,7 @@
+# AI Brief app
+
+This checkout includes a local AI news reader built around GNE. See [AI_BRIEF.md](AI_BRIEF.md) for setup, features, and model limitations.
+
 # GNE (GeneralNewsExtractor)
 
 [**中文文档**](README_CN.md)

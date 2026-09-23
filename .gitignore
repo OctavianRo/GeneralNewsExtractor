@@ -104,3 +104,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Local AI news cache
+ai_news.sqlite3*
+
+# Generated GitHub Pages output
+_site/
