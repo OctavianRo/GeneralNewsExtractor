@@ -73,15 +73,6 @@
       "summary": "Built directly into the YouTube Music app, Ask Music lets users describe what they want to hear in everyday language rather than searching for individual songs or artists."
     },
     {
-      "id": "0f47fbb0da8ec9506dbe9ae6",
-      "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
-      "url": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/",
-      "source": "TechCrunch",
-      "published": "2026-09-23T14:30:00+00:00",
-      "topic": "AI overview",
-      "summary": "StrictlyVC joins TechCrunch Disrupt 2026 to discuss the changing VC landscape thanks to AI. Get your Investor Pass to join these exclusive sessions."
-    },
-    {
       "id": "7f3dc7d8b5f4df0a1e8ec6d2",
       "title": "YouTube is building AI creator tools that do almost everything for them",
       "url": "https://www.theverge.com/tech/999140/made-on-youtube-creator-tools-ai-thumbnails-tests",
@@ -107,6 +98,15 @@
       "published": "2026-09-23T14:30:00+00:00",
       "topic": "Models & research",
       "summary": "YouTube’s new custom feeds let users describe the videos they want to see in their own words, then use Gemini to build a personalized feed around the request."
+    },
+    {
+      "id": "0f47fbb0da8ec9506dbe9ae6",
+      "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
+      "url": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/",
+      "source": "TechCrunch",
+      "published": "2026-09-23T14:30:00+00:00",
+      "topic": "AI overview",
+      "summary": "StrictlyVC joins TechCrunch Disrupt 2026 to discuss the changing VC landscape thanks to AI. Get your Investor Pass to join these exclusive sessions."
     },
     {
       "id": "117b225a273045971ac7461a",
@@ -319,19 +319,19 @@
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-09-23T19:42:32.289258+00:00",
+      "checked": "2026-09-23T19:46:33.148251+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-09-23T19:42:32.289600+00:00",
+      "checked": "2026-09-23T19:46:33.148251+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-09-23T19:42:32.289632+00:00",
+      "checked": "2026-09-23T19:46:33.148251+00:00",
       "error": null
     }
   ],
-  "updated": "2026-09-23T19:42:32.289632+00:00"
+  "updated": "2026-09-23T19:46:33.148251+00:00"
 }
