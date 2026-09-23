@@ -49,7 +49,7 @@ Tests cover RSS/Atom parsing, date normalization, relevance filtering, unsafe ar
 
 The 34 stories collected during the initial run have individually generated editorial illustrations. Images are original conceptual artwork made with the built-in image generation tool, not publisher photographs or evidence of events. Each card labels the artwork accordingly and provides alternative text. Images load lazily and honor reduced-motion preferences.
 
-Assets are stored in `ai_news/static/artwork/`, keyed by stable article ID. `manifest.json` maps stories to images and alternative text; `prompts.json` preserves the exact generation prompts. Existing article artwork persists across refreshes. Newly discovered stories remain text-only until an illustration is generated and added to the manifest; this local app does not silently call a paid image-generation API.
+Assets are stored in `ai_news/static/artwork/`, keyed by stable article ID. `manifest.json` maps stories to images and alternative text; `prompts.json` preserves the exact generation prompts. Existing article artwork persists across refreshes. The scheduled publishing job generates illustrations for newly discovered stories through the OpenAI Images API. Articles without a completed image are held back from the public site until a later run succeeds. The local reader does not call the API.
 
 ## GitHub Pages and automatic refresh
 
@@ -57,6 +57,19 @@ The `Refresh and publish AI Brief` workflow builds a static version for GitHub P
 
 Each run collects the configured publisher feeds, retains older stories when a source fails, keeps up to 300 recent articles, commits the public news snapshot, and deploys a Pages artifact. If every source fails, the workflow fails and the previous website stays published. Pushes to application files and manual workflow dispatch also refresh and publish.
 
-On the public site, saved stories are stored only in the visitor's browser. **Reload news** retrieves the latest published edition; it does not start an ingestion job. The last successful edition timestamp appears above the stories. Existing generated images are included; new articles do not automatically receive generated images.
+On the public site, saved stories are stored only in the visitor's browser. **Reload news** retrieves the latest published edition; it does not start an ingestion job. The last successful edition timestamp appears above the stories. Existing generated images are reused. New articles receive generated artwork before publication; stories awaiting artwork remain in the snapshot and are retried on a later run.
 
 Build locally with `.venv/bin/python -m ai_news.build_site` (cached snapshot) or add `--refresh` to fetch live feeds. Output goes to `_site/`. The older `site/` landing page and its CNAME are not deployed by this workflow.
+
+
+## Automatic artwork setup
+
+Add a repository Actions secret named `OPENAI_API_KEY` at https://github.com/OctavianRo/GeneralNewsExtractor/settings/secrets/actions. Use an OpenAI API project with billing and image-model access. Never commit the key or paste it into a workflow file. Then manually run **Refresh and publish AI Brief** in the Actions tab to verify the first generation; the existing four-hour schedule handles later updates.
+
+The default model is `gpt-image-2.5-flare` at medium quality, 1536×1024, with compressed WebP output. Set the repository variable `AI_IMAGE_MODEL` to change the model. See the [OpenAI image generation documentation](https://developers.openai.com/api/docs/guides/image-generation). API image generation is separately billed.
+
+The job generates at most 12 missing images per run, newest first. This bounds attempts per run, not a currency budget. Additional stories wait for later runs. Each completed image and its prompt are persisted immediately and committed even if a later build step fails, so future runs reuse them. A timeout after the API has accepted a request may still incur a charge without delivering an image; a later run may retry it.
+
+If the key is missing, publication stops and the existing site stays live. Individual generation failures hold back those articles while other illustrated stories can publish. No placeholder is treated as a generated image. Initial 34 PNG illustrations remain supported alongside generated WebP files.
+
+Tests mock the API (no paid calls) to verify the request format, response validation, caching, batch limits, missing credentials, and exclusion of unillustrated articles. A real API generation still needs to be verified after the secret is configured.

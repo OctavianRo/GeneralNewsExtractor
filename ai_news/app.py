@@ -139,10 +139,10 @@ class Handler(BaseHTTPRequestHandler):
         elif path == '/api/artwork':
             manifest = STATIC / 'artwork' / 'manifest.json'
             self.reply(200, json.loads(manifest.read_text()) if manifest.exists() else {})
-        elif re.fullmatch(r'/artwork/[a-f0-9]{24}\.png', path):
+        elif re.fullmatch(r'/artwork/[a-f0-9]{24}\.(png|webp)', path):
             asset = STATIC / 'artwork' / path.rsplit('/', 1)[-1]
             if asset.is_file():
-                self.reply(200, asset.read_bytes(), 'image/png')
+                self.reply(200, asset.read_bytes(), 'image/webp' if asset.suffix == '.webp' else 'image/png')
             else:
                 self.reply(404, {'error': 'Artwork not found'})
         elif path in ('/', '/app.js', '/style.css'):

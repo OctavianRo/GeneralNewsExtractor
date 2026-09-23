@@ -25,7 +25,7 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 45
     permissions:
       contents: write
     steps:
@@ -38,14 +38,18 @@ jobs:
       - name: Test news reader and static export
         run: python -m unittest discover -s ai_news_tests -v
       - name: Refresh publisher feeds and build site
-        run: python -m ai_news.build_site --refresh
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          AI_IMAGE_MODEL: ${{ vars.AI_IMAGE_MODEL }}
+        run: python -m ai_news.build_site --refresh --generate-artwork
       - name: Preserve news for the next refresh
+        if: ${{ !cancelled() }}
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add data/news.json
+          git add data/news.json ai_news/static/artwork
           if ! git diff --cached --quiet; then
-            git commit -m 'Update AI Brief news snapshot [skip ci]'
+            git commit -m 'Update AI Brief news and generated illustrations [skip ci]'
             git pull --rebase origin master
             git push origin HEAD:master
           fi

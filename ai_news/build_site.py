@@ -7,6 +7,7 @@ from pathlib import Path
 import shutil
 
 from .app import SOURCES, STATIC, fetch_source
+from .artwork import ensure_artwork, has_artwork
 
 
 def collect(previous):
@@ -58,16 +59,29 @@ def main():
     parser.add_argument('--snapshot', type=Path, default=Path('data/news.json'))
     parser.add_argument('--output', type=Path, default=Path('_site'))
     parser.add_argument('--refresh', action='store_true')
+    parser.add_argument('--generate-artwork', action='store_true')
+    parser.add_argument('--max-images', type=int, default=12)
     args = parser.parse_args()
     previous = json.loads(args.snapshot.read_text()) if args.snapshot.exists() else {}
     snapshot = collect(previous) if args.refresh else previous
     if not snapshot.get('articles'):
         raise RuntimeError('No news snapshot. Run with --refresh first.')
-    build(snapshot, args.output)
+    if args.max_images < 1:
+        parser.error('--max-images must be positive')
     if args.refresh:
         args.snapshot.parent.mkdir(parents=True, exist_ok=True)
         args.snapshot.write_text(json.dumps(snapshot, ensure_ascii=False, indent=2) + '\n')
-    print(f'Built {len(snapshot["articles"])} stories in {args.output}')
+    publication = snapshot
+    if args.generate_artwork:
+        manifest = ensure_artwork(snapshot['articles'], STATIC / 'artwork', args.max_images)
+        illustrated = [a for a in snapshot['articles'] if has_artwork(a['id'], manifest, STATIC / 'artwork')]
+        pending = len(snapshot['articles']) - len(illustrated)
+        print(f'{pending} stories awaiting artwork; held back until illustrated')
+        if not illustrated:
+            raise RuntimeError('No illustrated stories ready; existing site preserved')
+        publication = dict(snapshot, articles=illustrated)
+    build(publication, args.output)
+    print(f'Built {len(publication["articles"])} stories in {args.output}')
 
 
 if __name__ == '__main__':
