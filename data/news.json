@@ -1,6 +1,60 @@
 {
   "articles": [
     {
+      "id": "d2f07c69bc979a28bb604410",
+      "title": "Meta is making a standalone Muse AI gadget",
+      "url": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware",
+      "source": "The Verge",
+      "published": "2026-09-24T00:15:20+00:00",
+      "topic": "Products & tools",
+      "summary": "Meta is building a dedicated hardware device for its new Muse AI agent. The product, called Muse Charm, was briefly shown off by Meta CEO Mark Zuckerberg at the end of his Meta Connect presentation."
+    },
+    {
+      "id": "866c5688bd798c2c1cd0dab1",
+      "title": "Meta introduces camera-free AI glasses",
+      "url": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
+      "source": "TechCrunch",
+      "published": "2026-09-23T23:39:44+00:00",
+      "topic": "AI overview",
+      "summary": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life."
+    },
+    {
+      "id": "a5e35ea59f8666fd88f82da4",
+      "title": "Meta ditches the camera on its newest smart glasses",
+      "url": "https://www.theverge.com/tech/999281/ray-ban-meta-audio-glasses-meta-connect-2026",
+      "source": "The Verge",
+      "published": "2026-09-23T23:37:17+00:00",
+      "topic": "Policy & safety",
+      "summary": "The Ray-Ban Meta Audio Glasses have no cameras. | Photo by Brett Putman / The Verge\nWalking around Meta Connect 2026, everyone's sporting smart glasses in all sorts of shapes, colors, and sizes."
+    },
+    {
+      "id": "7a402970f4ce9b22b924a61e",
+      "title": "Meta Connect 2026: The biggest news and announcements",
+      "url": "https://www.theverge.com/tech/998480/meta-connect-2026-biggest-news-announcements",
+      "source": "The Verge",
+      "published": "2026-09-23T22:45:00+00:00",
+      "topic": "AI overview",
+      "summary": "It’s about time for Meta Connect, the company’s annual product launch event. This year, given the company’s major focus on AI and wearables like smart glasses, it seems likely that we’ll see updates from CEO Mark Zuckerberg and his team on those categories."
+    },
+    {
+      "id": "d3441858b1eb9b419c78db4d",
+      "title": "Meta Connect 2026 live blog: On the ground at Mark Zuckerberg’s next big product launch",
+      "url": "https://www.theverge.com/tech/998457/meta-connect-2026-live-blog-mark-zuckerberg-keynote",
+      "source": "The Verge",
+      "published": "2026-09-23T22:30:00+00:00",
+      "topic": "Products & tools",
+      "summary": "It's time once again for Meta's annual September product launch event, and\nThe Verge\nis on the ground in Menlo Park to cover the show live. Meta\nsays that\ntoday's keynote by Mark Zuckerberg will be about how \"Meta is building a future for everyone\" - something he wrote at length about\nin a recent essay\nabout AI, smart glasses, and more."
+    },
+    {
+      "id": "48a9d95577c8df726a1eb330",
+      "title": "Anthropic says its biology lab has already found something big",
+      "url": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
+      "source": "TechCrunch",
+      "published": "2026-09-23T22:17:39+00:00",
+      "topic": "Models & research",
+      "summary": "But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab. Humans are still, so far, in the loop."
+    },
+    {
       "id": "7863c4c666f333fd1fcd0f1c",
       "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
       "url": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
@@ -328,19 +382,19 @@
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-09-23T19:56:00.985235+00:00",
+      "checked": "2026-09-24T00:16:29.103553+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-09-23T19:56:00.985235+00:00",
+      "checked": "2026-09-24T00:16:29.103553+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-09-23T19:56:00.985235+00:00",
+      "checked": "2026-09-24T00:16:29.103553+00:00",
       "error": null
     }
   ],
-  "updated": "2026-09-23T19:56:00.985235+00:00"
+  "updated": "2026-09-24T00:16:29.103553+00:00"
 }
