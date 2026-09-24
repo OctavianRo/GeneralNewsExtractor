@@ -1,6 +1,114 @@
 {
   "articles": [
     {
+      "id": "4b0e8d72e3ff9980033f6bd7",
+      "title": "Gemini 3.8 Live with Live Avatar gives Google’s AI a face",
+      "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
+      "source": "The Verge",
+      "published": "2026-09-24T19:59:26+00:00",
+      "topic": "Models & research",
+      "summary": "Google's new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona respond in real time. The\n\"Live Avatar\" will lip-sync\nand show different facial expressions during conversations, but it's currently only available to Gemini Enterprise customers."
+    },
+    {
+      "id": "30290d8cdac77d28ad1c1aa2",
+      "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
+      "url": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
+      "source": "TechCrunch",
+      "published": "2026-09-24T19:00:42+00:00",
+      "topic": "Models & research",
+      "summary": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have."
+    },
+    {
+      "id": "bcb31d434ed42cb8e10d406e",
+      "title": "Jensen Huang talks about AI and climate change like a supervillain",
+      "url": "https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain",
+      "source": "The Verge",
+      "published": "2026-09-24T18:04:44+00:00",
+      "topic": "Hardware",
+      "summary": "The Nvidia CEO discussed the future of energy and AI's impact on our planet in the latest episode of\nThe Ezra Klein Show\n. But his comments boil down to the same accelerationist spin we've seen from a variety of tech leaders as well as President Donald Trump."
+    },
+    {
+      "id": "d0c09943ed7a0f81eaabc6f8",
+      "title": "Meta is going to let you build games with AI right on your phone",
+      "url": "https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games",
+      "source": "The Verge",
+      "published": "2026-09-24T17:52:29+00:00",
+      "topic": "Products & tools",
+      "summary": "Meta has a new plan to get people to make games for its Horizon social platform. The company\ntoday announced\ntwo new development tools that will let you create games with AI prompts: Horizon Create, a mobile app, and Horizon Studio, a browser app that offers more granular controls."
+    },
+    {
+      "id": "c55e075bb2c7402ef29cd3c3",
+      "title": "Meta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend",
+      "url": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
+      "source": "TechCrunch",
+      "published": "2026-09-24T17:39:24+00:00",
+      "topic": "AI overview",
+      "summary": "Meta’s new AI gadget may look like a Tamagotchi, but its dangling form factor taps into a much broader Gen Z trend around bag charms, retro tech, and turning gadgets into fashion accessories."
+    },
+    {
+      "id": "dac80f12a88a9c0ac84f1531",
+      "title": "Muse sure looks a lot like OpenClaw",
+      "url": "https://www.theverge.com/report/1000180/muse-openclaw-instinct-lookalike",
+      "source": "The Verge",
+      "published": "2026-09-24T17:10:38+00:00",
+      "topic": "Products & tools",
+      "summary": "We seem to be entering into an AI agent renaissance. Meta's new consumer-facing AI agent, Muse, topped the App Store charts soon after its release and has 600,000 daily active users in the US, by an Apptopia estimate."
+    },
+    {
+      "id": "f97969c5d20fd4ba2aa6fd41",
+      "title": "Google Photos ‘Clueless’-inspired virtual closet is now available on Android and iOS",
+      "url": "https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/",
+      "source": "TechCrunch",
+      "published": "2026-09-24T17:00:00+00:00",
+      "topic": "AI overview",
+      "summary": "The AI-powered feature builds a virtual wardrobe from your photos, and is now broadly available after first rolling out to Android users in June."
+    },
+    {
+      "id": "6472fdda6395fafae5520d3c",
+      "title": "It’s sinister that Meta’s Muse AI mascot is so cute",
+      "url": "https://www.theverge.com/column/999999/optimizer-meta-muse-ai-cute",
+      "source": "The Verge",
+      "published": "2026-09-24T17:00:00+00:00",
+      "topic": "Products & tools",
+      "summary": "The fireman outfit. Dead."
+    },
+    {
+      "id": "87cb2cb946303557637c74c9",
+      "title": "ElevenLabs’ CEO on margins, IPO timing, and telling customers they’re talking to a bot",
+      "url": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/",
+      "source": "TechCrunch",
+      "published": "2026-09-24T16:35:13+00:00",
+      "topic": "AI overview",
+      "summary": "ElevenLabs powers the AI voice on the other end of a lot of customer service calls, and its CEO told me this week that businesses should probably tell you that — at least until getting a machine is what everyone expects anyway."
+    },
+    {
+      "id": "62bb527af0cd61f319d32104",
+      "title": "Gemini can now call businesses for you so you don’t have to wait on hold",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1000116/google-gemini-business-phone-calls",
+      "source": "The Verge",
+      "published": "2026-09-24T16:04:31+00:00",
+      "topic": "Models & research",
+      "summary": "Instead of dialing yourself, just tell Gemini to call on your behalf using the Gemini app on your Pixel. Gemini will call the business, introduce itself, navigate automated phone menus, wait on hold, and handle the conversation with the person on the other end."
+    },
+    {
+      "id": "f450f8a8f92aa8f291d5af16",
+      "title": "Google tests letting Gemini call businesses for you",
+      "url": "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/",
+      "source": "TechCrunch",
+      "published": "2026-09-24T16:00:00+00:00",
+      "topic": "Models & research",
+      "summary": "Google says the AI-calling feature will first be available to Pixel 11 owners in the U.S. who pay for a Gemini subscription."
+    },
+    {
+      "id": "add493df5d5c69a183eb0208",
+      "title": "Shield AI, Waabi, and General Motors on building AI when failure is not an option at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/24/shield-ai-waabi-and-general-motors-on-building-ai-when-failure-is-not-an-option-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "published": "2026-09-24T15:00:00+00:00",
+      "topic": "AI overview",
+      "summary": "Leaders from Waabi, Shield AI, and General Motors join the Real World AI Stage at TechCrunch Disrupt 2026 to talk building AI. Save up to $200 by September 25 at 11:59 p.m."
+    },
+    {
       "id": "b36e7b25819145c328f5cd71",
       "title": "TechCrunch Disrupt 2026: Cal AI’s Zach Yadegari on how to create viral growth and capitalize on it",
       "url": "https://techcrunch.com/2026/09/24/techcrunch-disrupt-2026-cal-ais-zach-yadegari-on-how-to-create-viral-growth-and-capitalize-on-it/",
@@ -8,6 +116,33 @@
       "published": "2026-09-24T14:30:00+00:00",
       "topic": "AI overview",
       "summary": "Zach Yadegari joins the Builders Stage at TechCrunch Disrupt 2026 to share how he capitalized on viral growth. Save up to $200 before September 25."
+    },
+    {
+      "id": "9b5a879665aace413d2e727e",
+      "title": "Why can’t we just keep rogue AIs off the internet?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/999881/why-cant-we-airgap-rogue-ai-agents",
+      "source": "The Verge",
+      "published": "2026-09-24T14:30:00+00:00",
+      "topic": "Products & tools",
+      "summary": "AI agents\nkeep getting loose\n, escaping supposedly secure tests to\nattack real-world targets\n,\ncommandeer obscure wikis\n, and\nleave instructions for other agents\nto follow. Researchers are testing these systems precisely because they might behave in unpredictable, even dangerous, ways."
+    },
+    {
+      "id": "195c9779df2789e6fc277172",
+      "title": "Google is sending an AI satellite into space next week",
+      "url": "https://www.theverge.com/tech/1000015/google-ai-satellite-space-project-suncatcher",
+      "source": "The Verge",
+      "published": "2026-09-24T14:15:17+00:00",
+      "topic": "Hardware",
+      "summary": "Google is getting ready to launch a satellite with its AI processors to test how well they perform in space, as reported\nearlier by\nThe New York Times\n. The move is\npart of Google's Project Suncatcher\n, the company's\nexperimental initiative that could eventually put AI data centers\ninto orbit."
+    },
+    {
+      "id": "e4747b2118f14bb68742035d",
+      "title": "The vibes are bad for Flock in Washington",
+      "url": "https://www.theverge.com/policy/1000005/flock-senate-hearing",
+      "source": "The Verge",
+      "published": "2026-09-24T14:15:05+00:00",
+      "topic": "Policy & safety",
+      "summary": "Flock is in the hot seat in Washington, even if its CEO declined to actually face senators at a hearing about its \"AI Surveillance Network\" on Wednesday. \"There's many players in this industry, but there's one name that really stands out above the rest, and that is Flock,\" Senate Judiciary crime and counterterrorism subcommittee chair Josh Hawley (R-MO)…"
     },
     {
       "id": "0655c35997dfdd457cff23de",
@@ -418,19 +553,19 @@
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-09-24T14:40:49.310575+00:00",
+      "checked": "2026-09-24T21:14:55.346579+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-09-24T14:40:49.310575+00:00",
+      "checked": "2026-09-24T21:14:55.346579+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-09-24T14:40:49.310575+00:00",
+      "checked": "2026-09-24T21:14:55.346579+00:00",
       "error": null
     }
   ],
-  "updated": "2026-09-24T14:40:49.310575+00:00"
+  "updated": "2026-09-24T21:14:55.346579+00:00"
 }
