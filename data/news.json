@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "b36e7b25819145c328f5cd71",
+      "title": "TechCrunch Disrupt 2026: Cal AI’s Zach Yadegari on how to create viral growth and capitalize on it",
+      "url": "https://techcrunch.com/2026/09/24/techcrunch-disrupt-2026-cal-ais-zach-yadegari-on-how-to-create-viral-growth-and-capitalize-on-it/",
+      "source": "TechCrunch",
+      "published": "2026-09-24T14:30:00+00:00",
+      "topic": "AI overview",
+      "summary": "Zach Yadegari joins the Builders Stage at TechCrunch Disrupt 2026 to share how he capitalized on viral growth. Save up to $200 before September 25."
+    },
+    {
+      "id": "0655c35997dfdd457cff23de",
+      "title": "Australia to investigate if OpenAI hack of government health website broke the law",
+      "url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/",
+      "source": "TechCrunch",
+      "published": "2026-09-24T12:54:19+00:00",
+      "topic": "Policy & safety",
+      "summary": "The incident is the first known breach to affect a government agency, and Australia's prime minister has vowed to hold OpenAI accountable."
+    },
+    {
       "id": "364e76eaa6a6943f81b0cf2f",
       "title": "Everything new coming to Meta’s AI agent Muse",
       "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
@@ -34,7 +52,7 @@
       "source": "TechCrunch",
       "published": "2026-09-23T23:39:44+00:00",
       "topic": "AI overview",
-      "summary": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life."
+      "summary": "Meta says the camera-free glasses will be lighter and have up to 12 hours of battery life."
     },
     {
       "id": "a5e35ea59f8666fd88f82da4",
@@ -400,19 +418,19 @@
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-09-24T07:19:58.002975+00:00",
+      "checked": "2026-09-24T14:40:49.310575+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-09-24T07:19:58.002975+00:00",
+      "checked": "2026-09-24T14:40:49.310575+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-09-24T07:19:58.002975+00:00",
+      "checked": "2026-09-24T14:40:49.310575+00:00",
       "error": null
     }
   ],
-  "updated": "2026-09-24T07:19:58.002975+00:00"
+  "updated": "2026-09-24T14:40:49.310575+00:00"
 }
