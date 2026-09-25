@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "ab39be48455141249d5d2fbf",
+      "title": "Microsoft thinks its new Copilot ‘super app’ will be as influential as Office",
+      "url": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot",
+      "source": "The Verge",
+      "published": "2026-09-25T12:00:00+00:00",
+      "topic": "Products & tools",
+      "summary": "After teasing its new Copilot \"super app\"\nlast month\n, Microsoft is officially unveiling it today. The redesigned Copilot app bundles three AI capabilities into a single interface of chat, coding, and agents."
+    },
+    {
+      "id": "c2d047e87e05c5929ff15084",
+      "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
+      "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+      "source": "MIT Technology Review",
+      "published": "2026-09-25T09:16:25+00:00",
+      "topic": "Models & research",
+      "summary": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a\nDepartment of Defense budget request\n. The program, called Polygraph+ or Polygraph Next, will focus on scoring algorithms that use artificial intelligence and machine learning and on a technique called “standoff sensing,” which refers…"
+    },
+    {
       "id": "ff3979163f0a6a79e8f18c6f",
       "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
       "url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
@@ -562,19 +580,19 @@
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-09-25T07:14:22.528301+00:00",
+      "checked": "2026-09-25T15:02:11.844301+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-09-25T07:14:22.528301+00:00",
+      "checked": "2026-09-25T15:02:11.844301+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-09-25T07:14:22.528301+00:00",
+      "checked": "2026-09-25T15:02:11.844301+00:00",
       "error": null
     }
   ],
-  "updated": "2026-09-25T07:14:22.528301+00:00"
+  "updated": "2026-09-25T15:02:11.844301+00:00"
 }
