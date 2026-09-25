@@ -1,6 +1,105 @@
 {
   "articles": [
     {
+      "id": "e2a6a90d9b2c18ea7055d81d",
+      "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+      "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
+      "source": "TechCrunch",
+      "published": "2026-09-25T19:13:38+00:00",
+      "topic": "Business",
+      "summary": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a potential stake of up to 5% of its stock that grows as Anthropic spends more."
+    },
+    {
+      "id": "c67b725df023f3db88a87593",
+      "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
+      "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
+      "source": "TechCrunch",
+      "published": "2026-09-25T18:33:59+00:00",
+      "topic": "Hardware",
+      "summary": "The funding, which comes from Third Point, Nvidia, and others, will fuel the company's massive AI data center buildout."
+    },
+    {
+      "id": "3f04347922eefb3c11c4d132",
+      "title": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
+      "url": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
+      "source": "TechCrunch",
+      "published": "2026-09-25T18:22:47+00:00",
+      "topic": "Models & research",
+      "summary": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into model drop week for both companies as Anthropic rolled out Opus 5.5, followed by OpenAI’s GPT-6 model updates just 90 minutes later."
+    },
+    {
+      "id": "afee09e47d3238fb7c95cda7",
+      "title": "Some Supabase customers are publicly exposing reams of people’s data to the web",
+      "url": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
+      "source": "TechCrunch",
+      "published": "2026-09-25T17:29:46+00:00",
+      "topic": "Products & tools",
+      "summary": "The findings highlight how AI-generated and vibe-coded apps can spill and expose users' data when not configured or secured properly."
+    },
+    {
+      "id": "6ffcb5f81009728687c0b8fe",
+      "title": "Astra and Opus just passed Turing’s other test",
+      "url": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/",
+      "source": "TechCrunch",
+      "published": "2026-09-25T17:24:36+00:00",
+      "topic": "Models & research",
+      "summary": "Frontier AI models are finishing Alan Turing's World War II codebreaking work."
+    },
+    {
+      "id": "2cd7844d24860465a4d1fa92",
+      "title": "Meta is putting its muscle behind Muse as the AI app takes off",
+      "url": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
+      "source": "TechCrunch",
+      "published": "2026-09-25T16:16:52+00:00",
+      "topic": "Products & tools",
+      "summary": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agent's promotion across its own apps and beyond."
+    },
+    {
+      "id": "656c9f3000b049c0a033f633",
+      "title": "Meta’s AI Tamagotchi bet is…working?",
+      "url": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
+      "source": "TechCrunch",
+      "published": "2026-09-25T16:00:00+00:00",
+      "topic": "Models & research",
+      "summary": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into model drop week for both companies as Anthropic rolled out Opus 5.5, followed by OpenAI’s GPT-6 model updates just 90 minutes later."
+    },
+    {
+      "id": "3d8278c32fc7ccde458fb56f",
+      "title": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
+      "url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
+      "source": "TechCrunch",
+      "published": "2026-09-25T15:48:14+00:00",
+      "topic": "Products & tools",
+      "summary": "The latest unauthorized agent swarms were discovered by researchers."
+    },
+    {
+      "id": "68927c778ed014741b31d316",
+      "title": "Anthropic’s founders seek voting control ahead of IPO",
+      "url": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/",
+      "source": "TechCrunch",
+      "published": "2026-09-25T15:40:03+00:00",
+      "topic": "AI overview",
+      "summary": "Anthropic is asking its shareholders to approve a structure that would give its seven co-founders a combined 50.1% of the vote on most corporate matters."
+    },
+    {
+      "id": "439dcfde53e44b068d1135bc",
+      "title": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
+      "url": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/",
+      "source": "TechCrunch",
+      "published": "2026-09-25T15:00:00+00:00",
+      "topic": "Hardware",
+      "summary": "At TechCrunch Disrupt 2026, Ricursive Intelligence co-founders Anna Goldie and Azalia Mirhoseini will take the Disrupt Stage to discuss closing the loop between AI and chip development. Save up to $200 on your pass before today ends."
+    },
+    {
+      "id": "c58ed3cc3208b882e8c80570",
+      "title": "Can Apple Home’s AI camera features outsmart Amazon’s and Google’s? I put them to the test",
+      "url": "https://www.theverge.com/tech/1000321/apple-intelligence-home-security-camera-amazon-ring-alexa-google-nest-gemini-home-review",
+      "source": "The Verge",
+      "published": "2026-09-25T13:00:00+00:00",
+      "topic": "Models & research",
+      "summary": "I used Google’s Nest Doorbell (left), Aqara’s HomeKit-compatible G400 (center), and the Ring Pro 4K (right) to test the new AI features of Gemini for Home, Apple Intelligence for Home, and Amazon’s Ring. | Photo by Jennifer Pattison Tuohy / The Verge\nA few years back, I was at a beachside Easter egg hunt, watching my kids dash through sand dunes searching…"
+    },
+    {
       "id": "ab39be48455141249d5d2fbf",
       "title": "Microsoft thinks its new Copilot ‘super app’ will be as influential as Office",
       "url": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot",
@@ -580,19 +679,19 @@
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-09-25T15:02:11.844301+00:00",
+      "checked": "2026-09-25T21:12:13.616725+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-09-25T15:02:11.844301+00:00",
+      "checked": "2026-09-25T21:12:13.616725+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-09-25T15:02:11.844301+00:00",
+      "checked": "2026-09-25T21:12:13.616725+00:00",
       "error": null
     }
   ],
-  "updated": "2026-09-25T15:02:11.844301+00:00"
+  "updated": "2026-09-25T21:12:13.616725+00:00"
 }
