@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "566a52e15e047c95713b9d7a",
+      "title": "Engram is a sampler that turns broken AI hallucinations into music",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
+      "source": "The Verge",
+      "published": "2026-09-27T20:46:36+00:00",
+      "topic": "Models & research",
+      "summary": "Music startup\nThoughtful Things\nhas just launched the Kickstarter campaign for its first instrument,\nEngram\n. It's a sampler and groovebox that uses AI to mangle incoming audio and even hallucinate completely new sounds."
+    },
+    {
+      "id": "32f206d5a41c91737a18fef1",
+      "title": "Anthropic’s CEO is about to have dinner with President Trump",
+      "url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+      "source": "TechCrunch",
+      "published": "2026-09-27T20:34:28+00:00",
+      "topic": "AI overview",
+      "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump"
+    },
+    {
+      "id": "f5ecb7d590289cbc069f407f",
+      "title": "Can Muse overcome Meta’s trust issues?",
+      "url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+      "source": "TechCrunch",
+      "published": "2026-09-27T19:57:30+00:00",
+      "topic": "AI overview",
+      "summary": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic."
+    },
+    {
+      "id": "c35bd152b345cd2b7b37d63c",
+      "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
+      "source": "The Verge",
+      "published": "2026-09-27T17:21:07+00:00",
+      "topic": "Products & tools",
+      "summary": "The United Nations logo on a gate outside the UN headquarters in New York. | AFP via Getty Images\nSecurity researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site\nover 16,000 times between April and June\n."
+    },
+    {
+      "id": "6901e576884284fc9558bce0",
+      "title": "Anthropic’s Dario Amodei gets the SNL treatment",
+      "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+      "source": "TechCrunch",
+      "published": "2026-09-27T16:30:00+00:00",
+      "topic": "AI overview",
+      "summary": "\"AI is the devil and I its maker.\""
+    },
+    {
       "id": "3e5c288472f5aa9bfe844f9e",
       "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
       "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
@@ -760,19 +805,19 @@
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-09-27T15:01:10.848214+00:00",
+      "checked": "2026-09-27T21:01:11.347242+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-09-27T15:01:10.848214+00:00",
+      "checked": "2026-09-27T21:01:11.347242+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-09-27T15:01:10.848214+00:00",
+      "checked": "2026-09-27T21:01:11.347242+00:00",
       "error": null
     }
   ],
-  "updated": "2026-09-27T15:01:10.848214+00:00"
+  "updated": "2026-09-27T21:01:11.347242+00:00"
 }
