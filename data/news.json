@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "id": "3e5c288472f5aa9bfe844f9e",
+      "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+      "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+      "source": "TechCrunch",
+      "published": "2026-09-27T01:30:00+00:00",
+      "topic": "Models & research",
+      "summary": "The limited test covers select products and users, with a broader rollout planned for later in October."
+    },
+    {
       "id": "3eda5db8c05960eb16be6155",
       "title": "Insurers claim AI is already increasing healthcare costs",
       "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
@@ -751,19 +760,19 @@
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-09-27T00:19:36.508196+00:00",
+      "checked": "2026-09-27T07:42:00.053136+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-09-27T00:19:36.508196+00:00",
+      "checked": "2026-09-27T07:42:00.053136+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-09-27T00:19:36.508196+00:00",
+      "checked": "2026-09-27T07:42:00.053136+00:00",
       "error": null
     }
   ],
-  "updated": "2026-09-27T00:19:36.508196+00:00"
+  "updated": "2026-09-27T07:42:00.053136+00:00"
 }
