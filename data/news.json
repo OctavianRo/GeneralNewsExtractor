@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "id": "3eda5db8c05960eb16be6155",
+      "title": "Insurers claim AI is already increasing healthcare costs",
+      "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+      "source": "TechCrunch",
+      "published": "2026-09-26T21:02:06+00:00",
+      "topic": "Products & tools",
+      "summary": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period."
+    },
+    {
       "id": "960b51012f8d643a2607663a",
       "title": "OpenAI pauses training of its ‘most capable models’",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
@@ -742,19 +751,19 @@
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-09-26T20:44:41.335752+00:00",
+      "checked": "2026-09-27T00:19:36.508196+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-09-26T20:44:41.335752+00:00",
+      "checked": "2026-09-27T00:19:36.508196+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-09-26T20:44:41.335752+00:00",
+      "checked": "2026-09-27T00:19:36.508196+00:00",
       "error": null
     }
   ],
-  "updated": "2026-09-26T20:44:41.335752+00:00"
+  "updated": "2026-09-27T00:19:36.508196+00:00"
 }
