@@ -1,6 +1,123 @@
 {
   "articles": [
     {
+      "id": "ab95dff2b094b51a116e91fb",
+      "title": "Google is killing off Gemini’s Gems in favor of ‘skills’",
+      "url": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
+      "source": "TechCrunch",
+      "published": "2026-09-28T17:29:50+00:00",
+      "topic": "Models & research",
+      "summary": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature which built task-specific agents."
+    },
+    {
+      "id": "db3dfcf2b649bdd015a89a2b",
+      "title": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
+      "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
+      "source": "TechCrunch",
+      "published": "2026-09-28T17:09:02+00:00",
+      "topic": "AI overview",
+      "summary": "On Friday, OpenAI published a new site devoted to “misalignment reports” and the breadth of the incidents is alarming."
+    },
+    {
+      "id": "d48a25f5ace55f9c01195457",
+      "title": "When can we say AI made a scientific discovery?",
+      "url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
+      "source": "MIT Technology Review",
+      "published": "2026-09-28T17:03:16+00:00",
+      "topic": "Products & tools",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\nsign up here\n."
+    },
+    {
+      "id": "da1149ea8723f1eecd44a8eb",
+      "title": "Florida seeks a ban on ChatGPT acting like a person",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids",
+      "source": "The Verge",
+      "published": "2026-09-28T17:00:23+00:00",
+      "topic": "Products & tools",
+      "summary": "Florida Attorney General James Uthmeier is calling for a judge to\nblock OpenAI\nfrom \"giving ChatGPT false human attributes,\" a few months after Florida sued the AI company\nover safety concerns\n. According to Uthmeier, users are lulled into a false sense of security by the AI bot, as \"ChatGPT's use of language, including first-person pronouns and output that…"
+    },
+    {
+      "id": "3a3d10d73e96ef6ce8cd3d4e",
+      "title": "OpenAI keeps bulldozing mathematicians",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001477/openai-math-advisory-group",
+      "source": "The Verge",
+      "published": "2026-09-28T17:00:00+00:00",
+      "topic": "AI overview",
+      "summary": "OpenAI's latest attempt to repair fractured relations with a mathematical community it has\nrepeatedly\nalienated\nis to\nconsult\na new independent advisory group of elite practitioners. But mathematicians speaking to\nThe Verge\n, including one of the group's members, describe a messy and confusing affair bearing many of the hallmarks of OpenAI's previous rushed…"
+    },
+    {
+      "id": "d211ef06bee55e3a6d21d4af",
+      "title": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
+      "url": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/",
+      "source": "TechCrunch",
+      "published": "2026-09-28T16:52:38+00:00",
+      "topic": "Products & tools",
+      "summary": "Meta says it will focus on bringing its full technology stack, including Muse, Meta Business Agent, Muse API, Muse Code, and more to businesses and developers."
+    },
+    {
+      "id": "9867440d537aa7da6b32851f",
+      "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "published": "2026-09-28T15:30:00+00:00",
+      "topic": "AI overview",
+      "summary": "Anthropic, Clay, and Gamma on what it takes for an AI product to go beyond the demo at the AI Stage at TechCrunchDisrupt 2026. Register to join and get 50% off a second pass."
+    },
+    {
+      "id": "e1400b549771e5f53e35a483",
+      "title": "After a deepfake voice fooled her grandfather, this founder sprang into action",
+      "url": "https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/",
+      "source": "TechCrunch",
+      "published": "2026-09-28T15:00:00+00:00",
+      "topic": "Business",
+      "summary": "After her grandfather was scammed by a deepfake of his brother's voice, Tarini Padmanabhuni founded DetectifAI, a San Francisco startup building AI models small enough to run directly on smartphones and flag fake voices in real time, and it's now one of the companies competing in Startup Battlefield at TechCrunch Disrupt."
+    },
+    {
+      "id": "ae785329e8a58042fbe5437b",
+      "title": "The SaaSpocalypse that wasn’t, with Atlassian CEO Mike Cannon-Brookes",
+      "url": "https://www.theverge.com/podcast/1000914/atlassian-ceo-mike-cannon-brookes-saaspocalypse-ai-enterprise-software-trello-jira",
+      "source": "The Verge",
+      "published": "2026-09-28T14:00:00+00:00",
+      "topic": "Products & tools",
+      "summary": "Today, I’m talking with Mike Cannon-Brookes, who is cofounder and CEO of Atlassian. Atlassian is one of those companies that every other company runs on — it makes important platform tools like Jira and Trello that allow people to organize and manage big teams, create shared databases of company information, and generally allow work to happen."
+    },
+    {
+      "id": "651e659be31fd0320edfa31b",
+      "title": "Insurtech Outmarket raises $34.5M just months after prior round",
+      "url": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/",
+      "source": "TechCrunch",
+      "published": "2026-09-28T14:00:00+00:00",
+      "topic": "Business",
+      "summary": "The startup uses AI to automate tedious paperwork for insurance agencies and brokers."
+    },
+    {
+      "id": "560cbbccadfe271dcf50e5e4",
+      "title": "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
+      "url": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/",
+      "source": "TechCrunch",
+      "published": "2026-09-28T13:38:48+00:00",
+      "topic": "Business",
+      "summary": "Instinct has raised a $1 billion Series C, saying 'we're just getting started.' The company is now valued at $10 billion."
+    },
+    {
+      "id": "64fdf8a89fbdaa8925dc81a1",
+      "title": "Nvidia says its new AI safety platform can contain rogue agents within ‘milliseconds’",
+      "url": "https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents",
+      "source": "The Verge",
+      "published": "2026-09-28T13:36:06+00:00",
+      "topic": "Products & tools",
+      "summary": "Nvidia is launching a new safety platform designed to contain and monitor AI agents, a move that comes in response to a\nwave of rogue hacking incidents\n, as\nreported earlier by\nReuters\n. In\nan announcement on Monday\n, Nvidia says its new Open Agent Safety Platform can quarantine agents that attempt to escape their boundaries within \"milliseconds.\""
+    },
+    {
+      "id": "9b8486475fb0050a06344751",
+      "title": "Who’s liable when AI agents go rogue?",
+      "url": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
+      "source": "MIT Technology Review",
+      "published": "2026-09-28T08:06:22+00:00",
+      "topic": "Policy & safety",
+      "summary": "MIT Technology Review Explains\n: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here\n."
+    },
+    {
       "id": "566a52e15e047c95713b9d7a",
       "title": "Engram is a sampler that turns broken AI hallucinations into music",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
@@ -805,19 +922,19 @@
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-09-28T08:20:54.372676+00:00",
+      "checked": "2026-09-28T17:59:02.027504+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-09-28T08:20:54.372676+00:00",
+      "checked": "2026-09-28T17:59:02.027504+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-09-28T08:20:54.372676+00:00",
+      "checked": "2026-09-28T17:59:02.027504+00:00",
       "error": null
     }
   ],
-  "updated": "2026-09-28T08:20:54.372676+00:00"
+  "updated": "2026-09-28T17:59:02.027504+00:00"
 }
