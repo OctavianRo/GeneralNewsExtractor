@@ -1,6 +1,69 @@
 {
   "articles": [
     {
+      "id": "032b0e2a6b1375f5855603c5",
+      "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+      "url": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+      "source": "MIT Technology Review",
+      "published": "2026-09-28T22:17:07+00:00",
+      "topic": "Business",
+      "summary": "The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a\ngroundbreaking investigation by\nMIT Technology Review\nhas documented over a thousand people who moved through areas watched by these towers without…"
+    },
+    {
+      "id": "60e195b06c19c87bef00b844",
+      "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
+      "url": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
+      "source": "TechCrunch",
+      "published": "2026-09-28T21:29:18+00:00",
+      "topic": "Business",
+      "summary": "The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago."
+    },
+    {
+      "id": "8dfae19f11de23ec19fca65e",
+      "title": "Shopify opens checkout to browser-based AI agents",
+      "url": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
+      "source": "TechCrunch",
+      "published": "2026-09-28T19:33:57+00:00",
+      "topic": "Products & tools",
+      "summary": "Shopify is expanding WebMCP support to checkout, allowing browser-based AI agents to update order details and complete purchases with a buyer’s authorization."
+    },
+    {
+      "id": "b86603e367f75d38523957a9",
+      "title": "OpenAI’s AI agents need to catch up",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
+      "source": "The Verge",
+      "published": "2026-09-28T18:45:00+00:00",
+      "topic": "Products & tools",
+      "summary": "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one of the industry's hottest categories: continuously running, consumer-facing AI agents. On Tuesday, it will likely try to capture the lead in that race."
+    },
+    {
+      "id": "5a99ebb20294d429f368f9a4",
+      "title": "Nvidia launches new platform for reining in rogue AI agents",
+      "url": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
+      "source": "TechCrunch",
+      "published": "2026-09-28T18:31:23+00:00",
+      "topic": "Products & tools",
+      "summary": "As the debate rages over whether the recent spate of rogue AI agents is a step toward AGI or a more conventional engineering problem, Nvidia is offering its own answer to problem. Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add independent security layers around AI agents to […]"
+    },
+    {
+      "id": "2d7c9a64295142414b53137a",
+      "title": "AI is supercharging hacking, and your local hospitals and banks aren’t ready",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001427/ai-is-supercharging-hacking-and-your-local-hospitals-and-banks-arent-ready",
+      "source": "The Verge",
+      "published": "2026-09-28T18:30:00+00:00",
+      "topic": "AI overview",
+      "summary": "In March, Janice Malone began getting calls about suspicious activity from her nonprofit organization, Vivian's Door. Vivian's Door, headquartered in Alabama, typically provided training, resources, and community to underserved and minority-owned businesses."
+    },
+    {
+      "id": "f80268bcd9fb56175c2088fa",
+      "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
+      "url": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
+      "source": "TechCrunch",
+      "published": "2026-09-28T18:00:00+00:00",
+      "topic": "Models & research",
+      "summary": "Anthropic has released the newest version of its mid-range model, boasting faster response times and less token burn."
+    },
+    {
       "id": "ab95dff2b094b51a116e91fb",
       "title": "Google is killing off Gemini’s Gems in favor of ‘skills’",
       "url": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
@@ -97,7 +160,7 @@
       "source": "TechCrunch",
       "published": "2026-09-28T13:38:48+00:00",
       "topic": "Business",
-      "summary": "Instinct has raised a $1 billion Series C, saying 'we're just getting started.' The company is now valued at $10 billion."
+      "summary": "\"This funding helps us bring Instinct to more people and continue building the future of personal AI. It’s an exciting, creative time, and we're just getting started,\" founder Noah Shinn said in a statement."
     },
     {
       "id": "64fdf8a89fbdaa8925dc81a1",
@@ -133,7 +196,7 @@
       "source": "TechCrunch",
       "published": "2026-09-27T20:34:28+00:00",
       "topic": "AI overview",
-      "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump"
+      "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump."
     },
     {
       "id": "f5ecb7d590289cbc069f407f",
@@ -155,12 +218,12 @@
     },
     {
       "id": "6901e576884284fc9558bce0",
-      "title": "Anthropic’s Dario Amodei gets the SNL treatment",
+      "title": "Anthropic’s Dario Amodei gets the ‘SNL’ treatment",
       "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
       "source": "TechCrunch",
       "published": "2026-09-27T16:30:00+00:00",
       "topic": "AI overview",
-      "summary": "\"AI is the devil and I its maker.\""
+      "summary": "\"Saturday Night Live\" took on the AI industry’s recent warnings of doom last night, as cast member Jane Wickline offered her impression of Anthropic CEO Dario Amodei."
     },
     {
       "id": "3e5c288472f5aa9bfe844f9e",
@@ -178,7 +241,7 @@
       "source": "TechCrunch",
       "published": "2026-09-26T21:02:06+00:00",
       "topic": "Products & tools",
-      "summary": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period."
+      "summary": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942 million in healthcare spending over a two-year period."
     },
     {
       "id": "960b51012f8d643a2607663a",
@@ -922,19 +985,19 @@
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-09-28T17:59:02.027504+00:00",
+      "checked": "2026-09-28T23:11:15.247789+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-09-28T17:59:02.027504+00:00",
+      "checked": "2026-09-28T23:11:15.247789+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-09-28T17:59:02.027504+00:00",
+      "checked": "2026-09-28T23:11:15.247789+00:00",
       "error": null
     }
   ],
-  "updated": "2026-09-28T17:59:02.027504+00:00"
+  "updated": "2026-09-28T23:11:15.247789+00:00"
 }
