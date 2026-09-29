@@ -1,13 +1,130 @@
 {
   "articles": [
     {
+      "id": "21aea061ef9876972445ecd3",
+      "title": "Elon Musk’s AI-powered Grokipedia is updating again",
+      "url": "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again",
+      "source": "The Verge",
+      "published": "2026-09-29T21:49:09+00:00",
+      "topic": "AI overview",
+      "summary": "Grokipedia, the AI-powered online encyclopedia from SpaceXAI, appears to be updating articles once again after\na months-long pause\n. In August,\nLawfare\nreported that\narticles on Grokipedia hadn't reviewed edits since April, but the\nplatform's live updates site\nis now showing various recent changes to pages - though as I write this, many are just a note that…"
+    },
+    {
+      "id": "352a298aea68a14197fd7f0d",
+      "title": "OpenAI’s latest features take direct aim at the app store model",
+      "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+      "source": "TechCrunch",
+      "published": "2026-09-29T20:15:47+00:00",
+      "topic": "Products & tools",
+      "summary": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike."
+    },
+    {
+      "id": "36193bd2fd972c295a14cd3e",
+      "title": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
+      "url": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+      "source": "TechCrunch",
+      "published": "2026-09-29T19:52:37+00:00",
+      "topic": "Business",
+      "summary": "The new round is anticipated to be the company's last before its delayed 2027 public debut."
+    },
+    {
+      "id": "6a8c56ed5523f119676d1243",
+      "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
+      "url": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
+      "source": "TechCrunch",
+      "published": "2026-09-29T18:35:00+00:00",
+      "topic": "Hardware",
+      "summary": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned."
+    },
+    {
+      "id": "2688204fcb281ea3948c4006",
+      "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
+      "url": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
+      "source": "TechCrunch",
+      "published": "2026-09-29T17:45:51+00:00",
+      "topic": "Products & tools",
+      "summary": "OpenAI's newly announced suite of office features puts it into more direct competition with more traditional software companies."
+    },
+    {
+      "id": "4715e6b9f27d386db74bd7c3",
+      "title": "AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews",
+      "source": "The Verge",
+      "published": "2026-09-29T17:35:03+00:00",
+      "topic": "Models & research",
+      "summary": "\"The chance of human extinction is about a coin flip, in my view,\" Geoffrey Irving, a former OpenAI and Google DeepMind employee, said in a new interview. It's one of\na dozen interviews\nwith AI researchers, including current and former employees at OpenAI, Google, and Anthropic."
+    },
+    {
+      "id": "c20493adac5f93011b092025",
+      "title": "AI-powered app maker Wabi pivots to a messaging experience",
+      "url": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
+      "source": "TechCrunch",
+      "published": "2026-09-29T17:20:00+00:00",
+      "topic": "Products & tools",
+      "summary": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps and ongoing tasks."
+    },
+    {
+      "id": "4695af4a940dce0e3684eeac",
+      "title": "OpenAI launches Dots, its bubbly agentic avatar",
+      "url": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
+      "source": "TechCrunch",
+      "published": "2026-09-29T17:17:15+00:00",
+      "topic": "AI overview",
+      "summary": "Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with minimal oversight."
+    },
+    {
+      "id": "dcb66824e228fe10d7edf131",
+      "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
+      "url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
+      "source": "TechCrunch",
+      "published": "2026-09-29T17:15:00+00:00",
+      "topic": "Models & research",
+      "summary": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multi-step business workflows."
+    },
+    {
+      "id": "65ca132dae7de507d3de33a7",
+      "title": "OpenAI expands ChatGPT’s plugins with app-like interfaces and automations",
+      "url": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
+      "source": "TechCrunch",
+      "published": "2026-09-29T17:15:00+00:00",
+      "topic": "Products & tools",
+      "summary": "OpenAI is expanding ChatGPT plugins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations."
+    },
+    {
+      "id": "0e5c51300664c8a2d23b7126",
+      "title": "OpenAI gives Codex reusable cloud environments that work across devices",
+      "url": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
+      "source": "TechCrunch",
+      "published": "2026-09-29T17:15:00+00:00",
+      "topic": "Products & tools",
+      "summary": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools and a security-focused product for scanning repositories and preparing fixes."
+    },
+    {
+      "id": "032218cff42a1f4022f6446f",
+      "title": "OpenAI launches Dots, its Muse competitor",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
+      "source": "The Verge",
+      "published": "2026-09-29T17:15:00+00:00",
+      "topic": "Products & tools",
+      "summary": "Like Muse, OpenAI’s Dots are represented by cute, customizable avatars. | Image: OpenAI\nOpenAI is responding to Meta's\nbuzzy Muse AI\nwith agentic helpers of its own: Dots."
+    },
+    {
+      "id": "7b1e2c115f5f99856671bf6c",
+      "title": "Protesters gather at OpenAI’s DevDay",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1002201/openai-sam-altman-openai-devday-protests-ice-data-centers",
+      "source": "The Verge",
+      "published": "2026-09-29T17:12:27+00:00",
+      "topic": "AI overview",
+      "summary": "On Tuesday, OpenAI's annual DevDay event began with protests, flyers, and chants. \"Sam Altman, get off it, put people over profit,\" said a group of protesters marching in a circle in front of a series of signs that spelled out \"PEOPLE OVER PROFIT.\"\nMore than a dozen organizations came together to sponsor a rally outside the entrance to the event venue at…"
+    },
+    {
       "id": "cf8c4186da9302ba8487bdbf",
       "title": "OpenAI DevDay 2026: The biggest news and announcements",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1001681/openai-devday-2026-biggest-news-announcements",
       "source": "The Verge",
       "published": "2026-09-29T16:00:00+00:00",
       "topic": "Products & tools",
-      "summary": "It’s OpenAI’s turn in the fall tech events calendar. The company is hosting its annual DevDay on September 29th in San Francisco, starting with a live keynote featuring CEO Sam Altman."
+      "summary": "It’s OpenAI’s turn in the fall tech events calendar. The company is hosting its annual DevDay on September 29th in San Francisco, and during a live keynote featuring CEO Sam Altman, it revealed several notable updates, including\nDots\n, its AI agent product that rivals Meta’s recently-launched Muse."
     },
     {
       "id": "80434392e981f5a48129b951",
@@ -124,7 +241,7 @@
       "source": "TechCrunch",
       "published": "2026-09-28T21:29:18+00:00",
       "topic": "Business",
-      "summary": "The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago."
+      "summary": "The new financing is expected to more than triple the AI infrastructure startup's valuation from just four months ago."
     },
     {
       "id": "8dfae19f11de23ec19fca65e",
@@ -1102,19 +1219,19 @@
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-09-29T16:22:08.413040+00:00",
+      "checked": "2026-09-29T21:58:23.394031+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-09-29T16:22:08.413040+00:00",
+      "checked": "2026-09-29T21:58:23.394031+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-09-29T16:22:08.413040+00:00",
+      "checked": "2026-09-29T21:58:23.394031+00:00",
       "error": null
     }
   ],
-  "updated": "2026-09-29T16:22:08.413040+00:00"
+  "updated": "2026-09-29T21:58:23.394031+00:00"
 }
