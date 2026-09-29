@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "d22fa48862e8ee7698be6b53",
+      "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
+      "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
+      "source": "TechCrunch",
+      "published": "2026-09-29T05:13:43+00:00",
+      "topic": "Business",
+      "summary": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential risk to humanity."
+    },
+    {
+      "id": "5e6a557ab2681a8e228d4453",
+      "title": "OpenAI reportedly ditches model over safety concerns",
+      "url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
+      "source": "TechCrunch",
+      "published": "2026-09-28T23:39:20+00:00",
+      "topic": "Models & research",
+      "summary": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders."
+    },
+    {
       "id": "032b0e2a6b1375f5855603c5",
       "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
       "url": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
@@ -8,6 +26,15 @@
       "published": "2026-09-28T22:17:07+00:00",
       "topic": "Business",
       "summary": "The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a\ngroundbreaking investigation by\nMIT Technology Review\nhas documented over a thousand people who moved through areas watched by these towers without…"
+    },
+    {
+      "id": "721d3fef7b9b02d699abdb5c",
+      "title": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
+      "url": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
+      "source": "The Verge",
+      "published": "2026-09-28T21:31:35+00:00",
+      "topic": "Business",
+      "summary": "World Labs co-founder and CEO Fei-Fei Li. | Bloomberg via Getty Images\nAMD\nannounced today\nthat it's acquiring World Labs, an AI research lab co-founded by the prominent researcher Dr. Fei-Fei Li, in an all-stock deal worth approximately $8.2 billion."
     },
     {
       "id": "60e195b06c19c87bef00b844",
@@ -28,6 +55,15 @@
       "summary": "Shopify is expanding WebMCP support to checkout, allowing browser-based AI agents to update order details and complete purchases with a buyer’s authorization."
     },
     {
+      "id": "53f952cbb4d7e74cd35c05c1",
+      "title": "The AI boom took over Climate Week and not everyone is happy about it",
+      "url": "https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/",
+      "source": "TechCrunch",
+      "published": "2026-09-28T19:21:59+00:00",
+      "topic": "Hardware",
+      "summary": "Just like the rest of the U.S., data centers and AI are dividing climate tech founders and investors."
+    },
+    {
       "id": "b86603e367f75d38523957a9",
       "title": "OpenAI’s AI agents need to catch up",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
@@ -43,7 +79,7 @@
       "source": "TechCrunch",
       "published": "2026-09-28T18:31:23+00:00",
       "topic": "Products & tools",
-      "summary": "As the debate rages over whether the recent spate of rogue AI agents is a step toward AGI or a more conventional engineering problem, Nvidia is offering its own answer to problem. Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add independent security layers around AI agents to […]"
+      "summary": "Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add independent security layers around AI agents to ensure they stay within their test environments even if they attempt to break out."
     },
     {
       "id": "2d7c9a64295142414b53137a",
@@ -70,7 +106,7 @@
       "source": "TechCrunch",
       "published": "2026-09-28T17:29:50+00:00",
       "topic": "Models & research",
-      "summary": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature which built task-specific agents."
+      "summary": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature that built task-specific agents."
     },
     {
       "id": "db3dfcf2b649bdd015a89a2b",
@@ -985,19 +1021,19 @@
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-09-28T23:11:15.247789+00:00",
+      "checked": "2026-09-29T07:58:52.024815+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-09-28T23:11:15.247789+00:00",
+      "checked": "2026-09-29T07:58:52.024815+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-09-28T23:11:15.247789+00:00",
+      "checked": "2026-09-29T07:58:52.024815+00:00",
       "error": null
     }
   ],
-  "updated": "2026-09-28T23:11:15.247789+00:00"
+  "updated": "2026-09-29T07:58:52.024815+00:00"
 }
