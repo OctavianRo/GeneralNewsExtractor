@@ -1,6 +1,87 @@
 {
   "articles": [
     {
+      "id": "cf8c4186da9302ba8487bdbf",
+      "title": "OpenAI DevDay 2026: The biggest news and announcements",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001681/openai-devday-2026-biggest-news-announcements",
+      "source": "The Verge",
+      "published": "2026-09-29T16:00:00+00:00",
+      "topic": "Products & tools",
+      "summary": "It’s OpenAI’s turn in the fall tech events calendar. The company is hosting its annual DevDay on September 29th in San Francisco, starting with a live keynote featuring CEO Sam Altman."
+    },
+    {
+      "id": "80434392e981f5a48129b951",
+      "title": "Meta’s Muse AI sent a YouTuber’s address to a stranger",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001886/meta-muse-ai-facebook-marketplace-security-concerns",
+      "source": "The Verge",
+      "published": "2026-09-29T14:08:21+00:00",
+      "topic": "Products & tools",
+      "summary": "Tech YouTuber Matt Robb says that Muse gave out his home address to a total stranger this weekend, after authorizing the bot to handle his Facebook Marketplace account. That's despite Meta placing great emphasis on the security features of Muse when it launched the personal AI agent\nearlier this month\nas it tries to catch up with competing AI providers like…"
+    },
+    {
+      "id": "5b7f912406e2d494a4e198c5",
+      "title": "With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox",
+      "url": "https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/",
+      "source": "TechCrunch",
+      "published": "2026-09-29T13:53:01+00:00",
+      "topic": "Products & tools",
+      "summary": "The former Yahoo CEO is introducing a new AI personal assistant based entirely on your photos."
+    },
+    {
+      "id": "ed2d14a7501983cfcc6f1547",
+      "title": "Meta is expanding its AI agent Muse to small businesses",
+      "url": "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses/",
+      "source": "TechCrunch",
+      "published": "2026-09-29T13:47:30+00:00",
+      "topic": "Products & tools",
+      "summary": "The tech giant says the agent can help owners run their business and find new customers."
+    },
+    {
+      "id": "bb5d8ce20bbb58922dfce90d",
+      "title": "OpenAI apologizes to Australia after its AI agents breached government sites",
+      "url": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/",
+      "source": "TechCrunch",
+      "published": "2026-09-29T12:45:05+00:00",
+      "topic": "Products & tools",
+      "summary": "The company also detailed how some of those breaches had happened, and outlined additional measures it is taking to assess the impact of the events."
+    },
+    {
+      "id": "3d7103a002f7103b7fb42a78",
+      "title": "Reco raises $55M as AI agent security startups crowd the market",
+      "url": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/",
+      "source": "TechCrunch",
+      "published": "2026-09-29T12:30:00+00:00",
+      "topic": "Business",
+      "summary": "The round builds on a $30 million fundraise in February, taking the company's total funding to $140 million."
+    },
+    {
+      "id": "5c28911816082b6d2c42ca75",
+      "title": "Will Chinese AI companies slow down? A top House Democrat wants answers",
+      "url": "https://www.theverge.com/policy/1001767/khanna-ai-safety-china-treaty",
+      "source": "The Verge",
+      "published": "2026-09-29T12:00:00+00:00",
+      "topic": "Products & tools",
+      "summary": "In letters shared exclusively with\nThe Verge\n, Khanna - the top Democrat on the House Select Committee on China and a possible presidential contender - asked a US intelligence agency and Chinese AI companies whether they would be prepared for an incident like OpenAI agents' hack of Hugging Face this summer. The companies included DeepSeek, Alibaba, and…"
+    },
+    {
+      "id": "c6714c92eaf53fd65f846717",
+      "title": "Anthropic warns of ‘catastrophic’ AI risks in its own IPO filing",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001838/anthropic-ipo-prospectus-ai-safety-threat",
+      "source": "The Verge",
+      "published": "2026-09-29T11:48:27+00:00",
+      "topic": "Policy & safety",
+      "summary": "As Anthropic gears up for its greatly anticipated public debut, a preview of the company's IPO filing reportedly details its mounting losses, leadership proposals to retain power, and how its AI development plans could \"further increase the risk that our models cause harm.\" These disclosures come as Anthropic eyes a $2 trillion valuation, more than\ndouble…"
+    },
+    {
+      "id": "39ee71682adb2844f4940d0a",
+      "title": "Making AI an asset, not an expense",
+      "url": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
+      "source": "MIT Technology Review",
+      "published": "2026-09-29T10:43:45+00:00",
+      "topic": "Models & research",
+      "summary": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that level of capability?"
+    },
+    {
       "id": "d22fa48862e8ee7698be6b53",
       "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
       "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
@@ -1021,19 +1102,19 @@
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-09-29T07:58:52.024815+00:00",
+      "checked": "2026-09-29T16:22:08.413040+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-09-29T07:58:52.024815+00:00",
+      "checked": "2026-09-29T16:22:08.413040+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-09-29T07:58:52.024815+00:00",
+      "checked": "2026-09-29T16:22:08.413040+00:00",
       "error": null
     }
   ],
-  "updated": "2026-09-29T07:58:52.024815+00:00"
+  "updated": "2026-09-29T16:22:08.413040+00:00"
 }
