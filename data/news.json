@@ -1,6 +1,87 @@
 {
   "articles": [
     {
+      "id": "92c627208580142e65e49c73",
+      "title": "DoorDash launches an AI agent you can text to order food",
+      "url": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
+      "source": "TechCrunch",
+      "published": "2026-09-30T16:00:24+00:00",
+      "topic": "Products & tools",
+      "summary": "By launching an AI agent for food ordering, DoorDash is looking to gain an edge over rivals Uber Eats and Grubhub."
+    },
+    {
+      "id": "73bfb73be41a76b772a3ef76",
+      "title": "Destro AI’s secret sauce is getting robots and humans on the same page",
+      "url": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/",
+      "source": "TechCrunch",
+      "published": "2026-09-30T16:00:00+00:00",
+      "topic": "AI overview",
+      "summary": "\"One of the biggest reasons we are winning against robotics companies is because we are not a robotics company.\""
+    },
+    {
+      "id": "842d4475124f13ead327b4a2",
+      "title": "Google reportedly tests paying publishers for AI search results",
+      "url": "https://www.theverge.com/tech/1002665/google-paying-publishers-ai-search-features",
+      "source": "The Verge",
+      "published": "2026-09-30T14:51:49+00:00",
+      "topic": "AI overview",
+      "summary": "Google has launched a pilot program that pays publishers for their contributions to its AI-powered search features, according\nto a report from\nThe Information\n. The pilot program reportedly includes around 100 publishers and comes as Google faces scrutiny over the\nimpact of its AI features\non web traffic."
+    },
+    {
+      "id": "d6170f881b8aebc8e3a126df",
+      "title": "Cerebras Systems’ Andrew Feldman on whether AI can keep scaling at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/30/cerebras-systems-andrew-feldman-on-whether-ai-can-keep-scaling-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "published": "2026-09-30T14:30:00+00:00",
+      "topic": "AI overview",
+      "summary": "At TechCrunch Disrupt 2026, Cerebras Systems CEO and co-founder Andrew Feldman will explore the growing demand for compute, energy, and infrastructure, how Cerebras is approaching those constraints differently, and what comes next if today’s AI hardware reaches its limits."
+    },
+    {
+      "id": "80d6abafb0a0d295facee5f2",
+      "title": "Instagram is adding an AI ‘assistant’ to tell you how to post",
+      "url": "https://www.theverge.com/tech/1002402/instagram-ai-edits-assistant-creators-analytics-youtube",
+      "source": "The Verge",
+      "published": "2026-09-30T14:30:00+00:00",
+      "topic": "Products & tools",
+      "summary": "Instagram is the latest social media platform to add built-in AI-powered features that will give users feedback on their posts. The company announced Wednesday that its standalone Edits app will now include an AI \"creative assistant\" that pulls in data from a user's Instagram account and offers suggestions on what to change."
+    },
+    {
+      "id": "32de5b12bdde4fb92a61676c",
+      "title": "Restate lands $20M as the need for durable infrastructure increases with AI agents",
+      "url": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/",
+      "source": "TechCrunch",
+      "published": "2026-09-30T14:27:11+00:00",
+      "topic": "Products & tools",
+      "summary": "Founded by Apache Flink veterans, the startup is taking on workflow heavyweight Temporal."
+    },
+    {
+      "id": "04885edf45af0b22aeb79396",
+      "title": "Here’s how tech leaders will self-police AI safety under Trump’s deal",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1002584/trump-us-ai-safety-deal-self-regulation-tech-execs",
+      "source": "The Verge",
+      "published": "2026-09-30T12:24:32+00:00",
+      "topic": "Policy & safety",
+      "summary": "We now have the full details of the\n\"morally binding\" AI safety deal\nannounced by President Trump yesterday, in which top executives agreed to self-regulate their artificial intelligence technology. The accord, officially titled the Joint Commitment on Frontier Responsibilities, was\nshared online\nby tech founder and presidential adviser David Sacks, and has…"
+    },
+    {
+      "id": "26ce368aa0f6ddaa09d63bcd",
+      "title": "Airbnb adds AI search, more social features",
+      "url": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/",
+      "source": "TechCrunch",
+      "published": "2026-09-30T12:00:00+00:00",
+      "topic": "AI overview",
+      "summary": "Airbnb is also launching new services such as meal delivery and laundry in select locations."
+    },
+    {
+      "id": "00521fe0b8a575645038625a",
+      "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
+      "url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
+      "source": "MIT Technology Review",
+      "published": "2026-09-30T10:40:30+00:00",
+      "topic": "Models & research",
+      "summary": "Two months after the bombshell news that a swarm of its agents had broken their containment and\nhacked into the computers of the AI company Hugging Face\n, OpenAI is still putting out fires. A steady drip of disclosures about other hacks in the weeks since has kept OpenAI in the spotlight and raised serious questions about the safety of its technology."
+    },
+    {
       "id": "d6b003b6ebfae6b242c374fc",
       "title": "Sam Altman says OpenAI won’t go public until its models are safe",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
@@ -1255,19 +1336,19 @@
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-09-30T08:07:34.268822+00:00",
+      "checked": "2026-09-30T16:17:41.903270+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-09-30T08:07:34.268822+00:00",
+      "checked": "2026-09-30T16:17:41.903270+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-09-30T08:07:34.268822+00:00",
+      "checked": "2026-09-30T16:17:41.903270+00:00",
       "error": null
     }
   ],
-  "updated": "2026-09-30T08:07:34.268822+00:00"
+  "updated": "2026-09-30T16:17:41.903270+00:00"
 }
