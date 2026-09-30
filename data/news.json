@@ -1,6 +1,87 @@
 {
   "articles": [
     {
+      "id": "131c3b05243369a2ba06fa8e",
+      "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+      "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
+      "source": "TechCrunch",
+      "published": "2026-09-30T21:07:40+00:00",
+      "topic": "Business",
+      "summary": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member."
+    },
+    {
+      "id": "b18259a085cce7754425d605",
+      "title": "Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now",
+      "url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
+      "source": "The Verge",
+      "published": "2026-09-30T20:41:41+00:00",
+      "topic": "Models & research",
+      "summary": "Google today revealed its next AI frontier model, which it's calling Gemini 4 Argon. The new model delivers \"frontier performance in complex workflows across real-world software engineering, enterprise knowledge work like legal and finance, and cybersecurity defense,\"\naccording to\nchief AI architect and Google DeepMind SVP Koray Kavukcuoglu."
+    },
+    {
+      "id": "348f0c13d3c0b9bc2610ee72",
+      "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
+      "url": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
+      "source": "TechCrunch",
+      "published": "2026-09-30T19:00:57+00:00",
+      "topic": "Products & tools",
+      "summary": "OpenAI's \"Decisions API\" is a Jev clone that confirms the importance of fast, cheap intelligence."
+    },
+    {
+      "id": "ecee7b20064e276155045671",
+      "title": "AI voice startup ElevenLabs doubles valuation to $22B",
+      "url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
+      "source": "TechCrunch",
+      "published": "2026-09-30T18:23:57+00:00",
+      "topic": "Business",
+      "summary": "The $300 million employee tender was co-led by Wellington and T. Rowe Price."
+    },
+    {
+      "id": "e1f60c1c2506179f52db2d02",
+      "title": "The AI Tamagotchis are coming",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices",
+      "source": "The Verge",
+      "published": "2026-09-30T18:07:38+00:00",
+      "topic": "Products & tools",
+      "summary": "Sam Altman onstage at OpenAI’s DevDay 2026. | Photo: Hayden Field / The Verge\nWhile AI has made plenty of inroads on people's phones and computers, it's largely failed in dedicated devices."
+    },
+    {
+      "id": "9d0cd3e06e9ac75dcc598260",
+      "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
+      "url": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
+      "source": "TechCrunch",
+      "published": "2026-09-30T17:45:00+00:00",
+      "topic": "AI overview",
+      "summary": "Reddit is ending support for RSS feeds, as the company continues tightening access to its trove of user-generated content."
+    },
+    {
+      "id": "1a70b75dd9de5a1edcf04419",
+      "title": "The ugly economics of consumer AI",
+      "url": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
+      "source": "TechCrunch",
+      "published": "2026-09-30T17:24:45+00:00",
+      "topic": "AI overview",
+      "summary": "There’s a reason frontier labs have gotten gun-shy about consumer AI — and it’s not because the tech isn’t good enough."
+    },
+    {
+      "id": "3d09c9ead0a45c93597e31a1",
+      "title": "Here’s what AI leaders are saying about Trump’s new safety plan",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments",
+      "source": "The Verge",
+      "published": "2026-09-30T17:15:49+00:00",
+      "topic": "Policy & safety",
+      "summary": "If you think this shot is amusing, check out the panicked look on Zuckerberg’s face when Trump calls on him to speak. | Photo: Kevin Dietsch/Getty Images\nAfter hosting a meal with Big Tech leaders on Tuesday, President Donald Trump responded to journalist questions about his artificial intelligence announcements in typical fashion."
+    },
+    {
+      "id": "7d7ef74b607ee91eaeb35165",
+      "title": "Meta disputes claim that Muse read a user’s private messages without permission",
+      "url": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
+      "source": "TechCrunch",
+      "published": "2026-09-30T16:24:23+00:00",
+      "topic": "Products & tools",
+      "summary": "Meta says its Muse AI agent cannot access a user’s Messages without explicit permission, disputing a journalist’s account that the agent read his private messages while the required Mac setting was turned off."
+    },
+    {
       "id": "92c627208580142e65e49c73",
       "title": "DoorDash launches an AI agent you can text to order food",
       "url": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
@@ -17,6 +98,15 @@
       "published": "2026-09-30T16:00:00+00:00",
       "topic": "AI overview",
       "summary": "\"One of the biggest reasons we are winning against robotics companies is because we are not a robotics company.\""
+    },
+    {
+      "id": "af4c8dc5b4944fab3692d356",
+      "title": "All the latest news on Meta’s cute, creepy Muse AI agent",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1002671/meta-muse-ai",
+      "source": "The Verge",
+      "published": "2026-09-30T15:18:49+00:00",
+      "topic": "Products & tools",
+      "summary": "Meta launched a\nnew Muse AI agent\nit claims can help you with everything from firing off emails to buying stuff online. Muse can be surprisingly effective at\ndelivering on those promises\n— if you’re willing to\ntrust Meta\nwith your data and hand Muse your credit card."
     },
     {
       "id": "842d4475124f13ead327b4a2",
@@ -52,7 +142,7 @@
       "source": "TechCrunch",
       "published": "2026-09-30T14:27:11+00:00",
       "topic": "Products & tools",
-      "summary": "Founded by Apache Flink veterans, the startup is taking on workflow heavyweight Temporal."
+      "summary": "Instead of building its durable execution engine on top of an external database, the company developed its own storage, replication, and redundancy layers. This architecture allows Restate to be exceptionally fast and lightweight."
     },
     {
       "id": "04885edf45af0b22aeb79396",
@@ -1336,19 +1426,19 @@
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-09-30T16:17:41.903270+00:00",
+      "checked": "2026-09-30T21:57:36.409518+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-09-30T16:17:41.903270+00:00",
+      "checked": "2026-09-30T21:57:36.409518+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-09-30T16:17:41.903270+00:00",
+      "checked": "2026-09-30T21:57:36.409518+00:00",
       "error": null
     }
   ],
-  "updated": "2026-09-30T16:17:41.903270+00:00"
+  "updated": "2026-09-30T21:57:36.409518+00:00"
 }
