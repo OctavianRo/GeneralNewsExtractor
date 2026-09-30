@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "id": "d6b003b6ebfae6b242c374fc",
+      "title": "Sam Altman says OpenAI won’t go public until its models are safe",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
+      "source": "The Verge",
+      "published": "2026-09-30T00:19:13+00:00",
+      "topic": "Models & research",
+      "summary": "For months, people have wondered when OpenAI will go public. CEO Sam Altman says it won't happen until the company can make better promises about model safety, with no firm timeline in sight."
+    },
+    {
+      "id": "1f2684ece82a4b595a8c75f4",
+      "title": "Trump orders US government to call AI ‘Super Intelligence’",
+      "url": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
+      "source": "The Verge",
+      "published": "2026-09-29T22:25:45+00:00",
+      "topic": "Policy & safety",
+      "summary": "\"The word super is the best word of all, and it's the simplest,\" Trump said at an event announcing the launch of\nAmerica.gov\nearlier on Tuesday, and said Chinese President Xi Jinping, who visited the White House last week, \"loves it\" too. \"We don't want to hear artificial."
+    },
+    {
+      "id": "c7d7b794f0ae36ef2260ba77",
+      "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
+      "url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+      "source": "TechCrunch",
+      "published": "2026-09-29T22:20:59+00:00",
+      "topic": "Products & tools",
+      "summary": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page."
+    },
+    {
       "id": "21aea061ef9876972445ecd3",
       "title": "Elon Musk’s AI-powered Grokipedia is updating again",
       "url": "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again",
@@ -22,6 +49,15 @@
       "id": "36193bd2fd972c295a14cd3e",
       "title": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
       "url": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+      "source": "TechCrunch",
+      "published": "2026-09-29T19:52:37+00:00",
+      "topic": "Business",
+      "summary": "The new round is anticipated to be the company's last before its delayed 2027 public debut."
+    },
+    {
+      "id": "22cdc3a1949b274c40c56dcb",
+      "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
+      "url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
       "source": "TechCrunch",
       "published": "2026-09-29T19:52:37+00:00",
       "topic": "Business",
@@ -61,7 +97,7 @@
       "source": "TechCrunch",
       "published": "2026-09-29T17:20:00+00:00",
       "topic": "Products & tools",
-      "summary": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps and ongoing tasks."
+      "summary": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps, and ongoing tasks."
     },
     {
       "id": "4695af4a940dce0e3684eeac",
@@ -79,16 +115,16 @@
       "source": "TechCrunch",
       "published": "2026-09-29T17:15:00+00:00",
       "topic": "Models & research",
-      "summary": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multi-step business workflows."
+      "summary": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multistep business workflows."
     },
     {
       "id": "65ca132dae7de507d3de33a7",
-      "title": "OpenAI expands ChatGPT’s plugins with app-like interfaces and automations",
+      "title": "OpenAI expands ChatGPT’s plug-ins with app-like interfaces and automations",
       "url": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
       "source": "TechCrunch",
       "published": "2026-09-29T17:15:00+00:00",
       "topic": "Products & tools",
-      "summary": "OpenAI is expanding ChatGPT plugins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations."
+      "summary": "OpenAI is expanding ChatGPT plug-ins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations."
     },
     {
       "id": "0e5c51300664c8a2d23b7126",
@@ -97,7 +133,7 @@
       "source": "TechCrunch",
       "published": "2026-09-29T17:15:00+00:00",
       "topic": "Products & tools",
-      "summary": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools and a security-focused product for scanning repositories and preparing fixes."
+      "summary": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools, and a security-focused product for scanning repositories and preparing fixes."
     },
     {
       "id": "032218cff42a1f4022f6446f",
@@ -1219,19 +1255,19 @@
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-09-29T21:58:23.394031+00:00",
+      "checked": "2026-09-30T01:12:42.198579+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-09-29T21:58:23.394031+00:00",
+      "checked": "2026-09-30T01:12:42.198579+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-09-29T21:58:23.394031+00:00",
+      "checked": "2026-09-30T01:12:42.198579+00:00",
       "error": null
     }
   ],
-  "updated": "2026-09-29T21:58:23.394031+00:00"
+  "updated": "2026-09-30T01:12:42.198579+00:00"
 }
