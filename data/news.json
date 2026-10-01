@@ -1,6 +1,60 @@
 {
   "articles": [
     {
+      "id": "f64457ccef72c364445dea11",
+      "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president",
+      "url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
+      "source": "TechCrunch",
+      "published": "2026-10-01T21:08:11+00:00",
+      "topic": "Products & tools",
+      "summary": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro."
+    },
+    {
+      "id": "6740c72e272a106e86ee57be",
+      "title": "Google’s new Guided Vision feature can help you read the fine print",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
+      "source": "The Verge",
+      "published": "2026-10-01T19:47:51+00:00",
+      "topic": "Models & research",
+      "summary": "Guided Vision is\nlaunching in Gemini Live\non compatible Android devices today to use AI to give real-time audio descriptions of anything you point your phone's camera at. By sharing your camera in Gemini Live, you can have Google's AI help with things like reading small text, describing your surroundings, finding or identifying objects around you, and…"
+    },
+    {
+      "id": "bc70948c064d091d7bc9d08c",
+      "title": "ChatGPT can now virtually try on clothes for you",
+      "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
+      "source": "TechCrunch",
+      "published": "2026-10-01T19:21:53+00:00",
+      "topic": "Products & tools",
+      "summary": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library."
+    },
+    {
+      "id": "7f938778420c03adc731bb05",
+      "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
+      "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
+      "source": "TechCrunch",
+      "published": "2026-10-01T18:14:42+00:00",
+      "topic": "Policy & safety",
+      "summary": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says."
+    },
+    {
+      "id": "54b535ddb7e24cf91da59068",
+      "title": "Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)",
+      "url": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
+      "source": "TechCrunch",
+      "published": "2026-10-01T17:50:19+00:00",
+      "topic": "AI overview",
+      "summary": "Opus 5.5’s biggest tell is the word “dependable,” which pops up 23 times more often than in human samples."
+    },
+    {
+      "id": "d4606327912a54d05e3ee2ed",
+      "title": "Judge dismisses antitrust lawsuits over Google’s AI Overviews",
+      "url": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed",
+      "source": "The Verge",
+      "published": "2026-10-01T17:12:21+00:00",
+      "topic": "Policy & safety",
+      "summary": "A federal judge has dismissed a pair of antitrust lawsuits filed by Chegg and\nRolling Stone\nparent company Penske Media Corporation, which accused Google of driving away web traffic with its AI-powered search features,\nas reported earlier by\nReuters\n. US District Judge Amit Mehta takes Google's side\nin a ruling on Wednesday\n, writing that PMC and Chegg's…"
+    },
+    {
       "id": "2d92623ab273d0c2db417d28",
       "title": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
       "url": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
@@ -1507,19 +1561,19 @@
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-10-01T16:55:07.489966+00:00",
+      "checked": "2026-10-01T22:25:34.840438+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-10-01T16:55:07.489966+00:00",
+      "checked": "2026-10-01T22:25:34.840438+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-10-01T16:55:07.489966+00:00",
+      "checked": "2026-10-01T22:25:34.840438+00:00",
       "error": null
     }
   ],
-  "updated": "2026-10-01T16:55:07.489966+00:00"
+  "updated": "2026-10-01T22:25:34.840438+00:00"
 }
