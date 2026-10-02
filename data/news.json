@@ -1,6 +1,69 @@
 {
   "articles": [
     {
+      "id": "5671402926db891c3047aac7",
+      "title": "Sean Parker is rebuilding Stability AI around music",
+      "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+      "source": "TechCrunch",
+      "published": "2026-10-02T21:09:14+00:00",
+      "topic": "AI overview",
+      "summary": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money."
+    },
+    {
+      "id": "593a5e64b60b12967ba0c4bf",
+      "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+      "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+      "source": "TechCrunch",
+      "published": "2026-10-02T18:11:27+00:00",
+      "topic": "Products & tools",
+      "summary": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier."
+    },
+    {
+      "id": "eae0d6541fc69932048003e7",
+      "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
+      "url": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
+      "source": "TechCrunch",
+      "published": "2026-10-02T17:56:00+00:00",
+      "topic": "Policy & safety",
+      "summary": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump called “morally binding.” Trump also signed an executive order officially rebranding AI as “super intelligence,” and meanwhile, Meta and OpenAI are putting…"
+    },
+    {
+      "id": "c259bfeb8d1ac60be0b18950",
+      "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
+      "url": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
+      "source": "TechCrunch",
+      "published": "2026-10-02T17:48:16+00:00",
+      "topic": "Policy & safety",
+      "summary": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump called “morally binding.” Trump also signed an executive order officially rebranding AI as “super intelligence,” and meanwhile, Meta and OpenAI are putting…"
+    },
+    {
+      "id": "886b2bd43a36bf794a9fd8d4",
+      "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
+      "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
+      "source": "TechCrunch",
+      "published": "2026-10-02T17:32:05+00:00",
+      "topic": "AI overview",
+      "summary": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second."
+    },
+    {
+      "id": "5aafb242bf3873bbf1078362",
+      "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
+      "url": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
+      "source": "TechCrunch",
+      "published": "2026-10-02T17:00:00+00:00",
+      "topic": "AI overview",
+      "summary": "With all the talk about how AI might one day kill us all, it's easy to forget that AI has already harmed some people psychologically. Circuit Breaker Labs has created \"crash-test dummies\" to solve that."
+    },
+    {
+      "id": "c37300cca94e73f73a83cdde",
+      "title": "Redefining enterprise intelligence with autonomous AI",
+      "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
+      "source": "MIT Technology Review",
+      "published": "2026-10-02T15:49:04+00:00",
+      "topic": "Models & research",
+      "summary": "Enterprise AI is no longer a future ambition. It is in full operational flight."
+    },
+    {
       "id": "d30de3388ab4a6c1ea0ab85f",
       "title": "Pope Leo XIV is not a fan of AI-generated art",
       "url": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
@@ -8,15 +71,6 @@
       "published": "2026-10-02T15:39:41+00:00",
       "topic": "AI overview",
       "summary": "\"There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others,\" the pope wrote. \"Algorithms lack the spark of humanity.\""
-    },
-    {
-      "id": "886b2bd43a36bf794a9fd8d4",
-      "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
-      "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
-      "source": "TechCrunch",
-      "published": "2026-10-02T15:00:00+00:00",
-      "topic": "AI overview",
-      "summary": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second."
     },
     {
       "id": "8adb07de513e420cec26355b",
@@ -1633,19 +1687,19 @@
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-10-02T16:08:05.064446+00:00",
+      "checked": "2026-10-02T21:54:49.205603+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-10-02T16:08:05.064446+00:00",
+      "checked": "2026-10-02T21:54:49.205603+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-10-02T16:08:05.064446+00:00",
+      "checked": "2026-10-02T21:54:49.205603+00:00",
       "error": null
     }
   ],
-  "updated": "2026-10-02T16:08:05.064446+00:00"
+  "updated": "2026-10-02T21:54:49.205603+00:00"
 }
