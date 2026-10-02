@@ -1,6 +1,78 @@
 {
   "articles": [
     {
+      "id": "d30de3388ab4a6c1ea0ab85f",
+      "title": "Pope Leo XIV is not a fan of AI-generated art",
+      "url": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
+      "source": "TechCrunch",
+      "published": "2026-10-02T15:39:41+00:00",
+      "topic": "AI overview",
+      "summary": "\"There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others,\" the pope wrote. \"Algorithms lack the spark of humanity.\""
+    },
+    {
+      "id": "886b2bd43a36bf794a9fd8d4",
+      "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
+      "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
+      "source": "TechCrunch",
+      "published": "2026-10-02T15:00:00+00:00",
+      "topic": "AI overview",
+      "summary": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second."
+    },
+    {
+      "id": "8adb07de513e420cec26355b",
+      "title": "TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer",
+      "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/",
+      "source": "TechCrunch",
+      "published": "2026-10-02T14:30:00+00:00",
+      "topic": "AI overview",
+      "summary": "Clay Co-founder and CEO Kareem Amin joins the AI Stage to discuss the rise of GTM engineer at TechCrunch Disrupt 2026. Register for your ticket and get a second pass at 50% off."
+    },
+    {
+      "id": "a7d67921299ea2a1831a03bd",
+      "title": "If a data center is camouflaged in the woods, will anyone hate it?",
+      "url": "https://www.theverge.com/tech/1003681/microsoft-data-centers-ai-environment-biomimicry",
+      "source": "The Verge",
+      "published": "2026-10-02T12:00:00+00:00",
+      "topic": "Hardware",
+      "summary": "San Antonio City Councilmember Ric Galvan remembers when data centers first arrived in his city in the 2000s, looking like relatively unassuming office buildings. But that's changed in recent years, as data centers have grown into massive \"hyperscale\" facilities spanning millions of square feet and housing the physical infrastructure for AI."
+    },
+    {
+      "id": "4805756b99237b8b2bc21b3a",
+      "title": "AI hallucinations are making entitled customers even worse",
+      "url": "https://www.theverge.com/report/1002963/ai-hallucinations-customer-service-jobs-agents",
+      "source": "The Verge",
+      "published": "2026-10-02T12:00:00+00:00",
+      "topic": "Products & tools",
+      "summary": "Madison, a server in New York City, greets every table by asking about each diner's allergies. Lately, there have been some close calls."
+    },
+    {
+      "id": "1d9153a945914bf1e09f3053",
+      "title": "Amazon writes scary blog warning communities not to block data centers",
+      "url": "https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning",
+      "source": "The Verge",
+      "published": "2026-10-02T11:52:20+00:00",
+      "topic": "Hardware",
+      "summary": "Amazon is calling for people to support AI data center projects, or risk irreparable harm to the US economy and national security. In a more than\n3,000 word blog\nposted today, Amazon web services CEO Matt Garman pushed back on public concerns around the impact that data centers may have on jobs, power demands, and the environment, saying \"our nation can't…"
+    },
+    {
+      "id": "e925a640346da26383f394cc",
+      "title": "AI music maker Suno now generates spoken words",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
+      "source": "The Verge",
+      "published": "2026-10-02T09:42:19+00:00",
+      "topic": "AI overview",
+      "summary": "Suno is branching out from the world of AI music, launching a new feature that generates spoken voices based on scripts or prompted descriptions. Speech is now available\nin public beta across Suno's web and mobile platforms, and allows you to simultaneously generate voiceovers and background music to accompany them."
+    },
+    {
+      "id": "e5addb39494bae718b67970c",
+      "title": "Don’t be fooled—LLMs don’t reason",
+      "url": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
+      "source": "MIT Technology Review",
+      "published": "2026-10-02T08:00:00+00:00",
+      "topic": "Models & research",
+      "summary": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five-game match looked so absurd that some commentators thought it was a programming glitch."
+    },
+    {
       "id": "f64457ccef72c364445dea11",
       "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president",
       "url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
@@ -1561,19 +1633,19 @@
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-10-02T08:02:17.059413+00:00",
+      "checked": "2026-10-02T16:08:05.064446+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-10-02T08:02:17.059413+00:00",
+      "checked": "2026-10-02T16:08:05.064446+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-10-02T08:02:17.059413+00:00",
+      "checked": "2026-10-02T16:08:05.064446+00:00",
       "error": null
     }
   ],
-  "updated": "2026-10-02T08:02:17.059413+00:00"
+  "updated": "2026-10-02T16:08:05.064446+00:00"
 }
