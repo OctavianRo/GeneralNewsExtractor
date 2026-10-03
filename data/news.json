@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "46c63a0311a23e0ded31456a",
+      "title": "An OpenAI safety employee has quit and is sounding the alarm",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
+      "source": "The Verge",
+      "published": "2026-10-03T14:31:56+00:00",
+      "topic": "Policy & safety",
+      "summary": "David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is now speaking out in an editorial in\nThe Atlantic\n."
+    },
+    {
+      "id": "3c49c40e0ec38e267dc70e67",
+      "title": "All the AI agents that can live in your text messages",
+      "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "source": "TechCrunch",
+      "published": "2026-10-03T14:00:00+00:00",
+      "topic": "Products & tools",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
+    },
+    {
       "id": "5671402926db891c3047aac7",
       "title": "Sean Parker is rebuilding Stability AI around music",
       "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
@@ -1714,19 +1732,19 @@
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-10-03T07:43:27.403432+00:00",
+      "checked": "2026-10-03T14:36:22.651840+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-10-03T07:43:27.403432+00:00",
+      "checked": "2026-10-03T14:36:22.651840+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-10-03T07:43:27.403432+00:00",
+      "checked": "2026-10-03T14:36:22.651840+00:00",
       "error": null
     }
   ],
-  "updated": "2026-10-03T07:43:27.403432+00:00"
+  "updated": "2026-10-03T14:36:22.651840+00:00"
 }
