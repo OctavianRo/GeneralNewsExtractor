@@ -10,6 +10,24 @@
       "summary": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money."
     },
     {
+      "id": "038134d95b4f933ef0d5c76c",
+      "title": "Meta open sources code to let you make Muse AI gadgets",
+      "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+      "source": "The Verge",
+      "published": "2026-10-02T21:08:37+00:00",
+      "topic": "Products & tools",
+      "summary": "Meta now lets you make your own\nMuse gadgets\nthat feature the company's new AI agent with code that the company\nopen sourced\n. The company suggests projects like loading Muse on a color E Ink display to show reminders, adding it to an HDMI stick so you can display Muse on a big screen, or putting Muse on a small touchscreen device to make what looks kind of…"
+    },
+    {
+      "id": "ac153d8f7821405e727c46b7",
+      "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
+      "url": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
+      "source": "The Verge",
+      "published": "2026-10-02T20:08:40+00:00",
+      "topic": "Products & tools",
+      "summary": "The change comes just weeks after\nInc\n's Jason Aten found that Meta's Muse AI somehow\nknew the contents of his messages\n, despite not giving the chatbot explicit permission to access them on his iPhone or Mac. Meta spokesperson Andy Stone\npushed back on this report\n, saying access to Messages is \"entirely opt-in."
+    },
+    {
       "id": "593a5e64b60b12967ba0c4bf",
       "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
       "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
@@ -17,6 +35,15 @@
       "published": "2026-10-02T18:11:27+00:00",
       "topic": "Products & tools",
       "summary": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier."
+    },
+    {
+      "id": "b19a7eb5407edebb14dd6540",
+      "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
+      "source": "The Verge",
+      "published": "2026-10-02T18:00:00+00:00",
+      "topic": "Products & tools",
+      "summary": "New helpful little guy just dropped. | Photo: Allison Johnson / The Verge\nIt's a tale as old as last week:\nOpenAI's new agent platform\n, called Dots, is full of\ncute little guys\nwho can do your bidding."
     },
     {
       "id": "eae0d6541fc69932048003e7",
@@ -1687,19 +1714,19 @@
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-10-02T21:54:49.205603+00:00",
+      "checked": "2026-10-03T00:58:37.198628+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-10-02T21:54:49.205603+00:00",
+      "checked": "2026-10-03T00:58:37.198628+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-10-02T21:54:49.205603+00:00",
+      "checked": "2026-10-03T00:58:37.198628+00:00",
       "error": null
     }
   ],
-  "updated": "2026-10-02T21:54:49.205603+00:00"
+  "updated": "2026-10-03T00:58:37.198628+00:00"
 }
