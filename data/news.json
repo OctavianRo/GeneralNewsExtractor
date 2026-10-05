@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "id": "562acc36900e89036c826b02",
+      "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+      "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+      "source": "TechCrunch",
+      "published": "2026-10-04T20:31:07+00:00",
+      "topic": "AI overview",
+      "summary": "AI slop seems to be overwhelming bug bounty programs."
+    },
+    {
       "id": "5eabcfd97d22a1c16aafb815",
       "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
       "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
@@ -1795,19 +1804,19 @@
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-10-04T20:58:17.848119+00:00",
+      "checked": "2026-10-05T00:29:45.602441+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-10-04T20:58:17.848119+00:00",
+      "checked": "2026-10-05T00:29:45.602441+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-10-04T20:58:17.848119+00:00",
+      "checked": "2026-10-05T00:29:45.602441+00:00",
       "error": null
     }
   ],
-  "updated": "2026-10-04T20:58:17.848119+00:00"
+  "updated": "2026-10-05T00:29:45.602441+00:00"
 }
