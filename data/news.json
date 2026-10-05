@@ -1,6 +1,168 @@
 {
   "articles": [
     {
+      "id": "a3e25dbd2a96b0bf88833ee4",
+      "title": "Wikipedia operator says OpenAI’s ‘rogue’ bots may be linked to a May outage",
+      "url": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage",
+      "source": "The Verge",
+      "published": "2026-10-05T19:05:19+00:00",
+      "topic": "Products & tools",
+      "summary": "The activity includes edits to Wikimedia wikis, \"unsuccessful attempts\" to \"exploit\" the Etherpad note-taking tool that the Wikimedia Foundation hosts, and heavy traffic that the foundation says \"may\" have contributed to a partial outage that happened in May,\naccording to a blog post\n. However, the Wikimedia Foundation says it didn't find evidence that its…"
+    },
+    {
+      "id": "8de392d7933012dafc985a80",
+      "title": "Instinct brings its AI agent to group chats, even for friends without an account",
+      "url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
+      "source": "TechCrunch",
+      "published": "2026-10-05T18:54:30+00:00",
+      "topic": "Products & tools",
+      "summary": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The company says personal accounts remain separate, with permission required before personal agents share information or take action."
+    },
+    {
+      "id": "42a6a218f0ff469f5f7df9fc",
+      "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
+      "url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
+      "source": "TechCrunch",
+      "published": "2026-10-05T18:29:00+00:00",
+      "topic": "Products & tools",
+      "summary": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products."
+    },
+    {
+      "id": "3685b45efb88af11e6c89764",
+      "title": "OpenAI is adding text watermarking in ChatGPT and Codex",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
+      "source": "The Verge",
+      "published": "2026-10-05T18:08:39+00:00",
+      "topic": "Products & tools",
+      "summary": "OpenAI says its textGrain watermarking \"matched or exceeded\" other approaches like Google DeepMind's SynthID for text, which is also the basis for the watermarking Anthropic\nannounced in August\n. Like OpenAI, Anthropic made the move to meet the requirements of the\nEU's AI Act\n; however, not everyone was happy to learn about the addition."
+    },
+    {
+      "id": "8c7e4fe50290d4f0df1bca37",
+      "title": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
+      "url": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
+      "source": "TechCrunch",
+      "published": "2026-10-05T17:29:22+00:00",
+      "topic": "Policy & safety",
+      "summary": "Founded by two sisters, Hot Girl Hotline uses AI to give young women personalized dating and relationship advice, with an emphasis on safety and avoiding emotional dependency."
+    },
+    {
+      "id": "7f498475ebe1fcdcaa7e5384",
+      "title": "OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user’s suicide",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr",
+      "source": "The Verge",
+      "published": "2026-10-05T16:55:42+00:00",
+      "topic": "Products & tools",
+      "summary": "The interruption came shortly after Guiducci asked Altman if he knew who Laura Reiley is, a journalist who\nwrote an essay for\nThe New York Times\nabout her daughter's conversations with ChatGPT before she took her own life. \"Her daughter committed suicide after speaking to ChatGPT."
+    },
+    {
+      "id": "7eb4477bce55b7ff78fdba24",
+      "title": "Sam Altman says ‘some bad things’ will happen, but AI is totally worth it",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004811/openai-altman-bad-things-ai-tradeoff",
+      "source": "The Verge",
+      "published": "2026-10-05T16:44:21+00:00",
+      "topic": "Policy & safety",
+      "summary": "Sam Altman thinks that the benefits of AI will be so great that \"the world should accept some bad things happening\" along the way. The OpenAI CEO pointed to hacks, scams, and \"other bad things\" as costs society should expect to tolerate because \"people will do tremendously orders of magnitude more good stuff\" with AI, without elaborating on the potential…"
+    },
+    {
+      "id": "d16241c2084e0d1da4b8722d",
+      "title": "HackerRank’s AI interviewer offers a glimpse into what job interviews could become",
+      "url": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/",
+      "source": "TechCrunch",
+      "published": "2026-10-05T16:43:35+00:00",
+      "topic": "AI overview",
+      "summary": "HackerRank’s AI interviewer has already conducted more than 500,000 interviews, with Snowflake, Snorkel, and Capgemini among its early testers."
+    },
+    {
+      "id": "d7e5d431299a70e00288d06c",
+      "title": "Connecting AI agents to enterprise knowledge",
+      "url": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
+      "source": "MIT Technology Review",
+      "published": "2026-10-05T15:47:52+00:00",
+      "topic": "Products & tools",
+      "summary": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of what the data means in the context of individual organizations."
+    },
+    {
+      "id": "a0ec29c39f5f2711a72b1f50",
+      "title": "OpenAI launches visual ads that appear alongside image generation results",
+      "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
+      "source": "TechCrunch",
+      "published": "2026-10-05T15:14:24+00:00",
+      "topic": "AI overview",
+      "summary": "OpenAI said the new visual ads will show up after your image generation results appear in the U.S. only for now."
+    },
+    {
+      "id": "fb4a44bb63843e38fafd71b8",
+      "title": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "published": "2026-10-05T15:00:00+00:00",
+      "topic": "AI overview",
+      "summary": "Learn how founders are choosing between building on open or closed AI at TechCrunch Disrupt 2026. Register now to save up to $100 and get a second pass at 50% off."
+    },
+    {
+      "id": "df294a11bdb6826bcae32cc6",
+      "title": "Researchers are tracking a Chinese AI ‘agent fleet’",
+      "url": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
+      "source": "TechCrunch",
+      "published": "2026-10-05T14:35:09+00:00",
+      "topic": "Products & tools",
+      "summary": "Independent researchers discovered an agent swarm that seems to be running on Tencent's infrastructure and targeting Alibaba's map service, Amap."
+    },
+    {
+      "id": "a4140c00fc7ab9c4d1c9a38e",
+      "title": "Sen. Adam Schiff on AI regulation, free speech, and impeaching Trump one more time",
+      "url": "https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption",
+      "source": "The Verge",
+      "published": "2026-10-05T14:30:00+00:00",
+      "topic": "Policy & safety",
+      "summary": "Today, I’m talking with Sen. Adam Schiff, a Democrat from California. Schiff sits on a number of committees with oversight into tech and AI: intellectual property, antitrust, privacy and technology — it’s all there."
+    },
+    {
+      "id": "5f53e39dd9e9fc83228eb06b",
+      "title": "Bringing predictive analytics to the agentic AI era",
+      "url": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
+      "source": "MIT Technology Review",
+      "published": "2026-10-05T13:29:32+00:00",
+      "topic": "Models & research",
+      "summary": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big question now is how to enable predictive systems to act on their own conclusions without drifting from business intent."
+    },
+    {
+      "id": "6c458078e631a37a7784a0b2",
+      "title": "OpenAI is sticking more ads in ChatGPT",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
+      "source": "The Verge",
+      "published": "2026-10-05T13:09:48+00:00",
+      "topic": "Products & tools",
+      "summary": "OpenAI's latest ad format will put images of sponsored products and services on your screen. The ads, which OpenAI will begin testing in the US later this month, will \"initially\" appear when you generate images with ChatGPT,\naccording to an announcement\non Monday."
+    },
+    {
+      "id": "85db442dc335f1c839fc8743",
+      "title": "Our minds aren’t equipped to handle AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought",
+      "source": "The Verge",
+      "published": "2026-10-05T10:00:00+00:00",
+      "topic": "AI overview",
+      "summary": "Norbert Wiener, godfather of cybernetics, once said, \"The thought of every age is reflected in its technique.\" For the past century, our thought has been reflected in our computers, including by those in the AI industry. Google's Demis Hassabis calls\nthe brain \"a biological approximation to a Turing machine.\"\nElon Musk puts it\nmore bluntly, declaring that…"
+    },
+    {
+      "id": "07a3961b77d07a47f017657f",
+      "title": "People really hate AI, so why can’t they get enough?",
+      "url": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
+      "source": "MIT Technology Review",
+      "published": "2026-10-05T08:00:00+00:00",
+      "topic": "Models & research",
+      "summary": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a\nwider variety of responses\nthan its mainstream rivals do. At the start of the call, he said something that’s been stuck in my head since: “We often say that we’re a self-loathing AI company."
+    },
+    {
+      "id": "99203639eb51dfe32e2b66bf",
+      "title": "EmTech Future 2026: When AI Meets Everything",
+      "url": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
+      "source": "MIT Technology Review",
+      "published": "2026-10-05T04:00:00+00:00",
+      "topic": "AI overview",
+      "summary": "Energy Systems for the Future\nEvelyn Wang, VP for energy & climate at MIT, explores how energy, computing, infrastructure, and climate technologies are increasingly interconnected, and what these converging systems could mean for the future of industry and society."
+    },
+    {
       "id": "562acc36900e89036c826b02",
       "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
       "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
@@ -1804,19 +1966,19 @@
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-10-05T08:31:27.899903+00:00",
+      "checked": "2026-10-05T19:06:29.412632+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-10-05T08:31:27.899903+00:00",
+      "checked": "2026-10-05T19:06:29.412632+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-10-05T08:31:27.899903+00:00",
+      "checked": "2026-10-05T19:06:29.412632+00:00",
       "error": null
     }
   ],
-  "updated": "2026-10-05T08:31:27.899903+00:00"
+  "updated": "2026-10-05T19:06:29.412632+00:00"
 }
