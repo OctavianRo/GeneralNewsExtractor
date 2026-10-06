@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "19745539452346e87dccfd26",
+      "title": "Gemini Call for Me might tell your mom you’re running late",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
+      "source": "The Verge",
+      "published": "2026-10-05T23:09:55+00:00",
+      "topic": "Models & research",
+      "summary": "Google may be expanding its \"Call for Me\" AI feature beyond\nbusiness calls\nso you can use it to send messages to friends and family. Android Authority\nreports finding a \"Gemini Calling\" introductory screen in an APK teardown with examples that include \"Call Mom and tell her I will be 15 minutes late\" and \"Call John and ask if he is coming for dinner.\""
+    },
+    {
+      "id": "97444bbb8a512f1589ca4cb3",
+      "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
+      "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+      "source": "TechCrunch",
+      "published": "2026-10-05T20:36:48+00:00",
+      "topic": "Products & tools",
+      "summary": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says."
+    },
+    {
+      "id": "17d9e21ea2c6b68b4464d8a6",
+      "title": "This startup is issuing AI-generated acne prescriptions",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions",
+      "source": "The Verge",
+      "published": "2026-10-05T20:14:57+00:00",
+      "topic": "Business",
+      "summary": "The service is launching as a pilot program with gradually loosening physician oversight. Two physicians will approve each AI-generated prescription before they're issued for the first 100 patients, but will start reviewing them only\nafter\nthey're prescribed for up to 500 patients."
+    },
+    {
+      "id": "a7128a85cbf69ae6acfbcf41",
+      "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+      "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+      "source": "TechCrunch",
+      "published": "2026-10-05T19:33:53+00:00",
+      "topic": "Models & research",
+      "summary": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI system by training Reflection’s AI models on their own proprietary data."
+    },
+    {
+      "id": "d678673f82769ab31847f2e2",
+      "title": "All the drama around AI’s takeover of mathematics",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution",
+      "source": "The Verge",
+      "published": "2026-10-05T19:28:59+00:00",
+      "topic": "AI overview",
+      "summary": "This past year, OpenAI, Anthropic, and other labs have announced breakthroughs on numerous long-standing mathematical problems, in some cases pushing well beyond what researchers expected current systems to be capable of — including resolving one of the famous Millennium Prize problems. But in classic Silicon Valley style, AI labs are\nmoving fast and…"
+    },
+    {
       "id": "a3e25dbd2a96b0bf88833ee4",
       "title": "Wikipedia operator says OpenAI’s ‘rogue’ bots may be linked to a May outage",
       "url": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage",
@@ -88,7 +133,7 @@
       "source": "TechCrunch",
       "published": "2026-10-05T15:14:24+00:00",
       "topic": "AI overview",
-      "summary": "OpenAI said the new visual ads will show up after your image generation results appear in the U.S. only for now."
+      "summary": "The new ads will begin to appear later this month in the U.S. only for now, and will feature products and services from an initial test group of advertisers."
     },
     {
       "id": "fb4a44bb63843e38fafd71b8",
@@ -1966,19 +2011,19 @@
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-10-05T19:06:29.412632+00:00",
+      "checked": "2026-10-06T02:05:30.965607+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-10-05T19:06:29.412632+00:00",
+      "checked": "2026-10-06T02:05:30.965607+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-10-05T19:06:29.412632+00:00",
+      "checked": "2026-10-06T02:05:30.965607+00:00",
       "error": null
     }
   ],
-  "updated": "2026-10-05T19:06:29.412632+00:00"
+  "updated": "2026-10-06T02:05:30.965607+00:00"
 }
