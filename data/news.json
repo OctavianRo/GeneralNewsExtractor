@@ -1,6 +1,114 @@
 {
   "articles": [
     {
+      "id": "e82d687982223af022324066",
+      "title": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
+      "url": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/",
+      "source": "TechCrunch",
+      "published": "2026-10-07T16:53:46+00:00",
+      "topic": "Products & tools",
+      "summary": "Meta launches new AI tools after discovering ads on its platforms that may look normal but direct users to harmful content elsewhere online."
+    },
+    {
+      "id": "614712fd187a8edca7609e87",
+      "title": "ChatGPT is getting college planning tools",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1005194/openai-chatgpt-teens-college-planner-notecards",
+      "source": "The Verge",
+      "published": "2026-10-07T16:00:00+00:00",
+      "topic": "Products & tools",
+      "summary": "A preview of OpenAI’s College Planner. | Image: OpenAI\nOpenAI is bringing new tools to ChatGPT for Teens, a mode for teens introduced\nin August\nwith safeguards and break reminders, to\nhelp users with the college application process\n."
+    },
+    {
+      "id": "5f645da35744d30c39db452f",
+      "title": "Muse launches on the iPad",
+      "url": "https://www.theverge.com/tech/1006813/muse-ai-agent-ios-app-ipad-support",
+      "source": "The Verge",
+      "published": "2026-10-07T15:37:23+00:00",
+      "topic": "Products & tools",
+      "summary": "After\nlaunching nearly a month ago\nand spending several weeks as the top free app in Apple's App Store, the latest update to Meta's Muse iOS app introduces native support for the iPad. A\nMac version of Meta's agentic AI tool\n(designed to compete with OpenClaw, ChatGPT's Dots, and Grok Bot) was released about a week after the original mobile version debuted…"
+    },
+    {
+      "id": "576f8703e59d7c0a650fa88e",
+      "title": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
+      "url": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
+      "source": "TechCrunch",
+      "published": "2026-10-07T15:07:08+00:00",
+      "topic": "Business",
+      "summary": "The financing includes an $8M seed round co-led by Sequoia Capital and First Round Capital, and a $30 million Series A led by Hummingbird Ventures."
+    },
+    {
+      "id": "e02fad4667f2bdedfe103660",
+      "title": "Tony Fadell on why the first wave of AI gadgets failed — and what comes next",
+      "url": "https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/",
+      "source": "TechCrunch",
+      "published": "2026-10-07T14:41:38+00:00",
+      "topic": "AI overview",
+      "summary": "The “father of the iPod” says the first generation of AI gadgets failed to solve real problems — and the next wave will need to earn consumers’ trust."
+    },
+    {
+      "id": "04347efee76c2a01d52cd494",
+      "title": "Google invests millions in Mark Zuckerberg’s efforts to create a ‘virtual cell’",
+      "url": "https://www.theverge.com/tech/1006766/google-meta-biohub-investment-virtual-cell",
+      "source": "The Verge",
+      "published": "2026-10-07T14:40:52+00:00",
+      "topic": "Business",
+      "summary": "Google DeepMind, Meta, and AI drug discovery startup Isomorphic Labs\nare jointly investing $300 million\ninto an initiative to create a \"virtual cell\" that researchers can use to combat disease, as\nreported earlier by\nReuters\n. The project is led by Biohub, a nonprofit biomedical research organization founded by Mark Zuckerberg and his wife, Priscilla Chan."
+    },
+    {
+      "id": "50755f91349d56c40392bb3d",
+      "title": "Google experiments with an AI-powered gaming platform",
+      "url": "https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform/",
+      "source": "TechCrunch",
+      "published": "2026-10-07T14:36:23+00:00",
+      "topic": "AI overview",
+      "summary": "Google Labs is working on a new AI-powered game-creation platform called Playground for users to build browser-based games using simple text prompts."
+    },
+    {
+      "id": "5ff7eb3ed8e16f02c67e25e7",
+      "title": "OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots",
+      "url": "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/",
+      "source": "TechCrunch",
+      "published": "2026-10-07T14:30:00+00:00",
+      "topic": "AI overview",
+      "summary": "OpenAI’s Alexander Embiricos is coming to the AI Stage at TechCrunch Disrupt 2026, just days after the launch of Dots. Join this conversation by registering for your pass."
+    },
+    {
+      "id": "c153ead68f31a7bb8087e175",
+      "title": "Get hands-on: The full lineup of interactive roundtables at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/10/07/get-hands-on-the-full-lineup-of-interactive-roundtables-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "published": "2026-10-07T14:15:00+00:00",
+      "topic": "Hardware",
+      "summary": "From Nvidia and Chime to Obvious Ventures and Anthropic, explore the entire roundtable agenda at TechCrunch Disrupt 2026. Register now to save up to $100 on your pass and get a second pass at 50% off."
+    },
+    {
+      "id": "24157dcdb45d26aebab22c4e",
+      "title": "Google’s new SynthID website can identify AI-generated media",
+      "url": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/",
+      "source": "TechCrunch",
+      "published": "2026-10-07T14:00:00+00:00",
+      "topic": "AI overview",
+      "summary": "Google on Tuesday launched a new site that lets anyone verify whether a piece of media, be it an image, a video, or an audio clip, is generated using AI."
+    },
+    {
+      "id": "21c2d5c2c0a78a529014da7b",
+      "title": "AI could upend food delivery",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1005726/doordash-ai-agentic-food-delivery-bites",
+      "source": "The Verge",
+      "published": "2026-10-07T12:00:00+00:00",
+      "topic": "Business",
+      "summary": "DoorDash, the leading food delivery app, processed 970 million orders in its second quarter this year and generated $4.5 billion in revenue. A 10-person startup called Bites is a blip in comparison: It has just around 300 restaurants signed up in the Bay Area, where it's operating as a pre-seed startup."
+    },
+    {
+      "id": "651e2d5687f7b27f92e6828d",
+      "title": "ChatGPT for Teens is an ‘unacceptable risk,’ says Common Sense Media",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media",
+      "source": "The Verge",
+      "published": "2026-10-07T09:00:00+00:00",
+      "topic": "Products & tools",
+      "summary": "Common Sense Media, a nonprofit that offers reviews of apps, services, and entertainment with a focus on youth safety, today said that OpenAI's ChatGPT for Teens is an \"unacceptable risk.\"\nChatGPT for Teens,\nintroduced in August\n, has guardrails for teens and is designed to help students learn, but Common Sense Media says that the teen protections offered…"
+    },
+    {
       "id": "0e401bad0dd434d616eaa7e6",
       "title": "OpenAI drops another batch of mathematical breakthroughs",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
@@ -2119,19 +2227,19 @@
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-10-07T08:15:02.280506+00:00",
+      "checked": "2026-10-07T17:19:00.061042+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-10-07T08:15:02.280506+00:00",
+      "checked": "2026-10-07T17:19:00.061042+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-10-07T08:15:02.280506+00:00",
+      "checked": "2026-10-07T17:19:00.061042+00:00",
       "error": null
     }
   ],
-  "updated": "2026-10-07T08:15:02.280506+00:00"
+  "updated": "2026-10-07T17:19:00.061042+00:00"
 }
