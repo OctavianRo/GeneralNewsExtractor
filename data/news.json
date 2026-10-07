@@ -1,6 +1,69 @@
 {
   "articles": [
     {
+      "id": "f79fc1981148f96dddbc69f9",
+      "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+      "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+      "source": "TechCrunch",
+      "published": "2026-10-07T20:48:45+00:00",
+      "topic": "Products & tools",
+      "summary": "The developer of Hermes Agent raised a $90 million Series B."
+    },
+    {
+      "id": "0fa3321a42ce9d9585745686",
+      "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+      "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+      "source": "TechCrunch",
+      "published": "2026-10-07T20:22:37+00:00",
+      "topic": "Hardware",
+      "summary": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents."
+    },
+    {
+      "id": "325f4dd194d8a4a359344f73",
+      "title": "ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
+      "source": "The Verge",
+      "published": "2026-10-07T19:10:42+00:00",
+      "topic": "Products & tools",
+      "summary": "OpenAI is launching a new Intelligent UI feature in ChatGPT that allows the chatbot to answer your questions with interactive visuals. The\nupdate, which is rolling out to all users\nalongside GPT-6, gives ChatGPT the ability to combine a text response with diagrams, charts, forms, tappable buttons, and more."
+    },
+    {
+      "id": "552629978e356fab438cabde",
+      "title": "Meta’s Muse launches on iPad just a month after its mobile debut",
+      "url": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
+      "source": "TechCrunch",
+      "published": "2026-10-07T18:30:57+00:00",
+      "topic": "Products & tools",
+      "summary": "Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations."
+    },
+    {
+      "id": "ebaee16ff2e2ab046b5d3453",
+      "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
+      "url": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
+      "source": "TechCrunch",
+      "published": "2026-10-07T18:15:28+00:00",
+      "topic": "Products & tools",
+      "summary": "ChatGPT’s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages unhealthy relationships with the AI itself."
+    },
+    {
+      "id": "3c6644f5f3111c40418a3d4c",
+      "title": "Microsoft is giving Copilot more control over Windows and your files",
+      "url": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
+      "source": "The Verge",
+      "published": "2026-10-07T18:01:20+00:00",
+      "topic": "Products & tools",
+      "summary": "To show off how Hybrid Intelligence works, Jacob Andreou, Microsoft's EVP of Copilot, walked through a video demo onstage asking\nMicrosoft's Autopilot tool\nto help with filing taxes. Andreou told the AI agent that he got an email from his accountant and asked Autopilot to get her what she nee …"
+    },
+    {
+      "id": "8da85c2ebe9dfa485bd2ef91",
+      "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
+      "url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
+      "source": "TechCrunch",
+      "published": "2026-10-07T18:00:19+00:00",
+      "topic": "Products & tools",
+      "summary": "OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT."
+    },
+    {
       "id": "e82d687982223af022324066",
       "title": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
       "url": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/",
@@ -2227,19 +2290,19 @@
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-10-07T17:19:00.061042+00:00",
+      "checked": "2026-10-07T22:50:30.819257+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-10-07T17:19:00.061042+00:00",
+      "checked": "2026-10-07T22:50:30.819257+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-10-07T17:19:00.061042+00:00",
+      "checked": "2026-10-07T22:50:30.819257+00:00",
       "error": null
     }
   ],
-  "updated": "2026-10-07T17:19:00.061042+00:00"
+  "updated": "2026-10-07T22:50:30.819257+00:00"
 }
