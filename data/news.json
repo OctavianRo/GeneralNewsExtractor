@@ -1,8 +1,89 @@
 {
   "articles": [
     {
+      "id": "0856c1a27e7e11a7096c494c",
+      "title": "Anthropic launches free AI security scans for open-source projects",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
+      "source": "The Verge",
+      "published": "2026-10-08T21:53:51+00:00",
+      "topic": "Models & research",
+      "summary": "The outputs of this opt-in vulnerability scanner will be fully model-generated, without human review or triage. This will enable faster and more frequent scanning, but means that it is possible reports will be incorrect or invalid."
+    },
+    {
+      "id": "0d8c74eec04dc0baad67974a",
+      "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+      "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+      "source": "TechCrunch",
+      "published": "2026-10-08T20:04:26+00:00",
+      "topic": "Policy & safety",
+      "summary": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture."
+    },
+    {
+      "id": "2d837d367b192c68a2bbce81",
+      "title": "Ben Affleck is an AI nerd, and the internet is impressed",
+      "url": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
+      "source": "TechCrunch",
+      "published": "2026-10-08T18:20:32+00:00",
+      "topic": "Business",
+      "summary": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving he's more than just a Hollywood star."
+    },
+    {
+      "id": "99134731fc9bfd4faa4921dd",
+      "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
+      "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
+      "source": "TechCrunch",
+      "published": "2026-10-08T18:19:45+00:00",
+      "topic": "Business",
+      "summary": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying."
+    },
+    {
+      "id": "2426f6e1347dd0c666bf7a02",
+      "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
+      "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
+      "source": "TechCrunch",
+      "published": "2026-10-08T18:19:42+00:00",
+      "topic": "Business",
+      "summary": "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that."
+    },
+    {
+      "id": "34de0981eaae0131b15c4a8a",
+      "title": "Google brings agentic AI to Gemini, starting with businesses",
+      "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+      "source": "TechCrunch",
+      "published": "2026-10-08T18:18:00+00:00",
+      "topic": "Models & research",
+      "summary": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its own workplace identity, complete with an email address."
+    },
+    {
+      "id": "32d47947d3bb4480ee10446b",
+      "title": "Anthropic changes usage policy to ban model abuse and election interference",
+      "url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
+      "source": "TechCrunch",
+      "published": "2026-10-08T18:16:24+00:00",
+      "topic": "Policy & safety",
+      "summary": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address election interference, deceptive campaigns, weapons software, and surveillance."
+    },
+    {
+      "id": "527c5f7729d012989778182f",
+      "title": "OpenAI’s math solutions aren’t meeting the field’s standards yet",
+      "url": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/",
+      "source": "TechCrunch",
+      "published": "2026-10-08T18:10:55+00:00",
+      "topic": "AI overview",
+      "summary": "OpenAI's flood of proofs deviated from the guidelines set by a group of mathematical researchers consulted by the frontier lab."
+    },
+    {
+      "id": "95fca73202feb762a70da4ea",
+      "title": "USA Today becomes the latest publisher to sue OpenAI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit",
+      "source": "The Verge",
+      "published": "2026-10-08T17:58:33+00:00",
+      "topic": "Models & research",
+      "summary": "USA Today Co., along with the several local newspapers it owns, is suing OpenAI over claims that the company copied \"hundreds of thousands\" of articles to train its AI models,\nas reported earlier by\nReuters\n. In\na filing on Thursday\n, the publisher asks for damages of more than $250 million, alleging OpenAI's unauthorized use of its content \"has done real…"
+    },
+    {
       "id": "49c489e07a9e5dd39a2d9687",
-      "title": "Anthropic bans ‘abusive or cruel behavior’ towards Claude",
+      "title": "Anthropic bans ‘abusive or cruel behavior’ toward Claude",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
       "source": "The Verge",
       "published": "2026-10-08T17:00:00+00:00",
@@ -2407,19 +2488,19 @@
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-10-08T17:14:37.633886+00:00",
+      "checked": "2026-10-08T23:01:44.669439+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-10-08T17:14:37.633886+00:00",
+      "checked": "2026-10-08T23:01:44.669439+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-10-08T17:14:37.633886+00:00",
+      "checked": "2026-10-08T23:01:44.669439+00:00",
       "error": null
     }
   ],
-  "updated": "2026-10-08T17:14:37.633886+00:00"
+  "updated": "2026-10-08T23:01:44.669439+00:00"
 }
