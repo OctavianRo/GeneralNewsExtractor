@@ -1,6 +1,105 @@
 {
   "articles": [
     {
+      "id": "49c489e07a9e5dd39a2d9687",
+      "title": "Anthropic bans ‘abusive or cruel behavior’ towards Claude",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
+      "source": "The Verge",
+      "published": "2026-10-08T17:00:00+00:00",
+      "topic": "Models & research",
+      "summary": "Last August, the company\nannounced\nit would allow Claude to end conversations with \"persistently harmful or abusive\" users as part of its research into \"model welfare.\" The new update says that terminating conversations is still the \"primary enforcement mechanism\"; Anthropic did not provide a comment o …"
+    },
+    {
+      "id": "f7abd6714882028bc9fea997",
+      "title": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
+      "url": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
+      "source": "TechCrunch",
+      "published": "2026-10-08T16:00:00+00:00",
+      "topic": "Products & tools",
+      "summary": "Goodfire just launched what it says is a cheaper way to keep AI agents in check: Instead of paying a second AI to read everything an agent does, its monitors peek inside the model while it works and only call in backup when something looks fishy."
+    },
+    {
+      "id": "512cb578037507654fde2deb",
+      "title": "Natura’s $99 smart ring puts AI agents on your finger",
+      "url": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
+      "source": "TechCrunch",
+      "published": "2026-10-08T16:00:00+00:00",
+      "topic": "Products & tools",
+      "summary": "Natura’s $99 Interface smart ring lets you summon AI agents with the press of a finger to complete tasks, capture thoughts, and control devices — while doubling as a health tracker."
+    },
+    {
+      "id": "e5b532cf0deb5712749a3e4f",
+      "title": "Google’s AI note-taking app transcribes your meetings completely offline",
+      "url": "https://www.theverge.com/tech/1007985/google-ai-notetaking-app-transcribe-offline",
+      "source": "The Verge",
+      "published": "2026-10-08T15:27:30+00:00",
+      "topic": "Products & tools",
+      "summary": "Google has released an experimental note-taking app that can transcribe meetings and audio files entirely offline,\nas reported earlier by\nTechCrunch\n. The app,\ncalled Google AI Edge Foresight\n, is free to use and runs on macOS using the company's\non-device EmbeddingGemma 2 model\n."
+    },
+    {
+      "id": "41f0eae1d6acac4461fbb207",
+      "title": "Hear from Ambrosia Energy and Bloom Energy execs on where the AI infrastructure boom is creating opportunity at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/10/08/hear-from-ambrosia-energy-and-bloom-energy-execs-on-where-the-ai-infrastructure-boom-is-creating-opportunity-at-disrupt-2026/",
+      "source": "TechCrunch",
+      "published": "2026-10-08T15:00:00+00:00",
+      "topic": "AI overview",
+      "summary": "Ambrosia Energy CEO Ben Longmier and Bloom Energy SVP Bill Thayer join the Smart Systems Stage at TechCrunch Disrupt. Register now to save up to $100."
+    },
+    {
+      "id": "651222944a43adc3f428bd30",
+      "title": "Google is launching a one-stop Gemini agent for your work tasks",
+      "url": "https://www.theverge.com/tech/1007904/google-gemini-ai-agent-enterprise",
+      "source": "The Verge",
+      "published": "2026-10-08T14:28:03+00:00",
+      "topic": "Products & tools",
+      "summary": "Google is launching a \"universal\" Gemini AI agent that can work across apps and devices in the background. The tool,\nannounced as part of the Gemini at Work\nevent on Thursday, will be available within the Gemini Enterprise app, allowing users to chat with the Gemini agent and assign it tasks from a single interface."
+    },
+    {
+      "id": "7fc877e49f7054a27d14f2a6",
+      "title": "Cal AI’s 19-year-old founder just raised $10M for his new AI startup",
+      "url": "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/",
+      "source": "TechCrunch",
+      "published": "2026-10-08T14:00:00+00:00",
+      "topic": "Business",
+      "summary": "Zach Yadegari, the teen co-founder of popular Cal AI calorie tracking app, has launched a new personal AI agent startup that competes with Instinct, Muse, and Bee."
+    },
+    {
+      "id": "4559be598a797f207de1f036",
+      "title": "Can you trust Meta’s Muse or OpenAI’s Dots to run your life?",
+      "url": "https://www.theverge.com/podcast/1007408/meta-muse-openai-dots-ai-agent-race-privacy-free",
+      "source": "The Verge",
+      "published": "2026-10-08T14:00:00+00:00",
+      "topic": "Products & tools",
+      "summary": "My\nDecoder\nguest today is Hayden Field,\nThe Verge\n’s senior AI reporter, and we’re discussing the new wave of consumer-friendly AI agents. If you’ve been paying attention to this space, you know AI enthusiasts have been using agents for a minute now — homebrew OpenClaw setups\nled to a surge in Mac Mini sales\nearlier this year."
+    },
+    {
+      "id": "03487fcb3497d3e514461f6a",
+      "title": "Artificial is a wicked satire that also sticks to the facts",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1007786/artificial-is-a-wicked-satire-that-also-sticks-to-the-facts",
+      "source": "The Verge",
+      "published": "2026-10-08T14:00:00+00:00",
+      "topic": "AI overview",
+      "summary": "At the New York Film Festival premiere of\nArtificial\n, Luca Guadagnino's satirical Sam Altman biopic, the director said onstage that \"[when] someone wants to play God, that's very interesting to me.\" The idea of playing God, and power in general - who has it, who desperately wants it, and who will do anything to get it - is central to the film's narrative,…"
+    },
+    {
+      "id": "6fe19a5ea2ddf54270d3afb4",
+      "title": "Google releases a new local-first Granola competitor",
+      "url": "https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/",
+      "source": "TechCrunch",
+      "published": "2026-10-08T13:28:39+00:00",
+      "topic": "Products & tools",
+      "summary": "Google’s new AI Edge Foresight app takes on Granola with an offline meeting note-taker that can transcribe conversations, generate notes, and answer questions using on-device AI."
+    },
+    {
+      "id": "5779b78eb98d9c87dab8a026",
+      "title": "AI breakthroughs in robotics won’t change your life any time soon",
+      "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
+      "source": "MIT Technology Review",
+      "published": "2026-10-08T09:00:00+00:00",
+      "topic": "Models & research",
+      "summary": "More data, the thinking goes, equals more examples, and more examples equals more generality. Google DeepMind, for instance, wants to pull together “as much data as possible,” says Pannag Sanketi, a former tech lead in robotics at the company who’s currently working on\nhis own AI robotics project\n."
+    },
+    {
       "id": "d07e6967ea51e85244d5e06b",
       "title": "Building a safer path to autonomous industrial AI",
       "url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
@@ -35,6 +134,15 @@
       "published": "2026-10-07T19:10:42+00:00",
       "topic": "Products & tools",
       "summary": "OpenAI is launching a new Intelligent UI feature in ChatGPT that allows the chatbot to answer your questions with interactive visuals. The\nupdate, which is rolling out to all users\nalongside GPT-6, gives ChatGPT the ability to combine a text response with diagrams, charts, forms, tappable buttons, and more."
+    },
+    {
+      "id": "3e85ff476d297cf8cda98219",
+      "title": "It appears .agent and .agi are about to be the hot new domains",
+      "url": "https://www.theverge.com/tech/1007132/icann-domains-2026-ai-agi",
+      "source": "The Verge",
+      "published": "2026-10-07T18:46:16+00:00",
+      "topic": "Products & tools",
+      "summary": "ICANN just announced\nthe 1,615 applications\nthat have been submitted so far, from 481 different applicants. The trend will not surprise you: AI is everywhere."
     },
     {
       "id": "552629978e356fab438cabde",
@@ -2299,19 +2407,19 @@
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-10-08T08:31:01.286003+00:00",
+      "checked": "2026-10-08T17:14:37.633886+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-10-08T08:31:01.286003+00:00",
+      "checked": "2026-10-08T17:14:37.633886+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-10-08T08:31:01.286003+00:00",
+      "checked": "2026-10-08T17:14:37.633886+00:00",
       "error": null
     }
   ],
-  "updated": "2026-10-08T08:31:01.286003+00:00"
+  "updated": "2026-10-08T17:14:37.633886+00:00"
 }
