@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "id": "d07e6967ea51e85244d5e06b",
+      "title": "Building a safer path to autonomous industrial AI",
+      "url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
+      "source": "MIT Technology Review",
+      "published": "2026-10-08T08:17:32+00:00",
+      "topic": "Policy & safety",
+      "summary": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to automate more complex tasks across industrial environments."
+    },
+    {
       "id": "f79fc1981148f96dddbc69f9",
       "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
       "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
@@ -2290,19 +2299,19 @@
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-10-07T22:50:30.819257+00:00",
+      "checked": "2026-10-08T08:31:01.286003+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-10-07T22:50:30.819257+00:00",
+      "checked": "2026-10-08T08:31:01.286003+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-10-07T22:50:30.819257+00:00",
+      "checked": "2026-10-08T08:31:01.286003+00:00",
       "error": null
     }
   ],
-  "updated": "2026-10-07T22:50:30.819257+00:00"
+  "updated": "2026-10-08T08:31:01.286003+00:00"
 }
