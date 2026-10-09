@@ -1,6 +1,60 @@
 {
   "articles": [
     {
+      "id": "7984e92e6601d72ffb7cce04",
+      "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+      "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+      "source": "TechCrunch",
+      "published": "2026-10-09T21:41:29+00:00",
+      "topic": "Models & research",
+      "summary": "TypeSafe AI raised $870 million in a round led by a16Z."
+    },
+    {
+      "id": "43fd2a198be0a450280f1ad1",
+      "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+      "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+      "source": "TechCrunch",
+      "published": "2026-10-09T19:36:56+00:00",
+      "topic": "Models & research",
+      "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip."
+    },
+    {
+      "id": "42d1906c74af83c64ef78506",
+      "title": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
+      "source": "The Verge",
+      "published": "2026-10-09T19:09:44+00:00",
+      "topic": "AI overview",
+      "summary": "Those were among the descriptions more than three dozen mathematicians reached for in conversations with\nThe Verge\nas they tried to make sense of the\nflood of mathematical results\nOpenAI abruptly dropped on the field this week. Amid the awe, excitement, and uncertainty over the sheer scale of the deluge was a deep-seated anxiety over what it all means - and…"
+    },
+    {
+      "id": "57fe1472ddc36d4e4fa25790",
+      "title": "Nikon microscopic video competition winner disqualified for using generative AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai",
+      "source": "The Verge",
+      "published": "2026-10-09T18:06:57+00:00",
+      "topic": "AI overview",
+      "summary": "Nikon\nsays\nthe video that originally won first place in its\nSmall World in Motion contest\n\"did not comply with the competition rules regarding generative AI.\"\nBBC\nreports that the original first place video from Dr. Ning Xu claimed to show \"tiny, hair-like structures called cilia moving in the airway of a child with the respiratory condition PCD.\" Nikon…"
+    },
+    {
+      "id": "dd1a4ba899e07fb1f55c1ff8",
+      "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
+      "url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
+      "source": "TechCrunch",
+      "published": "2026-10-09T16:56:42+00:00",
+      "topic": "Hardware",
+      "summary": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and enacted moratoriums from New York to San Francisco."
+    },
+    {
+      "id": "7fbc7f2d590fe3c5dc0bc787",
+      "title": "Amazon drops data center NDAs, and AI agents want your credit card",
+      "url": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
+      "source": "TechCrunch",
+      "published": "2026-10-09T16:53:02+00:00",
+      "topic": "Products & tools",
+      "summary": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and enacted moratoriums from New York to San Francisco."
+    },
+    {
       "id": "ff41ef5ebf23163f90602ebf",
       "title": "We can’t help treating AI like it’s human. But should we?",
       "url": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
@@ -2551,19 +2605,19 @@
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-10-09T16:50:52.072634+00:00",
+      "checked": "2026-10-09T22:22:39.291680+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-10-09T16:50:52.072634+00:00",
+      "checked": "2026-10-09T22:22:39.291680+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-10-09T16:50:52.072634+00:00",
+      "checked": "2026-10-09T22:22:39.291680+00:00",
       "error": null
     }
   ],
-  "updated": "2026-10-09T16:50:52.072634+00:00"
+  "updated": "2026-10-09T22:22:39.291680+00:00"
 }
