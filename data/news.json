@@ -1,6 +1,60 @@
 {
   "articles": [
     {
+      "id": "ff41ef5ebf23163f90602ebf",
+      "title": "We can’t help treating AI like it’s human. But should we?",
+      "url": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
+      "source": "TechCrunch",
+      "published": "2026-10-09T16:40:14+00:00",
+      "topic": "AI overview",
+      "summary": "\"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes. \"And we are wired to care for it in return.\""
+    },
+    {
+      "id": "f2bbbdc80487618bbc6e9b64",
+      "title": "a16z’s Olivia Moore on the state of consumer AI",
+      "url": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
+      "source": "TechCrunch",
+      "published": "2026-10-09T15:43:33+00:00",
+      "topic": "Business",
+      "summary": "Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges."
+    },
+    {
+      "id": "9c3c12ce2bad85bfa36b86db",
+      "title": "Trump’s attempt to rename AI is looking awfully artificial",
+      "url": "https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding",
+      "source": "The Verge",
+      "published": "2026-10-09T14:25:43+00:00",
+      "topic": "AI overview",
+      "summary": "President Donald Trump has a knack for turning words against his enemies. His first successful presidential run was built on monikers like \"Little Marco\" and \"Crooked Hillary\"; he changed \"fake news\" from\na phrase\ndescribing scammy media outlets to a derogatory term for the press at large."
+    },
+    {
+      "id": "3c5e66d9de6d1c79dee69232",
+      "title": "Instinct was the buzziest AI agent around — can it survive Muse?",
+      "url": "https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots",
+      "source": "The Verge",
+      "published": "2026-10-09T14:00:00+00:00",
+      "topic": "Products & tools",
+      "summary": "Instinct’s agent is always just a text away. Before there were\ncute little guys\n, there was Instinct."
+    },
+    {
+      "id": "d55dd9b285d68fe312ff945b",
+      "title": "OpenAI doubles down on decision to fire three AI safety researchers",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
+      "source": "The Verge",
+      "published": "2026-10-09T09:48:26+00:00",
+      "topic": "Policy & safety",
+      "summary": "In a\npost\non X on Friday, the company said Jasmine Wang, Tomek Korbak and Mikita ⁠Balesni were dismissed for violating \"clear policies on handling sensitive information.\" It insisted the decision was not about the trio speaking out about the company and their concerns about AI safety."
+    },
+    {
+      "id": "56b2964b69beea5b19e427c1",
+      "title": "We’re putting too much faith in AI’s ability to say no",
+      "url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
+      "source": "MIT Technology Review",
+      "published": "2026-10-09T09:00:00+00:00",
+      "topic": "Models & research",
+      "summary": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience."
+    },
+    {
       "id": "feab0ad4868e3e2ec005e5a6",
       "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
       "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
@@ -2497,19 +2551,19 @@
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-10-09T08:34:20.318681+00:00",
+      "checked": "2026-10-09T16:50:52.072634+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-10-09T08:34:20.318681+00:00",
+      "checked": "2026-10-09T16:50:52.072634+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-10-09T08:34:20.318681+00:00",
+      "checked": "2026-10-09T16:50:52.072634+00:00",
       "error": null
     }
   ],
-  "updated": "2026-10-09T08:34:20.318681+00:00"
+  "updated": "2026-10-09T16:50:52.072634+00:00"
 }
