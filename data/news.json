@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "id": "818f4dcf830d117b3a347d0a",
+      "title": "Anthropic is cutting off its internal evaluations from the internet",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
+      "source": "The Verge",
+      "published": "2026-10-10T14:41:16+00:00",
+      "topic": "Policy & safety",
+      "summary": "Although the impact of these behaviors was minimal and we had already turned off live internet access for some high-risk and cybersecurity evaluations, we have now decided to expand that to include all our internal evaluations until we have confirmed that our security and monitoring measures (described in the remediation section …"
+    },
+    {
+      "id": "a0f6e38f65e9c89ba13dd047",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "source": "TechCrunch",
+      "published": "2026-10-10T14:00:00+00:00",
+      "topic": "Products & tools",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
+    },
+    {
+      "id": "c9390824224ecd5bf3e13e60",
+      "title": "AI agent makers are promising privacy — will they deliver?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
+      "source": "The Verge",
+      "published": "2026-10-10T13:00:00+00:00",
+      "topic": "Products & tools",
+      "summary": "At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to \"set a new standard for privacy in frontier AI.\" OpenAI would spend the day taking veiled shots at Meta's Muse, its primary competitor, for failing to keep users' data safe. Yet Muse itself, a couple of months earlier, had…"
+    },
+    {
       "id": "6fafcbf095655c1fbd8b661b",
       "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
       "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
@@ -2623,19 +2650,19 @@
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-10-10T08:11:15.697470+00:00",
+      "checked": "2026-10-10T15:45:52.574993+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-10-10T08:11:15.697470+00:00",
+      "checked": "2026-10-10T15:45:52.574993+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-10-10T08:11:15.697470+00:00",
+      "checked": "2026-10-10T15:45:52.574993+00:00",
       "error": null
     }
   ],
-  "updated": "2026-10-10T08:11:15.697470+00:00"
+  "updated": "2026-10-10T15:45:52.574993+00:00"
 }
