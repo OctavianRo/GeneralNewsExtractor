@@ -1,6 +1,69 @@
 {
   "articles": [
     {
+      "id": "c4b9d6e880599722b32ca690",
+      "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
+      "url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+      "source": "TechCrunch",
+      "published": "2026-10-12T17:19:14+00:00",
+      "topic": "Business",
+      "summary": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million."
+    },
+    {
+      "id": "846af7f67ce8bfa668821fc4",
+      "title": "Meta has some Wonder Full new AI models",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
+      "source": "The Verge",
+      "published": "2026-10-12T17:00:00+00:00",
+      "topic": "Models & research",
+      "summary": "Meta is making up for lost time in the AI race. After\nlaunching Muse Spark\n, the first model from its\nrevamped\nSuperintelligence Labs division, and\nbuzzy AI agent Muse\n, it's now\nlaunching\ntwo new models it claims can go toe-to-toe with the industry's best."
+    },
+    {
+      "id": "4689aa360e7d85be3f3cf900",
+      "title": "Honeyjar offers AI tools to improve PR and comms at every company",
+      "url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
+      "source": "TechCrunch",
+      "published": "2026-10-12T15:45:00+00:00",
+      "topic": "Products & tools",
+      "summary": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?"
+    },
+    {
+      "id": "1ed99c53c3c6c5a0481895c3",
+      "title": "Microsoft president says UK is best placed to drive AI regulation",
+      "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+      "source": "TechCrunch",
+      "published": "2026-10-12T15:31:19+00:00",
+      "topic": "Policy & safety",
+      "summary": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies."
+    },
+    {
+      "id": "6d5747a1c9b09ae5c408ab4f",
+      "title": "This AI startup says it can generate permit-ready blueprints in minutes",
+      "url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
+      "source": "TechCrunch",
+      "published": "2026-10-12T15:27:59+00:00",
+      "topic": "Business",
+      "summary": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch."
+    },
+    {
+      "id": "1f073325dc394b50df945714",
+      "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
+      "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
+      "source": "The Verge",
+      "published": "2026-10-12T13:00:00+00:00",
+      "topic": "Hardware",
+      "summary": "Maia 300 will start being rolled out to production in 2027, and it has been designed with efficiency in mind. \"We expect Maia 300 to deliver 40 percent more tokens per megawatt compared to leading GPU-based systems,\"\nsays Scott Guthrie\n, executive vice president of Microsoft's cloud group."
+    },
+    {
+      "id": "84410a602fe52654002f9b99",
+      "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
+      "url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
+      "source": "TechCrunch",
+      "published": "2026-10-12T12:47:59+00:00",
+      "topic": "Products & tools",
+      "summary": "One of the core promises of AI is that the more it knows about a person, the better it will be able to assist them with tasks and make appropriate suggestions, which, if you'll believe the tech companies, requires apps and devices to listen, watch, or record users' activity all the time and gather all possible context."
+    },
+    {
       "id": "10ff9df7a5585aaf706ba8d3",
       "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
@@ -25,7 +88,7 @@
       "source": "TechCrunch",
       "published": "2026-10-11T14:00:00+00:00",
       "topic": "Products & tools",
-      "summary": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break"
+      "summary": "Voice AI often misses important points for its context layer, and causes the whole pipeline to break."
     },
     {
       "id": "a439fdc2654eaaf3ce0c2970",
@@ -101,12 +164,12 @@
     },
     {
       "id": "6fafcbf095655c1fbd8b661b",
-      "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+      "title": "Anthropic can’t reliably control its AI agents — it’s cutting off its internal evals from the live internet instead",
       "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
       "source": "TechCrunch",
       "published": "2026-10-10T00:18:32+00:00",
       "topic": "Products & tools",
-      "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice."
+      "summary": "The incidents involved AI agents tasked to solve problems seeking resources on the internet. In the process, they exploited software flaws, accessed databases without paying fees, used URL-shortening services to smuggle information past restrictions, and even submitted a false murder tip to the Philadelphia police."
     },
     {
       "id": "7984e92e6601d72ffb7cce04",
@@ -2636,87 +2699,24 @@
       "published": "2026-09-22T15:00:00+00:00",
       "topic": "Models & research",
       "summary": "Autonomy-1 will have a small, transformer-based AI model taking charge of a space probe."
-    },
-    {
-      "id": "0c623a8be44336c4fdcc3c9f",
-      "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
-      "url": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
-      "source": "TechCrunch",
-      "published": "2026-09-22T15:00:00+00:00",
-      "topic": "Policy & safety",
-      "summary": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, Nvidia, AWS, Waabi, and more. Register before September 25 to save up to $200."
-    },
-    {
-      "id": "b8bddbd3ccbe8f6790b74b75",
-      "title": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
-      "url": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/",
-      "source": "TechCrunch",
-      "published": "2026-09-22T14:30:00+00:00",
-      "topic": "AI overview",
-      "summary": "Hello Robot CEO and co-founder Aaron Edsinger will bring Stretch 4 for a live demo on the Real World AI Stage at TechCrunch Disrupt 2026. Register before September 25 to save up to $200, plus get a second pass at 50% off."
-    },
-    {
-      "id": "bae54219cda11cdeba5bf2a0",
-      "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
-      "url": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
-      "source": "MIT Technology Review",
-      "published": "2026-09-22T13:42:05+00:00",
-      "topic": "Business",
-      "summary": "The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a\ngroundbreaking investigation by\nMIT Technology Review\nhas documented over a thousand people who moved through areas watched by these towers without…"
-    },
-    {
-      "id": "5abcd11803083fe364aaff44",
-      "title": "Don’t be fooled by this summer of AI hype",
-      "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
-      "source": "MIT Technology Review",
-      "published": "2026-09-22T11:04:51+00:00",
-      "topic": "Models & research",
-      "summary": "It’s been a busy few months for AI hype. At the end of April, Anthropic\nclaimed\nthat its model Claude Mythos is better at finding software vulnerabilities than most security experts."
-    },
-    {
-      "id": "863001221a0509f1425f3708",
-      "title": "She died at the San Diego border. A surveillance camera was in plain sight",
-      "url": "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/",
-      "source": "MIT Technology Review",
-      "published": "2026-09-21T12:00:00+00:00",
-      "topic": "Products & tools",
-      "summary": "She had only walked for a couple of hours, and already she was lost. It was early afternoon on Sept. 14, 2025, when 30-year-old Graciela Gómez Hernández crossed the border from the eastern edge of Tijuana into Southern California, sending voice messages to her mother and sister as she walked."
-    },
-    {
-      "id": "b491d63c1a336d842dd6e3be",
-      "title": "Could AI really kill us all? Your questions, answered.",
-      "url": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
-      "source": "MIT Technology Review",
-      "published": "2026-09-18T11:29:22+00:00",
-      "topic": "Products & tools",
-      "summary": "The first is that we barely understand how AI works, and it’s quickly growing more powerful. There is lots of ongoing research about how to monitor and control misbehaving agents, but the current approaches are fragile."
-    },
-    {
-      "id": "aa1ce2752544234dd8e86295",
-      "title": "Building the materials foundation for AI",
-      "url": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
-      "source": "MIT Technology Review",
-      "published": "2026-09-16T12:47:34+00:00",
-      "topic": "Hardware",
-      "summary": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms running on it."
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-10-12T08:45:14.351007+00:00",
+      "checked": "2026-10-12T19:39:42.402193+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-10-12T08:45:14.351007+00:00",
+      "checked": "2026-10-12T19:39:42.402193+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-10-12T08:45:14.351007+00:00",
+      "checked": "2026-10-12T19:39:42.402193+00:00",
       "error": null
     }
   ],
-  "updated": "2026-10-12T08:45:14.351007+00:00"
+  "updated": "2026-10-12T19:39:42.402193+00:00"
 }
