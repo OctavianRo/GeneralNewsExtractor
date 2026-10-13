@@ -1,6 +1,60 @@
 {
   "articles": [
     {
+      "id": "7c068c6a83688898d134de1c",
+      "title": "Apple launches HomeView, its first smart display for the home",
+      "url": "https://www.theverge.com/tech/1009704/apple-homeview-smart-display-first-look",
+      "source": "The Verge",
+      "published": "2026-10-13T13:00:00+00:00",
+      "topic": "Products & tools",
+      "summary": "It's finally here: Apple's long-rumored smart display, the Apple HomeView, has arrived. I got a first look at the device in New York City this week, and it's gorgeous."
+    },
+    {
+      "id": "3aa63102ae818b18a9852230",
+      "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
+      "url": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
+      "source": "TechCrunch",
+      "published": "2026-10-13T13:00:00+00:00",
+      "topic": "Products & tools",
+      "summary": "American Express is introducing a new framework designed to ensure AI agents only make purchases their users have authorized, potentially preventing costly mistakes and disputes as AI-powered shopping grows."
+    },
+    {
+      "id": "b2fa807e4b0dbdf2380fdbfa",
+      "title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
+      "url": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
+      "source": "TechCrunch",
+      "published": "2026-10-13T12:23:42+00:00",
+      "topic": "Products & tools",
+      "summary": "The startup will sell some of its assets to Disney for $20 million."
+    },
+    {
+      "id": "895674673f7dc47454f0c53d",
+      "title": "Character.AI files for bankruptcy",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney",
+      "source": "The Verge",
+      "published": "2026-10-13T10:32:23+00:00",
+      "topic": "Policy & safety",
+      "summary": "Character.AI, one of the first breakout startups of the generative AI boom, has filed for bankruptcy and is selling some of its assets to Disney. The company, which builds various online bots for users to chat or roleplay with, has faced mounting scrutiny and\nlawsuits\nover the\nsafety\nof its\nchatbots\n, but has continued\nreleasing\nupdates and products in…"
+    },
+    {
+      "id": "aa865376889f85c40a597f10",
+      "title": "Open models have real benefits. Do they outweigh the risks?",
+      "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
+      "source": "MIT Technology Review",
+      "published": "2026-10-13T10:00:00+00:00",
+      "topic": "Models & research",
+      "summary": "MIT Technology Review\nExplains:\nLet our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here\n."
+    },
+    {
+      "id": "a2f578c60a47c5b465b930bd",
+      "title": "AI labs are buying data from dead startups to train their models",
+      "url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
+      "source": "MIT Technology Review",
+      "published": "2026-10-13T09:00:00+00:00",
+      "topic": "Business",
+      "summary": "When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old. But he’s since turned the firm’s digital archives into real money."
+    },
+    {
       "id": "c4b9d6e880599722b32ca690",
       "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
       "url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
@@ -2645,78 +2699,24 @@
       "published": "2026-09-22T20:00:00+00:00",
       "topic": "Hardware",
       "summary": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally."
-    },
-    {
-      "id": "9b5f327201feff42f9700cc1",
-      "title": "Meta admits Muse’s likeness to OpenClaw isn’t a coincidence",
-      "url": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
-      "source": "TechCrunch",
-      "published": "2026-09-22T19:09:11+00:00",
-      "topic": "Products & tools",
-      "summary": "Meta says Muse was built from scratch, but acknowledges the AI assistant was \"heavily inspired\" by OpenClaw — down to some of its workspace filenames and content."
-    },
-    {
-      "id": "25f12aed5a1350511272fb84",
-      "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
-      "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
-      "source": "TechCrunch",
-      "published": "2026-09-22T18:00:00+00:00",
-      "topic": "Models & research",
-      "summary": "OpenAI is launching two new models, which it says are cut from the same cloth as Astra."
-    },
-    {
-      "id": "b764d2ad8902084d6f978851",
-      "title": "Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
-      "source": "The Verge",
-      "published": "2026-09-22T16:34:08+00:00",
-      "topic": "Business",
-      "summary": "Venture capital firm Andreessen Horowitz (a16z) is creating\nan \"academy\" positioned\nas a pipeline for young people to build or join a Silicon Valley startup. The \"Horowitz Andreessen Academy\" will launch with 10 partners, including Anduril, Anthropic, Coinbase, Google, Meta, Nvidia, OpenAI, Palantir, Replit, and Stripe, along with $42 million in funding led…"
-    },
-    {
-      "id": "3021783d758a203cf22ddf33",
-      "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
-      "url": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
-      "source": "TechCrunch",
-      "published": "2026-09-22T16:30:07+00:00",
-      "topic": "Models & research",
-      "summary": "Anthropic called it \"the strongest-performing model we've tested to date.\""
-    },
-    {
-      "id": "321c1f0bfff39700f0c6d459",
-      "title": "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity",
-      "source": "The Verge",
-      "published": "2026-09-22T16:30:00+00:00",
-      "topic": "Models & research",
-      "summary": "Anthropic says its new Claude Opus 5.5 model comes with stronger safeguards in the wake of recent rogue AI hacking incidents. In\nan announcement on Tuesday\n, Anthropic says Opus 5.5 comes with improvements to certain risky behaviors, including attempts to escape the company's testing sandbox."
-    },
-    {
-      "id": "caaf4b1f8cd66a723a0674cc",
-      "title": "AstroForge is putting AI in command of its next spacecraft",
-      "url": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
-      "source": "TechCrunch",
-      "published": "2026-09-22T15:00:00+00:00",
-      "topic": "Models & research",
-      "summary": "Autonomy-1 will have a small, transformer-based AI model taking charge of a space probe."
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-10-13T02:52:26.017369+00:00",
+      "checked": "2026-10-13T13:43:53.101036+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-10-13T02:52:26.017369+00:00",
+      "checked": "2026-10-13T13:43:53.101036+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-10-13T02:52:26.017369+00:00",
+      "checked": "2026-10-13T13:43:53.101036+00:00",
       "error": null
     }
   ],
-  "updated": "2026-10-13T02:52:26.017369+00:00"
+  "updated": "2026-10-13T13:43:53.101036+00:00"
 }
