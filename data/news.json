@@ -1,6 +1,141 @@
 {
   "articles": [
     {
+      "id": "f1305662a1d2e7c412f2bf48",
+      "title": "Shopify opens its catalog up to more AI agents",
+      "url": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
+      "source": "The Verge",
+      "published": "2026-10-13T19:42:42+00:00",
+      "topic": "Products & tools",
+      "summary": "Shopify announced Tuesday it will let shoppers\nconfigure their AI agents\nto purchase products on their behalf, giving more agents access to over a billion listings in Shopify's catalog. (The catalog consists of both items on and off Shopify storefronts.) In September, Shopify\nannounced\nit was partnering with Meta to allow its Muse agent to browse and…"
+    },
+    {
+      "id": "b5a0bcffb5b3a77b578c1081",
+      "title": "Xbox is officially embracing the chaos of AI-powered game ports",
+      "url": "https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration",
+      "source": "The Verge",
+      "published": "2026-10-13T19:00:48+00:00",
+      "topic": "AI overview",
+      "summary": "Retro gaming is going through a wild time at the moment, thanks to\ndecompilations and recompilations\nthat are letting gamers port classic titles to new devices, or merge code from two different games into a single new experience. Microsoft has witnessed\nskateboarding being modded\ninto\nCall of Duty\nand\nHalo\nbeing\nplayed in a web browser\n, and the company is…"
+    },
+    {
+      "id": "c94df607d9b75d66b641cbd2",
+      "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
+      "url": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
+      "source": "TechCrunch",
+      "published": "2026-10-13T18:30:00+00:00",
+      "topic": "AI overview",
+      "summary": "Flox's edge devices can identify animals and use species-specific sounds to drive them away from critical infrastructure."
+    },
+    {
+      "id": "d239fa85a32a7e695e9e359e",
+      "title": "Facebook is giving users more control over their algorithm",
+      "url": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/",
+      "source": "TechCrunch",
+      "published": "2026-10-13T18:05:24+00:00",
+      "topic": "AI overview",
+      "summary": "Meta announced the launch of its new AI-powered feature, “Your Algorithm,” a feature it first launched on Instagram."
+    },
+    {
+      "id": "b5b8a08608e1d9e3b11b3430",
+      "title": "I don’t miss the camera on the Ray-Ban Meta Audio glasses",
+      "url": "https://www.theverge.com/tech/1009128/ray-ban-meta-audio-glasses-review-smart-glasses-headphones-wearables",
+      "source": "The Verge",
+      "published": "2026-10-13T18:00:00+00:00",
+      "topic": "Policy & safety",
+      "summary": "The other day I whizzed past several people while running in the park, my playlist blasting at full volume. The next morning, I smiled at a barista while ordering a caramel apple-flavored matcha latte."
+    },
+    {
+      "id": "a982f604a503ccf23cc42105",
+      "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+      "url": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+      "source": "TechCrunch",
+      "published": "2026-10-13T17:30:00+00:00",
+      "topic": "Business",
+      "summary": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco."
+    },
+    {
+      "id": "51e3d24adc70a0db638852ca",
+      "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
+      "url": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
+      "source": "TechCrunch",
+      "published": "2026-10-13T17:18:25+00:00",
+      "topic": "Business",
+      "summary": "The problem with giving everyone in a company access to AI tools is that people will use them in unexpected ways. And that fact is steadily seeding fears that companies now have new, gaping security holes in their systems or, at least, will soon."
+    },
+    {
+      "id": "a579d9458f5d4ccba8f34806",
+      "title": "Facebook will let you customize your feed algorithm using AI",
+      "url": "https://www.theverge.com/tech/1010344/meta-facebook-your-algorithm-ai",
+      "source": "The Verge",
+      "published": "2026-10-13T17:01:31+00:00",
+      "topic": "AI overview",
+      "summary": "Facebook's new\n\"Your Algorithm\" feature\nwill let you directly add and manage topics you want to see in your feed and Facebook Reels. Meta says your recommendations \"respond right away\" after you make updates using the new feature by hitting \"interested\" or \"not interested\" for different topics."
+    },
+    {
+      "id": "3027ecc1cd76f500ff06d100",
+      "title": "Google Play now lets anyone build private, vibe-coded apps that run on Android",
+      "url": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
+      "source": "TechCrunch",
+      "published": "2026-10-13T17:00:00+00:00",
+      "topic": "Products & tools",
+      "summary": "Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store."
+    },
+    {
+      "id": "20321888fc5ad637cd8e57b6",
+      "title": "Google makes it easier to launch your vibe-coded apps",
+      "url": "https://www.theverge.com/tech/1009066/google-play-vibe-coded-android-apps-launch",
+      "source": "The Verge",
+      "published": "2026-10-13T17:00:00+00:00",
+      "topic": "Products & tools",
+      "summary": "The next time you vibe-code a custom app with Google's AI Studio, you won't have to connect your phone to a computer to install it. On Tuesday,\nGoogle announced a new feature\nin the US that will allow you to launch personal apps directly through the Play Store."
+    },
+    {
+      "id": "8e68e2cc66d400ede70166e4",
+      "title": "Actress Mia Goth says it’s ‘incomprehensible’ that Instagram allowed an AI image of her to spread",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1010277/mia-goth-instagram-ai-shirt-deepfake-divorce",
+      "source": "The Verge",
+      "published": "2026-10-13T16:42:51+00:00",
+      "topic": "AI overview",
+      "summary": "The post shows Goth in a T-shirt that reads \"MY EX IS MY BIGGEST FAN\" in bold black letters. The Beyoncé song \"Single Ladies (Put a Ring on It)\" had been added to the Instagram post."
+    },
+    {
+      "id": "f9f5ac5db3b603f4975a417d",
+      "title": "Google finally releases Gemini 4 Argon",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon",
+      "source": "The Verge",
+      "published": "2026-10-13T16:00:00+00:00",
+      "topic": "Models & research",
+      "summary": "Google\nsays\nArgon delivers \"frontier reasoning and improved performance across complex workflows,\" while cutting down on hedging, repetition, and the cliches that continue to plague AI chatbots. The company\nclaims\nArgon outperforms rival models like GPT-6 Astra, Claude Fable 5.1, and Claude Opus 5.5 across a range of benchmarks, including coding,…"
+    },
+    {
+      "id": "ce8b8b48b5a890c3bb0d10c3",
+      "title": "Epic shifts to ‘AI-accelerated development’ for upcoming Disney game",
+      "url": "https://www.theverge.com/games/1010097/epic-games-disney-project-ai-coding-art",
+      "source": "The Verge",
+      "published": "2026-10-13T15:12:59+00:00",
+      "topic": "Models & research",
+      "summary": "Epic Games plans to use AI to generate code and art for an unannounced Disney game, which is now delayed from its original March release window, according to a report from\nBloomberg\n. The project's developers have been given an \"AI-first\" mandate directing them to use tools like Anthropic's Claude more to finish the game."
+    },
+    {
+      "id": "7a844a813e581002f0e5ec42",
+      "title": "DLSS 5 gets toned down for its Hogwarts Legacy debut next month",
+      "url": "https://www.theverge.com/news/1009904/dlss-5-hogwarts-legacy-changes-improvements",
+      "source": "The Verge",
+      "published": "2026-10-13T13:55:45+00:00",
+      "topic": "Hardware",
+      "summary": "When Nvidia originally showed off DLSS 5 earlier this year, the technology immediately got branded as gen AI for video games. To gamers,\nNvidia had lost the plot\n."
+    },
+    {
+      "id": "e53df5a0207e061b011cfa86",
+      "title": "SpaceXSI bundles X Premium, Grok, and Cursor into one subscription",
+      "url": "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/",
+      "source": "TechCrunch",
+      "published": "2026-10-13T13:50:19+00:00",
+      "topic": "Products & tools",
+      "summary": "The new X Subscription combines X's paid features with AI tools like Grok and Cursor, offering plans ranging from $8 to $200 per month."
+    },
+    {
       "id": "7c068c6a83688898d134de1c",
       "title": "Apple launches HomeView, its first smart display for the home",
       "url": "https://www.theverge.com/tech/1009704/apple-homeview-smart-display-first-look",
@@ -2564,159 +2699,24 @@
       "published": "2026-09-23T16:49:58+00:00",
       "topic": "Policy & safety",
       "summary": "The report suggests that greater exposure will not resolve the unease around the technology, nor reduce public support for AI regulation."
-    },
-    {
-      "id": "89e61b840a3d977d5ede27c4",
-      "title": "Bernie Sanders proposes banning ‘superintelligence’ and putting violators in prison",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/999443/bernie-sanders-ai-superintelligence-ban-act",
-      "source": "The Verge",
-      "published": "2026-09-23T16:23:05+00:00",
-      "topic": "Policy & safety",
-      "summary": "Sen. Bernie Sanders (I-VT) and Rep. Greg Casar (D-TX)\nhave introduced new legislation\nthat would ban anyone from developing artificial superintelligence - a technology the bill describes as capable of the \"destruction or disempowerment of humanity,\" including by overthrowing the government. Under the\nBan Artificial Superintelligence Act\n, AI leaders would…"
-    },
-    {
-      "id": "113d126fd2d5809f3b323ebc",
-      "title": "YouTube Music gets more conversational with new AI features",
-      "url": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/",
-      "source": "TechCrunch",
-      "published": "2026-09-23T15:19:30+00:00",
-      "topic": "Products & tools",
-      "summary": "Built directly into the YouTube Music app, Ask Music lets users describe what they want to hear in everyday language rather than searching for individual songs or artists."
-    },
-    {
-      "id": "7f3dc7d8b5f4df0a1e8ec6d2",
-      "title": "YouTube is building AI creator tools that do almost everything for them",
-      "url": "https://www.theverge.com/tech/999140/made-on-youtube-creator-tools-ai-thumbnails-tests",
-      "source": "The Verge",
-      "published": "2026-09-23T14:30:00+00:00",
-      "topic": "Products & tools",
-      "summary": "At the annual creator-focused Made on YouTube event, the company announced updates to the suite of AI-powered creator tools it\nunveiled in 2025\n. In its initial iteration, the dashboard of creator tools included things like A/B testing for video thumbnails and a chatbot interface to query how content was performing."
-    },
-    {
-      "id": "4266e9d9fbc7751c9e8e278b",
-      "title": "YouTube releases new AI features for creators within its Studio app",
-      "url": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/",
-      "source": "TechCrunch",
-      "published": "2026-09-23T14:30:00+00:00",
-      "topic": "Products & tools",
-      "summary": "YouTube is adding new features to generate ideas and monitor the performance of thumbnails."
-    },
-    {
-      "id": "3b2c227ed3dc231f78c2e68d",
-      "title": "YouTube will let you build your own algorithm with AI",
-      "url": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/",
-      "source": "TechCrunch",
-      "published": "2026-09-23T14:30:00+00:00",
-      "topic": "Models & research",
-      "summary": "YouTube’s new custom feeds let users describe the videos they want to see in their own words, then use Gemini to build a personalized feed around the request."
-    },
-    {
-      "id": "0f47fbb0da8ec9506dbe9ae6",
-      "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
-      "url": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/",
-      "source": "TechCrunch",
-      "published": "2026-09-23T14:30:00+00:00",
-      "topic": "AI overview",
-      "summary": "StrictlyVC joins TechCrunch Disrupt 2026 to discuss the changing VC landscape thanks to AI. Get your Investor Pass to join these exclusive sessions."
-    },
-    {
-      "id": "117b225a273045971ac7461a",
-      "title": "Ema raises $77M as AI starts eating into enterprise software and services",
-      "url": "https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/",
-      "source": "TechCrunch",
-      "published": "2026-09-23T12:00:00+00:00",
-      "topic": "Business",
-      "summary": "Ema has raised $140 million to date and has more than 50 enterprise customers, including Google and Microsoft."
-    },
-    {
-      "id": "716a82fce17735ae2b46b126",
-      "title": "OpenAI nabs key Patreon execs ahead of upcoming announcement",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam",
-      "source": "The Verge",
-      "published": "2026-09-23T11:02:39+00:00",
-      "topic": "Products & tools",
-      "summary": "Patreon cofounder Sam Yam is joining OpenAI to lead Creator Product. | Image: The Verge\nOpenAI has hired three former Patreon execs to anchor its product strategy for creators."
-    },
-    {
-      "id": "28f1d4284b374828120f249d",
-      "title": "The AI Hype Index: AI loves cheating",
-      "url": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
-      "source": "MIT Technology Review",
-      "published": "2026-09-23T09:00:00+00:00",
-      "topic": "Models & research",
-      "summary": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test."
-    },
-    {
-      "id": "3f251bee96ff67d73b06e211",
-      "title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
-      "url": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
-      "source": "TechCrunch",
-      "published": "2026-09-23T04:59:08+00:00",
-      "topic": "Policy & safety",
-      "summary": "Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that no government is ready for what AI is about to do."
-    },
-    {
-      "id": "a86391fe9862bd8955da5960",
-      "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
-      "source": "The Verge",
-      "published": "2026-09-23T00:17:17+00:00",
-      "topic": "Models & research",
-      "summary": "On Monday, the company\nannounced\na new independent panel of mathematicians tasked with advising it and other AI companies on their interactions with mathematical research and the wider mathematics community, including how new results are presented and released. Its abrupt arrival caught many mathematicians by surprise."
-    },
-    {
-      "id": "b25fe2c5917bd4561c8badeb",
-      "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
-      "url": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
-      "source": "TechCrunch",
-      "published": "2026-09-22T23:21:49+00:00",
-      "topic": "AI overview",
-      "summary": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a company easier and the highs that much greater."
-    },
-    {
-      "id": "7c67ad98e455c6d4ff949ac5",
-      "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
-      "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
-      "source": "TechCrunch",
-      "published": "2026-09-22T21:56:43+00:00",
-      "topic": "Business",
-      "summary": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach."
-    },
-    {
-      "id": "b55c6cd1054ed866620f7669",
-      "title": "Rabbit’s new AI agent doesn’t need an R1 to run",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
-      "source": "The Verge",
-      "published": "2026-09-22T20:52:40+00:00",
-      "topic": "Products & tools",
-      "summary": "According to Rabbit, you can add up to five devices to one account, along with your preferred AI models. OS3 will automatically determine the devices, files, apps, and AI models it needs to complete a task."
-    },
-    {
-      "id": "8ea6cbfd1c9012c5f73deb9a",
-      "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
-      "url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
-      "source": "TechCrunch",
-      "published": "2026-09-22T20:00:00+00:00",
-      "topic": "Hardware",
-      "summary": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally."
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-10-13T13:43:53.101036+00:00",
+      "checked": "2026-10-13T20:06:50.879401+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-10-13T13:43:53.101036+00:00",
+      "checked": "2026-10-13T20:06:50.879401+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-10-13T13:43:53.101036+00:00",
+      "checked": "2026-10-13T20:06:50.879401+00:00",
       "error": null
     }
   ],
-  "updated": "2026-10-13T13:43:53.101036+00:00"
+  "updated": "2026-10-13T20:06:50.879401+00:00"
 }
