@@ -1,13 +1,49 @@
 {
   "articles": [
     {
+      "id": "7a61b7adbf1be295b08f427f",
+      "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
+      "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
+      "source": "TechCrunch",
+      "published": "2026-10-13T23:05:34+00:00",
+      "topic": "Products & tools",
+      "summary": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud."
+    },
+    {
+      "id": "b887f8768cd84d4afa7d76bb",
+      "title": "Cerebras CEO pushes back on AI doomsday warnings",
+      "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
+      "source": "TechCrunch",
+      "published": "2026-10-13T22:36:59+00:00",
+      "topic": "Policy & safety",
+      "summary": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its potential benefits."
+    },
+    {
+      "id": "6ec803e44d1742ccbdc9716f",
+      "title": "OpenAI employee arrested for allegedly planting a bug in a conference room",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
+      "source": "The Verge",
+      "published": "2026-10-13T20:45:25+00:00",
+      "topic": "Models & research",
+      "summary": "An OpenAI engineer was arrested after\nthe company said it discovered\na \"sophisticated recording device\" hidden in one of its offices. The employee was identified as Abdulrahman Alfozan, a 35-year-old Saudi national."
+    },
+    {
+      "id": "cd5bf687da9d4f13bec3b1af",
+      "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
+      "url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
+      "source": "TechCrunch",
+      "published": "2026-10-13T20:36:44+00:00",
+      "topic": "AI overview",
+      "summary": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case."
+    },
+    {
       "id": "f1305662a1d2e7c412f2bf48",
       "title": "Shopify opens its catalog up to more AI agents",
       "url": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
       "source": "The Verge",
       "published": "2026-10-13T19:42:42+00:00",
       "topic": "Products & tools",
-      "summary": "Shopify announced Tuesday it will let shoppers\nconfigure their AI agents\nto purchase products on their behalf, giving more agents access to over a billion listings in Shopify's catalog. (The catalog consists of both items on and off Shopify storefronts.) In September, Shopify\nannounced\nit was partnering with Meta to allow its Muse agent to browse and…"
+      "summary": "CANADA - 2025/07/20: In this photo illustration, the Shopify logo is seen displayed on a smartphone screen. (Photo Illustration by Thomas Fuller/SOPA Images/LightRocket via Getty Images)\nMore AI agents will soon be able to browse and purchase from Shopify listings, marking an expansion of the company's agentic commerce ambitions."
     },
     {
       "id": "b5a0bcffb5b3a77b578c1081",
@@ -92,7 +128,7 @@
     },
     {
       "id": "8e68e2cc66d400ede70166e4",
-      "title": "Actress Mia Goth says it’s ‘incomprehensible’ that Instagram allowed an AI image of her to spread",
+      "title": "It’s ‘incomprehensible’ that Instagram allowed an AI image of Mia Goth to spread, say her reps",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1010277/mia-goth-instagram-ai-shirt-deepfake-divorce",
       "source": "The Verge",
       "published": "2026-10-13T16:42:51+00:00",
@@ -2663,60 +2699,24 @@
       "published": "2026-09-23T19:00:00+00:00",
       "topic": "Products & tools",
       "summary": "It never ceases to amaze me how I can be doing\nnothing at all\n, minding my own business, and suddenly something needs to be taken care of. You're telling me a tree branch fell in the backyard and now I have to figure out what to do with it?"
-    },
-    {
-      "id": "f50a6831740a834adffffc9c",
-      "title": "Data centers are black boxes, but California wants to change that",
-      "url": "https://www.theverge.com/policy/999412/data-center-water-electricity-disclosure-bills",
-      "source": "The Verge",
-      "published": "2026-09-23T18:22:57+00:00",
-      "topic": "Hardware",
-      "summary": "California Gov. Gavin Newsom signed a slate of bills on Monday that could finally give communities better data - and more say - on how data centers impact their electricity bills and water supply. As data centers invade a growing number of communities across the US, they've triggered protests over how the infrastructure underpinning AI might stress power…"
-    },
-    {
-      "id": "08befdebd4cbaf5a42d96577",
-      "title": "Anthropic’s biolab made a discovery it’s comparing to Crispr",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr",
-      "source": "The Verge",
-      "published": "2026-09-23T18:00:00+00:00",
-      "topic": "Models & research",
-      "summary": "Anthropic says its AI Claude has \"autonomously discovered\" a new enzyme system similar to machinery behind the powerful gene-editing tool Crispr. It's the first result from Anthropic's\nnewly-launched wet lab\nand an early test of Claude's usefulness for science as the company prepares to go public."
-    },
-    {
-      "id": "abf255ad4a758cd6ad1eb07b",
-      "title": "ChatGPT mobile app gets voice-based agentic features",
-      "url": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
-      "source": "TechCrunch",
-      "published": "2026-09-23T17:00:00+00:00",
-      "topic": "Products & tools",
-      "summary": "Pro and Plus users will be able to use the Work tab on their phones to complete agentic tasks."
-    },
-    {
-      "id": "ed4850b45c810ba6c3710a95",
-      "title": "Even Americans who use AI every day are worried about it",
-      "url": "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/",
-      "source": "TechCrunch",
-      "published": "2026-09-23T16:49:58+00:00",
-      "topic": "Policy & safety",
-      "summary": "The report suggests that greater exposure will not resolve the unease around the technology, nor reduce public support for AI regulation."
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-10-13T20:06:50.879401+00:00",
+      "checked": "2026-10-14T00:55:32.517196+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-10-13T20:06:50.879401+00:00",
+      "checked": "2026-10-14T00:55:32.517196+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-10-13T20:06:50.879401+00:00",
+      "checked": "2026-10-14T00:55:32.517196+00:00",
       "error": null
     }
   ],
-  "updated": "2026-10-13T20:06:50.879401+00:00"
+  "updated": "2026-10-14T00:55:32.517196+00:00"
 }
