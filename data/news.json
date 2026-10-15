@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "b78f437ea8f9b4c04965fbcf",
+      "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+      "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+      "source": "TechCrunch",
+      "published": "2026-10-15T01:01:32+00:00",
+      "topic": "Hardware",
+      "summary": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process."
+    },
+    {
+      "id": "e92cc7fb106b45e6af78c686",
+      "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
+      "url": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
+      "source": "TechCrunch",
+      "published": "2026-10-15T00:00:00+00:00",
+      "topic": "AI overview",
+      "summary": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—can quickly snowball into a much larger public controversy."
+    },
+    {
       "id": "e10522981d38e79315278779",
       "title": "McKinsey is making job applicants spar with a fake AI client",
       "url": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
@@ -25,7 +43,7 @@
       "source": "The Verge",
       "published": "2026-10-14T19:06:03+00:00",
       "topic": "Models & research",
-      "summary": "Last week, Anthropic and OpenAI looked like they had the AI race to themselves, pulling ahead with increasingly powerful models that left their rivals in the dust. Google seemed hopelessly far behind, while Meta,\ndespite spending billions to revive its floundering AI ambitions\n, had yet to establish itself as a serious contender."
+      "summary": "Mark Zuckerberg at the Meta Connect developer conference. | Photo: Andrej Sokolow/dpa/picture alliance via Getty Images\nLast week, Anthropic and OpenAI looked like they had the AI race to themselves, pulling ahead with increasingly powerful models that left their rivals in the dust."
     },
     {
       "id": "45dfe01c4dcdbd6bc5e9b39f",
@@ -2681,42 +2699,24 @@
       "published": "2026-09-24T17:10:38+00:00",
       "topic": "Products & tools",
       "summary": "We seem to be entering into an AI agent renaissance. Meta's new consumer-facing AI agent, Muse, topped the App Store charts soon after its release and has 600,000 daily active users in the US, by an Apptopia estimate."
-    },
-    {
-      "id": "f97969c5d20fd4ba2aa6fd41",
-      "title": "Google Photos ‘Clueless’-inspired virtual closet is now available on Android and iOS",
-      "url": "https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/",
-      "source": "TechCrunch",
-      "published": "2026-09-24T17:00:00+00:00",
-      "topic": "AI overview",
-      "summary": "The AI-powered feature builds a virtual wardrobe from your photos, and is now broadly available after first rolling out to Android users in June."
-    },
-    {
-      "id": "6472fdda6395fafae5520d3c",
-      "title": "It’s sinister that Meta’s Muse AI mascot is so cute",
-      "url": "https://www.theverge.com/column/999999/optimizer-meta-muse-ai-cute",
-      "source": "The Verge",
-      "published": "2026-09-24T17:00:00+00:00",
-      "topic": "Products & tools",
-      "summary": "The fireman outfit. Dead."
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-10-15T00:19:03.430191+00:00",
+      "checked": "2026-10-15T07:04:34.030416+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-10-15T00:19:03.430191+00:00",
+      "checked": "2026-10-15T07:04:34.030416+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-10-15T00:19:03.430191+00:00",
+      "checked": "2026-10-15T07:04:34.030416+00:00",
       "error": null
     }
   ],
-  "updated": "2026-10-15T00:19:03.430191+00:00"
+  "updated": "2026-10-15T07:04:34.030416+00:00"
 }
