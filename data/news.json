@@ -1,6 +1,78 @@
 {
   "articles": [
     {
+      "id": "f2d5651ecb42923d93eaf1d9",
+      "title": "Meta launches an open-weight AI model that runs on Macs",
+      "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+      "source": "TechCrunch",
+      "published": "2026-10-15T20:04:53+00:00",
+      "topic": "Models & research",
+      "summary": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon."
+    },
+    {
+      "id": "e85c6a5b67dae4b4f4efc90e",
+      "title": "Bluesky’s AI tool now lets you make games and apps to share on social",
+      "url": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps",
+      "source": "The Verge",
+      "published": "2026-10-15T19:57:16+00:00",
+      "topic": "Products & tools",
+      "summary": "Bluesky's Attie AI tool, which initially launched earlier this year as a way to use AI to build your own feeds, now lets you make \"small\" social apps like games, polls, and dashboards that you can then share with others as their own websites. In an interview\nat TechCrunch Disrupt\n, Bluesky CEO Toni Schneider said to think of Attie as \"social vibe coding or…"
+    },
+    {
+      "id": "f2f6f0e7a83f8ae6ffd92065",
+      "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
+      "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
+      "source": "TechCrunch",
+      "published": "2026-10-15T19:55:25+00:00",
+      "topic": "Products & tools",
+      "summary": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands."
+    },
+    {
+      "id": "20dfecfa26f1e2fc7aa5844a",
+      "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
+      "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
+      "source": "TechCrunch",
+      "published": "2026-10-15T19:14:26+00:00",
+      "topic": "Models & research",
+      "summary": "METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them."
+    },
+    {
+      "id": "70eb8d3db75495311c3a94d9",
+      "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
+      "url": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
+      "source": "TechCrunch",
+      "published": "2026-10-15T18:56:46+00:00",
+      "topic": "Products & tools",
+      "summary": "Bluesky is bringing “social vibe coding” to its experimental Attie platform, allowing users to create interactive experiences like games, quizzes, and websites that can tap into the social network's audience."
+    },
+    {
+      "id": "a4dc299544df68f2cb5ed32f",
+      "title": "Meta and Apple team up to make Muse AI models run better on Macs",
+      "url": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
+      "source": "The Verge",
+      "published": "2026-10-15T18:15:36+00:00",
+      "topic": "Models & research",
+      "summary": "The new Muse Spark Open AI model can work on M5 Ultra Mac Studios. | Photo: Amelia Holowaty Krales / The Verge\nMeta announced\nthe Muse Spark Open AI model today\n, claiming that it's the \"most capable US open-weight model to date.\" But the company also says that it's the \"the first model in its class\" that can \"run on your desktop using two Apple M5 Ultra…"
+    },
+    {
+      "id": "c7c9cc2b493a13afd6e13327",
+      "title": "Friends don’t let friends feed their data to AI agents",
+      "url": "https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent",
+      "source": "The Verge",
+      "published": "2026-10-15T16:21:45+00:00",
+      "topic": "Products & tools",
+      "summary": "There's a growing trend in the consumer tech world: gadgets\ndesigned to spy on everything and everyone around you\n, regardless of whether or not anyone else actually consented to it. Now, with the advent of \"AI personal assistants\" like Meta's Muse, you're being cheerfully asked not just to give up your own data, but also the information of your friends,…"
+    },
+    {
+      "id": "72c9fb61eb837aea964be0c0",
+      "title": "AI agents are coming to Rivian’s cars",
+      "url": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
+      "source": "TechCrunch",
+      "published": "2026-10-15T15:02:36+00:00",
+      "topic": "Products & tools",
+      "summary": "We'll likely learn more about how this will work at the company's upcoming \"AI & Autonomy Day\" event in December."
+    },
+    {
       "id": "b7e6e91e4028317e604e2503",
       "title": "How Windows is being optimized for Nvidia’s RTX Spark laptops",
       "url": "https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad",
@@ -2627,96 +2699,24 @@
       "published": "2026-09-25T16:49:53+00:00",
       "topic": "Products & tools",
       "summary": "Yesterday, with a little prodding, it was discovered that Meta's Muse would\nexpose its filesystem\nto curious users. The files offered a fascinating peek under the hood of an AI chatbot, and appeared to expose details we weren't meant to see, not least because Muse itself told people, including us, it wasn't supposed to reveal them."
-    },
-    {
-      "id": "2cd7844d24860465a4d1fa92",
-      "title": "Meta is putting its muscle behind Muse as the AI app takes off",
-      "url": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
-      "source": "TechCrunch",
-      "published": "2026-09-25T16:16:52+00:00",
-      "topic": "Products & tools",
-      "summary": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agent's promotion across its own apps and beyond."
-    },
-    {
-      "id": "656c9f3000b049c0a033f633",
-      "title": "Meta’s AI Tamagotchi bet is…working?",
-      "url": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
-      "source": "TechCrunch",
-      "published": "2026-09-25T16:00:00+00:00",
-      "topic": "Models & research",
-      "summary": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into model drop week for both companies as Anthropic rolled out Opus 5.5, followed by OpenAI’s GPT-6 model updates just 90 minutes later."
-    },
-    {
-      "id": "3d8278c32fc7ccde458fb56f",
-      "title": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
-      "url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
-      "source": "TechCrunch",
-      "published": "2026-09-25T15:48:14+00:00",
-      "topic": "Products & tools",
-      "summary": "The latest unauthorized agent swarms were discovered by researchers."
-    },
-    {
-      "id": "68927c778ed014741b31d316",
-      "title": "Anthropic’s founders seek voting control ahead of IPO",
-      "url": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/",
-      "source": "TechCrunch",
-      "published": "2026-09-25T15:40:03+00:00",
-      "topic": "AI overview",
-      "summary": "Anthropic is asking its shareholders to approve a structure that would give its seven co-founders a combined 50.1% of the vote on most corporate matters."
-    },
-    {
-      "id": "43d45f70ac9f46b35f201240",
-      "title": "One company is at the center of a wave of rogue AI attacks",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
-      "source": "The Verge",
-      "published": "2026-09-25T15:39:48+00:00",
-      "topic": "Models & research",
-      "summary": "In July, OpenAI revealed that its AI agents had\nattacked Hugging Face without permission\n, sparking widespread concerns about\nAI safety. Since then, a\nstring of similar incidents\ninvolving agents from Meta, Anthropic, Google, and other companies has\nfueled further fears about rogue AI\n."
-    },
-    {
-      "id": "439dcfde53e44b068d1135bc",
-      "title": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
-      "url": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/",
-      "source": "TechCrunch",
-      "published": "2026-09-25T15:00:00+00:00",
-      "topic": "Hardware",
-      "summary": "At TechCrunch Disrupt 2026, Ricursive Intelligence co-founders Anna Goldie and Azalia Mirhoseini will take the Disrupt Stage to discuss closing the loop between AI and chip development. Save up to $200 on your pass before today ends."
-    },
-    {
-      "id": "c58ed3cc3208b882e8c80570",
-      "title": "Can Apple Home’s AI camera features outsmart Amazon’s and Google’s? I put them to the test",
-      "url": "https://www.theverge.com/tech/1000321/apple-intelligence-home-security-camera-amazon-ring-alexa-google-nest-gemini-home-review",
-      "source": "The Verge",
-      "published": "2026-09-25T13:00:00+00:00",
-      "topic": "Models & research",
-      "summary": "I used Google’s Nest Doorbell (left), Aqara’s HomeKit-compatible G400 (center), and the Ring Pro 4K (right) to test the new AI features of Gemini for Home, Apple Intelligence for Home, and Amazon’s Ring. | Photo by Jennifer Pattison Tuohy / The Verge\nA few years back, I was at a beachside Easter egg hunt, watching my kids dash through sand dunes searching…"
-    },
-    {
-      "id": "ab39be48455141249d5d2fbf",
-      "title": "Microsoft thinks its new Copilot ‘super app’ will be as influential as Office",
-      "url": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot",
-      "source": "The Verge",
-      "published": "2026-09-25T12:00:00+00:00",
-      "topic": "Products & tools",
-      "summary": "After teasing its new Copilot \"super app\"\nlast month\n, Microsoft is officially unveiling it today. The redesigned Copilot app bundles three AI capabilities into a single interface of chat, coding, and agents."
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-10-15T14:43:03.604874+00:00",
+      "checked": "2026-10-15T21:01:29.479534+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-10-15T14:43:03.604874+00:00",
+      "checked": "2026-10-15T21:01:29.479534+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-10-15T14:43:03.604874+00:00",
+      "checked": "2026-10-15T21:01:29.479534+00:00",
       "error": null
     }
   ],
-  "updated": "2026-10-15T14:43:03.604874+00:00"
+  "updated": "2026-10-15T21:01:29.479534+00:00"
 }
