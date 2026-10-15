@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "id": "e10522981d38e79315278779",
+      "title": "McKinsey is making job applicants spar with a fake AI client",
+      "url": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
+      "source": "The Verge",
+      "published": "2026-10-14T22:53:31+00:00",
+      "topic": "AI overview",
+      "summary": "The AI simulation \"aims to reflect 80% of the scenarios McKinsey consultants might encounter in their day-to-day work,\" the\nWSJ\nsays, and it isn't designed to \"mimic an unhinged client.\" The AI won't score the candidates - humans will be in the room to assess the candidates and see how well they deal with the simulated situations."
+    },
+    {
       "id": "9194e801adbca278e9a4cefb",
       "title": "Eight states sue OpenAI, saying ChatGPT isn’t safe for kids",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
@@ -2690,33 +2699,24 @@
       "published": "2026-09-24T17:00:00+00:00",
       "topic": "Products & tools",
       "summary": "The fireman outfit. Dead."
-    },
-    {
-      "id": "87cb2cb946303557637c74c9",
-      "title": "ElevenLabs’ CEO on margins, IPO timing, and telling customers they’re talking to a bot",
-      "url": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/",
-      "source": "TechCrunch",
-      "published": "2026-09-24T16:35:13+00:00",
-      "topic": "AI overview",
-      "summary": "ElevenLabs powers the AI voice on the other end of a lot of customer service calls, and its CEO told me this week that businesses should probably tell you that — at least until getting a machine is what everyone expects anyway."
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-10-14T21:21:23.687657+00:00",
+      "checked": "2026-10-15T00:19:03.430191+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-10-14T21:21:23.687657+00:00",
+      "checked": "2026-10-15T00:19:03.430191+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-10-14T21:21:23.687657+00:00",
+      "checked": "2026-10-15T00:19:03.430191+00:00",
       "error": null
     }
   ],
-  "updated": "2026-10-14T21:21:23.687657+00:00"
+  "updated": "2026-10-15T00:19:03.430191+00:00"
 }
