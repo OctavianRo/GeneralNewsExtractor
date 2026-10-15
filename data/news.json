@@ -1,6 +1,78 @@
 {
   "articles": [
     {
+      "id": "b7e6e91e4028317e604e2503",
+      "title": "How Windows is being optimized for Nvidia’s RTX Spark laptops",
+      "url": "https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad",
+      "source": "The Verge",
+      "published": "2026-10-15T14:30:00+00:00",
+      "topic": "Hardware",
+      "summary": "Microsoft and Nvidia held a launch party for the first wave of RTX Spark laptops last week in San Francisco, where a new wave of AI PCs took center stage amid a packed crowd and a lively hands-on area. A day after the media event, I was invited to a quieter Nvidia event to hear a lot more about the new RTX Spark computing platform."
+    },
+    {
+      "id": "812403745052045f3fc1cf82",
+      "title": "Google’s Universal Cart shopping tool launches in the US",
+      "url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
+      "source": "TechCrunch",
+      "published": "2026-10-15T14:29:33+00:00",
+      "topic": "Products & tools",
+      "summary": "The new shopping tool is available in the U.S. across Google Search and the Gemini app."
+    },
+    {
+      "id": "bd42108ff227ced5a405d222",
+      "title": "Nobody is safe from celebrity AI deepfakes",
+      "url": "https://www.theverge.com/report/1011927/instagram-celebrity-ai-slop-likeness-taylor-swift-mia-goth",
+      "source": "The Verge",
+      "published": "2026-10-15T14:03:42+00:00",
+      "topic": "Business",
+      "summary": "In hindsight, the post on Instagram should have raised more red flags. The image\npurported to show actress Mia Goth\n, just days after filing for divorce from actor and filmmaker Shia LaBeouf, posing in a T-shirt with a pointed message:\nMY EX IS MY BIGGEST FAN\n."
+    },
+    {
+      "id": "4b235d19b2c1618b275a6337",
+      "title": "Benn Jordan on Flock, privacy, and the new surveillance backlash",
+      "url": "https://www.theverge.com/podcast/1011170/benn-jordan-flock-cameras-alpr-ai-surveillance-privacy",
+      "source": "The Verge",
+      "published": "2026-10-15T14:00:00+00:00",
+      "topic": "Policy & safety",
+      "summary": "Today, I’m talking with Benn Jordan, musician, YouTuber, researcher, and investigative journalist. You might know Benn from those first two titles — he’s got a prolific discography of experimental music dating back decades."
+    },
+    {
+      "id": "ffc7b43ee50f74cceaeb1dca",
+      "title": "Google launches its ‘universal’ online shopping cart ahead of the holidays",
+      "url": "https://www.theverge.com/tech/1011797/google-ai-universal-cart-shopping-tool-launch",
+      "source": "The Verge",
+      "published": "2026-10-15T13:00:00+00:00",
+      "topic": "Products & tools",
+      "summary": "Google's intelligent AI shopping cart is finally here, and just in time to tempt users into Black Friday and seasonal holiday spending. The\nUniversal Cart\ntool Google previewed at its I/O event in May is now rolling out in the US across the Gemini app and Google Search, with the aim of making it easier to stay organized and save money when shopping online."
+    },
+    {
+      "id": "e407e4438cc9c69dbc4659d9",
+      "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
+      "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
+      "source": "TechCrunch",
+      "published": "2026-10-15T12:00:00+00:00",
+      "topic": "Business",
+      "summary": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize conversations, create to-do lists, and integrate with Alexa and Amazon shopping, with prices starting at $74.99."
+    },
+    {
+      "id": "c07a9af3c9fccff99bb26417",
+      "title": "Amazon’s always-listening Bee wearable can now help you buy stuff",
+      "url": "https://www.theverge.com/tech/1011475/amazon-bee-frontier-eclipse-price-specs",
+      "source": "The Verge",
+      "published": "2026-10-15T12:00:00+00:00",
+      "topic": "Business",
+      "summary": "Last year,\nAmazon bought Bee\n, a relatively unknown startup with a $50 always-listening AI wearable that summarized every conversation you had. Today, the e-commerce giant is announcing two new Bee devices - and a new subscription to go with them."
+    },
+    {
+      "id": "c0b77d592a9eb64d6164a123",
+      "title": "Your secrets aren’t safe with this cute robot toy — they’re on Chinese servers ready to be hacked",
+      "url": "https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab",
+      "source": "The Verge",
+      "published": "2026-10-15T11:00:00+00:00",
+      "topic": "AI overview",
+      "summary": "There's a new digital pet in town - a cute little marshmallow of a robot that can change its cartoony expressions to match your mood. But if you or your kids talk to \"Eiliko\" over Wi-Fi, it'll phone home to China."
+    },
+    {
       "id": "b78f437ea8f9b4c04965fbcf",
       "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
       "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
@@ -16,7 +88,7 @@
       "source": "TechCrunch",
       "published": "2026-10-15T00:00:00+00:00",
       "topic": "AI overview",
-      "summary": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—can quickly snowball into a much larger public controversy."
+      "summary": "Gudea, a company that tracks how stories and rumors spread online that describes itself as the “storm tracker for the internet,” is using AI to help organizations spot trouble brewing online before it turns into a crisis."
     },
     {
       "id": "e10522981d38e79315278779",
@@ -2627,96 +2699,24 @@
       "published": "2026-09-25T12:00:00+00:00",
       "topic": "Products & tools",
       "summary": "After teasing its new Copilot \"super app\"\nlast month\n, Microsoft is officially unveiling it today. The redesigned Copilot app bundles three AI capabilities into a single interface of chat, coding, and agents."
-    },
-    {
-      "id": "c2d047e87e05c5929ff15084",
-      "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
-      "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
-      "source": "MIT Technology Review",
-      "published": "2026-09-25T09:16:25+00:00",
-      "topic": "Models & research",
-      "summary": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a\nDepartment of Defense budget request\n. The program, called Polygraph+ or Polygraph Next, will focus on scoring algorithms that use artificial intelligence and machine learning and on a technique called “standoff sensing,” which refers…"
-    },
-    {
-      "id": "ff3979163f0a6a79e8f18c6f",
-      "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
-      "url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
-      "source": "TechCrunch",
-      "published": "2026-09-25T05:00:00+00:00",
-      "topic": "Business",
-      "summary": "The venture firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period."
-    },
-    {
-      "id": "4b0e8d72e3ff9980033f6bd7",
-      "title": "Gemini 3.8 Live with Live Avatar gives Google’s AI a face",
-      "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
-      "source": "The Verge",
-      "published": "2026-09-24T19:59:26+00:00",
-      "topic": "Models & research",
-      "summary": "Google's new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona respond in real time. The\n\"Live Avatar\" will lip-sync\nand show different facial expressions during conversations, but it's currently only available to Gemini Enterprise customers."
-    },
-    {
-      "id": "30290d8cdac77d28ad1c1aa2",
-      "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
-      "url": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
-      "source": "TechCrunch",
-      "published": "2026-09-24T19:00:42+00:00",
-      "topic": "Models & research",
-      "summary": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have."
-    },
-    {
-      "id": "bcb31d434ed42cb8e10d406e",
-      "title": "Jensen Huang talks about AI and climate change like a supervillain",
-      "url": "https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain",
-      "source": "The Verge",
-      "published": "2026-09-24T18:04:44+00:00",
-      "topic": "Hardware",
-      "summary": "The Nvidia CEO discussed the future of energy and AI's impact on our planet in the latest episode of\nThe Ezra Klein Show\n. But his comments boil down to the same accelerationist spin we've seen from a variety of tech leaders as well as President Donald Trump."
-    },
-    {
-      "id": "d0c09943ed7a0f81eaabc6f8",
-      "title": "Meta is going to let you build games with AI right on your phone",
-      "url": "https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games",
-      "source": "The Verge",
-      "published": "2026-09-24T17:52:29+00:00",
-      "topic": "Products & tools",
-      "summary": "Meta has a new plan to get people to make games for its Horizon social platform. The company\ntoday announced\ntwo new development tools that will let you create games with AI prompts: Horizon Create, a mobile app, and Horizon Studio, a browser app that offers more granular controls."
-    },
-    {
-      "id": "c55e075bb2c7402ef29cd3c3",
-      "title": "Meta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend",
-      "url": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
-      "source": "TechCrunch",
-      "published": "2026-09-24T17:39:24+00:00",
-      "topic": "AI overview",
-      "summary": "Meta’s new AI gadget may look like a Tamagotchi, but its dangling form factor taps into a much broader Gen Z trend around bag charms, retro tech, and turning gadgets into fashion accessories."
-    },
-    {
-      "id": "dac80f12a88a9c0ac84f1531",
-      "title": "Muse sure looks a lot like OpenClaw",
-      "url": "https://www.theverge.com/report/1000180/muse-openclaw-instinct-lookalike",
-      "source": "The Verge",
-      "published": "2026-09-24T17:10:38+00:00",
-      "topic": "Products & tools",
-      "summary": "We seem to be entering into an AI agent renaissance. Meta's new consumer-facing AI agent, Muse, topped the App Store charts soon after its release and has 600,000 daily active users in the US, by an Apptopia estimate."
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-10-15T07:04:34.030416+00:00",
+      "checked": "2026-10-15T14:43:03.604874+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-10-15T07:04:34.030416+00:00",
+      "checked": "2026-10-15T14:43:03.604874+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-10-15T07:04:34.030416+00:00",
+      "checked": "2026-10-15T14:43:03.604874+00:00",
       "error": null
     }
   ],
-  "updated": "2026-10-15T07:04:34.030416+00:00"
+  "updated": "2026-10-15T14:43:03.604874+00:00"
 }
