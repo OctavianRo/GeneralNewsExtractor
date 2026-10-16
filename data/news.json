@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "id": "eb0ac7f68c40eb75daf8838b",
+      "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
+      "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
+      "source": "TechCrunch",
+      "published": "2026-10-15T23:44:56+00:00",
+      "topic": "Business",
+      "summary": "The company generated over $30 million in revenue in two years and was acquired by MyFitness for an undisclosed amount of money in March."
+    },
+    {
+      "id": "e07170025272d6f16433e736",
+      "title": "ChatGPT can peek at your Chrome tabs now",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
+      "source": "The Verge",
+      "published": "2026-10-15T22:43:23+00:00",
+      "topic": "Products & tools",
+      "summary": "A few big upgrades for Chrome users today! We're bringing the power of computer use to anyone who uses Chrome.First up: ChatGPT can now use your tabs in Chrome to make answers more useful and get things done for you."
+    },
+    {
+      "id": "c462dfdce3bb5a72ee6f5988",
+      "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
+      "url": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
+      "source": "The Verge",
+      "published": "2026-10-15T22:35:55+00:00",
+      "topic": "AI overview",
+      "summary": "Sega is removing\nTotal War: Shogun 2 - Complete Edition\nfrom storefronts following a disastrous launch where users complained about issues like bugs and upscaling that appears to have been done by AI."
+    },
+    {
+      "id": "43032a6db2e0b8c5afd7a7a9",
+      "title": "Trump posts AI-edited photo to brag about White House restoration work",
+      "url": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
+      "source": "The Verge",
+      "published": "2026-10-15T21:09:33+00:00",
+      "topic": "AI overview",
+      "summary": "President Donald Trump posted\na series of photos\non Truth Social showing off renovations to the White House - but\none of them appears\nto be modified with AI. The picture, which compares an old White House column to a \"restored\" one, has several discrepancies and was flagged by Google's AI detector as \"made or edited with OpenAI.\"\nAs\npointed out by users on…"
+    },
+    {
       "id": "f2d5651ecb42923d93eaf1d9",
       "title": "Meta launches an open-weight AI model that runs on Macs",
       "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
@@ -2663,60 +2699,24 @@
       "published": "2026-09-25T18:33:59+00:00",
       "topic": "Hardware",
       "summary": "The funding, which comes from Third Point, Nvidia, and others, will fuel the company's massive AI data center buildout."
-    },
-    {
-      "id": "3f04347922eefb3c11c4d132",
-      "title": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
-      "url": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
-      "source": "TechCrunch",
-      "published": "2026-09-25T18:22:47+00:00",
-      "topic": "Models & research",
-      "summary": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into model drop week for both companies as Anthropic rolled out Opus 5.5, followed by OpenAI’s GPT-6 model updates just 90 minutes later."
-    },
-    {
-      "id": "afee09e47d3238fb7c95cda7",
-      "title": "Some Supabase customers are publicly exposing reams of people’s data to the web",
-      "url": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
-      "source": "TechCrunch",
-      "published": "2026-09-25T17:29:46+00:00",
-      "topic": "Products & tools",
-      "summary": "The findings highlight how AI-generated and vibe-coded apps can spill and expose users' data when not configured or secured properly."
-    },
-    {
-      "id": "6ffcb5f81009728687c0b8fe",
-      "title": "Astra and Opus just passed Turing’s other test",
-      "url": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/",
-      "source": "TechCrunch",
-      "published": "2026-09-25T17:24:36+00:00",
-      "topic": "Models & research",
-      "summary": "Frontier AI models are finishing Alan Turing's World War II codebreaking work."
-    },
-    {
-      "id": "ded5f30056dbe56f778ebd90",
-      "title": "Meta makes the Muse filesystem even more accessible",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem",
-      "source": "The Verge",
-      "published": "2026-09-25T16:49:53+00:00",
-      "topic": "Products & tools",
-      "summary": "Yesterday, with a little prodding, it was discovered that Meta's Muse would\nexpose its filesystem\nto curious users. The files offered a fascinating peek under the hood of an AI chatbot, and appeared to expose details we weren't meant to see, not least because Muse itself told people, including us, it wasn't supposed to reveal them."
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-10-15T21:01:29.479534+00:00",
+      "checked": "2026-10-16T00:06:52.540248+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-10-15T21:01:29.479534+00:00",
+      "checked": "2026-10-16T00:06:52.540248+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-10-15T21:01:29.479534+00:00",
+      "checked": "2026-10-16T00:06:52.540248+00:00",
       "error": null
     }
   ],
-  "updated": "2026-10-15T21:01:29.479534+00:00"
+  "updated": "2026-10-16T00:06:52.540248+00:00"
 }
