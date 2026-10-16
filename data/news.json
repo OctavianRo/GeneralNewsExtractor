@@ -1,6 +1,78 @@
 {
   "articles": [
     {
+      "id": "d7f9dafe0b002b49ecb832ec",
+      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "source": "MIT Technology Review",
+      "published": "2026-10-16T18:00:00+00:00",
+      "topic": "Models & research",
+      "summary": "Can AI design new life forms? In 2025, Stanford University PhD student\nSamuel King\ncame up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses."
+    },
+    {
+      "id": "8ffbbf24c13a812ddef930fd",
+      "title": "India becomes the latest country to report rogue AI agent activity",
+      "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+      "source": "TechCrunch",
+      "published": "2026-10-16T17:52:24+00:00",
+      "topic": "Products & tools",
+      "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles."
+    },
+    {
+      "id": "bd2b33f50b82d969ffaa0a39",
+      "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+      "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
+      "source": "TechCrunch",
+      "published": "2026-10-16T16:30:00+00:00",
+      "topic": "Hardware",
+      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who believe that robotics, powered by a general foundation model,…"
+    },
+    {
+      "id": "68b9f741f3df646ee4cfe16c",
+      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+      "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+      "source": "TechCrunch",
+      "published": "2026-10-16T16:30:00+00:00",
+      "topic": "Hardware",
+      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who believe that robotics, powered by a general foundation model,…"
+    },
+    {
+      "id": "5cea1aeddd4affb9d6986e7b",
+      "title": "Elorian’s first AI model wants to reason with images, not just about them",
+      "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+      "source": "TechCrunch",
+      "published": "2026-10-16T16:01:37+00:00",
+      "topic": "Models & research",
+      "summary": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks."
+    },
+    {
+      "id": "7ff2fab56ea772a237d9cee8",
+      "title": "Jev is Vercel’s fastest-adopted AI model ever",
+      "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
+      "source": "TechCrunch",
+      "published": "2026-10-16T15:33:49+00:00",
+      "topic": "Models & research",
+      "summary": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter."
+    },
+    {
+      "id": "54ebdfe79863725a246639b5",
+      "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
+      "url": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
+      "source": "The Verge",
+      "published": "2026-10-16T15:00:00+00:00",
+      "topic": "Hardware",
+      "summary": "Nvidia’s new SoC is available in Windows laptops from six different manufacturers. We’ve collectively tested four of them so far."
+    },
+    {
+      "id": "e1b3c44f13458aa644abeccb",
+      "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
+      "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
+      "source": "TechCrunch",
+      "published": "2026-10-16T14:26:51+00:00",
+      "topic": "AI overview",
+      "summary": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\""
+    },
+    {
       "id": "ca580b1475b7847a1b70cd0a",
       "title": "Meta’s new terms may allow it to train AI on news sites for free",
       "url": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
@@ -2627,96 +2699,24 @@
       "published": "2026-09-27T17:21:07+00:00",
       "topic": "Products & tools",
       "summary": "The United Nations logo on a gate outside the UN headquarters in New York. | AFP via Getty Images\nSecurity researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site\nover 16,000 times between April and June\n."
-    },
-    {
-      "id": "6901e576884284fc9558bce0",
-      "title": "Anthropic’s Dario Amodei gets the ‘SNL’ treatment",
-      "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
-      "source": "TechCrunch",
-      "published": "2026-09-27T16:30:00+00:00",
-      "topic": "AI overview",
-      "summary": "\"Saturday Night Live\" took on the AI industry’s recent warnings of doom last night, as cast member Jane Wickline offered her impression of Anthropic CEO Dario Amodei."
-    },
-    {
-      "id": "3e5c288472f5aa9bfe844f9e",
-      "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
-      "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
-      "source": "TechCrunch",
-      "published": "2026-09-27T01:30:00+00:00",
-      "topic": "Models & research",
-      "summary": "The limited test covers select products and users, with a broader rollout planned for later in October."
-    },
-    {
-      "id": "3eda5db8c05960eb16be6155",
-      "title": "Insurers claim AI is already increasing healthcare costs",
-      "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
-      "source": "TechCrunch",
-      "published": "2026-09-26T21:02:06+00:00",
-      "topic": "Products & tools",
-      "summary": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942 million in healthcare spending over a two-year period."
-    },
-    {
-      "id": "960b51012f8d643a2607663a",
-      "title": "OpenAI pauses training of its ‘most capable models’",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
-      "source": "The Verge",
-      "published": "2026-09-26T16:34:59+00:00",
-      "topic": "Models & research",
-      "summary": "As reports of OpenAI's models\nbreaking containment\n, hacking sites, and generally getting out of control pile up, the company has made the decision to\npause training\nof its most powerful models. The decision was made after a model being tested within a sandbox exploited a loophole to\ngain internet access\n."
-    },
-    {
-      "id": "feac97c0d0c1b334bc45522c",
-      "title": "I created an interactive digital avatar of myself — and you can talk to it",
-      "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
-      "source": "TechCrunch",
-      "published": "2026-09-26T14:00:00+00:00",
-      "topic": "AI overview",
-      "summary": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves."
-    },
-    {
-      "id": "89f9618650b31d06afa5d0a9",
-      "title": "Can Cloudflare CEO Matthew Prince save the web from AI?",
-      "url": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
-      "source": "The Verge",
-      "published": "2026-09-26T14:00:00+00:00",
-      "topic": "Models & research",
-      "summary": "Today, I’m talking with Matthew Prince, who is CEO of Cloudflare. This episode is part of a two-part series on the future of business."
-    },
-    {
-      "id": "1947fc4b63e367739e7dafc9",
-      "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
-      "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
-      "source": "TechCrunch",
-      "published": "2026-09-25T23:11:10+00:00",
-      "topic": "Hardware",
-      "summary": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans."
-    },
-    {
-      "id": "0411e27744838b14a44daf10",
-      "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
-      "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
-      "source": "TechCrunch",
-      "published": "2026-09-25T22:20:47+00:00",
-      "topic": "Products & tools",
-      "summary": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge."
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-10-16T14:36:54.250481+00:00",
+      "checked": "2026-10-16T20:37:00.548817+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-10-16T14:36:54.250481+00:00",
+      "checked": "2026-10-16T20:37:00.548817+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-10-16T14:36:54.250481+00:00",
+      "checked": "2026-10-16T20:37:00.548817+00:00",
       "error": null
     }
   ],
-  "updated": "2026-10-16T14:36:54.250481+00:00"
+  "updated": "2026-10-16T20:37:00.548817+00:00"
 }
