@@ -1,8 +1,26 @@
 {
   "articles": [
     {
+      "id": "7dd27ee4e856d38c005b577b",
+      "title": "Meta removes language that raised scraping and AI training concerns",
+      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "source": "TechCrunch",
+      "published": "2026-10-17T21:31:32+00:00",
+      "topic": "Business",
+      "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web."
+    },
+    {
+      "id": "fd3979152c2e61bd5aa53781",
+      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+      "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+      "source": "TechCrunch",
+      "published": "2026-10-17T20:21:19+00:00",
+      "topic": "AI overview",
+      "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year."
+    },
+    {
       "id": "fcf73aabe3e37fa7f99807ec",
-      "title": "Replit is no longer working with Anthropic, CEO says",
+      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
       "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
       "source": "TechCrunch",
       "published": "2026-10-17T18:48:08+00:00",
@@ -2681,42 +2699,24 @@
       "published": "2026-09-28T13:36:06+00:00",
       "topic": "Products & tools",
       "summary": "Nvidia is launching a new safety platform designed to contain and monitor AI agents, a move that comes in response to a\nwave of rogue hacking incidents\n, as\nreported earlier by\nReuters\n. In\nan announcement on Monday\n, Nvidia says its new Open Agent Safety Platform can quarantine agents that attempt to escape their boundaries within \"milliseconds.\""
-    },
-    {
-      "id": "9b8486475fb0050a06344751",
-      "title": "Who’s liable when AI agents go rogue?",
-      "url": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
-      "source": "MIT Technology Review",
-      "published": "2026-09-28T08:06:22+00:00",
-      "topic": "Policy & safety",
-      "summary": "MIT Technology Review Explains\n: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here\n."
-    },
-    {
-      "id": "566a52e15e047c95713b9d7a",
-      "title": "Engram is a sampler that turns broken AI hallucinations into music",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
-      "source": "The Verge",
-      "published": "2026-09-27T20:46:36+00:00",
-      "topic": "Models & research",
-      "summary": "Music startup\nThoughtful Things\nhas just launched the Kickstarter campaign for its first instrument,\nEngram\n. It's a sampler and groovebox that uses AI to mangle incoming audio and even hallucinate completely new sounds."
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-10-17T20:15:28.136046+00:00",
+      "checked": "2026-10-17T23:48:42.811957+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-10-17T20:15:28.136046+00:00",
+      "checked": "2026-10-17T23:48:42.811957+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-10-17T20:15:28.136046+00:00",
+      "checked": "2026-10-17T23:48:42.811957+00:00",
       "error": null
     }
   ],
-  "updated": "2026-10-17T20:15:28.136046+00:00"
+  "updated": "2026-10-17T23:48:42.811957+00:00"
 }
