@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "id": "fdd4c6f578d6ab89d343a0d6",
+      "title": "Replit is no longer working with Anthropic, CEO says",
+      "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "source": "TechCrunch",
+      "published": "2026-10-16T21:22:28+00:00",
+      "topic": "AI overview",
+      "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic."
+    },
+    {
       "id": "d7f9dafe0b002b49ecb832ec",
       "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
       "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
@@ -2690,33 +2699,24 @@
       "published": "2026-09-27T19:57:30+00:00",
       "topic": "AI overview",
       "summary": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic."
-    },
-    {
-      "id": "c35bd152b345cd2b7b37d63c",
-      "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
-      "source": "The Verge",
-      "published": "2026-09-27T17:21:07+00:00",
-      "topic": "Products & tools",
-      "summary": "The United Nations logo on a gate outside the UN headquarters in New York. | AFP via Getty Images\nSecurity researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site\nover 16,000 times between April and June\n."
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-10-16T20:37:00.548817+00:00",
+      "checked": "2026-10-17T00:11:10.661992+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-10-16T20:37:00.548817+00:00",
+      "checked": "2026-10-17T00:11:10.661992+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-10-16T20:37:00.548817+00:00",
+      "checked": "2026-10-17T00:11:10.661992+00:00",
       "error": null
     }
   ],
-  "updated": "2026-10-16T20:37:00.548817+00:00"
+  "updated": "2026-10-17T00:11:10.661992+00:00"
 }
