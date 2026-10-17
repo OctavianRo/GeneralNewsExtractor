@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "id": "b31543fcd7d1501be961df37",
+      "title": "Websites are closing their doors to AI agents",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+      "source": "The Verge",
+      "published": "2026-10-17T13:00:00+00:00",
+      "topic": "Products & tools",
+      "summary": "In recent weeks, users of services like Meta's Muse, xAI's Grok, OpenAI's Dots, and Instinct have reported blocks preventing their AI agents from performing tasks across top websites. Yelp\ntold\nTechCrunch\nthat it only allows AI agents that pay for its data licensing program, while Delta Air Lines is preventing them from booking ticket …"
+    },
+    {
       "id": "fdd4c6f578d6ab89d343a0d6",
       "title": "Replit is no longer working with Anthropic, CEO says",
       "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
@@ -2690,33 +2699,24 @@
       "published": "2026-09-27T20:34:28+00:00",
       "topic": "AI overview",
       "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump."
-    },
-    {
-      "id": "f5ecb7d590289cbc069f407f",
-      "title": "Can Muse overcome Meta’s trust issues?",
-      "url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
-      "source": "TechCrunch",
-      "published": "2026-09-27T19:57:30+00:00",
-      "topic": "AI overview",
-      "summary": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic."
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-10-17T06:40:16.569782+00:00",
+      "checked": "2026-10-17T13:29:49.382664+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-10-17T06:40:16.569782+00:00",
+      "checked": "2026-10-17T13:29:49.382664+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-10-17T06:40:16.569782+00:00",
+      "checked": "2026-10-17T13:29:49.382664+00:00",
       "error": null
     }
   ],
-  "updated": "2026-10-17T06:40:16.569782+00:00"
+  "updated": "2026-10-17T13:29:49.382664+00:00"
 }
