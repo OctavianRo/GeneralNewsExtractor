@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "id": "16eddc2105cf8883d0ab644d",
+      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+      "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+      "source": "TechCrunch",
+      "published": "2026-10-18T20:37:40+00:00",
+      "topic": "AI overview",
+      "summary": "Anthropic said that it will commit 5% of its shares to the fund."
+    },
+    {
       "id": "35cd62faf12b8e71eb0b92fd",
       "title": "Disney agrees to hire the majority of Character.AI’s workforce",
       "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
@@ -2690,33 +2699,24 @@
       "published": "2026-09-28T14:00:00+00:00",
       "topic": "Business",
       "summary": "The startup uses AI to automate tedious paperwork for insurance agencies and brokers."
-    },
-    {
-      "id": "560cbbccadfe271dcf50e5e4",
-      "title": "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
-      "url": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/",
-      "source": "TechCrunch",
-      "published": "2026-09-28T13:38:48+00:00",
-      "topic": "Business",
-      "summary": "\"This funding helps us bring Instinct to more people and continue building the future of personal AI. It’s an exciting, creative time, and we're just getting started,\" founder Noah Shinn said in a statement."
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-10-18T20:13:11.782912+00:00",
+      "checked": "2026-10-18T23:57:19.313765+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-10-18T20:13:11.782912+00:00",
+      "checked": "2026-10-18T23:57:19.313765+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-10-18T20:13:11.782912+00:00",
+      "checked": "2026-10-18T23:57:19.313765+00:00",
       "error": null
     }
   ],
-  "updated": "2026-10-18T20:13:11.782912+00:00"
+  "updated": "2026-10-18T23:57:19.313765+00:00"
 }
