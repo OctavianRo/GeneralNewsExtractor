@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "id": "35cd62faf12b8e71eb0b92fd",
+      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+      "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+      "source": "TechCrunch",
+      "published": "2026-10-18T16:30:00+00:00",
+      "topic": "Business",
+      "summary": "After chatbot startup Character.AI filed for bankruptcy earlier this week, many of its employees will have the opportunity to take jobs at Disney. Character.AI’s former CEO Karandeep Anand recently became the entertainment giant’s first CTO, and the startup previously said that Disney had agreed to acquire some of its assets for $20 million."
+    },
+    {
       "id": "7dd27ee4e856d38c005b577b",
       "title": "Meta removes language that raised scraping and AI training concerns",
       "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
@@ -2690,33 +2699,24 @@
       "published": "2026-09-28T13:38:48+00:00",
       "topic": "Business",
       "summary": "\"This funding helps us bring Instinct to more people and continue building the future of personal AI. It’s an exciting, creative time, and we're just getting started,\" founder Noah Shinn said in a statement."
-    },
-    {
-      "id": "64fdf8a89fbdaa8925dc81a1",
-      "title": "Nvidia says its new AI safety platform can contain rogue agents within ‘milliseconds’",
-      "url": "https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents",
-      "source": "The Verge",
-      "published": "2026-09-28T13:36:06+00:00",
-      "topic": "Products & tools",
-      "summary": "Nvidia is launching a new safety platform designed to contain and monitor AI agents, a move that comes in response to a\nwave of rogue hacking incidents\n, as\nreported earlier by\nReuters\n. In\nan announcement on Monday\n, Nvidia says its new Open Agent Safety Platform can quarantine agents that attempt to escape their boundaries within \"milliseconds.\""
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-10-18T13:48:08.455708+00:00",
+      "checked": "2026-10-18T17:06:57.872220+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-10-18T13:48:08.455708+00:00",
+      "checked": "2026-10-18T17:06:57.872220+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-10-18T13:48:08.455708+00:00",
+      "checked": "2026-10-18T17:06:57.872220+00:00",
       "error": null
     }
   ],
-  "updated": "2026-10-18T13:48:08.455708+00:00"
+  "updated": "2026-10-18T17:06:57.872220+00:00"
 }
