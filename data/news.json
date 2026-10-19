@@ -1,6 +1,60 @@
 {
   "articles": [
     {
+      "id": "d1fa3609444938bcd2b0e68c",
+      "title": "People are using AI to make their smart TVs dumb again",
+      "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
+      "source": "TechCrunch",
+      "published": "2026-10-19T16:13:22+00:00",
+      "topic": "Products & tools",
+      "summary": "Fed up with ads, tracking and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs."
+    },
+    {
+      "id": "ea3b81d8158f7d032a403471",
+      "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+      "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+      "source": "TechCrunch",
+      "published": "2026-10-19T15:37:09+00:00",
+      "topic": "Hardware",
+      "summary": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing."
+    },
+    {
+      "id": "7bf27ea750e3c7638bdbcb3a",
+      "title": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
+      "url": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws",
+      "source": "The Verge",
+      "published": "2026-10-19T14:30:00+00:00",
+      "topic": "Policy & safety",
+      "summary": "Today, I’m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you’ve been listening to the show, you know that one of my running theories is that those issues are driving a big and maybe kind of unexpected political realignment — and with the midterms coming up next month, and early voting already underway in a…"
+    },
+    {
+      "id": "c161d6bab52698d147d96d82",
+      "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+      "source": "The Verge",
+      "published": "2026-10-19T13:58:41+00:00",
+      "topic": "Products & tools",
+      "summary": "A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to\nfindings from the AI security firm Norforge\n. Though Norforge doesn't name the targets,\nReuters\nreports\nthat the victims included companies like John Deere, SharkNinja, and Cummins."
+    },
+    {
+      "id": "c713b9c06b3a02491be64323",
+      "title": "Democrats think cracking down on AI could give them an edge",
+      "url": "https://www.theverge.com/policy/1013113/democrats-ai-midterms",
+      "source": "The Verge",
+      "published": "2026-10-19T12:00:00+00:00",
+      "topic": "Hardware",
+      "summary": "Democrats could win back control of Congress this November, and if they do, they'll need to decide how to approach one of the country's newest and thorniest political issues: AI. Polls predict Democrats will flip at least one chamber of Congress in the midterm elections, which would put committee leadership back in their hands."
+    },
+    {
+      "id": "d67eff0903799e5f15a465ee",
+      "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+      "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+      "source": "MIT Technology Review",
+      "published": "2026-10-19T09:08:05+00:00",
+      "topic": "Products & tools",
+      "summary": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play."
+    },
+    {
       "id": "16eddc2105cf8883d0ab644d",
       "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
       "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
@@ -2645,78 +2699,24 @@
       "published": "2026-09-28T17:00:23+00:00",
       "topic": "Products & tools",
       "summary": "Florida Attorney General James Uthmeier is calling for a judge to\nblock OpenAI\nfrom \"giving ChatGPT false human attributes,\" a few months after Florida sued the AI company\nover safety concerns\n. According to Uthmeier, users are lulled into a false sense of security by the AI bot, as \"ChatGPT's use of language, including first-person pronouns and output that…"
-    },
-    {
-      "id": "3a3d10d73e96ef6ce8cd3d4e",
-      "title": "OpenAI keeps bulldozing mathematicians",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1001477/openai-math-advisory-group",
-      "source": "The Verge",
-      "published": "2026-09-28T17:00:00+00:00",
-      "topic": "AI overview",
-      "summary": "OpenAI's latest attempt to repair fractured relations with a mathematical community it has\nrepeatedly\nalienated\nis to\nconsult\na new independent advisory group of elite practitioners. But mathematicians speaking to\nThe Verge\n, including one of the group's members, describe a messy and confusing affair bearing many of the hallmarks of OpenAI's previous rushed…"
-    },
-    {
-      "id": "d211ef06bee55e3a6d21d4af",
-      "title": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
-      "url": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/",
-      "source": "TechCrunch",
-      "published": "2026-09-28T16:52:38+00:00",
-      "topic": "Products & tools",
-      "summary": "Meta says it will focus on bringing its full technology stack, including Muse, Meta Business Agent, Muse API, Muse Code, and more to businesses and developers."
-    },
-    {
-      "id": "9867440d537aa7da6b32851f",
-      "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "published": "2026-09-28T15:30:00+00:00",
-      "topic": "AI overview",
-      "summary": "Anthropic, Clay, and Gamma on what it takes for an AI product to go beyond the demo at the AI Stage at TechCrunchDisrupt 2026. Register to join and get 50% off a second pass."
-    },
-    {
-      "id": "e1400b549771e5f53e35a483",
-      "title": "After a deepfake voice fooled her grandfather, this founder sprang into action",
-      "url": "https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/",
-      "source": "TechCrunch",
-      "published": "2026-09-28T15:00:00+00:00",
-      "topic": "Business",
-      "summary": "After her grandfather was scammed by a deepfake of his brother's voice, Tarini Padmanabhuni founded DetectifAI, a San Francisco startup building AI models small enough to run directly on smartphones and flag fake voices in real time, and it's now one of the companies competing in Startup Battlefield at TechCrunch Disrupt."
-    },
-    {
-      "id": "ae785329e8a58042fbe5437b",
-      "title": "The SaaSpocalypse that wasn’t, with Atlassian CEO Mike Cannon-Brookes",
-      "url": "https://www.theverge.com/podcast/1000914/atlassian-ceo-mike-cannon-brookes-saaspocalypse-ai-enterprise-software-trello-jira",
-      "source": "The Verge",
-      "published": "2026-09-28T14:00:00+00:00",
-      "topic": "Products & tools",
-      "summary": "Today, I’m talking with Mike Cannon-Brookes, who is cofounder and CEO of Atlassian. Atlassian is one of those companies that every other company runs on — it makes important platform tools like Jira and Trello that allow people to organize and manage big teams, create shared databases of company information, and generally allow work to happen."
-    },
-    {
-      "id": "651e659be31fd0320edfa31b",
-      "title": "Insurtech Outmarket raises $34.5M just months after prior round",
-      "url": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/",
-      "source": "TechCrunch",
-      "published": "2026-09-28T14:00:00+00:00",
-      "topic": "Business",
-      "summary": "The startup uses AI to automate tedious paperwork for insurance agencies and brokers."
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-10-19T07:24:48.466702+00:00",
+      "checked": "2026-10-19T16:50:16.426740+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-10-19T07:24:48.466702+00:00",
+      "checked": "2026-10-19T16:50:16.426740+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-10-19T07:24:48.466702+00:00",
+      "checked": "2026-10-19T16:50:16.426740+00:00",
       "error": null
     }
   ],
-  "updated": "2026-10-19T07:24:48.466702+00:00"
+  "updated": "2026-10-19T16:50:16.426740+00:00"
 }
