@@ -1,13 +1,94 @@
 {
   "articles": [
     {
+      "id": "23c7d3cfe76cb13601c33628",
+      "title": "SpaceX’s AI business is beating expectations",
+      "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
+      "source": "TechCrunch",
+      "published": "2026-10-20T20:40:41+00:00",
+      "topic": "Business",
+      "summary": "SpaceX hit profitably in the third-quarter, with net income of $4.4 billion. AI was the engine."
+    },
+    {
+      "id": "fb5a585d63d0a7f5e41bad48",
+      "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+      "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+      "source": "TechCrunch",
+      "published": "2026-10-20T20:35:10+00:00",
+      "topic": "Models & research",
+      "summary": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results."
+    },
+    {
+      "id": "61ce75599c83f81b177fcb12",
+      "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
+      "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+      "source": "TechCrunch",
+      "published": "2026-10-20T18:38:24+00:00",
+      "topic": "Products & tools",
+      "summary": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs."
+    },
+    {
+      "id": "af34a6699219bf32973d4718",
+      "title": "ChatGPT now lets you lock your chats",
+      "url": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
+      "source": "TechCrunch",
+      "published": "2026-10-20T18:36:53+00:00",
+      "topic": "Products & tools",
+      "summary": "The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep those conversations private when handing their device to friends or family to show them something in another chat."
+    },
+    {
+      "id": "edff2445aa44f28f9d3d24b3",
+      "title": "Meta pauses Muse sharing after researchers find AI chats on the web",
+      "url": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
+      "source": "The Verge",
+      "published": "2026-10-20T18:07:34+00:00",
+      "topic": "Products & tools",
+      "summary": "Meta says it paused a Muse feature that lets you share conversations with the AI assistant after researchers found the URLs publicly available on the web,\nas reported by\nArs Technica\n. In\na report published this week\n, researchers at the security firm Claroc say they found more than 6,800 Muse links through public DNS records."
+    },
+    {
+      "id": "f947e16b0eddde440bb41ff2",
+      "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
+      "url": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
+      "source": "TechCrunch",
+      "published": "2026-10-20T17:55:12+00:00",
+      "topic": "AI overview",
+      "summary": "The former Google CEO owns about 1% stake in the leading AI lab, Bloomberg reported."
+    },
+    {
+      "id": "17c56b266c7cbdfad25d1f04",
+      "title": "Meta’s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps",
+      "url": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
+      "source": "TechCrunch",
+      "published": "2026-10-20T17:12:48+00:00",
+      "topic": "Products & tools",
+      "summary": "Meta's AI companion Muse has surpassed 10 million U.S. downloads in its first 40 days, joining an exclusive group of apps that includes Threads."
+    },
+    {
+      "id": "335069c0b0123efa318eeb10",
+      "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
+      "url": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
+      "source": "TechCrunch",
+      "published": "2026-10-20T16:00:00+00:00",
+      "topic": "Models & research",
+      "summary": "Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their stems."
+    },
+    {
+      "id": "9c36667f60bf29498686543c",
+      "title": "The new economics of enterprise AI",
+      "url": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
+      "source": "MIT Technology Review",
+      "published": "2026-10-20T15:20:25+00:00",
+      "topic": "Models & research",
+      "summary": "Imagine your company just discovered electricity. At first only a few machines run on it, and nobody worries about efficiency — consumption is low and the value is obvious."
+    },
+    {
       "id": "7a091aa12d54f3f37fcd7ec1",
       "title": "Spotify pulled 50 million AI slop and spam tracks from its recommendations",
       "url": "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed",
       "source": "The Verge",
       "published": "2026-10-20T14:18:37+00:00",
       "topic": "AI overview",
-      "summary": "Spotify says it has removed more than 50 million songs considered AI-generated slop or spam from user recommendations over the past year. That's according to an\nannouncement on Tuesday\n, which says Spotify has also made changes to its recommendation system to highlight more music made by human artists."
+      "summary": "Spotify says it has removed more than 50 million songs considered AI-generated slop or spam from user recommendations over the past year. That's according to an\nannouncement on Tuesday\nthat says Spotify has also made changes to its recommendation system to highlight more music made by human artists."
     },
     {
       "id": "9124fc501335a8a314bad333",
@@ -2618,105 +2699,24 @@
       "published": "2026-09-29T17:17:15+00:00",
       "topic": "AI overview",
       "summary": "Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with minimal oversight."
-    },
-    {
-      "id": "dcb66824e228fe10d7edf131",
-      "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
-      "url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
-      "source": "TechCrunch",
-      "published": "2026-09-29T17:15:00+00:00",
-      "topic": "Models & research",
-      "summary": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multistep business workflows."
-    },
-    {
-      "id": "65ca132dae7de507d3de33a7",
-      "title": "OpenAI expands ChatGPT’s plug-ins with app-like interfaces and automations",
-      "url": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
-      "source": "TechCrunch",
-      "published": "2026-09-29T17:15:00+00:00",
-      "topic": "Products & tools",
-      "summary": "OpenAI is expanding ChatGPT plug-ins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations."
-    },
-    {
-      "id": "0e5c51300664c8a2d23b7126",
-      "title": "OpenAI gives Codex reusable cloud environments that work across devices",
-      "url": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
-      "source": "TechCrunch",
-      "published": "2026-09-29T17:15:00+00:00",
-      "topic": "Products & tools",
-      "summary": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools, and a security-focused product for scanning repositories and preparing fixes."
-    },
-    {
-      "id": "032218cff42a1f4022f6446f",
-      "title": "OpenAI launches Dots, its Muse competitor",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
-      "source": "The Verge",
-      "published": "2026-09-29T17:15:00+00:00",
-      "topic": "Products & tools",
-      "summary": "Like Muse, OpenAI’s Dots are represented by cute, customizable avatars. | Image: OpenAI\nOpenAI is responding to Meta's\nbuzzy Muse AI\nwith agentic helpers of its own: Dots."
-    },
-    {
-      "id": "7b1e2c115f5f99856671bf6c",
-      "title": "Protesters gather at OpenAI’s DevDay",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1002201/openai-sam-altman-openai-devday-protests-ice-data-centers",
-      "source": "The Verge",
-      "published": "2026-09-29T17:12:27+00:00",
-      "topic": "AI overview",
-      "summary": "On Tuesday, OpenAI's annual DevDay event began with protests, flyers, and chants. \"Sam Altman, get off it, put people over profit,\" said a group of protesters marching in a circle in front of a series of signs that spelled out \"PEOPLE OVER PROFIT.\"\nMore than a dozen organizations came together to sponsor a rally outside the entrance to the event venue at…"
-    },
-    {
-      "id": "cf8c4186da9302ba8487bdbf",
-      "title": "OpenAI DevDay 2026: The biggest news and announcements",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1001681/openai-devday-2026-biggest-news-announcements",
-      "source": "The Verge",
-      "published": "2026-09-29T16:00:00+00:00",
-      "topic": "Products & tools",
-      "summary": "It’s OpenAI’s turn in the fall tech events calendar. The company is hosting its annual DevDay on September 29th in San Francisco, and during a live keynote featuring CEO Sam Altman, it revealed several notable updates, including\nDots\n, its AI agent product that rivals Meta’s recently-launched Muse."
-    },
-    {
-      "id": "80434392e981f5a48129b951",
-      "title": "Meta’s Muse AI sent a YouTuber’s address to a stranger",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1001886/meta-muse-ai-facebook-marketplace-security-concerns",
-      "source": "The Verge",
-      "published": "2026-09-29T14:08:21+00:00",
-      "topic": "Products & tools",
-      "summary": "Tech YouTuber Matt Robb says that Muse gave out his home address to a total stranger this weekend, after authorizing the bot to handle his Facebook Marketplace account. That's despite Meta placing great emphasis on the security features of Muse when it launched the personal AI agent\nearlier this month\nas it tries to catch up with competing AI providers like…"
-    },
-    {
-      "id": "5b7f912406e2d494a4e198c5",
-      "title": "With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox",
-      "url": "https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/",
-      "source": "TechCrunch",
-      "published": "2026-09-29T13:53:01+00:00",
-      "topic": "Products & tools",
-      "summary": "The former Yahoo CEO is introducing a new AI personal assistant based entirely on your photos."
-    },
-    {
-      "id": "ed2d14a7501983cfcc6f1547",
-      "title": "Meta is expanding its AI agent Muse to small businesses",
-      "url": "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses/",
-      "source": "TechCrunch",
-      "published": "2026-09-29T13:47:30+00:00",
-      "topic": "Products & tools",
-      "summary": "The tech giant says the agent can help owners run their business and find new customers."
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-10-20T14:45:23.022035+00:00",
+      "checked": "2026-10-20T21:20:45.118394+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-10-20T14:45:23.022035+00:00",
+      "checked": "2026-10-20T21:20:45.118394+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-10-20T14:45:23.022035+00:00",
+      "checked": "2026-10-20T21:20:45.118394+00:00",
       "error": null
     }
   ],
-  "updated": "2026-10-20T14:45:23.022035+00:00"
+  "updated": "2026-10-20T21:20:45.118394+00:00"
 }
