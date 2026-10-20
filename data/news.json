@@ -1,13 +1,40 @@
 {
   "articles": [
     {
+      "id": "a608b97bceb1e7261a121c27",
+      "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+      "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+      "source": "TechCrunch",
+      "published": "2026-10-20T01:27:03+00:00",
+      "topic": "Policy & safety",
+      "summary": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands."
+    },
+    {
+      "id": "68a6b53f34def307ff2f22bd",
+      "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
+      "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+      "source": "TechCrunch",
+      "published": "2026-10-19T23:39:38+00:00",
+      "topic": "AI overview",
+      "summary": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year."
+    },
+    {
+      "id": "e6f1ae44f641af38a03dee81",
+      "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
+      "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
+      "source": "TechCrunch",
+      "published": "2026-10-19T22:49:27+00:00",
+      "topic": "Policy & safety",
+      "summary": "The idea of embedded evaluators — in which supposedly \"neutral\" third-party observers are placed inside AI organizations — has been popularized over the last several months, as AI labs grapple with a rash of safety incidents that have spurred concerns over the potential harms of their technology."
+    },
+    {
       "id": "4de91e1540639e75e1428207",
       "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
       "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
       "source": "TechCrunch",
       "published": "2026-10-19T22:04:28+00:00",
       "topic": "Products & tools",
-      "summary": "Microsoft wants enterprises to closely watch the agents employees use with systems not controlled by AI labs like OpenAI and Anthropic."
+      "summary": "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic."
     },
     {
       "id": "85ed69736e92d20ff74d7e20",
@@ -34,7 +61,7 @@
       "source": "TechCrunch",
       "published": "2026-10-19T19:28:34+00:00",
       "topic": "Products & tools",
-      "summary": "OpenCode is an open-source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code."
+      "summary": "OpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code."
     },
     {
       "id": "7ab42e04cf3b71a360d769bd",
@@ -2672,51 +2699,24 @@
       "published": "2026-09-28T23:39:20+00:00",
       "topic": "Models & research",
       "summary": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders."
-    },
-    {
-      "id": "032b0e2a6b1375f5855603c5",
-      "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
-      "url": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
-      "source": "MIT Technology Review",
-      "published": "2026-09-28T22:17:07+00:00",
-      "topic": "Business",
-      "summary": "The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a\ngroundbreaking investigation by\nMIT Technology Review\nhas documented over a thousand people who moved through areas watched by these towers without…"
-    },
-    {
-      "id": "721d3fef7b9b02d699abdb5c",
-      "title": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
-      "url": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
-      "source": "The Verge",
-      "published": "2026-09-28T21:31:35+00:00",
-      "topic": "Business",
-      "summary": "World Labs co-founder and CEO Fei-Fei Li. | Bloomberg via Getty Images\nAMD\nannounced today\nthat it's acquiring World Labs, an AI research lab co-founded by the prominent researcher Dr. Fei-Fei Li, in an all-stock deal worth approximately $8.2 billion."
-    },
-    {
-      "id": "60e195b06c19c87bef00b844",
-      "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
-      "url": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
-      "source": "TechCrunch",
-      "published": "2026-09-28T21:29:18+00:00",
-      "topic": "Business",
-      "summary": "The new financing is expected to more than triple the AI infrastructure startup's valuation from just four months ago."
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-10-19T22:04:53.638808+00:00",
+      "checked": "2026-10-20T07:15:23.900611+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-10-19T22:04:53.638808+00:00",
+      "checked": "2026-10-20T07:15:23.900611+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-10-19T22:04:53.638808+00:00",
+      "checked": "2026-10-20T07:15:23.900611+00:00",
       "error": null
     }
   ],
-  "updated": "2026-10-19T22:04:53.638808+00:00"
+  "updated": "2026-10-20T07:15:23.900611+00:00"
 }
