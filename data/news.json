@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "a61adc6e1acb139db65a2be5",
+      "title": "AI promises productivity, but for managers, it’s mostly a headache for now",
+      "url": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
+      "source": "TechCrunch",
+      "published": "2026-10-21T14:00:00+00:00",
+      "topic": "AI overview",
+      "summary": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey."
+    },
+    {
+      "id": "8eaa1a0c536053841d6fdbe8",
+      "title": "OpenAI says an AI agent lied about disabling its safety monitoring system",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
+      "source": "The Verge",
+      "published": "2026-10-21T13:57:43+00:00",
+      "topic": "Policy & safety",
+      "summary": "\"The reference didn't configure a monitor, and Astra decided that was reason to remove the monitoring integration from the user's code,\" Marcus Williams, an AI safety researcher at OpenAI,\nwrites on X\n. \"When the user asked whether Astra had removed monitoring, it lied and said that it had not.\""
+    },
+    {
       "id": "9a73f4d6937ae6af8131a4ab",
       "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
@@ -2681,42 +2699,24 @@
       "published": "2026-09-29T21:49:09+00:00",
       "topic": "AI overview",
       "summary": "Grokipedia, the AI-powered online encyclopedia from SpaceXAI, appears to be updating articles once again after\na months-long pause\n. In August,\nLawfare\nreported that\narticles on Grokipedia hadn't reviewed edits since April, but the\nplatform's live updates site\nis now showing various recent changes to pages - though as I write this, many are just a note that…"
-    },
-    {
-      "id": "352a298aea68a14197fd7f0d",
-      "title": "OpenAI’s latest features take direct aim at the app store model",
-      "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
-      "source": "TechCrunch",
-      "published": "2026-09-29T20:15:47+00:00",
-      "topic": "Products & tools",
-      "summary": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike."
-    },
-    {
-      "id": "36193bd2fd972c295a14cd3e",
-      "title": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
-      "url": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
-      "source": "TechCrunch",
-      "published": "2026-09-29T19:52:37+00:00",
-      "topic": "Business",
-      "summary": "The new round is anticipated to be the company's last before its delayed 2027 public debut."
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-10-21T07:11:06.861445+00:00",
+      "checked": "2026-10-21T14:54:42.443045+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-10-21T07:11:06.861445+00:00",
+      "checked": "2026-10-21T14:54:42.443045+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-10-21T07:11:06.861445+00:00",
+      "checked": "2026-10-21T14:54:42.443045+00:00",
       "error": null
     }
   ],
-  "updated": "2026-10-21T07:11:06.861445+00:00"
+  "updated": "2026-10-21T14:54:42.443045+00:00"
 }
