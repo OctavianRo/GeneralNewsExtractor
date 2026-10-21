@@ -1,6 +1,60 @@
 {
   "articles": [
     {
+      "id": "40e4827a0c18ace8d7b0643f",
+      "title": "Meta says Muse has over 10M users, with shopping a top activity",
+      "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
+      "source": "TechCrunch",
+      "published": "2026-10-21T21:14:19+00:00",
+      "topic": "Products & tools",
+      "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users."
+    },
+    {
+      "id": "b1ec87d705753567cead9b8e",
+      "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+      "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+      "source": "TechCrunch",
+      "published": "2026-10-21T20:27:41+00:00",
+      "topic": "Models & research",
+      "summary": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself."
+    },
+    {
+      "id": "258d5ff776fa8f139d323b47",
+      "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
+      "source": "The Verge",
+      "published": "2026-10-21T19:53:20+00:00",
+      "topic": "Products & tools",
+      "summary": "Each morning, it sends you a short brief on the most important items across your connected apps. Throughout the day, it keeps tabs on those apps and messages you only when something needs your attention."
+    },
+    {
+      "id": "dd62bb078550a17e52648fab",
+      "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+      "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+      "source": "TechCrunch",
+      "published": "2026-10-21T19:30:00+00:00",
+      "topic": "Products & tools",
+      "summary": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals."
+    },
+    {
+      "id": "20d01956fcee92e766917384",
+      "title": "Walmart is inviting AI agents to shop for you",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents",
+      "source": "The Verge",
+      "published": "2026-10-21T19:30:00+00:00",
+      "topic": "Products & tools",
+      "summary": "Walmart will soon let AI agents shop on its website for you. Next month,\nthe retail giant will allow you\nto connect your own AI agent to the site, with systems in place to let you approve and review purchases and set spending limits."
+    },
+    {
+      "id": "b3bb7eb8417b3c05c7514322",
+      "title": "Conversational Gemini navigation comes to Apple CarPlay",
+      "url": "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps",
+      "source": "The Verge",
+      "published": "2026-10-21T15:00:00+00:00",
+      "topic": "Models & research",
+      "summary": "After introducing its Gemini AI assistant to\nAndroid Auto last year\n, Google is now bringing it to Apple CarPlay users. The conversational Gemini in navigation is available today for US drivers, with \"rollout happening globally too,\" according to Google (we've asked for specific regional availability details)."
+    },
+    {
       "id": "a61adc6e1acb139db65a2be5",
       "title": "AI promises productivity, but for managers, it’s mostly a headache for now",
       "url": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
@@ -2645,78 +2699,24 @@
       "published": "2026-09-30T12:24:32+00:00",
       "topic": "Policy & safety",
       "summary": "We now have the full details of the\n\"morally binding\" AI safety deal\nannounced by President Trump yesterday, in which top executives agreed to self-regulate their artificial intelligence technology. The accord, officially titled the Joint Commitment on Frontier Responsibilities, was\nshared online\nby tech founder and presidential adviser David Sacks, and has…"
-    },
-    {
-      "id": "26ce368aa0f6ddaa09d63bcd",
-      "title": "Airbnb adds AI search, more social features",
-      "url": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/",
-      "source": "TechCrunch",
-      "published": "2026-09-30T12:00:00+00:00",
-      "topic": "AI overview",
-      "summary": "Airbnb is also launching new services such as meal delivery and laundry in select locations."
-    },
-    {
-      "id": "00521fe0b8a575645038625a",
-      "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
-      "url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
-      "source": "MIT Technology Review",
-      "published": "2026-09-30T10:40:30+00:00",
-      "topic": "Models & research",
-      "summary": "Two months after the bombshell news that a swarm of its agents had broken their containment and\nhacked into the computers of the AI company Hugging Face\n, OpenAI is still putting out fires. A steady drip of disclosures about other hacks in the weeks since has kept OpenAI in the spotlight and raised serious questions about the safety of its technology."
-    },
-    {
-      "id": "d6b003b6ebfae6b242c374fc",
-      "title": "Sam Altman says OpenAI won’t go public until its models are safe",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
-      "source": "The Verge",
-      "published": "2026-09-30T00:19:13+00:00",
-      "topic": "Models & research",
-      "summary": "For months, people have wondered when OpenAI will go public. CEO Sam Altman says it won't happen until the company can make better promises about model safety, with no firm timeline in sight."
-    },
-    {
-      "id": "1f2684ece82a4b595a8c75f4",
-      "title": "Trump orders US government to call AI ‘Super Intelligence’",
-      "url": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
-      "source": "The Verge",
-      "published": "2026-09-29T22:25:45+00:00",
-      "topic": "Policy & safety",
-      "summary": "\"The word super is the best word of all, and it's the simplest,\" Trump said at an event announcing the launch of\nAmerica.gov\nearlier on Tuesday, and said Chinese President Xi Jinping, who visited the White House last week, \"loves it\" too. \"We don't want to hear artificial."
-    },
-    {
-      "id": "c7d7b794f0ae36ef2260ba77",
-      "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
-      "url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
-      "source": "TechCrunch",
-      "published": "2026-09-29T22:20:59+00:00",
-      "topic": "Products & tools",
-      "summary": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page."
-    },
-    {
-      "id": "21aea061ef9876972445ecd3",
-      "title": "Elon Musk’s AI-powered Grokipedia is updating again",
-      "url": "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again",
-      "source": "The Verge",
-      "published": "2026-09-29T21:49:09+00:00",
-      "topic": "AI overview",
-      "summary": "Grokipedia, the AI-powered online encyclopedia from SpaceXAI, appears to be updating articles once again after\na months-long pause\n. In August,\nLawfare\nreported that\narticles on Grokipedia hadn't reviewed edits since April, but the\nplatform's live updates site\nis now showing various recent changes to pages - though as I write this, many are just a note that…"
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-10-21T14:54:42.443045+00:00",
+      "checked": "2026-10-21T21:21:18.254700+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-10-21T14:54:42.443045+00:00",
+      "checked": "2026-10-21T21:21:18.254700+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-10-21T14:54:42.443045+00:00",
+      "checked": "2026-10-21T21:21:18.254700+00:00",
       "error": null
     }
   ],
-  "updated": "2026-10-21T14:54:42.443045+00:00"
+  "updated": "2026-10-21T21:21:18.254700+00:00"
 }
