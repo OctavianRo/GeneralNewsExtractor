@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "9a73f4d6937ae6af8131a4ab",
+      "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
+      "source": "The Verge",
+      "published": "2026-10-20T23:04:19+00:00",
+      "topic": "Policy & safety",
+      "summary": "On Tuesday, US District Judge Zachary Bluestone dismissed the\nlawsuit\nAnn Altman\nfiled last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her\nthroughout her childhood. As reported earlier by\nThe Guardian\n, the judge wrote that over the past year, Ann had failed to appear for an independent medical examination or meet other…"
+    },
+    {
+      "id": "2d2caae98728dfe7fcc2bc80",
+      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+      "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+      "source": "TechCrunch",
+      "published": "2026-10-20T23:01:23+00:00",
+      "topic": "Models & research",
+      "summary": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge."
+    },
+    {
+      "id": "e7e49edf894520550da10662",
+      "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
+      "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
+      "source": "TechCrunch",
+      "published": "2026-10-20T22:24:02+00:00",
+      "topic": "AI overview",
+      "summary": "Before you share the Netflix documentary \"AI Gone Rogue\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate."
+    },
+    {
+      "id": "925e6a635cad1b6fed420699",
+      "title": "Google’s more personalized Gemini AI is heading to your car",
+      "url": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
+      "source": "The Verge",
+      "published": "2026-10-20T22:11:34+00:00",
+      "topic": "Models & research",
+      "summary": "Google is\nbringing Personal Intelligence to Gemini AI\nin your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar, Maps, Photos, YouTube, and Search."
+    },
+    {
+      "id": "244c48fc443eebd58da5d18b",
+      "title": "Anthropic’s cloud partnerships are getting messy",
+      "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+      "source": "TechCrunch",
+      "published": "2026-10-20T21:25:22+00:00",
+      "topic": "AI overview",
+      "summary": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO."
+    },
+    {
       "id": "23c7d3cfe76cb13601c33628",
       "title": "SpaceX’s AI business is beating expectations",
       "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
@@ -97,7 +142,7 @@
       "source": "TechCrunch",
       "published": "2026-10-20T13:07:24+00:00",
       "topic": "AI overview",
-      "summary": "The US has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns."
+      "summary": "The U.S. has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns."
     },
     {
       "id": "5c947a61567ff990d0b05276",
@@ -2654,69 +2699,24 @@
       "published": "2026-09-29T19:52:37+00:00",
       "topic": "Business",
       "summary": "The new round is anticipated to be the company's last before its delayed 2027 public debut."
-    },
-    {
-      "id": "6a8c56ed5523f119676d1243",
-      "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
-      "url": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
-      "source": "TechCrunch",
-      "published": "2026-09-29T18:35:00+00:00",
-      "topic": "Hardware",
-      "summary": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned."
-    },
-    {
-      "id": "2688204fcb281ea3948c4006",
-      "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
-      "url": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
-      "source": "TechCrunch",
-      "published": "2026-09-29T17:45:51+00:00",
-      "topic": "Products & tools",
-      "summary": "OpenAI's newly announced suite of office features puts it into more direct competition with more traditional software companies."
-    },
-    {
-      "id": "4715e6b9f27d386db74bd7c3",
-      "title": "AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews",
-      "source": "The Verge",
-      "published": "2026-09-29T17:35:03+00:00",
-      "topic": "Models & research",
-      "summary": "\"The chance of human extinction is about a coin flip, in my view,\" Geoffrey Irving, a former OpenAI and Google DeepMind employee, said in a new interview. It's one of\na dozen interviews\nwith AI researchers, including current and former employees at OpenAI, Google, and Anthropic."
-    },
-    {
-      "id": "c20493adac5f93011b092025",
-      "title": "AI-powered app maker Wabi pivots to a messaging experience",
-      "url": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
-      "source": "TechCrunch",
-      "published": "2026-09-29T17:20:00+00:00",
-      "topic": "Products & tools",
-      "summary": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps, and ongoing tasks."
-    },
-    {
-      "id": "4695af4a940dce0e3684eeac",
-      "title": "OpenAI launches Dots, its bubbly agentic avatar",
-      "url": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
-      "source": "TechCrunch",
-      "published": "2026-09-29T17:17:15+00:00",
-      "topic": "AI overview",
-      "summary": "Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with minimal oversight."
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-10-20T21:20:45.118394+00:00",
+      "checked": "2026-10-21T00:24:22.093596+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-10-20T21:20:45.118394+00:00",
+      "checked": "2026-10-21T00:24:22.093596+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-10-20T21:20:45.118394+00:00",
+      "checked": "2026-10-21T00:24:22.093596+00:00",
       "error": null
     }
   ],
-  "updated": "2026-10-20T21:20:45.118394+00:00"
+  "updated": "2026-10-21T00:24:22.093596+00:00"
 }
