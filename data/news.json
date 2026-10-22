@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "id": "8d2d0448075e63e8fffa2e4c",
+      "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
+      "url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
+      "source": "TechCrunch",
+      "published": "2026-10-21T22:51:22+00:00",
+      "topic": "AI overview",
+      "summary": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters."
+    },
+    {
+      "id": "5fda1e1adb27276c57f0bd6f",
+      "title": "Data centers could erase decades of air quality gains",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
+      "source": "The Verge",
+      "published": "2026-10-21T22:33:44+00:00",
+      "topic": "Hardware",
+      "summary": "A rush of new data centers could bring air pollution roaring back to levels not seen since the 2000s in Texas, which has become ground zero for the physical infrastructure behind generative AI. New and proposed data centers are demanding a tremendous amount of electricity."
+    },
+    {
+      "id": "cdc94824f0231fc8363b9905",
+      "title": "Meta to create a new class of shares to fund AI push",
+      "url": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings",
+      "source": "The Verge",
+      "published": "2026-10-21T21:30:02+00:00",
+      "topic": "Business",
+      "summary": "Meta says it's issuing a new class of shares to fund its AI initiatives. As part of its\nthird-quarter earnings report released on Wednesday\n, the company says the non-voting stock will also go toward potential acquisitions and employee compensation, with trading beginning in 2027."
+    },
+    {
       "id": "40e4827a0c18ace8d7b0643f",
       "title": "Meta says Muse has over 10M users, with shopping a top activity",
       "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
@@ -43,7 +70,25 @@
       "source": "The Verge",
       "published": "2026-10-21T19:30:00+00:00",
       "topic": "Products & tools",
-      "summary": "Walmart will soon let AI agents shop on its website for you. Next month,\nthe retail giant will allow you\nto connect your own AI agent to the site, with systems in place to let you approve and review purchases and set spending limits."
+      "summary": "Walmart will soon let AI agents shop on its website for you. Next month,\nthe retail giant will allow you\nto use an AI agent on the site, with systems in place to let you approve and review purchases and set spending limits."
+    },
+    {
+      "id": "9f2c544ee9306da05b518172",
+      "title": "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
+      "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
+      "source": "TechCrunch",
+      "published": "2026-10-21T17:59:12+00:00",
+      "topic": "Policy & safety",
+      "summary": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI."
+    },
+    {
+      "id": "5f7eaed02b6699202b09fb83",
+      "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
+      "url": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
+      "source": "TechCrunch",
+      "published": "2026-10-21T17:18:27+00:00",
+      "topic": "Business",
+      "summary": "Blacksmith, a platform that lets companies build and test AI code more effectively, just announced a $66 million Series C round led by Sequoia that values the company at $1 billion."
     },
     {
       "id": "b3bb7eb8417b3c05c7514322",
@@ -2654,69 +2699,24 @@
       "published": "2026-09-30T15:18:49+00:00",
       "topic": "Products & tools",
       "summary": "Meta launched a\nnew Muse AI agent\nit claims can help you with everything from firing off emails to buying stuff online. Muse can be surprisingly effective at\ndelivering on those promises\n— if you’re willing to\ntrust Meta\nwith your data and hand Muse your credit card."
-    },
-    {
-      "id": "842d4475124f13ead327b4a2",
-      "title": "Google reportedly tests paying publishers for AI search results",
-      "url": "https://www.theverge.com/tech/1002665/google-paying-publishers-ai-search-features",
-      "source": "The Verge",
-      "published": "2026-09-30T14:51:49+00:00",
-      "topic": "AI overview",
-      "summary": "Google has launched a pilot program that pays publishers for their contributions to its AI-powered search features, according\nto a report from\nThe Information\n. The pilot program reportedly includes around 100 publishers and comes as Google faces scrutiny over the\nimpact of its AI features\non web traffic."
-    },
-    {
-      "id": "d6170f881b8aebc8e3a126df",
-      "title": "Cerebras Systems’ Andrew Feldman on whether AI can keep scaling at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/30/cerebras-systems-andrew-feldman-on-whether-ai-can-keep-scaling-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "published": "2026-09-30T14:30:00+00:00",
-      "topic": "AI overview",
-      "summary": "At TechCrunch Disrupt 2026, Cerebras Systems CEO and co-founder Andrew Feldman will explore the growing demand for compute, energy, and infrastructure, how Cerebras is approaching those constraints differently, and what comes next if today’s AI hardware reaches its limits."
-    },
-    {
-      "id": "80d6abafb0a0d295facee5f2",
-      "title": "Instagram is adding an AI ‘assistant’ to tell you how to post",
-      "url": "https://www.theverge.com/tech/1002402/instagram-ai-edits-assistant-creators-analytics-youtube",
-      "source": "The Verge",
-      "published": "2026-09-30T14:30:00+00:00",
-      "topic": "Products & tools",
-      "summary": "Instagram is the latest social media platform to add built-in AI-powered features that will give users feedback on their posts. The company announced Wednesday that its standalone Edits app will now include an AI \"creative assistant\" that pulls in data from a user's Instagram account and offers suggestions on what to change."
-    },
-    {
-      "id": "32de5b12bdde4fb92a61676c",
-      "title": "Restate lands $20M as the need for durable infrastructure increases with AI agents",
-      "url": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/",
-      "source": "TechCrunch",
-      "published": "2026-09-30T14:27:11+00:00",
-      "topic": "Products & tools",
-      "summary": "Instead of building its durable execution engine on top of an external database, the company developed its own storage, replication, and redundancy layers. This architecture allows Restate to be exceptionally fast and lightweight."
-    },
-    {
-      "id": "04885edf45af0b22aeb79396",
-      "title": "Here’s how tech leaders will self-police AI safety under Trump’s deal",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1002584/trump-us-ai-safety-deal-self-regulation-tech-execs",
-      "source": "The Verge",
-      "published": "2026-09-30T12:24:32+00:00",
-      "topic": "Policy & safety",
-      "summary": "We now have the full details of the\n\"morally binding\" AI safety deal\nannounced by President Trump yesterday, in which top executives agreed to self-regulate their artificial intelligence technology. The accord, officially titled the Joint Commitment on Frontier Responsibilities, was\nshared online\nby tech founder and presidential adviser David Sacks, and has…"
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-10-21T21:21:18.254700+00:00",
+      "checked": "2026-10-22T00:27:52.267203+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-10-21T21:21:18.254700+00:00",
+      "checked": "2026-10-22T00:27:52.267203+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-10-21T21:21:18.254700+00:00",
+      "checked": "2026-10-22T00:27:52.267203+00:00",
       "error": null
     }
   ],
-  "updated": "2026-10-21T21:21:18.254700+00:00"
+  "updated": "2026-10-22T00:27:52.267203+00:00"
 }
