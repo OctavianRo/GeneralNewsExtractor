@@ -1,6 +1,87 @@
 {
   "articles": [
     {
+      "id": "f790f518b7407f12127e8aed",
+      "title": "Bill Gates says to prepare for 20 years of ‘tumultuous’ AI disruption",
+      "url": "https://www.theverge.com/podcast/1015408/bill-gates-ai-interview-microsoft-openai-anthropic-risk-policy-regulation",
+      "source": "The Verge",
+      "published": "2026-10-22T14:00:00+00:00",
+      "topic": "Models & research",
+      "summary": "Today, I’m talking to Bill Gates, cofounder and former CEO of Microsoft and chairman of the Gates Foundation. You may have noticed Bill in the news more lately — he’s been on\nsomething of a tour\nfor the past few months, ever since\npublishing an essay in late August\ntitled “The turbulent AI era is here."
+    },
+    {
+      "id": "832ac47bcb49fb139641f06f",
+      "title": "Claude Duet app is Anthropic’s bet on agents",
+      "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
+      "source": "TechCrunch",
+      "published": "2026-10-22T13:53:26+00:00",
+      "topic": "Products & tools",
+      "summary": "Claude Duet is available through waitlist for Pro and Max plan users"
+    },
+    {
+      "id": "13578360dd8cd764f27a442b",
+      "title": "Nirva raises $33M for a pendant that only listens to you",
+      "url": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
+      "source": "TechCrunch",
+      "published": "2026-10-22T13:26:52+00:00",
+      "topic": "Business",
+      "summary": "Nirva will ship its $249 ambient AI pendant by the end of the year."
+    },
+    {
+      "id": "3721c0cfc60457c537d3aecf",
+      "title": "1Password lets AI agents use your passwords without seeing them",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1016399/1password-ai-agent-password-sign-in",
+      "source": "The Verge",
+      "published": "2026-10-22T13:00:00+00:00",
+      "topic": "Products & tools",
+      "summary": "1Password is introducing a new feature that allows AI agents to sign into your accounts without actually seeing or handling your passwords. The aptly named 1Password for Agents doesn't give bots free reign to access all of your connected accounts - you'll still need to grant approval for sign-in requests - but should make it less cumbersome to use Agents…"
+    },
+    {
+      "id": "98d9236d4f529e574f6b74da",
+      "title": "AI agents are ready to shop. Some retailers are wary.",
+      "url": "https://www.theverge.com/report/1015811/ai-shopping-agents-blocked-amazon-the-realreal-target-meta-muse",
+      "source": "The Verge",
+      "published": "2026-10-22T12:30:00+00:00",
+      "topic": "Products & tools",
+      "summary": "Using an AI agent to shop for you is a strange experience. Tech companies have marketed them as personal assistants - the democratizing of labor that ordinarily would only be available to the rich and powerful."
+    },
+    {
+      "id": "f2ef808e610cb1b89c936f58",
+      "title": "Claude did not invent scorpion antivenom",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1016443/anthropic-claude-citrini-vibecoding-scorpion-antivenom",
+      "source": "The Verge",
+      "published": "2026-10-22T12:21:07+00:00",
+      "topic": "Models & research",
+      "summary": "An investment research firm wanted to prove AI could revolutionize drug development. So they teamed up with Anthropic to see whether an unreleased version of Claude could make scorpion antivenom."
+    },
+    {
+      "id": "69e867673d3f62844532a5a6",
+      "title": "Eiliko maker says it’s hiring an ‘independent security firm’ after Verge report on its insecure robots",
+      "url": "https://www.theverge.com/news/1015824/eiliko-energize-lab-statement-on-robot-hack-breach",
+      "source": "The Verge",
+      "published": "2026-10-22T11:00:00+00:00",
+      "topic": "AI overview",
+      "summary": "Eiliko, a cute robot charm you can hang on your bag with built-in AI conversations,\nturned out to be a security nightmare\n. It told owners that \"your secrets are safe with me,\" but hackers could easily read complete transcripts of everything we told the toy, and that was\njust the beginning\n."
+    },
+    {
+      "id": "fec7036c87350b493dbac160",
+      "title": "Making the case for context-aware AI",
+      "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
+      "source": "MIT Technology Review",
+      "published": "2026-10-22T10:00:00+00:00",
+      "topic": "Products & tools",
+      "summary": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships that determine whether a decision is the right one."
+    },
+    {
+      "id": "5ba1ec3db181cdc2407ee679",
+      "title": "AI’s hidden storage bill: What inference leaves behind",
+      "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
+      "source": "MIT Technology Review",
+      "published": "2026-10-22T08:41:18+00:00",
+      "topic": "Hardware",
+      "summary": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs."
+    },
+    {
       "id": "8d2d0448075e63e8fffa2e4c",
       "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
       "url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
@@ -2618,105 +2699,24 @@
       "published": "2026-09-30T19:00:57+00:00",
       "topic": "Products & tools",
       "summary": "OpenAI's \"Decisions API\" is a Jev clone that confirms the importance of fast, cheap intelligence."
-    },
-    {
-      "id": "ecee7b20064e276155045671",
-      "title": "AI voice startup ElevenLabs doubles valuation to $22B",
-      "url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
-      "source": "TechCrunch",
-      "published": "2026-09-30T18:23:57+00:00",
-      "topic": "Business",
-      "summary": "The $300 million employee tender was co-led by Wellington and T. Rowe Price."
-    },
-    {
-      "id": "e1f60c1c2506179f52db2d02",
-      "title": "The AI Tamagotchis are coming",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices",
-      "source": "The Verge",
-      "published": "2026-09-30T18:07:38+00:00",
-      "topic": "Products & tools",
-      "summary": "Sam Altman onstage at OpenAI’s DevDay 2026. | Photo: Hayden Field / The Verge\nWhile AI has made plenty of inroads on people's phones and computers, it's largely failed in dedicated devices."
-    },
-    {
-      "id": "9d0cd3e06e9ac75dcc598260",
-      "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
-      "url": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
-      "source": "TechCrunch",
-      "published": "2026-09-30T17:45:00+00:00",
-      "topic": "AI overview",
-      "summary": "Reddit is ending support for RSS feeds, as the company continues tightening access to its trove of user-generated content."
-    },
-    {
-      "id": "1a70b75dd9de5a1edcf04419",
-      "title": "The ugly economics of consumer AI",
-      "url": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
-      "source": "TechCrunch",
-      "published": "2026-09-30T17:24:45+00:00",
-      "topic": "AI overview",
-      "summary": "There’s a reason frontier labs have gotten gun-shy about consumer AI — and it’s not because the tech isn’t good enough."
-    },
-    {
-      "id": "3d09c9ead0a45c93597e31a1",
-      "title": "Here’s what AI leaders are saying about Trump’s new safety plan",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments",
-      "source": "The Verge",
-      "published": "2026-09-30T17:15:49+00:00",
-      "topic": "Policy & safety",
-      "summary": "If you think this shot is amusing, check out the panicked look on Zuckerberg’s face when Trump calls on him to speak. | Photo: Kevin Dietsch/Getty Images\nAfter hosting a meal with Big Tech leaders on Tuesday, President Donald Trump responded to journalist questions about his artificial intelligence announcements in typical fashion."
-    },
-    {
-      "id": "7d7ef74b607ee91eaeb35165",
-      "title": "Meta disputes claim that Muse read a user’s private messages without permission",
-      "url": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
-      "source": "TechCrunch",
-      "published": "2026-09-30T16:24:23+00:00",
-      "topic": "Products & tools",
-      "summary": "Meta says its Muse AI agent cannot access a user’s Messages without explicit permission, disputing a journalist’s account that the agent read his private messages while the required Mac setting was turned off."
-    },
-    {
-      "id": "92c627208580142e65e49c73",
-      "title": "DoorDash launches an AI agent you can text to order food",
-      "url": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
-      "source": "TechCrunch",
-      "published": "2026-09-30T16:00:24+00:00",
-      "topic": "Products & tools",
-      "summary": "By launching an AI agent for food ordering, DoorDash is looking to gain an edge over rivals Uber Eats and Grubhub."
-    },
-    {
-      "id": "73bfb73be41a76b772a3ef76",
-      "title": "Destro AI’s secret sauce is getting robots and humans on the same page",
-      "url": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/",
-      "source": "TechCrunch",
-      "published": "2026-09-30T16:00:00+00:00",
-      "topic": "AI overview",
-      "summary": "\"One of the biggest reasons we are winning against robotics companies is because we are not a robotics company.\""
-    },
-    {
-      "id": "af4c8dc5b4944fab3692d356",
-      "title": "All the latest news on Meta’s cute, creepy Muse AI agent",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1002671/meta-muse-ai",
-      "source": "The Verge",
-      "published": "2026-09-30T15:18:49+00:00",
-      "topic": "Products & tools",
-      "summary": "Meta launched a\nnew Muse AI agent\nit claims can help you with everything from firing off emails to buying stuff online. Muse can be surprisingly effective at\ndelivering on those promises\n— if you’re willing to\ntrust Meta\nwith your data and hand Muse your credit card."
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-10-22T07:13:28.261122+00:00",
+      "checked": "2026-10-22T14:54:20.567912+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-10-22T07:13:28.261122+00:00",
+      "checked": "2026-10-22T14:54:20.567912+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-10-22T07:13:28.261122+00:00",
+      "checked": "2026-10-22T14:54:20.567912+00:00",
       "error": null
     }
   ],
-  "updated": "2026-10-22T07:13:28.261122+00:00"
+  "updated": "2026-10-22T14:54:20.567912+00:00"
 }
