@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "id": "60b56cc3037dbda3a95126cc",
+      "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
+      "source": "The Verge",
+      "published": "2026-10-23T19:32:39+00:00",
+      "topic": "Models & research",
+      "summary": "Take\nthis one\n, for example, shared by Dessa lead Ragavan Thurairatnam. The conversation between the model and the speaker does have a mostly natural back and forth (though for some reason, the model initially mistakes the speaker for somebody named \"Ronaldo\")."
+    },
+    {
+      "id": "6f6451b374ed58f7d87c482b",
+      "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
+      "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
+      "source": "TechCrunch",
+      "published": "2026-10-23T19:06:23+00:00",
+      "topic": "Business",
+      "summary": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside traditional startup hubs."
+    },
+    {
+      "id": "a9526976eeebfbfe11f723ec",
+      "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+      "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+      "source": "The Verge",
+      "published": "2026-10-23T16:52:55+00:00",
+      "topic": "Policy & safety",
+      "summary": "Google has updated\nits privacy policy\nin a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by\nAndroid Authority\n, adds an exception to its promise about not using your Drive, Gmail, or Google Photos for personalized ads."
+    },
+    {
+      "id": "7aa6acbd35f79e1aa638a646",
+      "title": "Meta delays new business terms after publisher pushback on AI scraping",
+      "url": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
+      "source": "The Verge",
+      "published": "2026-10-23T14:47:41+00:00",
+      "topic": "Business",
+      "summary": "Meta is delaying the enforcement of its new business terms after publishers raised concerns that they could allow the company to scrape news sites for AI training, as\nreported earlier by\nFast Company\n. In a statement to\nThe Verge\n, Meta spokesperson Daniel Roberts says the terms will go into effect on November 20th \"to allow more time for us to explain to…"
+    },
+    {
       "id": "4958c298c837622190856639",
       "title": "Retro gaming is being overrun with AI",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port",
@@ -11,12 +47,12 @@
     },
     {
       "id": "cf51e24baa15d2e11b32351f",
-      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
       "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
       "source": "TechCrunch",
       "published": "2026-10-23T04:00:00+00:00",
       "topic": "Hardware",
-      "summary": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027."
+      "summary": "The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027."
     },
     {
       "id": "fee5d6bca690475f34839095",
@@ -2663,60 +2699,24 @@
       "published": "2026-10-02T15:39:41+00:00",
       "topic": "AI overview",
       "summary": "\"There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others,\" the pope wrote. \"Algorithms lack the spark of humanity.\""
-    },
-    {
-      "id": "8adb07de513e420cec26355b",
-      "title": "TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer",
-      "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/",
-      "source": "TechCrunch",
-      "published": "2026-10-02T14:30:00+00:00",
-      "topic": "AI overview",
-      "summary": "Clay Co-founder and CEO Kareem Amin joins the AI Stage to discuss the rise of GTM engineer at TechCrunch Disrupt 2026. Register for your ticket and get a second pass at 50% off."
-    },
-    {
-      "id": "a7d67921299ea2a1831a03bd",
-      "title": "If a data center is camouflaged in the woods, will anyone hate it?",
-      "url": "https://www.theverge.com/tech/1003681/microsoft-data-centers-ai-environment-biomimicry",
-      "source": "The Verge",
-      "published": "2026-10-02T12:00:00+00:00",
-      "topic": "Hardware",
-      "summary": "San Antonio City Councilmember Ric Galvan remembers when data centers first arrived in his city in the 2000s, looking like relatively unassuming office buildings. But that's changed in recent years, as data centers have grown into massive \"hyperscale\" facilities spanning millions of square feet and housing the physical infrastructure for AI."
-    },
-    {
-      "id": "4805756b99237b8b2bc21b3a",
-      "title": "AI hallucinations are making entitled customers even worse",
-      "url": "https://www.theverge.com/report/1002963/ai-hallucinations-customer-service-jobs-agents",
-      "source": "The Verge",
-      "published": "2026-10-02T12:00:00+00:00",
-      "topic": "Products & tools",
-      "summary": "Madison, a server in New York City, greets every table by asking about each diner's allergies. Lately, there have been some close calls."
-    },
-    {
-      "id": "1d9153a945914bf1e09f3053",
-      "title": "Amazon writes scary blog warning communities not to block data centers",
-      "url": "https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning",
-      "source": "The Verge",
-      "published": "2026-10-02T11:52:20+00:00",
-      "topic": "Hardware",
-      "summary": "Amazon is calling for people to support AI data center projects, or risk irreparable harm to the US economy and national security. In a more than\n3,000 word blog\nposted today, Amazon web services CEO Matt Garman pushed back on public concerns around the impact that data centers may have on jobs, power demands, and the environment, saying \"our nation can't…"
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-10-23T14:42:39.024103+00:00",
+      "checked": "2026-10-23T21:06:05.064378+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-10-23T14:42:39.024103+00:00",
+      "checked": "2026-10-23T21:06:05.064378+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-10-23T14:42:39.024103+00:00",
+      "checked": "2026-10-23T21:06:05.064378+00:00",
       "error": null
     }
   ],
-  "updated": "2026-10-23T14:42:39.024103+00:00"
+  "updated": "2026-10-23T21:06:05.064378+00:00"
 }
