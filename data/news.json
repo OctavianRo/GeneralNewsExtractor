@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "id": "4958c298c837622190856639",
+      "title": "Retro gaming is being overrun with AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port",
+      "source": "The Verge",
+      "published": "2026-10-23T12:00:00+00:00",
+      "topic": "Products & tools",
+      "summary": "Retro video games are everywhere lately - especially in places where they aren't supposed to be. Halo\nin a web browser\n,\nWind Waker\non the iPhone\n,\nSuper Smash Bros."
+    },
+    {
       "id": "cf51e24baa15d2e11b32351f",
       "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
       "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
@@ -2690,33 +2699,24 @@
       "published": "2026-10-02T11:52:20+00:00",
       "topic": "Hardware",
       "summary": "Amazon is calling for people to support AI data center projects, or risk irreparable harm to the US economy and national security. In a more than\n3,000 word blog\nposted today, Amazon web services CEO Matt Garman pushed back on public concerns around the impact that data centers may have on jobs, power demands, and the environment, saying \"our nation can't…"
-    },
-    {
-      "id": "e925a640346da26383f394cc",
-      "title": "AI music maker Suno now generates spoken words",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
-      "source": "The Verge",
-      "published": "2026-10-02T09:42:19+00:00",
-      "topic": "AI overview",
-      "summary": "Suno is branching out from the world of AI music, launching a new feature that generates spoken voices based on scripts or prompted descriptions. Speech is now available\nin public beta across Suno's web and mobile platforms, and allows you to simultaneously generate voiceovers and background music to accompany them."
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-10-23T07:05:03.159145+00:00",
+      "checked": "2026-10-23T14:42:39.024103+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-10-23T07:05:03.159145+00:00",
+      "checked": "2026-10-23T14:42:39.024103+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-10-23T07:05:03.159145+00:00",
+      "checked": "2026-10-23T14:42:39.024103+00:00",
       "error": null
     }
   ],
-  "updated": "2026-10-23T07:05:03.159145+00:00"
+  "updated": "2026-10-23T14:42:39.024103+00:00"
 }
