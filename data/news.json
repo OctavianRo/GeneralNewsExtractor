@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "id": "0e6b7b9249b2f756123357b0",
+      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+      "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+      "source": "TechCrunch",
+      "published": "2026-10-22T22:08:24+00:00",
+      "topic": "Business",
+      "summary": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever."
+    },
+    {
+      "id": "5eee804247a435ab2dffe426",
+      "title": "Canva’s first AI image model plans designs before generating them",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+      "source": "The Verge",
+      "published": "2026-10-22T21:51:25+00:00",
+      "topic": "Models & research",
+      "summary": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model,\ncalled Canva Craft\n, uses a two-stage architecture that allows it to plan a design before generating an image, allowing for \"greater precision, consistency and control,\" according to\nan…"
+    },
+    {
+      "id": "c8127c2e57511fe8aa99e119",
+      "title": "Designing an AI serving harness built to last",
+      "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+      "source": "MIT Technology Review",
+      "published": "2026-10-22T21:17:29+00:00",
+      "topic": "Models & research",
+      "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift."
+    },
+    {
       "id": "32b3170e24109d9a6879a006",
       "title": "Meta’s AI could still scrape news sites, legal experts say",
       "url": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
@@ -2672,51 +2699,24 @@
       "published": "2026-10-01T21:08:11+00:00",
       "topic": "Products & tools",
       "summary": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro."
-    },
-    {
-      "id": "6740c72e272a106e86ee57be",
-      "title": "Google’s new Guided Vision feature can help you read the fine print",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
-      "source": "The Verge",
-      "published": "2026-10-01T19:47:51+00:00",
-      "topic": "Models & research",
-      "summary": "Guided Vision is\nlaunching in Gemini Live\non compatible Android devices today to use AI to give real-time audio descriptions of anything you point your phone's camera at. By sharing your camera in Gemini Live, you can have Google's AI help with things like reading small text, describing your surroundings, finding or identifying objects around you, and…"
-    },
-    {
-      "id": "bc70948c064d091d7bc9d08c",
-      "title": "ChatGPT can now virtually try on clothes for you",
-      "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
-      "source": "TechCrunch",
-      "published": "2026-10-01T19:21:53+00:00",
-      "topic": "Products & tools",
-      "summary": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library."
-    },
-    {
-      "id": "7f938778420c03adc731bb05",
-      "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
-      "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
-      "source": "TechCrunch",
-      "published": "2026-10-01T18:14:42+00:00",
-      "topic": "Policy & safety",
-      "summary": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says."
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-10-22T21:16:46.058302+00:00",
+      "checked": "2026-10-23T00:26:06.639474+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-10-22T21:16:46.058302+00:00",
+      "checked": "2026-10-23T00:26:06.639474+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-10-22T21:16:46.058302+00:00",
+      "checked": "2026-10-23T00:26:06.639474+00:00",
       "error": null
     }
   ],
-  "updated": "2026-10-22T21:16:46.058302+00:00"
+  "updated": "2026-10-23T00:26:06.639474+00:00"
 }
