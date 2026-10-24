@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "dfe5fb536ca517ba2b1e8957",
+      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+      "source": "TechCrunch",
+      "published": "2026-10-23T23:05:49+00:00",
+      "topic": "Models & research",
+      "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work."
+    },
+    {
+      "id": "a6d2d5fdb7657f8a34ec9e61",
+      "title": "OpenAI now trains its frontier AI models with no internet access",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+      "source": "The Verge",
+      "published": "2026-10-23T21:11:07+00:00",
+      "topic": "Models & research",
+      "summary": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In\na blog post on Friday\n, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web content \"without risk of affecting external systems.\""
+    },
+    {
       "id": "60b56cc3037dbda3a95126cc",
       "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
@@ -2681,42 +2699,24 @@
       "published": "2026-10-02T17:00:00+00:00",
       "topic": "AI overview",
       "summary": "With all the talk about how AI might one day kill us all, it's easy to forget that AI has already harmed some people psychologically. Circuit Breaker Labs has created \"crash-test dummies\" to solve that."
-    },
-    {
-      "id": "c37300cca94e73f73a83cdde",
-      "title": "Redefining enterprise intelligence with autonomous AI",
-      "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
-      "source": "MIT Technology Review",
-      "published": "2026-10-02T15:49:04+00:00",
-      "topic": "Models & research",
-      "summary": "Enterprise AI is no longer a future ambition. It is in full operational flight."
-    },
-    {
-      "id": "d30de3388ab4a6c1ea0ab85f",
-      "title": "Pope Leo XIV is not a fan of AI-generated art",
-      "url": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
-      "source": "TechCrunch",
-      "published": "2026-10-02T15:39:41+00:00",
-      "topic": "AI overview",
-      "summary": "\"There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others,\" the pope wrote. \"Algorithms lack the spark of humanity.\""
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-10-23T21:06:05.064378+00:00",
+      "checked": "2026-10-24T00:19:41.557773+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-10-23T21:06:05.064378+00:00",
+      "checked": "2026-10-24T00:19:41.557773+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-10-23T21:06:05.064378+00:00",
+      "checked": "2026-10-24T00:19:41.557773+00:00",
       "error": null
     }
   ],
-  "updated": "2026-10-23T21:06:05.064378+00:00"
+  "updated": "2026-10-24T00:19:41.557773+00:00"
 }
