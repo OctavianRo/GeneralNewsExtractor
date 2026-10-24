@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "e7a80d87e8606cee69a815d0",
+      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+      "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+      "source": "TechCrunch",
+      "published": "2026-10-24T15:00:00+00:00",
+      "topic": "Models & research",
+      "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races."
+    },
+    {
+      "id": "ba1e969f5ed16b52b1196083",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "source": "TechCrunch",
+      "published": "2026-10-24T14:00:00+00:00",
+      "topic": "Products & tools",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
+    },
+    {
       "id": "dfe5fb536ca517ba2b1e8957",
       "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
       "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
@@ -2681,42 +2699,24 @@
       "published": "2026-10-02T17:48:16+00:00",
       "topic": "Policy & safety",
       "summary": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump called “morally binding.” Trump also signed an executive order officially rebranding AI as “super intelligence,” and meanwhile, Meta and OpenAI are putting…"
-    },
-    {
-      "id": "886b2bd43a36bf794a9fd8d4",
-      "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
-      "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
-      "source": "TechCrunch",
-      "published": "2026-10-02T17:32:05+00:00",
-      "topic": "AI overview",
-      "summary": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second."
-    },
-    {
-      "id": "5aafb242bf3873bbf1078362",
-      "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
-      "url": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
-      "source": "TechCrunch",
-      "published": "2026-10-02T17:00:00+00:00",
-      "topic": "AI overview",
-      "summary": "With all the talk about how AI might one day kill us all, it's easy to forget that AI has already harmed some people psychologically. Circuit Breaker Labs has created \"crash-test dummies\" to solve that."
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-10-24T13:52:05.706021+00:00",
+      "checked": "2026-10-24T17:14:43.359782+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-10-24T13:52:05.706021+00:00",
+      "checked": "2026-10-24T17:14:43.359782+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-10-24T13:52:05.706021+00:00",
+      "checked": "2026-10-24T17:14:43.359782+00:00",
       "error": null
     }
   ],
-  "updated": "2026-10-24T13:52:05.706021+00:00"
+  "updated": "2026-10-24T17:14:43.359782+00:00"
 }
