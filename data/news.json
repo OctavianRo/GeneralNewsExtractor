@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "id": "a18a7851efbde35c1b2abb7e",
+      "title": "The hottest AI wearables and gadgets you should know about",
+      "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+      "source": "TechCrunch",
+      "published": "2026-10-25T14:10:00+00:00",
+      "topic": "AI overview",
+      "summary": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more."
+    },
+    {
       "id": "36111d6bc6b4991f37ea245b",
       "title": "Blue Planet III is keeping the rough edges in the age of AI",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
@@ -2690,33 +2699,24 @@
       "published": "2026-10-02T20:08:40+00:00",
       "topic": "Products & tools",
       "summary": "The change comes just weeks after\nInc\n's Jason Aten found that Meta's Muse AI somehow\nknew the contents of his messages\n, despite not giving the chatbot explicit permission to access them on his iPhone or Mac. Meta spokesperson Andy Stone\npushed back on this report\n, saying access to Messages is \"entirely opt-in."
-    },
-    {
-      "id": "593a5e64b60b12967ba0c4bf",
-      "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
-      "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
-      "source": "TechCrunch",
-      "published": "2026-10-02T18:11:27+00:00",
-      "topic": "Products & tools",
-      "summary": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier."
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-10-25T08:10:40.847620+00:00",
+      "checked": "2026-10-25T14:52:56.931655+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-10-25T08:10:40.847620+00:00",
+      "checked": "2026-10-25T14:52:56.931655+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-10-25T08:10:40.847620+00:00",
+      "checked": "2026-10-25T14:52:56.931655+00:00",
       "error": null
     }
   ],
-  "updated": "2026-10-25T08:10:40.847620+00:00"
+  "updated": "2026-10-25T14:52:56.931655+00:00"
 }
