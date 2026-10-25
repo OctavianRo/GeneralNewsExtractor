@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "id": "36111d6bc6b4991f37ea245b",
+      "title": "Blue Planet III is keeping the rough edges in the age of AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
+      "source": "The Verge",
+      "published": "2026-10-24T21:29:12+00:00",
+      "topic": "AI overview",
+      "summary": "BBC's\nBlue Planet III\nis looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real."
+    },
+    {
       "id": "43fa73ddaf377eb53f4ddcb6",
       "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
       "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
@@ -2690,33 +2699,24 @@
       "published": "2026-10-02T18:11:27+00:00",
       "topic": "Products & tools",
       "summary": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier."
-    },
-    {
-      "id": "b19a7eb5407edebb14dd6540",
-      "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
-      "source": "The Verge",
-      "published": "2026-10-02T18:00:00+00:00",
-      "topic": "Products & tools",
-      "summary": "New helpful little guy just dropped. | Photo: Allison Johnson / The Verge\nIt's a tale as old as last week:\nOpenAI's new agent platform\n, called Dots, is full of\ncute little guys\nwho can do your bidding."
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-10-24T20:23:05.889588+00:00",
+      "checked": "2026-10-25T00:02:50.903350+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-10-24T20:23:05.889588+00:00",
+      "checked": "2026-10-25T00:02:50.903350+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-10-24T20:23:05.889588+00:00",
+      "checked": "2026-10-25T00:02:50.903350+00:00",
       "error": null
     }
   ],
-  "updated": "2026-10-24T20:23:05.889588+00:00"
+  "updated": "2026-10-25T00:02:50.903350+00:00"
 }
