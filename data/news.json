@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "id": "9a814be9eb368823251ceec6",
+      "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "source": "TechCrunch",
+      "published": "2026-10-25T16:57:32+00:00",
+      "topic": "Business",
+      "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\""
+    },
+    {
       "id": "a18a7851efbde35c1b2abb7e",
       "title": "The hottest AI wearables and gadgets you should know about",
       "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
@@ -8,6 +17,24 @@
       "published": "2026-10-25T14:10:00+00:00",
       "topic": "AI overview",
       "summary": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more."
+    },
+    {
+      "id": "b411fbb2487aa2da4ef9c194",
+      "title": "r/opensource just banned AI, non-English speakers, and more",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+      "source": "The Verge",
+      "published": "2026-10-25T13:25:32+00:00",
+      "topic": "AI overview",
+      "summary": "The new rules have set off a firestorm in the comments, and even spurred the creation of a rival sub\nr/trueopensource\n. Moderator Wolvereness has waded into the comments to explain that there's nuance and room for selective enforcement, such as \"software that incidentally has accessibility features that use AI,\" including …"
+    },
+    {
+      "id": "ab1f7cff37722d46d5fd64ba",
+      "title": "Google’s AI search changes upended online publishing",
+      "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+      "source": "The Verge",
+      "published": "2026-10-25T12:00:00+00:00",
+      "topic": "AI overview",
+      "summary": "This is\nThe Stepback\n, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow\nEmma Roth\n."
     },
     {
       "id": "36111d6bc6b4991f37ea245b",
@@ -2672,51 +2699,24 @@
       "published": "2026-10-03T14:00:00+00:00",
       "topic": "Products & tools",
       "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
-    },
-    {
-      "id": "5671402926db891c3047aac7",
-      "title": "Sean Parker is rebuilding Stability AI around music",
-      "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
-      "source": "TechCrunch",
-      "published": "2026-10-02T21:09:14+00:00",
-      "topic": "AI overview",
-      "summary": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money."
-    },
-    {
-      "id": "038134d95b4f933ef0d5c76c",
-      "title": "Meta open sources code to let you make Muse AI gadgets",
-      "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
-      "source": "The Verge",
-      "published": "2026-10-02T21:08:37+00:00",
-      "topic": "Products & tools",
-      "summary": "Meta now lets you make your own\nMuse gadgets\nthat feature the company's new AI agent with code that the company\nopen sourced\n. The company suggests projects like loading Muse on a color E Ink display to show reminders, adding it to an HDMI stick so you can display Muse on a big screen, or putting Muse on a small touchscreen device to make what looks kind of…"
-    },
-    {
-      "id": "ac153d8f7821405e727c46b7",
-      "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
-      "url": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
-      "source": "The Verge",
-      "published": "2026-10-02T20:08:40+00:00",
-      "topic": "Products & tools",
-      "summary": "The change comes just weeks after\nInc\n's Jason Aten found that Meta's Muse AI somehow\nknew the contents of his messages\n, despite not giving the chatbot explicit permission to access them on his iPhone or Mac. Meta spokesperson Andy Stone\npushed back on this report\n, saying access to Messages is \"entirely opt-in."
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-10-25T14:52:56.931655+00:00",
+      "checked": "2026-10-25T18:12:38.613620+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-10-25T14:52:56.931655+00:00",
+      "checked": "2026-10-25T18:12:38.613620+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-10-25T14:52:56.931655+00:00",
+      "checked": "2026-10-25T18:12:38.613620+00:00",
       "error": null
     }
   ],
-  "updated": "2026-10-25T14:52:56.931655+00:00"
+  "updated": "2026-10-25T18:12:38.613620+00:00"
 }
