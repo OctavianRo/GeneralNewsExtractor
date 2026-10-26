@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "id": "08ec5c76056e031d898a328e",
+      "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+      "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+      "source": "TechCrunch",
+      "published": "2026-10-25T21:31:16+00:00",
+      "topic": "AI overview",
+      "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest."
+    },
+    {
       "id": "9a814be9eb368823251ceec6",
       "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
       "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
@@ -2690,33 +2699,24 @@
       "published": "2026-10-03T14:31:56+00:00",
       "topic": "Policy & safety",
       "summary": "David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is now speaking out in an editorial in\nThe Atlantic\n."
-    },
-    {
-      "id": "3c49c40e0ec38e267dc70e67",
-      "title": "All the AI agents that can live in your text messages",
-      "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "source": "TechCrunch",
-      "published": "2026-10-03T14:00:00+00:00",
-      "topic": "Products & tools",
-      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-10-25T21:30:09.591691+00:00",
+      "checked": "2026-10-26T01:01:11.350094+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-10-25T21:30:09.591691+00:00",
+      "checked": "2026-10-26T01:01:11.350094+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-10-25T21:30:09.591691+00:00",
+      "checked": "2026-10-26T01:01:11.350094+00:00",
       "error": null
     }
   ],
-  "updated": "2026-10-25T21:30:09.591691+00:00"
+  "updated": "2026-10-26T01:01:11.350094+00:00"
 }
