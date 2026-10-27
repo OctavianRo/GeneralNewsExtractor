@@ -1,6 +1,87 @@
 {
   "articles": [
     {
+      "id": "22c376eb4e78466379a2f976",
+      "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
+      "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
+      "source": "TechCrunch",
+      "published": "2026-10-27T21:44:34+00:00",
+      "topic": "Products & tools",
+      "summary": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access."
+    },
+    {
+      "id": "4f33acf6a2b5045b42df119c",
+      "title": "Who’s really in charge at Anthropic after the IPO?",
+      "url": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
+      "source": "TechCrunch",
+      "published": "2026-10-27T21:38:28+00:00",
+      "topic": "AI overview",
+      "summary": "Here's a clear explanation of Anthropic's incredibly complex governance structure."
+    },
+    {
+      "id": "578f4a1cc2a6a4ecc178ce6a",
+      "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
+      "source": "The Verge",
+      "published": "2026-10-27T20:48:58+00:00",
+      "topic": "AI overview",
+      "summary": "On Monday, OpenAI\nannounced\nimpressive\nbreakthroughs\nin mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite its apparent course correction, researchers who spoke to\nThe Verge\nare growing increasingly tired of the company's antics."
+    },
+    {
+      "id": "373a8b625d1496cb7cd529c3",
+      "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
+      "url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
+      "source": "TechCrunch",
+      "published": "2026-10-27T18:55:35+00:00",
+      "topic": "Business",
+      "summary": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs."
+    },
+    {
+      "id": "b2aff63a03e983b29f98161a",
+      "title": "VisionQuest is what happens when AI really goes rogue",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
+      "source": "The Verge",
+      "published": "2026-10-27T17:30:00+00:00",
+      "topic": "AI overview",
+      "summary": "In Marvel's\nVisionQuest\n, a superpowered robot tries to better understand humanity by getting lost in elaborate, digital daydreams in which he and other artificial intelligence-powered beings live together in a home. The series is deeply fantastical, yet it plays with some of the ideas that have come to dominate the conversation about real-world generative…"
+    },
+    {
+      "id": "24969064b492b7122a6e92b7",
+      "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+      "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+      "source": "TechCrunch",
+      "published": "2026-10-27T17:08:08+00:00",
+      "topic": "Models & research",
+      "summary": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery."
+    },
+    {
+      "id": "bb9f02a56d8cd14e98630158",
+      "title": "Anthropic’s elaborate plan to keep Wall Street at bay",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
+      "source": "The Verge",
+      "published": "2026-10-27T16:51:22+00:00",
+      "topic": "AI overview",
+      "summary": "Sam Altman, the CEO of Anthropic's archrival, OpenAI, has\ncited\ninvestor pressures as one reason the company is not pursuing an IPO this year. Anthropic hopes it can resist investor pressures with a mind-boggling governance structure."
+    },
+    {
+      "id": "991356d9e9385200ab3c9f5b",
+      "title": "Firefox’s Smart Window adds AI form filling and webpage monitoring",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms",
+      "source": "The Verge",
+      "published": "2026-10-27T16:14:18+00:00",
+      "topic": "AI overview",
+      "summary": "You can\ntry out this feature\nby clicking into a form with at least four text fields. From there, you'll see an option to \"Fill from sources,\" which will show all of the tabs Firefox will draw from."
+    },
+    {
+      "id": "8fc62bcb0cb10104010287d3",
+      "title": "Google’s next Genie AI model generates more realistic experiences",
+      "url": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
+      "source": "The Verge",
+      "published": "2026-10-27T16:00:00+00:00",
+      "topic": "Models & research",
+      "summary": "Google announced today\nits Genie 4 world model\nfor generating interactive experiences using AI. The company says the model has four main updates: It allows for more realistic worlds, lets users update an experience in real time with a natural language prompt, can generate audio, and uses Gemini 3.8 Flash under the hood to help with its simulations."
+    },
+    {
       "id": "0fcf6f6c92fd1124bb803ec0",
       "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
       "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
@@ -43,7 +124,7 @@
       "source": "TechCrunch",
       "published": "2026-10-27T11:00:00+00:00",
       "topic": "Business",
-      "summary": "Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue."
+      "summary": "Simplismart says its annualized revenue run rate has grown fourteenfold in six months, with the U.S. accounting for more than half its revenue."
     },
     {
       "id": "10515f024c670e282247cef8",
@@ -2618,105 +2699,24 @@
       "published": "2026-10-05T20:36:48+00:00",
       "topic": "Products & tools",
       "summary": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says."
-    },
-    {
-      "id": "17d9e21ea2c6b68b4464d8a6",
-      "title": "This startup is issuing AI-generated acne prescriptions",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions",
-      "source": "The Verge",
-      "published": "2026-10-05T20:14:57+00:00",
-      "topic": "Business",
-      "summary": "The service is launching as a pilot program with gradually loosening physician oversight. Two physicians will approve each AI-generated prescription before they're issued for the first 100 patients, but will start reviewing them only\nafter\nthey're prescribed for up to 500 patients."
-    },
-    {
-      "id": "a7128a85cbf69ae6acfbcf41",
-      "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
-      "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
-      "source": "TechCrunch",
-      "published": "2026-10-05T19:33:53+00:00",
-      "topic": "Models & research",
-      "summary": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI system by training Reflection’s AI models on their own proprietary data."
-    },
-    {
-      "id": "d678673f82769ab31847f2e2",
-      "title": "All the drama around AI’s takeover of mathematics",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution",
-      "source": "The Verge",
-      "published": "2026-10-05T19:28:59+00:00",
-      "topic": "AI overview",
-      "summary": "This past year, OpenAI, Anthropic, and other labs have announced breakthroughs on numerous long-standing mathematical problems, in some cases pushing well beyond what researchers expected current systems to be capable of — including resolving one of the famous Millennium Prize problems. But in classic Silicon Valley style, AI labs are\nmoving fast and…"
-    },
-    {
-      "id": "a3e25dbd2a96b0bf88833ee4",
-      "title": "Wikipedia operator says OpenAI’s ‘rogue’ bots may be linked to a May outage",
-      "url": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage",
-      "source": "The Verge",
-      "published": "2026-10-05T19:05:19+00:00",
-      "topic": "Products & tools",
-      "summary": "The activity includes edits to Wikimedia wikis, \"unsuccessful attempts\" to \"exploit\" the Etherpad note-taking tool that the Wikimedia Foundation hosts, and heavy traffic that the foundation says \"may\" have contributed to a partial outage that happened in May,\naccording to a blog post\n. However, the Wikimedia Foundation says it didn't find evidence that its…"
-    },
-    {
-      "id": "8de392d7933012dafc985a80",
-      "title": "Instinct brings its AI agent to group chats, even for friends without an account",
-      "url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
-      "source": "TechCrunch",
-      "published": "2026-10-05T18:54:30+00:00",
-      "topic": "Products & tools",
-      "summary": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The company says personal accounts remain separate, with permission required before personal agents share information or take action."
-    },
-    {
-      "id": "42a6a218f0ff469f5f7df9fc",
-      "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
-      "url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
-      "source": "TechCrunch",
-      "published": "2026-10-05T18:29:00+00:00",
-      "topic": "Products & tools",
-      "summary": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products."
-    },
-    {
-      "id": "3685b45efb88af11e6c89764",
-      "title": "OpenAI is adding text watermarking in ChatGPT and Codex",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
-      "source": "The Verge",
-      "published": "2026-10-05T18:08:39+00:00",
-      "topic": "Products & tools",
-      "summary": "OpenAI says its textGrain watermarking \"matched or exceeded\" other approaches like Google DeepMind's SynthID for text, which is also the basis for the watermarking Anthropic\nannounced in August\n. Like OpenAI, Anthropic made the move to meet the requirements of the\nEU's AI Act\n; however, not everyone was happy to learn about the addition."
-    },
-    {
-      "id": "8c7e4fe50290d4f0df1bca37",
-      "title": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
-      "url": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
-      "source": "TechCrunch",
-      "published": "2026-10-05T17:29:22+00:00",
-      "topic": "Policy & safety",
-      "summary": "Founded by two sisters, Hot Girl Hotline uses AI to give young women personalized dating and relationship advice, with an emphasis on safety and avoiding emotional dependency."
-    },
-    {
-      "id": "7f498475ebe1fcdcaa7e5384",
-      "title": "OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user’s suicide",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr",
-      "source": "The Verge",
-      "published": "2026-10-05T16:55:42+00:00",
-      "topic": "Products & tools",
-      "summary": "The interruption came shortly after Guiducci asked Altman if he knew who Laura Reiley is, a journalist who\nwrote an essay for\nThe New York Times\nabout her daughter's conversations with ChatGPT before she took her own life. \"Her daughter committed suicide after speaking to ChatGPT."
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-10-27T16:14:10.114859+00:00",
+      "checked": "2026-10-27T22:52:46.415896+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-10-27T16:14:10.114859+00:00",
+      "checked": "2026-10-27T22:52:46.415896+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-10-27T16:14:10.114859+00:00",
+      "checked": "2026-10-27T22:52:46.415896+00:00",
       "error": null
     }
   ],
-  "updated": "2026-10-27T16:14:10.114859+00:00"
+  "updated": "2026-10-27T22:52:46.415896+00:00"
 }
