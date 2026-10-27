@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "id": "939d943fc8f0d3999bfa9328",
+      "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+      "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+      "source": "TechCrunch",
+      "published": "2026-10-27T02:00:00+00:00",
+      "topic": "Products & tools",
+      "summary": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent."
+    },
+    {
+      "id": "8af7b30500f9c04c48b14d5a",
+      "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+      "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+      "source": "TechCrunch",
+      "published": "2026-10-27T01:12:21+00:00",
+      "topic": "Models & research",
+      "summary": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI."
+    },
+    {
+      "id": "b555ce2afa55383d5d6c0fd9",
+      "title": "OpenAI announces three big science discoveries and a new way to work with academics",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+      "source": "The Verge",
+      "published": "2026-10-26T23:34:58+00:00",
+      "topic": "AI overview",
+      "summary": "Less than a month after its\nmass release of hundreds of manuscripts\nthat it said contained solutions to long-standing mathematics questions, OpenAI is back with\nthree more \"major\" discoveries in math, computer science, and physics\n. What's different this time is the choice to have external experts that OpenAI describes as \"shepherds\" guiding the results in…"
+    },
+    {
       "id": "092e8ceea2bd79fc970f45ee",
       "title": "Anthropic is burning gas to feed the AI boom",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
@@ -2672,51 +2699,24 @@
       "published": "2026-10-05T14:35:09+00:00",
       "topic": "Products & tools",
       "summary": "Independent researchers discovered an agent swarm that seems to be running on Tencent's infrastructure and targeting Alibaba's map service, Amap."
-    },
-    {
-      "id": "a4140c00fc7ab9c4d1c9a38e",
-      "title": "Sen. Adam Schiff on AI regulation, free speech, and impeaching Trump one more time",
-      "url": "https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption",
-      "source": "The Verge",
-      "published": "2026-10-05T14:30:00+00:00",
-      "topic": "Policy & safety",
-      "summary": "Today, I’m talking with Sen. Adam Schiff, a Democrat from California. Schiff sits on a number of committees with oversight into tech and AI: intellectual property, antitrust, privacy and technology — it’s all there."
-    },
-    {
-      "id": "5f53e39dd9e9fc83228eb06b",
-      "title": "Bringing predictive analytics to the agentic AI era",
-      "url": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
-      "source": "MIT Technology Review",
-      "published": "2026-10-05T13:29:32+00:00",
-      "topic": "Models & research",
-      "summary": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big question now is how to enable predictive systems to act on their own conclusions without drifting from business intent."
-    },
-    {
-      "id": "6c458078e631a37a7784a0b2",
-      "title": "OpenAI is sticking more ads in ChatGPT",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
-      "source": "The Verge",
-      "published": "2026-10-05T13:09:48+00:00",
-      "topic": "Products & tools",
-      "summary": "OpenAI's latest ad format will put images of sponsored products and services on your screen. The ads, which OpenAI will begin testing in the US later this month, will \"initially\" appear when you generate images with ChatGPT,\naccording to an announcement\non Monday."
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-10-26T23:03:03.193481+00:00",
+      "checked": "2026-10-27T08:43:11.350002+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-10-26T23:03:03.193481+00:00",
+      "checked": "2026-10-27T08:43:11.350002+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-10-26T23:03:03.193481+00:00",
+      "checked": "2026-10-27T08:43:11.350002+00:00",
       "error": null
     }
   ],
-  "updated": "2026-10-26T23:03:03.193481+00:00"
+  "updated": "2026-10-27T08:43:11.350002+00:00"
 }
