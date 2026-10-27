@@ -1,6 +1,60 @@
 {
   "articles": [
     {
+      "id": "0fcf6f6c92fd1124bb803ec0",
+      "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
+      "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
+      "source": "TechCrunch",
+      "published": "2026-10-27T14:59:09+00:00",
+      "topic": "Business",
+      "summary": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite."
+    },
+    {
+      "id": "77387043f69a853ed6d45064",
+      "title": "Apple is adding an AI chatbot to Pages, Keynote, and Numbers",
+      "url": "https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update",
+      "source": "The Verge",
+      "published": "2026-10-27T13:50:51+00:00",
+      "topic": "Products & tools",
+      "summary": "Apple is bringing\nan AI assistant to its suite of productivity apps\n, including Keynote, Pages, and Numbers. The assistant, which is built on AI models from Apple and OpenAI, can understand a document's context to perform tasks like designing, animating, and refining slides in Keynote."
+    },
+    {
+      "id": "840f2acb14a494b9a8c9e466",
+      "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
+      "url": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
+      "source": "TechCrunch",
+      "published": "2026-10-27T13:00:00+00:00",
+      "topic": "Models & research",
+      "summary": "The new standard, WebAI, is designed to work with a variety of AI models."
+    },
+    {
+      "id": "5e2d9e6f0fc03de4fa036bee",
+      "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
+      "url": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
+      "source": "MIT Technology Review",
+      "published": "2026-10-27T11:19:18+00:00",
+      "topic": "Products & tools",
+      "summary": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers."
+    },
+    {
+      "id": "72e188139d8466867249a905",
+      "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
+      "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
+      "source": "TechCrunch",
+      "published": "2026-10-27T11:00:00+00:00",
+      "topic": "Business",
+      "summary": "Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue."
+    },
+    {
+      "id": "10515f024c670e282247cef8",
+      "title": "Data center backlash is uniting America",
+      "url": "https://www.theverge.com/policy/1019152/data-centers-midterm-elections",
+      "source": "The Verge",
+      "published": "2026-10-27T10:00:00+00:00",
+      "topic": "Hardware",
+      "summary": "At the same time, tech money has been pouring into many of these races. Leading the Future, a super PAC backed by venture capitalist Marc Andreessen and OpenAI President Greg Brockman, has already spent $45 million in a year."
+    },
+    {
       "id": "939d943fc8f0d3999bfa9328",
       "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
       "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
@@ -2645,78 +2699,24 @@
       "published": "2026-10-05T16:55:42+00:00",
       "topic": "Products & tools",
       "summary": "The interruption came shortly after Guiducci asked Altman if he knew who Laura Reiley is, a journalist who\nwrote an essay for\nThe New York Times\nabout her daughter's conversations with ChatGPT before she took her own life. \"Her daughter committed suicide after speaking to ChatGPT."
-    },
-    {
-      "id": "7eb4477bce55b7ff78fdba24",
-      "title": "Sam Altman says ‘some bad things’ will happen, but AI is totally worth it",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004811/openai-altman-bad-things-ai-tradeoff",
-      "source": "The Verge",
-      "published": "2026-10-05T16:44:21+00:00",
-      "topic": "Policy & safety",
-      "summary": "Sam Altman thinks that the benefits of AI will be so great that \"the world should accept some bad things happening\" along the way. The OpenAI CEO pointed to hacks, scams, and \"other bad things\" as costs society should expect to tolerate because \"people will do tremendously orders of magnitude more good stuff\" with AI, without elaborating on the potential…"
-    },
-    {
-      "id": "d16241c2084e0d1da4b8722d",
-      "title": "HackerRank’s AI interviewer offers a glimpse into what job interviews could become",
-      "url": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/",
-      "source": "TechCrunch",
-      "published": "2026-10-05T16:43:35+00:00",
-      "topic": "AI overview",
-      "summary": "HackerRank’s AI interviewer has already conducted more than 500,000 interviews, with Snowflake, Snorkel, and Capgemini among its early testers."
-    },
-    {
-      "id": "d7e5d431299a70e00288d06c",
-      "title": "Connecting AI agents to enterprise knowledge",
-      "url": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
-      "source": "MIT Technology Review",
-      "published": "2026-10-05T15:47:52+00:00",
-      "topic": "Products & tools",
-      "summary": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of what the data means in the context of individual organizations."
-    },
-    {
-      "id": "a0ec29c39f5f2711a72b1f50",
-      "title": "OpenAI launches visual ads that appear alongside image generation results",
-      "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
-      "source": "TechCrunch",
-      "published": "2026-10-05T15:14:24+00:00",
-      "topic": "AI overview",
-      "summary": "The new ads will begin to appear later this month in the U.S. only for now, and will feature products and services from an initial test group of advertisers."
-    },
-    {
-      "id": "fb4a44bb63843e38fafd71b8",
-      "title": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "published": "2026-10-05T15:00:00+00:00",
-      "topic": "AI overview",
-      "summary": "Learn how founders are choosing between building on open or closed AI at TechCrunch Disrupt 2026. Register now to save up to $100 and get a second pass at 50% off."
-    },
-    {
-      "id": "df294a11bdb6826bcae32cc6",
-      "title": "Researchers are tracking a Chinese AI ‘agent fleet’",
-      "url": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
-      "source": "TechCrunch",
-      "published": "2026-10-05T14:35:09+00:00",
-      "topic": "Products & tools",
-      "summary": "Independent researchers discovered an agent swarm that seems to be running on Tencent's infrastructure and targeting Alibaba's map service, Amap."
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-10-27T08:43:11.350002+00:00",
+      "checked": "2026-10-27T16:14:10.114859+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-10-27T08:43:11.350002+00:00",
+      "checked": "2026-10-27T16:14:10.114859+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-10-27T08:43:11.350002+00:00",
+      "checked": "2026-10-27T16:14:10.114859+00:00",
       "error": null
     }
   ],
-  "updated": "2026-10-27T08:43:11.350002+00:00"
+  "updated": "2026-10-27T16:14:10.114859+00:00"
 }
