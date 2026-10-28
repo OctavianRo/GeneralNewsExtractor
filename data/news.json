@@ -1,6 +1,60 @@
 {
   "articles": [
     {
+      "id": "e46d29680afeffb35eba7f55",
+      "title": "Google expands AI Search ads globally as core ad growth slows",
+      "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+      "source": "TechCrunch",
+      "published": "2026-10-28T21:48:37+00:00",
+      "topic": "Business",
+      "summary": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion."
+    },
+    {
+      "id": "020314ea17c3bf3d5e5dd5c2",
+      "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+      "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+      "source": "TechCrunch",
+      "published": "2026-10-28T21:34:30+00:00",
+      "topic": "Business",
+      "summary": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership."
+    },
+    {
+      "id": "f32d7efe87a5d30e33f2451e",
+      "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
+      "url": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
+      "source": "TechCrunch",
+      "published": "2026-10-28T21:25:30+00:00",
+      "topic": "Business",
+      "summary": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago quarter."
+    },
+    {
+      "id": "9957645d2f759c419e960204",
+      "title": "Creating AI value with enterprise context",
+      "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
+      "source": "MIT Technology Review",
+      "published": "2026-10-28T20:32:02+00:00",
+      "topic": "Products & tools",
+      "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond."
+    },
+    {
+      "id": "7b5653451a244c2d34efb38f",
+      "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+      "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+      "source": "The Verge",
+      "published": "2026-10-28T20:03:00+00:00",
+      "topic": "Models & research",
+      "summary": "The new Gemini 4 Carbon model offers improvements over Argon, which Google released earlier this month. It's currently only available to a select group of cybersecurity defense companies, but it will eventually expand to other partners\nin its Fairwind Program\n."
+    },
+    {
+      "id": "3b6696291dbcf94fbfc4afeb",
+      "title": "Anthropic just launched tools to show companies what their AI spending is buying",
+      "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+      "source": "TechCrunch",
+      "published": "2026-10-28T19:19:58+00:00",
+      "topic": "Products & tools",
+      "summary": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO."
+    },
+    {
       "id": "f2796a9e771f5f13b03f9d08",
       "title": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
       "url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
@@ -8,6 +62,15 @@
       "published": "2026-10-28T17:00:00+00:00",
       "topic": "AI overview",
       "summary": "The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission."
+    },
+    {
+      "id": "dc7790b3a03a16cfe3a5e172",
+      "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+      "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+      "source": "TechCrunch",
+      "published": "2026-10-28T17:00:00+00:00",
+      "topic": "Products & tools",
+      "summary": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps."
     },
     {
       "id": "db30df4bb3be374c702132d6",
@@ -2636,87 +2699,24 @@
       "published": "2026-10-07T14:30:00+00:00",
       "topic": "AI overview",
       "summary": "OpenAI’s Alexander Embiricos is coming to the AI Stage at TechCrunch Disrupt 2026, just days after the launch of Dots. Join this conversation by registering for your pass."
-    },
-    {
-      "id": "c153ead68f31a7bb8087e175",
-      "title": "Get hands-on: The full lineup of interactive roundtables at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/10/07/get-hands-on-the-full-lineup-of-interactive-roundtables-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "published": "2026-10-07T14:15:00+00:00",
-      "topic": "Hardware",
-      "summary": "From Nvidia and Chime to Obvious Ventures and Anthropic, explore the entire roundtable agenda at TechCrunch Disrupt 2026. Register now to save up to $100 on your pass and get a second pass at 50% off."
-    },
-    {
-      "id": "24157dcdb45d26aebab22c4e",
-      "title": "Google’s new SynthID website can identify AI-generated media",
-      "url": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/",
-      "source": "TechCrunch",
-      "published": "2026-10-07T14:00:00+00:00",
-      "topic": "AI overview",
-      "summary": "Google on Tuesday launched a new site that lets anyone verify whether a piece of media, be it an image, a video, or an audio clip, is generated using AI."
-    },
-    {
-      "id": "21c2d5c2c0a78a529014da7b",
-      "title": "AI could upend food delivery",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1005726/doordash-ai-agentic-food-delivery-bites",
-      "source": "The Verge",
-      "published": "2026-10-07T12:00:00+00:00",
-      "topic": "Business",
-      "summary": "DoorDash, the leading food delivery app, processed 970 million orders in its second quarter this year and generated $4.5 billion in revenue. A 10-person startup called Bites is a blip in comparison: It has just around 300 restaurants signed up in the Bay Area, where it's operating as a pre-seed startup."
-    },
-    {
-      "id": "651e2d5687f7b27f92e6828d",
-      "title": "ChatGPT for Teens is an ‘unacceptable risk,’ says Common Sense Media",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media",
-      "source": "The Verge",
-      "published": "2026-10-07T09:00:00+00:00",
-      "topic": "Products & tools",
-      "summary": "Common Sense Media, a nonprofit that offers reviews of apps, services, and entertainment with a focus on youth safety, today said that OpenAI's ChatGPT for Teens is an \"unacceptable risk.\"\nChatGPT for Teens,\nintroduced in August\n, has guardrails for teens and is designed to help students learn, but Common Sense Media says that the teen protections offered…"
-    },
-    {
-      "id": "0e401bad0dd434d616eaa7e6",
-      "title": "OpenAI drops another batch of mathematical breakthroughs",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
-      "source": "The Verge",
-      "published": "2026-10-06T23:26:38+00:00",
-      "topic": "Models & research",
-      "summary": "OpenAI has\nrevealed solutions\nto a number of long-standing mathematics problems produced by an unreleased frontier model in\na batch of 722 manuscripts, covering 372 result families\nthat group related papers. It extends a run of breakthroughs that have both impressed and unsettled parts of the mathematical community while raising questions about research…"
-    },
-    {
-      "id": "a7013ecd4f4c7ec9e8b1450d",
-      "title": "How AI decision models could change content moderation",
-      "url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
-      "source": "TechCrunch",
-      "published": "2026-10-06T20:35:20+00:00",
-      "topic": "Models & research",
-      "summary": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights."
-    },
-    {
-      "id": "170c70f0f66eeaa2ed208262",
-      "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
-      "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
-      "source": "TechCrunch",
-      "published": "2026-10-06T20:00:30+00:00",
-      "topic": "Business",
-      "summary": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone."
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-10-28T17:01:31.519618+00:00",
+      "checked": "2026-10-28T22:57:33.827070+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-10-28T17:01:31.519618+00:00",
+      "checked": "2026-10-28T22:57:33.827070+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-10-28T17:01:31.519618+00:00",
+      "checked": "2026-10-28T22:57:33.827070+00:00",
       "error": null
     }
   ],
-  "updated": "2026-10-28T17:01:31.519618+00:00"
+  "updated": "2026-10-28T22:57:33.827070+00:00"
 }
