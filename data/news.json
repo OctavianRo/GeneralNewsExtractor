@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "id": "4ba4897dde9b2c1a6b325a71",
+      "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+      "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+      "source": "TechCrunch",
+      "published": "2026-10-28T01:15:28+00:00",
+      "topic": "Business",
+      "summary": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic."
+    },
+    {
+      "id": "4c5627bb695205d19ffc196f",
+      "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+      "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+      "source": "TechCrunch",
+      "published": "2026-10-27T23:34:27+00:00",
+      "topic": "Models & research",
+      "summary": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February."
+    },
+    {
+      "id": "5b8f2377809f90dcf69cfe60",
+      "title": "The data center boom has an upside: innovation for the US grid",
+      "url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+      "source": "TechCrunch",
+      "published": "2026-10-27T22:55:41+00:00",
+      "topic": "Hardware",
+      "summary": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say."
+    },
+    {
       "id": "22c376eb4e78466379a2f976",
       "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
       "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
@@ -2672,51 +2699,24 @@
       "published": "2026-10-06T14:00:49+00:00",
       "topic": "AI overview",
       "summary": "Pinterest’s new AI-powered Beauty Guides translate hair and nail Pins into salon terminology, with estimated costs, appointment times, and maintenance needs."
-    },
-    {
-      "id": "de66b423d3f35c96ba04672f",
-      "title": "Google is about to remove free access to Gemini Flash and Pro",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only",
-      "source": "The Verge",
-      "published": "2026-10-06T13:19:01+00:00",
-      "topic": "Models & research",
-      "summary": "Starting on October 9th, anyone using Google Gemini on a free plan will be\nlimited to the Flash Lite model\n. Free users can currently choose from Gemini Flash Lite, Flash, and Pro, but now you'll need a $4.99/month Google AI Plus subscription to access the standard Flash model."
-    },
-    {
-      "id": "19745539452346e87dccfd26",
-      "title": "Gemini Call for Me might tell your mom you’re running late",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
-      "source": "The Verge",
-      "published": "2026-10-05T23:09:55+00:00",
-      "topic": "Models & research",
-      "summary": "Google may be expanding its \"Call for Me\" AI feature beyond\nbusiness calls\nso you can use it to send messages to friends and family. Android Authority\nreports finding a \"Gemini Calling\" introductory screen in an APK teardown with examples that include \"Call Mom and tell her I will be 15 minutes late\" and \"Call John and ask if he is coming for dinner.\""
-    },
-    {
-      "id": "97444bbb8a512f1589ca4cb3",
-      "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
-      "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
-      "source": "TechCrunch",
-      "published": "2026-10-05T20:36:48+00:00",
-      "topic": "Products & tools",
-      "summary": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says."
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-10-27T22:52:46.415896+00:00",
+      "checked": "2026-10-28T02:02:57.257243+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-10-27T22:52:46.415896+00:00",
+      "checked": "2026-10-28T02:02:57.257243+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-10-27T22:52:46.415896+00:00",
+      "checked": "2026-10-28T02:02:57.257243+00:00",
       "error": null
     }
   ],
-  "updated": "2026-10-27T22:52:46.415896+00:00"
+  "updated": "2026-10-28T02:02:57.257243+00:00"
 }
