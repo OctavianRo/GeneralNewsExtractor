@@ -1,6 +1,78 @@
 {
   "articles": [
     {
+      "id": "f2796a9e771f5f13b03f9d08",
+      "title": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
+      "url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
+      "source": "TechCrunch",
+      "published": "2026-10-28T17:00:00+00:00",
+      "topic": "AI overview",
+      "summary": "The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission."
+    },
+    {
+      "id": "db30df4bb3be374c702132d6",
+      "title": "Chrome’s enhanced autofill can now pull info from Gmail to help you fill out forms",
+      "url": "https://www.theverge.com/tech/1020626/chrome-enhanced-autofill-gmail-forms-gemini-personal-intelligence",
+      "source": "The Verge",
+      "published": "2026-10-28T17:00:00+00:00",
+      "topic": "Models & research",
+      "summary": "Following improvements made to Chrome's enhanced autofill last year that included your name,\npassport number\n, email address, and physical addresses\nsourced from your Google Accounts\nand services like Google Wallet, the feature is now expanding. Starting today, Chrome's enhanced autofill will use Gemini with Personal Intelligence to suggest information…"
+    },
+    {
+      "id": "1583c560106073a3e7c93605",
+      "title": "Meta says it’ll probably delay its controversial new business terms again",
+      "url": "https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely",
+      "source": "The Verge",
+      "published": "2026-10-28T16:15:30+00:00",
+      "topic": "Policy & safety",
+      "summary": "Meta says it may push the implementation of its new business terms past November 20th as it faces backlash from publishers over concerns about AI training. In\na post on X\n, Meta communications head Andy Stone said the company does \"not plan to make policy changes without a full consultation with industry groups and leaders.\""
+    },
+    {
+      "id": "c3f3cbf4e178e82211eb43f3",
+      "title": "AI execs may be too out of touch to build for the general public",
+      "url": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
+      "source": "TechCrunch",
+      "published": "2026-10-28T15:53:52+00:00",
+      "topic": "AI overview",
+      "summary": "Tech leaders are flaunting how out of touch they are when they brag about using AI to connect with their families."
+    },
+    {
+      "id": "776aed39bd32c423750c0f95",
+      "title": "South Korea’s financial industry hit by fresh wave of cyberattacks",
+      "url": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/",
+      "source": "TechCrunch",
+      "published": "2026-10-28T15:41:18+00:00",
+      "topic": "Policy & safety",
+      "summary": "South Korea’s financial institutions have been hit by another wave of cyberattacks, highlighting the growing risk of AI-driven hacking in Asia."
+    },
+    {
+      "id": "8fd264d14a343cc6ba12ad78",
+      "title": "Voice AI in vogue: Nvidia releases new open transcription model",
+      "url": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
+      "source": "TechCrunch",
+      "published": "2026-10-28T15:00:00+00:00",
+      "topic": "Models & research",
+      "summary": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it’s a big step for meeting and medical transcription tools while still leaving real-time use to rivals like ElevenLabs."
+    },
+    {
+      "id": "e59a3c9fb64c26563abc4b1f",
+      "title": "Pairing industrial AI autonomy and human control",
+      "url": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
+      "source": "MIT Technology Review",
+      "published": "2026-10-28T12:00:00+00:00",
+      "topic": "AI overview",
+      "summary": "No excerpt provided. Read the original article for details."
+    },
+    {
+      "id": "3c84bdc9f1b42a29241020b8",
+      "title": "Meta quietly launched an ‘AI pet journal’ app",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world",
+      "source": "The Verge",
+      "published": "2026-10-28T11:27:30+00:00",
+      "topic": "Products & tools",
+      "summary": "A little friend that listens. A cozy world that's yours."
+    },
+    {
       "id": "4ba4897dde9b2c1a6b325a71",
       "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
       "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
@@ -2627,96 +2699,24 @@
       "published": "2026-10-06T20:00:30+00:00",
       "topic": "Business",
       "summary": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone."
-    },
-    {
-      "id": "7b9024771ee4fe13140ea66a",
-      "title": "The next hurdle for AI agents: getting websites to let them in",
-      "url": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
-      "source": "TechCrunch",
-      "published": "2026-10-06T19:56:50+00:00",
-      "topic": "Products & tools",
-      "summary": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle."
-    },
-    {
-      "id": "f2e7d38e6a8b0b90e2ff92e9",
-      "title": "Hark releases an AI personal assistant with a focus on privacy",
-      "url": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
-      "source": "TechCrunch",
-      "published": "2026-10-06T18:22:45+00:00",
-      "topic": "Products & tools",
-      "summary": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct."
-    },
-    {
-      "id": "547ac54479764aeff460da74",
-      "title": "Mirror Particle is building a ‘world model’ of human behavior",
-      "url": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
-      "source": "TechCrunch",
-      "published": "2026-10-06T16:35:00+00:00",
-      "topic": "Models & research",
-      "summary": "Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM role-play falls short for market research and brand strategy."
-    },
-    {
-      "id": "bccd44d02d6412cacc7a2d8e",
-      "title": "We can’t just change the definition of ‘recording’",
-      "url": "https://www.theverge.com/column/1005697/we-cant-just-change-the-definition-of-recording",
-      "source": "The Verge",
-      "published": "2026-10-06T16:29:44+00:00",
-      "topic": "AI overview",
-      "summary": "With AI hardware, tech companies are pushing the definition of what does and\ndoesn't\nconstitute a recording. For most of gadget history, it'd be reasonable to assume that a device with a microphone or camera is either recording you or it isn't; it's either on or off, without much gray area."
-    },
-    {
-      "id": "3e856eb3f647c05d4463374a",
-      "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
-      "url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
-      "source": "TechCrunch",
-      "published": "2026-10-06T16:00:00+00:00",
-      "topic": "Models & research",
-      "summary": "\"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone.\""
-    },
-    {
-      "id": "249f0aba3bddf6c649be1c70",
-      "title": "LibreOffice says ‘no AI’ is now a software feature",
-      "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
-      "source": "TechCrunch",
-      "published": "2026-10-06T15:25:00+00:00",
-      "topic": "AI overview",
-      "summary": "The maker of the open source document editor says it has no plans to add AI to its software's default configuration, citing user privacy."
-    },
-    {
-      "id": "183fcacc2014829eef79993d",
-      "title": "Mistral’s new 1T model aims to leapfrog closed and open rivals",
-      "url": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
-      "source": "TechCrunch",
-      "published": "2026-10-06T14:33:16+00:00",
-      "topic": "Models & research",
-      "summary": "French AI lab Mistral AI has released Mistral Large 4, a new large multimodal model aiming to leapfrog both American and Chinese rivals."
-    },
-    {
-      "id": "bbdd7aa3e89b11369201b5da",
-      "title": "Pinterest’s AI now turns beauty Pins into action plans",
-      "url": "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/",
-      "source": "TechCrunch",
-      "published": "2026-10-06T14:00:49+00:00",
-      "topic": "AI overview",
-      "summary": "Pinterest’s new AI-powered Beauty Guides translate hair and nail Pins into salon terminology, with estimated costs, appointment times, and maintenance needs."
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-10-28T09:23:00.346973+00:00",
+      "checked": "2026-10-28T17:01:31.519618+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-10-28T09:23:00.346973+00:00",
+      "checked": "2026-10-28T17:01:31.519618+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-10-28T09:23:00.346973+00:00",
+      "checked": "2026-10-28T17:01:31.519618+00:00",
       "error": null
     }
   ],
-  "updated": "2026-10-28T09:23:00.346973+00:00"
+  "updated": "2026-10-28T17:01:31.519618+00:00"
 }
