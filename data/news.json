@@ -1,8 +1,71 @@
 {
   "articles": [
     {
+      "id": "4a81ec2699fd48445f32ff35",
+      "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+      "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
+      "source": "TechCrunch",
+      "published": "2026-10-29T20:08:31+00:00",
+      "topic": "AI overview",
+      "summary": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business."
+    },
+    {
+      "id": "eb97518808c83f5e64feb8f2",
+      "title": "Rivian expands joint venture with VW to include AI assistant",
+      "url": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
+      "source": "TechCrunch",
+      "published": "2026-10-29T20:05:47+00:00",
+      "topic": "Products & tools",
+      "summary": "Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result."
+    },
+    {
+      "id": "c64d19fa0032f9cea19020e8",
+      "title": "OpenAI-backed Thrive Holdings acquires ADT",
+      "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
+      "source": "TechCrunch",
+      "published": "2026-10-29T19:56:19+00:00",
+      "topic": "Business",
+      "summary": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business."
+    },
+    {
+      "id": "1584446fbcb19438093252e1",
+      "title": "Meta quietly launches an AI fashion app called Style Sketch",
+      "url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
+      "source": "TechCrunch",
+      "published": "2026-10-29T19:14:36+00:00",
+      "topic": "Products & tools",
+      "summary": "The app connects to Instagram to build a virtual closet from photos you’ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or uploading images from your camera roll."
+    },
+    {
+      "id": "4aa6b4f10322be2ed1301958",
+      "title": "You can generate and edit Google Docs files directly in Gemini chats now",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
+      "source": "The Verge",
+      "published": "2026-10-29T18:45:31+00:00",
+      "topic": "Models & research",
+      "summary": "Now you can generate, preview, and edit PDFs, Google Docs, Google Sheets, slide decks, Markdown files, TXT files, and code\ndirectly within Google Gemini\n. The new file editing capabilities are available starting today for all Gemini users, and while PDF previews/editing works on both the web and mobile, all other file formats are only in the web version for…"
+    },
+    {
+      "id": "20776e88d00f350280202add",
+      "title": "Granola crunches up a dictation feature to compete with Wispr",
+      "url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
+      "source": "TechCrunch",
+      "published": "2026-10-29T17:54:38+00:00",
+      "topic": "Products & tools",
+      "summary": "Uno reverse! After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker."
+    },
+    {
+      "id": "b138df71b1659a331df57557",
+      "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+      "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+      "source": "TechCrunch",
+      "published": "2026-10-29T17:00:00+00:00",
+      "topic": "Models & research",
+      "summary": "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't."
+    },
+    {
       "id": "8b38a3a44bca7fc78fa41862",
-      "title": "U.S. investigated Chinese spy plot aimed at Nvidia CEO",
+      "title": "US investigated Chinese spy plot aimed at Nvidia CEO",
       "url": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
       "source": "TechCrunch",
       "published": "2026-10-29T16:42:32+00:00",
@@ -16,7 +79,7 @@
       "source": "TechCrunch",
       "published": "2026-10-29T16:21:00+00:00",
       "topic": "Models & research",
-      "summary": "rained on 100 million square feet of building permits, dream wants to disrupt Autodesk with AI."
+      "summary": "Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream's world model is trained on more than 100 million square feet of building data gathered from permit archives across the United States."
     },
     {
       "id": "5f992c32f5756cf3afc3c396",
@@ -2636,87 +2699,24 @@
       "published": "2026-10-08T13:28:39+00:00",
       "topic": "Products & tools",
       "summary": "Google’s new AI Edge Foresight app takes on Granola with an offline meeting note-taker that can transcribe conversations, generate notes, and answer questions using on-device AI."
-    },
-    {
-      "id": "5779b78eb98d9c87dab8a026",
-      "title": "AI breakthroughs in robotics won’t change your life any time soon",
-      "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
-      "source": "MIT Technology Review",
-      "published": "2026-10-08T09:00:00+00:00",
-      "topic": "Models & research",
-      "summary": "More data, the thinking goes, equals more examples, and more examples equals more generality. Google DeepMind, for instance, wants to pull together “as much data as possible,” says Pannag Sanketi, a former tech lead in robotics at the company who’s currently working on\nhis own AI robotics project\n."
-    },
-    {
-      "id": "d07e6967ea51e85244d5e06b",
-      "title": "Building a safer path to autonomous industrial AI",
-      "url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
-      "source": "MIT Technology Review",
-      "published": "2026-10-08T08:17:32+00:00",
-      "topic": "Policy & safety",
-      "summary": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to automate more complex tasks across industrial environments."
-    },
-    {
-      "id": "f79fc1981148f96dddbc69f9",
-      "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
-      "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
-      "source": "TechCrunch",
-      "published": "2026-10-07T20:48:45+00:00",
-      "topic": "Products & tools",
-      "summary": "The developer of Hermes Agent raised a $90 million Series B."
-    },
-    {
-      "id": "0fa3321a42ce9d9585745686",
-      "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
-      "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
-      "source": "TechCrunch",
-      "published": "2026-10-07T20:22:37+00:00",
-      "topic": "Hardware",
-      "summary": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents."
-    },
-    {
-      "id": "325f4dd194d8a4a359344f73",
-      "title": "ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
-      "source": "The Verge",
-      "published": "2026-10-07T19:10:42+00:00",
-      "topic": "Products & tools",
-      "summary": "OpenAI is launching a new Intelligent UI feature in ChatGPT that allows the chatbot to answer your questions with interactive visuals. The\nupdate, which is rolling out to all users\nalongside GPT-6, gives ChatGPT the ability to combine a text response with diagrams, charts, forms, tappable buttons, and more."
-    },
-    {
-      "id": "3e85ff476d297cf8cda98219",
-      "title": "It appears .agent and .agi are about to be the hot new domains",
-      "url": "https://www.theverge.com/tech/1007132/icann-domains-2026-ai-agi",
-      "source": "The Verge",
-      "published": "2026-10-07T18:46:16+00:00",
-      "topic": "Products & tools",
-      "summary": "ICANN just announced\nthe 1,615 applications\nthat have been submitted so far, from 481 different applicants. The trend will not surprise you: AI is everywhere."
-    },
-    {
-      "id": "552629978e356fab438cabde",
-      "title": "Meta’s Muse launches on iPad just a month after its mobile debut",
-      "url": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
-      "source": "TechCrunch",
-      "published": "2026-10-07T18:30:57+00:00",
-      "topic": "Products & tools",
-      "summary": "Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations."
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-10-29T17:19:45.909494+00:00",
+      "checked": "2026-10-29T23:07:02.654811+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-10-29T17:19:45.909494+00:00",
+      "checked": "2026-10-29T23:07:02.654811+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-10-29T17:19:45.909494+00:00",
+      "checked": "2026-10-29T23:07:02.654811+00:00",
       "error": null
     }
   ],
-  "updated": "2026-10-29T17:19:45.909494+00:00"
+  "updated": "2026-10-29T23:07:02.654811+00:00"
 }
