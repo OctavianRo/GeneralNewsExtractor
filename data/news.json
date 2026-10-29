@@ -1,6 +1,96 @@
 {
   "articles": [
     {
+      "id": "8b38a3a44bca7fc78fa41862",
+      "title": "U.S. investigated Chinese spy plot aimed at Nvidia CEO",
+      "url": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
+      "source": "TechCrunch",
+      "published": "2026-10-29T16:42:32+00:00",
+      "topic": "Hardware",
+      "summary": "A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times."
+    },
+    {
+      "id": "8dc21525d02f2a4123898037",
+      "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
+      "url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
+      "source": "TechCrunch",
+      "published": "2026-10-29T16:21:00+00:00",
+      "topic": "Models & research",
+      "summary": "rained on 100 million square feet of building permits, dream wants to disrupt Autodesk with AI."
+    },
+    {
+      "id": "5f992c32f5756cf3afc3c396",
+      "title": "Microsoft’s AI future has fewer jobs",
+      "url": "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad",
+      "source": "The Verge",
+      "published": "2026-10-29T16:00:00+00:00",
+      "topic": "AI overview",
+      "summary": "To anyone listening closely to what Microsoft CEO\nSatya Nadella\nhas been saying over the past couple of years, this week felt like the clearest sign yet that AI is about to fundamentally change the size of Microsoft's workforce. Microsoft is now offering voluntary buyouts\nto around 60,000 employees\nacross the US, UK, Canada, and India."
+    },
+    {
+      "id": "8d448df3e470faabd24cd2cf",
+      "title": "The NYT Cooking app is testing AI recipe modifications",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
+      "source": "The Verge",
+      "published": "2026-10-29T14:39:37+00:00",
+      "topic": "Products & tools",
+      "summary": "The AI tool provides recommendations and adjusts the recipe accordingly. | Image: The New York Times\nThe New York Times\nis testing a new AI feature for its Cooking app that helps users to modify recipes, and it has sparked some drama among users."
+    },
+    {
+      "id": "bc01622ffa1cd4de3b05ba4c",
+      "title": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
+      "url": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
+      "source": "TechCrunch",
+      "published": "2026-10-29T14:35:26+00:00",
+      "topic": "Products & tools",
+      "summary": "On Thursday, AI app Wabi, now describing itself as a \"personal agent,\" said it has raised $55 million at a $1.25 billion valuation."
+    },
+    {
+      "id": "3a644431de131a7405e5f75f",
+      "title": "Anthropic is asking Wall Street to believe in AGI",
+      "url": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
+      "source": "The Verge",
+      "published": "2026-10-29T14:00:00+00:00",
+      "topic": "Models & research",
+      "summary": "Today on\nDecoder\n, I’m joined by Joey Brookhart, an analyst at the chip and AI research firm SemiAnalysis, to help me dig into the story inside the numbers of the Anthropic IPO filing — a document known as an S-1. Anthropic just\nfiled its S-1 to go public\non the Nasdaq, and it could start trading as soon as next month at a valuation of anywhere between $1.5…"
+    },
+    {
+      "id": "130656092a266855c3aa708f",
+      "title": "Anthropic’s business plan: Build God or die trying",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
+      "source": "The Verge",
+      "published": "2026-10-29T13:30:00+00:00",
+      "topic": "AI overview",
+      "summary": "The Anthropic S-1\nseems to have provided the financial justification for the company to spend as much as it possibly can on compute. If you are the kind of person who wonders if Anthropic is doing its level best to build a machine god while convincing Wall Street it's in the business of selling IT contracts, Anthropic has just offered a handy solution:…"
+    },
+    {
+      "id": "3eb958348088c8d067362bb2",
+      "title": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
+      "url": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
+      "source": "TechCrunch",
+      "published": "2026-10-29T13:00:00+00:00",
+      "topic": "AI overview",
+      "summary": "With Pipecat, Deepgram will likely gain a deeper understanding of real-time voice and video infrastructure."
+    },
+    {
+      "id": "32d69d7e6fd51a11d82013a0",
+      "title": "We urgently need to monitor AI agents’ actions in real time",
+      "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+      "source": "MIT Technology Review",
+      "published": "2026-10-29T10:11:12+00:00",
+      "topic": "Products & tools",
+      "summary": "This summer, hundreds of OpenAI agents tried to\ncheat\non a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded."
+    },
+    {
+      "id": "d62a8f09dced3dd91988f5ed",
+      "title": "AI has come for Arizona’s water",
+      "url": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc",
+      "source": "The Verge",
+      "published": "2026-10-29T10:00:04+00:00",
+      "topic": "Hardware",
+      "summary": "And yet it’s not AI safety, air pollution, or fears of AGI-enabled economic collapse but water that dominates the data center debate in Arizona and elsewhere, even when those other issues are raised, too. More broadly, recent concerns over data centers’ water usage may stem from\nEmpire of AI\n, a 2025 bestseller by journalist Karen Hao that traces the rise…"
+    },
+    {
       "id": "3b64f2126ca310fc1aab8c27",
       "title": "Adam Mosseri says negativity around AI is ‘going to get worse’",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
@@ -2609,114 +2699,24 @@
       "published": "2026-10-07T18:30:57+00:00",
       "topic": "Products & tools",
       "summary": "Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations."
-    },
-    {
-      "id": "ebaee16ff2e2ab046b5d3453",
-      "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
-      "url": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
-      "source": "TechCrunch",
-      "published": "2026-10-07T18:15:28+00:00",
-      "topic": "Products & tools",
-      "summary": "ChatGPT’s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages unhealthy relationships with the AI itself."
-    },
-    {
-      "id": "3c6644f5f3111c40418a3d4c",
-      "title": "Microsoft is giving Copilot more control over Windows and your files",
-      "url": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
-      "source": "The Verge",
-      "published": "2026-10-07T18:01:20+00:00",
-      "topic": "Products & tools",
-      "summary": "To show off how Hybrid Intelligence works, Jacob Andreou, Microsoft's EVP of Copilot, walked through a video demo onstage asking\nMicrosoft's Autopilot tool\nto help with filing taxes. Andreou told the AI agent that he got an email from his accountant and asked Autopilot to get her what she nee …"
-    },
-    {
-      "id": "8da85c2ebe9dfa485bd2ef91",
-      "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
-      "url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
-      "source": "TechCrunch",
-      "published": "2026-10-07T18:00:19+00:00",
-      "topic": "Products & tools",
-      "summary": "OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT."
-    },
-    {
-      "id": "e82d687982223af022324066",
-      "title": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
-      "url": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/",
-      "source": "TechCrunch",
-      "published": "2026-10-07T16:53:46+00:00",
-      "topic": "Products & tools",
-      "summary": "Meta launches new AI tools after discovering ads on its platforms that may look normal but direct users to harmful content elsewhere online."
-    },
-    {
-      "id": "614712fd187a8edca7609e87",
-      "title": "ChatGPT is getting college planning tools",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1005194/openai-chatgpt-teens-college-planner-notecards",
-      "source": "The Verge",
-      "published": "2026-10-07T16:00:00+00:00",
-      "topic": "Products & tools",
-      "summary": "A preview of OpenAI’s College Planner. | Image: OpenAI\nOpenAI is bringing new tools to ChatGPT for Teens, a mode for teens introduced\nin August\nwith safeguards and break reminders, to\nhelp users with the college application process\n."
-    },
-    {
-      "id": "5f645da35744d30c39db452f",
-      "title": "Muse launches on the iPad",
-      "url": "https://www.theverge.com/tech/1006813/muse-ai-agent-ios-app-ipad-support",
-      "source": "The Verge",
-      "published": "2026-10-07T15:37:23+00:00",
-      "topic": "Products & tools",
-      "summary": "After\nlaunching nearly a month ago\nand spending several weeks as the top free app in Apple's App Store, the latest update to Meta's Muse iOS app introduces native support for the iPad. A\nMac version of Meta's agentic AI tool\n(designed to compete with OpenClaw, ChatGPT's Dots, and Grok Bot) was released about a week after the original mobile version debuted…"
-    },
-    {
-      "id": "576f8703e59d7c0a650fa88e",
-      "title": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
-      "url": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
-      "source": "TechCrunch",
-      "published": "2026-10-07T15:07:08+00:00",
-      "topic": "Business",
-      "summary": "The financing includes an $8M seed round co-led by Sequoia Capital and First Round Capital, and a $30 million Series A led by Hummingbird Ventures."
-    },
-    {
-      "id": "e02fad4667f2bdedfe103660",
-      "title": "Tony Fadell on why the first wave of AI gadgets failed — and what comes next",
-      "url": "https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/",
-      "source": "TechCrunch",
-      "published": "2026-10-07T14:41:38+00:00",
-      "topic": "AI overview",
-      "summary": "The “father of the iPod” says the first generation of AI gadgets failed to solve real problems — and the next wave will need to earn consumers’ trust."
-    },
-    {
-      "id": "04347efee76c2a01d52cd494",
-      "title": "Google invests millions in Mark Zuckerberg’s efforts to create a ‘virtual cell’",
-      "url": "https://www.theverge.com/tech/1006766/google-meta-biohub-investment-virtual-cell",
-      "source": "The Verge",
-      "published": "2026-10-07T14:40:52+00:00",
-      "topic": "Business",
-      "summary": "Google DeepMind, Meta, and AI drug discovery startup Isomorphic Labs\nare jointly investing $300 million\ninto an initiative to create a \"virtual cell\" that researchers can use to combat disease, as\nreported earlier by\nReuters\n. The project is led by Biohub, a nonprofit biomedical research organization founded by Mark Zuckerberg and his wife, Priscilla Chan."
-    },
-    {
-      "id": "50755f91349d56c40392bb3d",
-      "title": "Google experiments with an AI-powered gaming platform",
-      "url": "https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform/",
-      "source": "TechCrunch",
-      "published": "2026-10-07T14:36:23+00:00",
-      "topic": "AI overview",
-      "summary": "Google Labs is working on a new AI-powered game-creation platform called Playground for users to build browser-based games using simple text prompts."
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-10-29T09:30:37.470161+00:00",
+      "checked": "2026-10-29T17:19:45.909494+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-10-29T09:30:37.470161+00:00",
+      "checked": "2026-10-29T17:19:45.909494+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-10-29T09:30:37.470161+00:00",
+      "checked": "2026-10-29T17:19:45.909494+00:00",
       "error": null
     }
   ],
-  "updated": "2026-10-29T09:30:37.470161+00:00"
+  "updated": "2026-10-29T17:19:45.909494+00:00"
 }
