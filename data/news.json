@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "id": "3b64f2126ca310fc1aab8c27",
+      "title": "Adam Mosseri says negativity around AI is ‘going to get worse’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
+      "source": "The Verge",
+      "published": "2026-10-28T23:05:39+00:00",
+      "topic": "AI overview",
+      "summary": "Asked about AI and the trend of\ncollege students booing tech CEOs\nat graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's not just young people and creatives. Appearing on the\nColin and Samir\npodcast\nto talk about the launch of\nwidescreen and long-form video for Instagram\n,…"
+    },
+    {
       "id": "e46d29680afeffb35eba7f55",
       "title": "Google expands AI Search ads globally as core ad growth slows",
       "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
@@ -2690,33 +2699,24 @@
       "published": "2026-10-07T14:36:23+00:00",
       "topic": "AI overview",
       "summary": "Google Labs is working on a new AI-powered game-creation platform called Playground for users to build browser-based games using simple text prompts."
-    },
-    {
-      "id": "5ff7eb3ed8e16f02c67e25e7",
-      "title": "OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots",
-      "url": "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/",
-      "source": "TechCrunch",
-      "published": "2026-10-07T14:30:00+00:00",
-      "topic": "AI overview",
-      "summary": "OpenAI’s Alexander Embiricos is coming to the AI Stage at TechCrunch Disrupt 2026, just days after the launch of Dots. Join this conversation by registering for your pass."
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-10-28T22:57:33.827070+00:00",
+      "checked": "2026-10-29T02:16:29.286491+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-10-28T22:57:33.827070+00:00",
+      "checked": "2026-10-29T02:16:29.286491+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-10-28T22:57:33.827070+00:00",
+      "checked": "2026-10-29T02:16:29.286491+00:00",
       "error": null
     }
   ],
-  "updated": "2026-10-28T22:57:33.827070+00:00"
+  "updated": "2026-10-29T02:16:29.286491+00:00"
 }
