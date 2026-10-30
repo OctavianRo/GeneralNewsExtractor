@@ -1,6 +1,96 @@
 {
   "articles": [
     {
+      "id": "d95f2af92ca0c125218f4a81",
+      "title": "Intel’s stock crashes, knocking $12B from government’s stake",
+      "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
+      "source": "TechCrunch",
+      "published": "2026-10-30T21:54:34+00:00",
+      "topic": "Policy & safety",
+      "summary": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise."
+    },
+    {
+      "id": "f3e255de2b47ab3f16713297",
+      "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+      "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+      "source": "TechCrunch",
+      "published": "2026-10-30T21:52:03+00:00",
+      "topic": "Business",
+      "summary": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its business."
+    },
+    {
+      "id": "5732896b70a3ac25d80a5be0",
+      "title": "Last-minute Halloween costumes for tech nerds",
+      "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
+      "source": "TechCrunch",
+      "published": "2026-10-30T21:26:59+00:00",
+      "topic": "Products & tools",
+      "summary": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson."
+    },
+    {
+      "id": "820dfbe7b2668830f10a9cc8",
+      "title": "Cracks are emerging in the AI spending boom",
+      "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+      "source": "TechCrunch",
+      "published": "2026-10-30T21:17:40+00:00",
+      "topic": "Business",
+      "summary": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom."
+    },
+    {
+      "id": "05a1378ae455d54de0c67676",
+      "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
+      "source": "The Verge",
+      "published": "2026-10-30T20:48:43+00:00",
+      "topic": "Hardware",
+      "summary": "Asked about supply chain shortages, like the\nongoing RAM shortage\n, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers. During his appearance on the\nCheeky Pint\npodcast, where he also\ncommented on AI's impact on math\n, Altman said:"
+    },
+    {
+      "id": "7a24eca35f77e86d873fde1b",
+      "title": "The biggest names in AI are backing a new way to opt out of scraping",
+      "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+      "source": "The Verge",
+      "published": "2026-10-30T20:26:10+00:00",
+      "topic": "AI overview",
+      "summary": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as\nreported earlier by\nSearch Engine Roundtable\n. With this control, publishers can apply their AI training preferences across multiple AI companies, instead of setting them individually."
+    },
+    {
+      "id": "b9ee8bb30716fa37b159432c",
+      "title": "Google’s satellite AI server transmits its first response to Earth",
+      "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+      "source": "The Verge",
+      "published": "2026-10-30T18:21:38+00:00",
+      "topic": "Models & research",
+      "summary": "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday,\nGoogle says\nit successfully booted up the satellite's Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow through on a prompt to create a haiku about being in space:"
+    },
+    {
+      "id": "4d0843b360d077cf4f8e57d3",
+      "title": "Zest’s new AI agent finds restaurants and books reservations over text",
+      "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+      "source": "TechCrunch",
+      "published": "2026-10-30T17:47:12+00:00",
+      "topic": "Products & tools",
+      "summary": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation."
+    },
+    {
+      "id": "8789b25f4f928a029c45ca21",
+      "title": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
+      "source": "The Verge",
+      "published": "2026-10-30T17:38:04+00:00",
+      "topic": "AI overview",
+      "summary": "Starbucks could eventually show you a personalized digital menu when you pull up to the drive-thru. During\nan earnings call on Thursday\n, Starbucks CEO Brian Niccol said the company is going to explore \"experiences that recognize participating customers as they arrive, present personalized digital menus, and make payment more effortless,\" as spotted earlier…"
+    },
+    {
+      "id": "235bb524b25e5166740043aa",
+      "title": "Google’s first data center satellite is online and writing poetry",
+      "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+      "source": "TechCrunch",
+      "published": "2026-10-30T17:00:00+00:00",
+      "topic": "Hardware",
+      "summary": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry."
+    },
+    {
       "id": "621b53d3ad76e2c07e0282a0",
       "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
       "url": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
@@ -2609,114 +2699,24 @@
       "published": "2026-10-09T09:00:00+00:00",
       "topic": "Models & research",
       "summary": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience."
-    },
-    {
-      "id": "feab0ad4868e3e2ec005e5a6",
-      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-      "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-      "source": "MIT Technology Review",
-      "published": "2026-10-09T00:08:24+00:00",
-      "topic": "Models & research",
-      "summary": "Can AI design new life forms? In 2025, Stanford University PhD student\nSamuel King\ncame up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses."
-    },
-    {
-      "id": "0856c1a27e7e11a7096c494c",
-      "title": "Anthropic launches free AI security scans for open-source projects",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
-      "source": "The Verge",
-      "published": "2026-10-08T21:53:51+00:00",
-      "topic": "Models & research",
-      "summary": "The outputs of this opt-in vulnerability scanner will be fully model-generated, without human review or triage. This will enable faster and more frequent scanning, but means that it is possible reports will be incorrect or invalid."
-    },
-    {
-      "id": "0d8c74eec04dc0baad67974a",
-      "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
-      "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-      "source": "TechCrunch",
-      "published": "2026-10-08T20:04:26+00:00",
-      "topic": "Policy & safety",
-      "summary": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture."
-    },
-    {
-      "id": "2d837d367b192c68a2bbce81",
-      "title": "Ben Affleck is an AI nerd, and the internet is impressed",
-      "url": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
-      "source": "TechCrunch",
-      "published": "2026-10-08T18:20:32+00:00",
-      "topic": "Business",
-      "summary": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving he's more than just a Hollywood star."
-    },
-    {
-      "id": "99134731fc9bfd4faa4921dd",
-      "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
-      "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
-      "source": "TechCrunch",
-      "published": "2026-10-08T18:19:45+00:00",
-      "topic": "Business",
-      "summary": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying."
-    },
-    {
-      "id": "2426f6e1347dd0c666bf7a02",
-      "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
-      "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
-      "source": "TechCrunch",
-      "published": "2026-10-08T18:19:42+00:00",
-      "topic": "Business",
-      "summary": "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that."
-    },
-    {
-      "id": "34de0981eaae0131b15c4a8a",
-      "title": "Google brings agentic AI to Gemini, starting with businesses",
-      "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
-      "source": "TechCrunch",
-      "published": "2026-10-08T18:18:00+00:00",
-      "topic": "Models & research",
-      "summary": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its own workplace identity, complete with an email address."
-    },
-    {
-      "id": "32d47947d3bb4480ee10446b",
-      "title": "Anthropic changes usage policy to ban model abuse and election interference",
-      "url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
-      "source": "TechCrunch",
-      "published": "2026-10-08T18:16:24+00:00",
-      "topic": "Policy & safety",
-      "summary": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address election interference, deceptive campaigns, weapons software, and surveillance."
-    },
-    {
-      "id": "527c5f7729d012989778182f",
-      "title": "OpenAI’s math solutions aren’t meeting the field’s standards yet",
-      "url": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/",
-      "source": "TechCrunch",
-      "published": "2026-10-08T18:10:55+00:00",
-      "topic": "AI overview",
-      "summary": "OpenAI's flood of proofs deviated from the guidelines set by a group of mathematical researchers consulted by the frontier lab."
-    },
-    {
-      "id": "95fca73202feb762a70da4ea",
-      "title": "USA Today becomes the latest publisher to sue OpenAI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit",
-      "source": "The Verge",
-      "published": "2026-10-08T17:58:33+00:00",
-      "topic": "Models & research",
-      "summary": "USA Today Co., along with the several local newspapers it owns, is suing OpenAI over claims that the company copied \"hundreds of thousands\" of articles to train its AI models,\nas reported earlier by\nReuters\n. In\na filing on Thursday\n, the publisher asks for damages of more than $250 million, alleging OpenAI's unauthorized use of its content \"has done real…"
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-10-30T16:57:26.390493+00:00",
+      "checked": "2026-10-30T22:49:10.062985+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-10-30T16:57:26.390493+00:00",
+      "checked": "2026-10-30T22:49:10.062985+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-10-30T16:57:26.390493+00:00",
+      "checked": "2026-10-30T22:49:10.062985+00:00",
       "error": null
     }
   ],
-  "updated": "2026-10-30T16:57:26.390493+00:00"
+  "updated": "2026-10-30T22:49:10.062985+00:00"
 }
