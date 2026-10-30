@@ -1,6 +1,69 @@
 {
   "articles": [
     {
+      "id": "621b53d3ad76e2c07e0282a0",
+      "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
+      "url": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
+      "source": "TechCrunch",
+      "published": "2026-10-30T16:03:45+00:00",
+      "topic": "Business",
+      "summary": "The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion-dollar valuations."
+    },
+    {
+      "id": "d7f3b41f1dba70c81d259dfc",
+      "title": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
+      "source": "The Verge",
+      "published": "2026-10-30T14:58:06+00:00",
+      "topic": "Products & tools",
+      "summary": "Pope Leo XIV says AI systems should be \"disarmed,\" adding that humans \"have the responsibility to guide, change and, when necessary, reject its applications.\" In Friday's\nPapal Address\n, Pope Leo encourages United Nations member states to \"take concrete steps toward banning lethal autonomous weapons\" during their meeting in Geneva next month."
+    },
+    {
+      "id": "baf2e8680ec92ea7a5c1fb84",
+      "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
+      "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
+      "source": "TechCrunch",
+      "published": "2026-10-30T13:54:25+00:00",
+      "topic": "Products & tools",
+      "summary": "DoorDash said that it is open to working with third-party agent makers."
+    },
+    {
+      "id": "57bd8cae501a4c7803bcdea6",
+      "title": "Silicon Valley wants you to invest in miracles",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
+      "source": "The Verge",
+      "published": "2026-10-30T13:11:05+00:00",
+      "topic": "Policy & safety",
+      "summary": "Investing in any stock is kind of like gambling in the sense that you're betting your money on a company's future performance. But how do you bet on a technology that could, in the worst-case scenario, \"pose catastrophic or existential risks to humanity,\" or best case, \"bring forth an age of miracles\"?"
+    },
+    {
+      "id": "1c953c6f303dffb252a480a8",
+      "title": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
+      "source": "The Verge",
+      "published": "2026-10-30T13:01:14+00:00",
+      "topic": "AI overview",
+      "summary": "\"I think, on net, the world deserves to understand how the universe works,\" Altman said during an\nepisode\nof the\nCheeky Pint\npodcast released Thursday. \"But I do have empathy for the method.\""
+    },
+    {
+      "id": "93ad0842fdd46a0d77b01435",
+      "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
+      "url": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
+      "source": "TechCrunch",
+      "published": "2026-10-30T13:00:00+00:00",
+      "topic": "Hardware",
+      "summary": "Runware is building a factory to turn out prefabricated AI data centers on an assembly line. The real test will be whether it can deliver at that scale."
+    },
+    {
+      "id": "7f7f16717282374033664eac",
+      "title": "Maine’s data center revolt will decide who controls the Senate",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers",
+      "source": "The Verge",
+      "published": "2026-10-30T11:00:00+00:00",
+      "topic": "Hardware",
+      "summary": "Maine Sen. Susan Collins, a Republican, was midway through defending her record during the final debate of the midterms when an audience member cut her short. \"I'm terrified,\" a man shouted."
+    },
+    {
       "id": "c096782638d443ac76bdbc5e",
       "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
       "url": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
@@ -2636,87 +2699,24 @@
       "published": "2026-10-08T17:58:33+00:00",
       "topic": "Models & research",
       "summary": "USA Today Co., along with the several local newspapers it owns, is suing OpenAI over claims that the company copied \"hundreds of thousands\" of articles to train its AI models,\nas reported earlier by\nReuters\n. In\na filing on Thursday\n, the publisher asks for damages of more than $250 million, alleging OpenAI's unauthorized use of its content \"has done real…"
-    },
-    {
-      "id": "49c489e07a9e5dd39a2d9687",
-      "title": "Anthropic bans ‘abusive or cruel behavior’ toward Claude",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
-      "source": "The Verge",
-      "published": "2026-10-08T17:00:00+00:00",
-      "topic": "Models & research",
-      "summary": "Last August, the company\nannounced\nit would allow Claude to end conversations with \"persistently harmful or abusive\" users as part of its research into \"model welfare.\" The new update says that terminating conversations is still the \"primary enforcement mechanism\"; Anthropic did not provide a comment o …"
-    },
-    {
-      "id": "f7abd6714882028bc9fea997",
-      "title": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
-      "url": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
-      "source": "TechCrunch",
-      "published": "2026-10-08T16:00:00+00:00",
-      "topic": "Products & tools",
-      "summary": "Goodfire just launched what it says is a cheaper way to keep AI agents in check: Instead of paying a second AI to read everything an agent does, its monitors peek inside the model while it works and only call in backup when something looks fishy."
-    },
-    {
-      "id": "512cb578037507654fde2deb",
-      "title": "Natura’s $99 smart ring puts AI agents on your finger",
-      "url": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
-      "source": "TechCrunch",
-      "published": "2026-10-08T16:00:00+00:00",
-      "topic": "Products & tools",
-      "summary": "Natura’s $99 Interface smart ring lets you summon AI agents with the press of a finger to complete tasks, capture thoughts, and control devices — while doubling as a health tracker."
-    },
-    {
-      "id": "e5b532cf0deb5712749a3e4f",
-      "title": "Google’s AI note-taking app transcribes your meetings completely offline",
-      "url": "https://www.theverge.com/tech/1007985/google-ai-notetaking-app-transcribe-offline",
-      "source": "The Verge",
-      "published": "2026-10-08T15:27:30+00:00",
-      "topic": "Products & tools",
-      "summary": "Google has released an experimental note-taking app that can transcribe meetings and audio files entirely offline,\nas reported earlier by\nTechCrunch\n. The app,\ncalled Google AI Edge Foresight\n, is free to use and runs on macOS using the company's\non-device EmbeddingGemma 2 model\n."
-    },
-    {
-      "id": "41f0eae1d6acac4461fbb207",
-      "title": "Hear from Ambrosia Energy and Bloom Energy execs on where the AI infrastructure boom is creating opportunity at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/10/08/hear-from-ambrosia-energy-and-bloom-energy-execs-on-where-the-ai-infrastructure-boom-is-creating-opportunity-at-disrupt-2026/",
-      "source": "TechCrunch",
-      "published": "2026-10-08T15:00:00+00:00",
-      "topic": "AI overview",
-      "summary": "Ambrosia Energy CEO Ben Longmier and Bloom Energy SVP Bill Thayer join the Smart Systems Stage at TechCrunch Disrupt. Register now to save up to $100."
-    },
-    {
-      "id": "651222944a43adc3f428bd30",
-      "title": "Google is launching a one-stop Gemini agent for your work tasks",
-      "url": "https://www.theverge.com/tech/1007904/google-gemini-ai-agent-enterprise",
-      "source": "The Verge",
-      "published": "2026-10-08T14:28:03+00:00",
-      "topic": "Products & tools",
-      "summary": "Google is launching a \"universal\" Gemini AI agent that can work across apps and devices in the background. The tool,\nannounced as part of the Gemini at Work\nevent on Thursday, will be available within the Gemini Enterprise app, allowing users to chat with the Gemini agent and assign it tasks from a single interface."
-    },
-    {
-      "id": "7fc877e49f7054a27d14f2a6",
-      "title": "Cal AI’s 19-year-old founder just raised $10M for his new AI startup",
-      "url": "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/",
-      "source": "TechCrunch",
-      "published": "2026-10-08T14:00:00+00:00",
-      "topic": "Business",
-      "summary": "Zach Yadegari, the teen co-founder of popular Cal AI calorie tracking app, has launched a new personal AI agent startup that competes with Instinct, Muse, and Bee."
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-10-30T09:42:26.297142+00:00",
+      "checked": "2026-10-30T16:57:26.390493+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-10-30T09:42:26.297142+00:00",
+      "checked": "2026-10-30T16:57:26.390493+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-10-30T09:42:26.297142+00:00",
+      "checked": "2026-10-30T16:57:26.390493+00:00",
       "error": null
     }
   ],
-  "updated": "2026-10-30T09:42:26.297142+00:00"
+  "updated": "2026-10-30T16:57:26.390493+00:00"
 }
