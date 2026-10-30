@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "id": "c096782638d443ac76bdbc5e",
+      "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
+      "url": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
+      "source": "The Verge",
+      "published": "2026-10-30T09:00:00+00:00",
+      "topic": "Policy & safety",
+      "summary": "In an amicus brief filed Friday, the nonprofit behind Wikipedia weighed in on a set of lawsuits pitting publishers including\nThe New York Times\nagainst OpenAI and Microsoft, taking neither side. \"Wikimedia is concerned that the parties' positions in this case push for overbroa …"
+    },
+    {
+      "id": "c4d34ddeaf925ee4561723c3",
+      "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+      "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
+      "source": "TechCrunch",
+      "published": "2026-10-30T01:20:48+00:00",
+      "topic": "AI overview",
+      "summary": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace."
+    },
+    {
+      "id": "772e2e8e8ca4a19f2546fb31",
+      "title": "AWS will be a $1T business, Jassy says — but first, it will spend big",
+      "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+      "source": "TechCrunch",
+      "published": "2026-10-29T23:42:22+00:00",
+      "topic": "Business",
+      "summary": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday."
+    },
+    {
       "id": "4a81ec2699fd48445f32ff35",
       "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
       "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
@@ -2672,51 +2699,24 @@
       "published": "2026-10-08T14:00:00+00:00",
       "topic": "Business",
       "summary": "Zach Yadegari, the teen co-founder of popular Cal AI calorie tracking app, has launched a new personal AI agent startup that competes with Instinct, Muse, and Bee."
-    },
-    {
-      "id": "4559be598a797f207de1f036",
-      "title": "Can you trust Meta’s Muse or OpenAI’s Dots to run your life?",
-      "url": "https://www.theverge.com/podcast/1007408/meta-muse-openai-dots-ai-agent-race-privacy-free",
-      "source": "The Verge",
-      "published": "2026-10-08T14:00:00+00:00",
-      "topic": "Products & tools",
-      "summary": "My\nDecoder\nguest today is Hayden Field,\nThe Verge\n’s senior AI reporter, and we’re discussing the new wave of consumer-friendly AI agents. If you’ve been paying attention to this space, you know AI enthusiasts have been using agents for a minute now — homebrew OpenClaw setups\nled to a surge in Mac Mini sales\nearlier this year."
-    },
-    {
-      "id": "03487fcb3497d3e514461f6a",
-      "title": "Artificial is a wicked satire that also sticks to the facts",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1007786/artificial-is-a-wicked-satire-that-also-sticks-to-the-facts",
-      "source": "The Verge",
-      "published": "2026-10-08T14:00:00+00:00",
-      "topic": "AI overview",
-      "summary": "At the New York Film Festival premiere of\nArtificial\n, Luca Guadagnino's satirical Sam Altman biopic, the director said onstage that \"[when] someone wants to play God, that's very interesting to me.\" The idea of playing God, and power in general - who has it, who desperately wants it, and who will do anything to get it - is central to the film's narrative,…"
-    },
-    {
-      "id": "6fe19a5ea2ddf54270d3afb4",
-      "title": "Google releases a new local-first Granola competitor",
-      "url": "https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/",
-      "source": "TechCrunch",
-      "published": "2026-10-08T13:28:39+00:00",
-      "topic": "Products & tools",
-      "summary": "Google’s new AI Edge Foresight app takes on Granola with an offline meeting note-taker that can transcribe conversations, generate notes, and answer questions using on-device AI."
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-10-29T23:07:02.654811+00:00",
+      "checked": "2026-10-30T09:42:26.297142+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-10-29T23:07:02.654811+00:00",
+      "checked": "2026-10-30T09:42:26.297142+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-10-29T23:07:02.654811+00:00",
+      "checked": "2026-10-30T09:42:26.297142+00:00",
       "error": null
     }
   ],
-  "updated": "2026-10-29T23:07:02.654811+00:00"
+  "updated": "2026-10-30T09:42:26.297142+00:00"
 }
