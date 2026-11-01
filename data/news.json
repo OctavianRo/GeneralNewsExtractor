@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "944be91cc06a18a89b9b88b4",
+      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+      "source": "TechCrunch",
+      "published": "2026-11-01T21:55:23+00:00",
+      "topic": "Hardware",
+      "summary": "Data centers are deeply unpopular. But what if we called them something else?"
+    },
+    {
+      "id": "7a5ce7ed2f78d2842904d684",
+      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+      "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+      "source": "TechCrunch",
+      "published": "2026-11-01T20:57:58+00:00",
+      "topic": "AI overview",
+      "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf."
+    },
+    {
       "id": "d9269f49d95d2fae76a04bff",
       "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
       "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
@@ -2681,42 +2699,24 @@
       "published": "2026-10-09T18:06:57+00:00",
       "topic": "AI overview",
       "summary": "Nikon\nsays\nthe video that originally won first place in its\nSmall World in Motion contest\n\"did not comply with the competition rules regarding generative AI.\"\nBBC\nreports that the original first place video from Dr. Ning Xu claimed to show \"tiny, hair-like structures called cilia moving in the airway of a child with the respiratory condition PCD.\" Nikon…"
-    },
-    {
-      "id": "dd1a4ba899e07fb1f55c1ff8",
-      "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
-      "url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
-      "source": "TechCrunch",
-      "published": "2026-10-09T16:56:42+00:00",
-      "topic": "Hardware",
-      "summary": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and enacted moratoriums from New York to San Francisco."
-    },
-    {
-      "id": "7fbc7f2d590fe3c5dc0bc787",
-      "title": "Amazon drops data center NDAs, and AI agents want your credit card",
-      "url": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
-      "source": "TechCrunch",
-      "published": "2026-10-09T16:53:02+00:00",
-      "topic": "Products & tools",
-      "summary": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and enacted moratoriums from New York to San Francisco."
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-11-01T17:01:22.130969+00:00",
+      "checked": "2026-11-01T22:36:42.516855+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-11-01T17:01:22.130969+00:00",
+      "checked": "2026-11-01T22:36:42.516855+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-11-01T17:01:22.130969+00:00",
+      "checked": "2026-11-01T22:36:42.516855+00:00",
       "error": null
     }
   ],
-  "updated": "2026-11-01T17:01:22.130969+00:00"
+  "updated": "2026-11-01T22:36:42.516855+00:00"
 }
