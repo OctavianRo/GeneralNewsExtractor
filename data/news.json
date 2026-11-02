@@ -1,6 +1,87 @@
 {
   "articles": [
     {
+      "id": "e7389883fb553bcf4252b304",
+      "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+      "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+      "source": "TechCrunch",
+      "published": "2026-11-02T19:19:17+00:00",
+      "topic": "AI overview",
+      "summary": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Perplexity."
+    },
+    {
+      "id": "5426dcc4966dc2198453b84b",
+      "title": "Anthropic clamps down on Claude’s AI video game clones",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
+      "source": "The Verge",
+      "published": "2026-11-02T18:56:02+00:00",
+      "topic": "Models & research",
+      "summary": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to recreate existing video games,\nas reported by\nTom's Hardware\n. Retro gaming is currently being overrun\nwith AI-made decompilations, recompilations, and ports\n, but while Anthropic will still let people use Claude Code to make games, it doesn't want people to use it…"
+    },
+    {
+      "id": "565e6fad1f4c3724a211de5e",
+      "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+      "source": "The Verge",
+      "published": "2026-11-02T18:01:30+00:00",
+      "topic": "Hardware",
+      "summary": "In\nan announcement on Monday\n, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts of power during extreme weather or emergencies, enough to power air conditioners in around 700,000 homes."
+    },
+    {
+      "id": "0b86c010857d521d9160c570",
+      "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
+      "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+      "source": "The Verge",
+      "published": "2026-11-02T17:51:19+00:00",
+      "topic": "Models & research",
+      "summary": "According to\na complaint\nfiled by the\nNew York Daily News\n, the\nChicago Tribune\n, and the\nOrlando Sentinel\n, Brave Software has monetized its index of scraped websites by, in part, providing AI companies with paid access to \"real-time online content from the Brave Index.\" The AI companies then use that index to train their models, access content to \"respond…"
+    },
+    {
+      "id": "b475b7dcc2276d63203ffeb5",
+      "title": "Raising the quality of insights in agentic analytics",
+      "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
+      "source": "MIT Technology Review",
+      "published": "2026-11-02T17:00:00+00:00",
+      "topic": "Products & tools",
+      "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights."
+    },
+    {
+      "id": "8bfd7590d71c0d95edb1f484",
+      "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
+      "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
+      "source": "TechCrunch",
+      "published": "2026-11-02T16:30:00+00:00",
+      "topic": "Models & research",
+      "summary": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?"
+    },
+    {
+      "id": "5a201e1426e1fb30b60319f0",
+      "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
+      "url": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
+      "source": "TechCrunch",
+      "published": "2026-11-02T15:00:00+00:00",
+      "topic": "Business",
+      "summary": "Two startups tackling the data center water problem are joining forces in a $16 million deal."
+    },
+    {
+      "id": "e732affa3e390d123d460693",
+      "title": "OpenAI is finally merging ChatGPT’s Chat and Work tabs",
+      "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
+      "source": "TechCrunch",
+      "published": "2026-11-02T13:57:53+00:00",
+      "topic": "Products & tools",
+      "summary": "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change."
+    },
+    {
+      "id": "8d847b3ebc262e19a01af222",
+      "title": "Stop counting tokens, start counting what ships",
+      "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
+      "source": "MIT Technology Review",
+      "published": "2026-11-02T13:10:32+00:00",
+      "topic": "Models & research",
+      "summary": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors."
+    },
+    {
       "id": "a09e48d0b66bcc5cf629ac4c",
       "title": "The agentic web is here",
       "url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
@@ -26,6 +107,15 @@
       "published": "2026-11-01T20:57:58+00:00",
       "topic": "AI overview",
       "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf."
+    },
+    {
+      "id": "1cf8f670adac64720d77dac1",
+      "title": "Data centers are now a midterm issue, even in Brooklyn",
+      "url": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
+      "source": "TechCrunch",
+      "published": "2026-11-01T02:22:10+00:00",
+      "topic": "Hardware",
+      "summary": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers."
     },
     {
       "id": "d9269f49d95d2fae76a04bff",
@@ -2609,114 +2699,24 @@
       "published": "2026-10-10T21:47:51+00:00",
       "topic": "Models & research",
       "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI."
-    },
-    {
-      "id": "b9dc0d5943c84ce635f67f89",
-      "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
-      "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
-      "source": "TechCrunch",
-      "published": "2026-10-10T19:50:00+00:00",
-      "topic": "Business",
-      "summary": "Is Apple hoping to get into the AI-generated podcast business?"
-    },
-    {
-      "id": "6d57a260d9ad3ce2f42a8b41",
-      "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
-      "url": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
-      "source": "The Verge",
-      "published": "2026-10-10T18:52:07+00:00",
-      "topic": "Policy & safety",
-      "summary": "Artists are\ntaking\nto\nsocial media\nto\ncomplain\nthat DistroKid has\nunceremoniously removed\ntheir work without notice. Now DistroKid has confirmed to\nThe Verge\nthat the takedowns are a direct response to claims made by UMG."
-    },
-    {
-      "id": "818f4dcf830d117b3a347d0a",
-      "title": "Anthropic is cutting off its internal evaluations from the internet",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
-      "source": "The Verge",
-      "published": "2026-10-10T14:41:16+00:00",
-      "topic": "Policy & safety",
-      "summary": "Although the impact of these behaviors was minimal and we had already turned off live internet access for some high-risk and cybersecurity evaluations, we have now decided to expand that to include all our internal evaluations until we have confirmed that our security and monitoring measures (described in the remediation section …"
-    },
-    {
-      "id": "a0f6e38f65e9c89ba13dd047",
-      "title": "Here are the top AI agents that can live in your text messages",
-      "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "source": "TechCrunch",
-      "published": "2026-10-10T14:00:00+00:00",
-      "topic": "Products & tools",
-      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
-    },
-    {
-      "id": "c9390824224ecd5bf3e13e60",
-      "title": "AI agent makers are promising privacy — will they deliver?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
-      "source": "The Verge",
-      "published": "2026-10-10T13:00:00+00:00",
-      "topic": "Products & tools",
-      "summary": "At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to \"set a new standard for privacy in frontier AI.\" OpenAI would spend the day taking veiled shots at Meta's Muse, its primary competitor, for failing to keep users' data safe. Yet Muse itself, a couple of months earlier, had…"
-    },
-    {
-      "id": "6fafcbf095655c1fbd8b661b",
-      "title": "Anthropic can’t reliably control its AI agents — it’s cutting off its internal evals from the live internet instead",
-      "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
-      "source": "TechCrunch",
-      "published": "2026-10-10T00:18:32+00:00",
-      "topic": "Products & tools",
-      "summary": "The incidents involved AI agents tasked to solve problems seeking resources on the internet. In the process, they exploited software flaws, accessed databases without paying fees, used URL-shortening services to smuggle information past restrictions, and even submitted a false murder tip to the Philadelphia police."
-    },
-    {
-      "id": "7984e92e6601d72ffb7cce04",
-      "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-      "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
-      "source": "TechCrunch",
-      "published": "2026-10-09T21:41:29+00:00",
-      "topic": "Models & research",
-      "summary": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs."
-    },
-    {
-      "id": "0854a3cada87fb07918edd8a",
-      "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
-      "source": "The Verge",
-      "published": "2026-10-09T21:15:38+00:00",
-      "topic": "Models & research",
-      "summary": "An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline,\naccording to a report from 6abc. In a statement released on Friday, the PPD said the AI model sent the tip through\nPhillyUnsolvedMurders.com\non July 18th, but the investigators never reviewed it because it was marked as spam."
-    },
-    {
-      "id": "43fd2a198be0a450280f1ad1",
-      "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
-      "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
-      "source": "TechCrunch",
-      "published": "2026-10-09T19:36:56+00:00",
-      "topic": "Models & research",
-      "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip."
-    },
-    {
-      "id": "42d1906c74af83c64ef78506",
-      "title": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
-      "source": "The Verge",
-      "published": "2026-10-09T19:09:44+00:00",
-      "topic": "AI overview",
-      "summary": "Those were among the descriptions more than three dozen mathematicians reached for in conversations with\nThe Verge\nas they tried to make sense of the\nflood of mathematical results\nOpenAI abruptly dropped on the field this week. Amid the awe, excitement, and uncertainty over the sheer scale of the deluge was a deep-seated anxiety over what it all means - and…"
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-11-02T10:39:02.507730+00:00",
+      "checked": "2026-11-02T20:39:09.273079+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-11-02T10:39:02.507730+00:00",
+      "checked": "2026-11-02T20:39:09.273079+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-11-02T10:39:02.507730+00:00",
+      "checked": "2026-11-02T20:39:09.273079+00:00",
       "error": null
     }
   ],
-  "updated": "2026-11-02T10:39:02.507730+00:00"
+  "updated": "2026-11-02T20:39:09.273079+00:00"
 }
