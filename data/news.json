@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "id": "a09e48d0b66bcc5cf629ac4c",
+      "title": "The agentic web is here",
+      "url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
+      "source": "MIT Technology Review",
+      "published": "2026-11-02T09:35:19+00:00",
+      "topic": "Products & tools",
+      "summary": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an\narticle\nin the magazine\nScientific American\nin which he outlined what he called the\n“Semantic Web”\n: an internet designed to be navigated by autonomous software agents that could address our every need, without…"
+    },
+    {
       "id": "944be91cc06a18a89b9b88b4",
       "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
       "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
@@ -2690,33 +2699,24 @@
       "published": "2026-10-09T19:09:44+00:00",
       "topic": "AI overview",
       "summary": "Those were among the descriptions more than three dozen mathematicians reached for in conversations with\nThe Verge\nas they tried to make sense of the\nflood of mathematical results\nOpenAI abruptly dropped on the field this week. Amid the awe, excitement, and uncertainty over the sheer scale of the deluge was a deep-seated anxiety over what it all means - and…"
-    },
-    {
-      "id": "57fe1472ddc36d4e4fa25790",
-      "title": "Nikon microscopic video competition winner disqualified for using generative AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai",
-      "source": "The Verge",
-      "published": "2026-10-09T18:06:57+00:00",
-      "topic": "AI overview",
-      "summary": "Nikon\nsays\nthe video that originally won first place in its\nSmall World in Motion contest\n\"did not comply with the competition rules regarding generative AI.\"\nBBC\nreports that the original first place video from Dr. Ning Xu claimed to show \"tiny, hair-like structures called cilia moving in the airway of a child with the respiratory condition PCD.\" Nikon…"
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-11-02T02:09:05.102641+00:00",
+      "checked": "2026-11-02T10:39:02.507730+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-11-02T02:09:05.102641+00:00",
+      "checked": "2026-11-02T10:39:02.507730+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-11-02T02:09:05.102641+00:00",
+      "checked": "2026-11-02T10:39:02.507730+00:00",
       "error": null
     }
   ],
-  "updated": "2026-11-02T02:09:05.102641+00:00"
+  "updated": "2026-11-02T10:39:02.507730+00:00"
 }
