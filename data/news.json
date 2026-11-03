@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "23abe1f1b0a2b246b606e768",
+      "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+      "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+      "source": "TechCrunch",
+      "published": "2026-11-03T03:30:00+00:00",
+      "topic": "AI overview",
+      "summary": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages."
+    },
+    {
+      "id": "804d2e2f62a5210f78bc3a25",
+      "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
+      "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+      "source": "TechCrunch",
+      "published": "2026-11-03T01:49:52+00:00",
+      "topic": "Business",
+      "summary": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call."
+    },
+    {
+      "id": "dfb1d49114f0805e7875e605",
+      "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+      "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+      "source": "TechCrunch",
+      "published": "2026-11-03T00:35:52+00:00",
+      "topic": "Products & tools",
+      "summary": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builders, Tan put a price tag on his passion."
+    },
+    {
+      "id": "c8564f3a68709075cd7869fa",
+      "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+      "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+      "source": "TechCrunch",
+      "published": "2026-11-02T23:13:53+00:00",
+      "topic": "Business",
+      "summary": "The one-year-old startup is now valued at $300 million."
+    },
+    {
+      "id": "ca204e1c0052a71213a13f97",
+      "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+      "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+      "source": "TechCrunch",
+      "published": "2026-11-02T22:14:50+00:00",
+      "topic": "AI overview",
+      "summary": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return."
+    },
+    {
       "id": "e7389883fb553bcf4252b304",
       "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
       "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
@@ -16,7 +61,7 @@
       "source": "The Verge",
       "published": "2026-11-02T18:56:02+00:00",
       "topic": "Models & research",
-      "summary": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to recreate existing video games,\nas reported by\nTom's Hardware\n. Retro gaming is currently being overrun\nwith AI-made decompilations, recompilations, and ports\n, but while Anthropic will still let people use Claude Code to make games, it doesn't want people to use it…"
+      "summary": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to re-create existing video games,\nas reported by\nTom's Hardware\n. Retro gaming is currently being overrun\nwith AI-made decompilations, recompilations, and ports\n, but while Anthropic will still let people use Claude Code to make games, it doesn't want people to use it…"
     },
     {
       "id": "565e6fad1f4c3724a211de5e",
@@ -2654,69 +2699,24 @@
       "published": "2026-10-11T18:33:56+00:00",
       "topic": "AI overview",
       "summary": "That Elon Musk was\nquick to jump on board\n, promising to rename SpaceXAI to SpaceXSI, isn't surprising. When, hours after Donald Trump declared that \"The White House considers anyone that uses the term, 'Artificial Intelligence,' as opposed to the highly accepted new and more accurate term, 'Super I …"
-    },
-    {
-      "id": "2ff11c15230d666114622766",
-      "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
-      "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
-      "source": "TechCrunch",
-      "published": "2026-10-11T16:52:33+00:00",
-      "topic": "Hardware",
-      "summary": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem."
-    },
-    {
-      "id": "27abcf7051e177f24b51149f",
-      "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
-      "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
-      "source": "TechCrunch",
-      "published": "2026-10-11T14:00:00+00:00",
-      "topic": "Products & tools",
-      "summary": "Voice AI often misses important points for its context layer, and causes the whole pipeline to break."
-    },
-    {
-      "id": "a439fdc2654eaaf3ce0c2970",
-      "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
-      "source": "The Verge",
-      "published": "2026-10-11T11:00:00+00:00",
-      "topic": "Models & research",
-      "summary": "Baby’s first local AI agent. | Photo: Antonio G."
-    },
-    {
-      "id": "47aa66d1b4eb0050da8553d1",
-      "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
-      "source": "The Verge",
-      "published": "2026-10-10T22:10:17+00:00",
-      "topic": "Models & research",
-      "summary": "In a\nlengthy post on X\n, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a \"set of nested black boxes\" whose advice and actions we simply accept or reject."
-    },
-    {
-      "id": "13ca25f147a7a5de80b34bb1",
-      "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-      "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
-      "source": "TechCrunch",
-      "published": "2026-10-10T21:47:51+00:00",
-      "topic": "Models & research",
-      "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI."
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-11-02T20:39:09.273079+00:00",
+      "checked": "2026-11-03T03:51:14.922318+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-11-02T20:39:09.273079+00:00",
+      "checked": "2026-11-03T03:51:14.922318+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-11-02T20:39:09.273079+00:00",
+      "checked": "2026-11-03T03:51:14.922318+00:00",
       "error": null
     }
   ],
-  "updated": "2026-11-02T20:39:09.273079+00:00"
+  "updated": "2026-11-03T03:51:14.922318+00:00"
 }
