@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "id": "e6e258092e928f0d256b4e64",
+      "title": "How “reverse game theory” could keep AI agents in check",
+      "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+      "source": "MIT Technology Review",
+      "published": "2026-11-03T10:43:41+00:00",
+      "topic": "Models & research",
+      "summary": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, in other words, that rogue agents don’t break the law, hack into unauthorized…"
+    },
+    {
+      "id": "aafb2d2c8fa2107938d3734b",
+      "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
+      "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
+      "source": "TechCrunch",
+      "published": "2026-11-03T07:20:00+00:00",
+      "topic": "AI overview",
+      "summary": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations."
+    },
+    {
+      "id": "b7492bd5cea1d25b75401839",
+      "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
+      "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
+      "source": "MIT Technology Review",
+      "published": "2026-11-03T04:18:47+00:00",
+      "topic": "Policy & safety",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\nsign up here\n."
+    },
+    {
       "id": "23abe1f1b0a2b246b606e768",
       "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
       "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
@@ -2672,51 +2699,24 @@
       "published": "2026-10-12T15:27:59+00:00",
       "topic": "Business",
       "summary": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch."
-    },
-    {
-      "id": "1f073325dc394b50df945714",
-      "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
-      "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
-      "source": "The Verge",
-      "published": "2026-10-12T13:00:00+00:00",
-      "topic": "Hardware",
-      "summary": "Maia 300 will start being rolled out to production in 2027, and it has been designed with efficiency in mind. \"We expect Maia 300 to deliver 40 percent more tokens per megawatt compared to leading GPU-based systems,\"\nsays Scott Guthrie\n, executive vice president of Microsoft's cloud group."
-    },
-    {
-      "id": "84410a602fe52654002f9b99",
-      "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
-      "url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
-      "source": "TechCrunch",
-      "published": "2026-10-12T12:47:59+00:00",
-      "topic": "Products & tools",
-      "summary": "One of the core promises of AI is that the more it knows about a person, the better it will be able to assist them with tasks and make appropriate suggestions, which, if you'll believe the tech companies, requires apps and devices to listen, watch, or record users' activity all the time and gather all possible context."
-    },
-    {
-      "id": "10ff9df7a5585aaf706ba8d3",
-      "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
-      "source": "The Verge",
-      "published": "2026-10-11T18:33:56+00:00",
-      "topic": "AI overview",
-      "summary": "That Elon Musk was\nquick to jump on board\n, promising to rename SpaceXAI to SpaceXSI, isn't surprising. When, hours after Donald Trump declared that \"The White House considers anyone that uses the term, 'Artificial Intelligence,' as opposed to the highly accepted new and more accurate term, 'Super I …"
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-11-03T03:51:14.922318+00:00",
+      "checked": "2026-11-03T14:53:02.596478+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-11-03T03:51:14.922318+00:00",
+      "checked": "2026-11-03T14:53:02.596478+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-11-03T03:51:14.922318+00:00",
+      "checked": "2026-11-03T14:53:02.596478+00:00",
       "error": null
     }
   ],
-  "updated": "2026-11-03T03:51:14.922318+00:00"
+  "updated": "2026-11-03T14:53:02.596478+00:00"
 }
