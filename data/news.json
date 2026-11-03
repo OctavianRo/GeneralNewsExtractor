@@ -1,6 +1,114 @@
 {
   "articles": [
     {
+      "id": "ec51e351ec2747a241f3b173",
+      "title": "Apple starts giving Siri AI access to third-party apps",
+      "url": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps",
+      "source": "The Verge",
+      "published": "2026-11-03T20:16:17+00:00",
+      "topic": "Products & tools",
+      "summary": "Apple will now let Siri AI perform actions across third-party apps. As part of the iOS 27.3 update rolling out on Tuesday, Apple\nannounced developers\ncan now integrate Siri AI's new features in \"all apps,\" allowing the voice assistant to draw on a user's personal context, process natural language prompts, and use on-screen awareness to complete requests."
+    },
+    {
+      "id": "05d1a3678a8eb50272245f0c",
+      "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+      "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+      "source": "TechCrunch",
+      "published": "2026-11-03T19:34:43+00:00",
+      "topic": "Business",
+      "summary": "The five-year-old startup raised a $1.3 billion round led by Bessemer."
+    },
+    {
+      "id": "90ff5ab634ecc941280f64fe",
+      "title": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
+      "url": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
+      "source": "TechCrunch",
+      "published": "2026-11-03T18:42:16+00:00",
+      "topic": "AI overview",
+      "summary": "The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for."
+    },
+    {
+      "id": "2a746fdcd099abae656f1592",
+      "title": "OpenAI says ChatGPT is catching up to Google in search",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
+      "source": "The Verge",
+      "published": "2026-11-03T18:30:42+00:00",
+      "topic": "Products & tools",
+      "summary": "In many circles, \"Ask Chat\" has replaced \"Google it,\" and that's reflected in a new announcement from OpenAI: the volume of search queries run through ChatGPT now equals 20 percent of the volume run through Google. Adam Fry, OpenAI's consumer product lead for ChatGPT, made the announcement at a press event on Monday."
+    },
+    {
+      "id": "c968c83100b75a67cad368c0",
+      "title": "Netflix will show you themed recommendations through a new ‘AI Discover’ tab",
+      "url": "https://www.theverge.com/streaming/1025029/netflix-ai-discover-recommendations",
+      "source": "The Verge",
+      "published": "2026-11-03T18:00:00+00:00",
+      "topic": "Products & tools",
+      "summary": "Netflix's TV app is getting a new \"AI Discover\" tab where the company will show experimental, AI-powered features\nto help you find new shows and movies to watch. The first of these experiments surfaces content based around themes, like \"Something Light,\" \"Family Movie Night,\" or \"Quick Watches.\" When you pick a theme, Netflix will show you recommendations…"
+    },
+    {
+      "id": "89158d68bf9594ef8ca890b6",
+      "title": "Anthropic is still grappling with the economics of compute",
+      "url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
+      "source": "TechCrunch",
+      "published": "2026-11-03T17:07:01+00:00",
+      "topic": "AI overview",
+      "summary": "At a moment when Anthropic's compute margins should be getting better, they’re getting worse."
+    },
+    {
+      "id": "c01265aacc1a10af6e560e69",
+      "title": "Google is entirely disabling Search in schools that don’t want AI",
+      "url": "https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features",
+      "source": "The Verge",
+      "published": "2026-11-03T17:00:04+00:00",
+      "topic": "Models & research",
+      "summary": "Google is completely turning off Search in schools that reject its AI features, the company\ntold\nThe New York Times\n. The decision was also shared in\na broader education-related update\nfrom Google on Tuesday, saying that access to Gemini, Gemini Notebook, Gemini in Classroom, and Google Search \"will be entirely off\" for K-12 student accounts unless…"
+    },
+    {
+      "id": "0a382aa136fca6d9cc4d27f0",
+      "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
+      "url": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
+      "source": "TechCrunch",
+      "published": "2026-11-03T16:30:34+00:00",
+      "topic": "Products & tools",
+      "summary": "Schools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine."
+    },
+    {
+      "id": "5fb7488de8910ebe9bc333c6",
+      "title": "Midterm elections 2026: all the news",
+      "url": "https://www.theverge.com/policy/1020640/midterm-elections-2026-all-the-news",
+      "source": "The Verge",
+      "published": "2026-11-03T15:58:39+00:00",
+      "topic": "Hardware",
+      "summary": "The 2026 midterm elections will determine the scope of President Donald Trump’s power in his final two years in office, and signal what voters care about going into the 2028 presidential election. While this year’s races are expected to be most broadly defined by affordability issues, there are several topics impacting the tech industry that appear to be on…"
+    },
+    {
+      "id": "5eba943719a0061f995f10f7",
+      "title": "Apple restricts dating apps and AI companions to users 18 and up",
+      "url": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
+      "source": "TechCrunch",
+      "published": "2026-11-03T15:38:27+00:00",
+      "topic": "Products & tools",
+      "summary": "Apple's new App Store rules will require 18+ ratings for dating apps and AI companions that offer sexual or romantic content."
+    },
+    {
+      "id": "03ad66ba1fba6125878e6a09",
+      "title": "Apple is all in on AI — its own and everyone else’s",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1025245/apple-earnings-q4-ai",
+      "source": "The Verge",
+      "published": "2026-11-03T15:24:51+00:00",
+      "topic": "Business",
+      "summary": "Overall, Apple posted its best-ever fiscal year for revenue and earnings per share. iPhone and Mac sales continued to grow strongly in the fourth quarter."
+    },
+    {
+      "id": "e2d2bf508ced1caa0845b33b",
+      "title": "OpenAI is quietly renaming data centers ‘compute campuses’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses",
+      "source": "The Verge",
+      "published": "2026-11-03T15:00:44+00:00",
+      "topic": "Hardware",
+      "summary": "The Stargate AI data center “compute campus” in Abilene, Texas. | Photo: Bloomberg via Getty Images\nPeople hate\ndata centers\n."
+    },
+    {
       "id": "e6e258092e928f0d256b4e64",
       "title": "How “reverse game theory” could keep AI agents in check",
       "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
@@ -2591,132 +2699,24 @@
       "published": "2026-10-13T13:55:45+00:00",
       "topic": "Hardware",
       "summary": "When Nvidia originally showed off DLSS 5 earlier this year, the technology immediately got branded as gen AI for video games. To gamers,\nNvidia had lost the plot\n."
-    },
-    {
-      "id": "e53df5a0207e061b011cfa86",
-      "title": "SpaceXSI bundles X Premium, Grok, and Cursor into one subscription",
-      "url": "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/",
-      "source": "TechCrunch",
-      "published": "2026-10-13T13:50:19+00:00",
-      "topic": "Products & tools",
-      "summary": "The new X Subscription combines X's paid features with AI tools like Grok and Cursor, offering plans ranging from $8 to $200 per month."
-    },
-    {
-      "id": "7c068c6a83688898d134de1c",
-      "title": "Apple launches HomeView, its first smart display for the home",
-      "url": "https://www.theverge.com/tech/1009704/apple-homeview-smart-display-first-look",
-      "source": "The Verge",
-      "published": "2026-10-13T13:00:00+00:00",
-      "topic": "Products & tools",
-      "summary": "It's finally here: Apple's long-rumored smart display, the Apple HomeView, has arrived. I got a first look at the device in New York City this week, and it's gorgeous."
-    },
-    {
-      "id": "3aa63102ae818b18a9852230",
-      "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
-      "url": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
-      "source": "TechCrunch",
-      "published": "2026-10-13T13:00:00+00:00",
-      "topic": "Products & tools",
-      "summary": "American Express is introducing a new framework designed to ensure AI agents only make purchases their users have authorized, potentially preventing costly mistakes and disputes as AI-powered shopping grows."
-    },
-    {
-      "id": "b2fa807e4b0dbdf2380fdbfa",
-      "title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
-      "url": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
-      "source": "TechCrunch",
-      "published": "2026-10-13T12:23:42+00:00",
-      "topic": "Products & tools",
-      "summary": "The startup will sell some of its assets to Disney for $20 million."
-    },
-    {
-      "id": "895674673f7dc47454f0c53d",
-      "title": "Character.AI files for bankruptcy",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney",
-      "source": "The Verge",
-      "published": "2026-10-13T10:32:23+00:00",
-      "topic": "Policy & safety",
-      "summary": "Character.AI, one of the first breakout startups of the generative AI boom, has filed for bankruptcy and is selling some of its assets to Disney. The company, which builds various online bots for users to chat or roleplay with, has faced mounting scrutiny and\nlawsuits\nover the\nsafety\nof its\nchatbots\n, but has continued\nreleasing\nupdates and products in…"
-    },
-    {
-      "id": "aa865376889f85c40a597f10",
-      "title": "Open models have real benefits. Do they outweigh the risks?",
-      "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
-      "source": "MIT Technology Review",
-      "published": "2026-10-13T10:00:00+00:00",
-      "topic": "Models & research",
-      "summary": "MIT Technology Review\nExplains:\nLet our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here\n."
-    },
-    {
-      "id": "a2f578c60a47c5b465b930bd",
-      "title": "AI labs are buying data from dead startups to train their models",
-      "url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
-      "source": "MIT Technology Review",
-      "published": "2026-10-13T09:00:00+00:00",
-      "topic": "Business",
-      "summary": "When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old. But he’s since turned the firm’s digital archives into real money."
-    },
-    {
-      "id": "c4b9d6e880599722b32ca690",
-      "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
-      "url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
-      "source": "TechCrunch",
-      "published": "2026-10-12T17:19:14+00:00",
-      "topic": "Business",
-      "summary": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million."
-    },
-    {
-      "id": "846af7f67ce8bfa668821fc4",
-      "title": "Meta has some Wonder Full new AI models",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
-      "source": "The Verge",
-      "published": "2026-10-12T17:00:00+00:00",
-      "topic": "Models & research",
-      "summary": "Meta is making up for lost time in the AI race. After\nlaunching Muse Spark\n, the first model from its\nrevamped\nSuperintelligence Labs division, and\nbuzzy AI agent Muse\n, it's now\nlaunching\ntwo new models it claims can go toe-to-toe with the industry's best."
-    },
-    {
-      "id": "4689aa360e7d85be3f3cf900",
-      "title": "Honeyjar offers AI tools to improve PR and comms at every company",
-      "url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
-      "source": "TechCrunch",
-      "published": "2026-10-12T15:45:00+00:00",
-      "topic": "Products & tools",
-      "summary": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?"
-    },
-    {
-      "id": "1ed99c53c3c6c5a0481895c3",
-      "title": "Microsoft president says UK is best placed to drive AI regulation",
-      "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
-      "source": "TechCrunch",
-      "published": "2026-10-12T15:31:19+00:00",
-      "topic": "Policy & safety",
-      "summary": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies."
-    },
-    {
-      "id": "6d5747a1c9b09ae5c408ab4f",
-      "title": "This AI startup says it can generate permit-ready blueprints in minutes",
-      "url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
-      "source": "TechCrunch",
-      "published": "2026-10-12T15:27:59+00:00",
-      "topic": "Business",
-      "summary": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch."
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-11-03T14:53:02.596478+00:00",
+      "checked": "2026-11-03T20:48:55.958177+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-11-03T14:53:02.596478+00:00",
+      "checked": "2026-11-03T20:48:55.958177+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-11-03T14:53:02.596478+00:00",
+      "checked": "2026-11-03T20:48:55.958177+00:00",
       "error": null
     }
   ],
-  "updated": "2026-11-03T14:53:02.596478+00:00"
+  "updated": "2026-11-03T20:48:55.958177+00:00"
 }
