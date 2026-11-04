@@ -1,6 +1,78 @@
 {
   "articles": [
     {
+      "id": "56101ee27feec7039fe1c7d0",
+      "title": "Nothing teases a screen-free AI device ahead of launch next month",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
+      "source": "The Verge",
+      "published": "2026-11-04T18:26:07+00:00",
+      "topic": "AI overview",
+      "summary": "Nothing CEO Carl Pei said in\na post on X\nthat the company's launching its first AI device in December. That's just a little over a year after Pei announced\nplans for \"AI-native\" devices\nand an AI operating system."
+    },
+    {
+      "id": "7e4f7adddfbaac34bb48f63c",
+      "title": "ChatGPT will now make you animated GIFs",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
+      "source": "The Verge",
+      "published": "2026-11-04T18:00:00+00:00",
+      "topic": "Products & tools",
+      "summary": "ChatGPT can now create GIFs using a prompt or a photo uploaded to the AI chatbot. The update, which is rolling out alongside OpenAI's new Images 2.6 model, allows you to adjust the GIF's animation speed, edit individual frames, and share it with others."
+    },
+    {
+      "id": "ef0e90236814fadb34d74199",
+      "title": "I tried Apple’s Siri Recaps. They’re surprisingly useful — and a little unsettling",
+      "url": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/",
+      "source": "TechCrunch",
+      "published": "2026-11-04T16:51:35+00:00",
+      "topic": "AI overview",
+      "summary": "Apple's AI-powered Siri Recaps won me over in just one day, despite my privacy reservations. But there's still room for improvement."
+    },
+    {
+      "id": "dca8692856b1500998d1c374",
+      "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
+      "url": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
+      "source": "TechCrunch",
+      "published": "2026-11-04T16:17:22+00:00",
+      "topic": "AI overview",
+      "summary": "Politicians on the left, like NYC mayor Zohran Mamdani and former FTC chair Lina Khan, accused Google of acting as an unregulated monopoly."
+    },
+    {
+      "id": "eef47e2f46ab6ae8ee70ecf5",
+      "title": "Uber only fulfilled 4 rides from AI agents last quarter",
+      "url": "https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation",
+      "source": "The Verge",
+      "published": "2026-11-04T15:58:45+00:00",
+      "topic": "Products & tools",
+      "summary": "AI agents won't be stealing Uber's lunch any time soon. Only four rides were arranged by third-party AI agents during the third quarter of 2026, Uber executives disclosed during an earnings call this morning."
+    },
+    {
+      "id": "2322faed842dfa6f3d15f3b2",
+      "title": "Sam Altman addresses RAM comments: People should ‘put as much as they want in their computers’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1026292/sam-altman-ram-shortage-pcs-comments",
+      "source": "The Verge",
+      "published": "2026-11-04T14:46:01+00:00",
+      "topic": "AI overview",
+      "summary": "OpenAI CEO Sam Altman spent\nelection night\ndefending his position on PC RAM purchases. He changed his name on X to \"Ram Altman\" in response to another user's comment,\nsaying\n, \"i actually do want the world to have tons of memory and people to put as much as they want in their computers, and it is fucking annoying that this was taken out of context."
+    },
+    {
+      "id": "6c941b016a2f37ccdc4efb76",
+      "title": "Securing the agentic enterprise with data lineage",
+      "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
+      "source": "MIT Technology Review",
+      "published": "2026-11-04T13:00:00+00:00",
+      "topic": "Products & tools",
+      "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep."
+    },
+    {
+      "id": "9a66a9476221031c0ee3e3c0",
+      "title": "Google hasn’t figured out how to make AI pay like its search engine",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
+      "source": "The Verge",
+      "published": "2026-11-04T12:00:00+00:00",
+      "topic": "Business",
+      "summary": "Search queries are growing at their fastest rate in five years, Google parent Alphabet said in its\nearnings\nreport last week. However, Google's Search revenue growth slowed to 12 percent year over year in the third quarter, down from roughly 17 percent in the previous quarter."
+    },
+    {
       "id": "92c50f67a507db6c8047a1ec",
       "title": "The biggest modding site in PC gaming is taking a stance on AI",
       "url": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
@@ -2627,96 +2699,24 @@
       "published": "2026-10-13T19:42:42+00:00",
       "topic": "Products & tools",
       "summary": "CANADA - 2025/07/20: In this photo illustration, the Shopify logo is seen displayed on a smartphone screen. (Photo Illustration by Thomas Fuller/SOPA Images/LightRocket via Getty Images)\nMore AI agents will soon be able to browse and purchase from Shopify listings, marking an expansion of the company's agentic commerce ambitions."
-    },
-    {
-      "id": "b5a0bcffb5b3a77b578c1081",
-      "title": "Xbox is officially embracing the chaos of AI-powered game ports",
-      "url": "https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration",
-      "source": "The Verge",
-      "published": "2026-10-13T19:00:48+00:00",
-      "topic": "AI overview",
-      "summary": "Retro gaming is going through a wild time at the moment, thanks to\ndecompilations and recompilations\nthat are letting gamers port classic titles to new devices, or merge code from two different games into a single new experience. Microsoft has witnessed\nskateboarding being modded\ninto\nCall of Duty\nand\nHalo\nbeing\nplayed in a web browser\n, and the company is…"
-    },
-    {
-      "id": "c94df607d9b75d66b641cbd2",
-      "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
-      "url": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
-      "source": "TechCrunch",
-      "published": "2026-10-13T18:30:00+00:00",
-      "topic": "AI overview",
-      "summary": "Flox's edge devices can identify animals and use species-specific sounds to drive them away from critical infrastructure."
-    },
-    {
-      "id": "d239fa85a32a7e695e9e359e",
-      "title": "Facebook is giving users more control over their algorithm",
-      "url": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/",
-      "source": "TechCrunch",
-      "published": "2026-10-13T18:05:24+00:00",
-      "topic": "AI overview",
-      "summary": "Meta announced the launch of its new AI-powered feature, “Your Algorithm,” a feature it first launched on Instagram."
-    },
-    {
-      "id": "b5b8a08608e1d9e3b11b3430",
-      "title": "I don’t miss the camera on the Ray-Ban Meta Audio glasses",
-      "url": "https://www.theverge.com/tech/1009128/ray-ban-meta-audio-glasses-review-smart-glasses-headphones-wearables",
-      "source": "The Verge",
-      "published": "2026-10-13T18:00:00+00:00",
-      "topic": "Policy & safety",
-      "summary": "The other day I whizzed past several people while running in the park, my playlist blasting at full volume. The next morning, I smiled at a barista while ordering a caramel apple-flavored matcha latte."
-    },
-    {
-      "id": "a982f604a503ccf23cc42105",
-      "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
-      "url": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
-      "source": "TechCrunch",
-      "published": "2026-10-13T17:30:00+00:00",
-      "topic": "Business",
-      "summary": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco."
-    },
-    {
-      "id": "51e3d24adc70a0db638852ca",
-      "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
-      "url": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
-      "source": "TechCrunch",
-      "published": "2026-10-13T17:18:25+00:00",
-      "topic": "Business",
-      "summary": "The problem with giving everyone in a company access to AI tools is that people will use them in unexpected ways. And that fact is steadily seeding fears that companies now have new, gaping security holes in their systems or, at least, will soon."
-    },
-    {
-      "id": "a579d9458f5d4ccba8f34806",
-      "title": "Facebook will let you customize your feed algorithm using AI",
-      "url": "https://www.theverge.com/tech/1010344/meta-facebook-your-algorithm-ai",
-      "source": "The Verge",
-      "published": "2026-10-13T17:01:31+00:00",
-      "topic": "AI overview",
-      "summary": "Facebook's new\n\"Your Algorithm\" feature\nwill let you directly add and manage topics you want to see in your feed and Facebook Reels. Meta says your recommendations \"respond right away\" after you make updates using the new feature by hitting \"interested\" or \"not interested\" for different topics."
-    },
-    {
-      "id": "3027ecc1cd76f500ff06d100",
-      "title": "Google Play now lets anyone build private, vibe-coded apps that run on Android",
-      "url": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
-      "source": "TechCrunch",
-      "published": "2026-10-13T17:00:00+00:00",
-      "topic": "Products & tools",
-      "summary": "Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store."
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-11-04T10:40:34.228177+00:00",
+      "checked": "2026-11-04T18:29:37.231164+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-11-04T10:40:34.228177+00:00",
+      "checked": "2026-11-04T18:29:37.231164+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-11-04T10:40:34.228177+00:00",
+      "checked": "2026-11-04T18:29:37.231164+00:00",
       "error": null
     }
   ],
-  "updated": "2026-11-04T10:40:34.228177+00:00"
+  "updated": "2026-11-04T18:29:37.231164+00:00"
 }
