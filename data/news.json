@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "92c50f67a507db6c8047a1ec",
+      "title": "The biggest modding site in PC gaming is taking a stance on AI",
+      "url": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
+      "source": "The Verge",
+      "published": "2026-11-04T00:42:10+00:00",
+      "topic": "AI overview",
+      "summary": "The PC gaming mods repository Nexus Mods is making disclosures about AI mandatory for uploads of new mods, meaning that mod authors will have to declare \"whether AI has been used in their work,\" the site\nannounced today\nas part of a big post about AI-generated content on the platform."
+    },
+    {
+      "id": "9d97c8271a19f07f210804b1",
+      "title": "Please stop asking me when the AI bubble will pop",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
+      "source": "The Verge",
+      "published": "2026-11-03T23:37:45+00:00",
+      "topic": "Business",
+      "summary": "What I can tell you is that I read with interest a story in\nBloomberg\nthis morning: \"\nWall Street CEOs, Big Money Managers Divided Over AI Risks\n.\" The story itself is a roundup of stuff said at the 2026 Global Financial Leaders' Investment Summit in Hong Kong. Here's what caught my attentio …"
+    },
+    {
+      "id": "52eb9ce7b224919af0f38d52",
+      "title": "Anthropic is working on a system to prove AI models’ identity",
+      "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+      "source": "TechCrunch",
+      "published": "2026-11-03T22:41:03+00:00",
+      "topic": "Models & research",
+      "summary": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from."
+    },
+    {
+      "id": "14409ffa4e7706ac4f457c5b",
+      "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+      "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+      "source": "TechCrunch",
+      "published": "2026-11-03T21:43:08+00:00",
+      "topic": "Business",
+      "summary": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle."
+    },
+    {
+      "id": "8fdb108aaca7ce7da2d4ca27",
+      "title": "Those Jeff Bezos hair transplant photos are very fake",
+      "url": "https://www.theverge.com/tech/1025745/fake-jeff-bezos-hair-replacement-photos-debunk",
+      "source": "The Verge",
+      "published": "2026-11-03T21:01:07+00:00",
+      "topic": "AI overview",
+      "summary": "Amazon founder Jeff Bezos and actor Jason Statham have a distinctive feature in common: They're both famously bald, and that definitely hasn't changed in the last few days. However, there are\nsome images\nof the two men\ncirculating around X\n,\nThreads\n, and\nBluesky\nin which they both have substantially more hair than their usual shaved look, which in Bezos'…"
+    },
+    {
       "id": "ec51e351ec2747a241f3b173",
       "title": "Apple starts giving Siri AI access to third-party apps",
       "url": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps",
@@ -2654,69 +2699,24 @@
       "published": "2026-10-13T17:00:00+00:00",
       "topic": "Products & tools",
       "summary": "Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store."
-    },
-    {
-      "id": "20321888fc5ad637cd8e57b6",
-      "title": "Google makes it easier to launch your vibe-coded apps",
-      "url": "https://www.theverge.com/tech/1009066/google-play-vibe-coded-android-apps-launch",
-      "source": "The Verge",
-      "published": "2026-10-13T17:00:00+00:00",
-      "topic": "Products & tools",
-      "summary": "The next time you vibe-code a custom app with Google's AI Studio, you won't have to connect your phone to a computer to install it. On Tuesday,\nGoogle announced a new feature\nin the US that will allow you to launch personal apps directly through the Play Store."
-    },
-    {
-      "id": "8e68e2cc66d400ede70166e4",
-      "title": "It’s ‘incomprehensible’ that Instagram allowed an AI image of Mia Goth to spread, say her reps",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1010277/mia-goth-instagram-ai-shirt-deepfake-divorce",
-      "source": "The Verge",
-      "published": "2026-10-13T16:42:51+00:00",
-      "topic": "AI overview",
-      "summary": "The post shows Goth in a T-shirt that reads \"MY EX IS MY BIGGEST FAN\" in bold black letters. The Beyoncé song \"Single Ladies (Put a Ring on It)\" had been added to the Instagram post."
-    },
-    {
-      "id": "f9f5ac5db3b603f4975a417d",
-      "title": "Google finally releases Gemini 4 Argon",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon",
-      "source": "The Verge",
-      "published": "2026-10-13T16:00:00+00:00",
-      "topic": "Models & research",
-      "summary": "Google\nsays\nArgon delivers \"frontier reasoning and improved performance across complex workflows,\" while cutting down on hedging, repetition, and the cliches that continue to plague AI chatbots. The company\nclaims\nArgon outperforms rival models like GPT-6 Astra, Claude Fable 5.1, and Claude Opus 5.5 across a range of benchmarks, including coding,…"
-    },
-    {
-      "id": "ce8b8b48b5a890c3bb0d10c3",
-      "title": "Epic shifts to ‘AI-accelerated development’ for upcoming Disney game",
-      "url": "https://www.theverge.com/games/1010097/epic-games-disney-project-ai-coding-art",
-      "source": "The Verge",
-      "published": "2026-10-13T15:12:59+00:00",
-      "topic": "Models & research",
-      "summary": "Epic Games plans to use AI to generate code and art for an unannounced Disney game, which is now delayed from its original March release window, according to a report from\nBloomberg\n. The project's developers have been given an \"AI-first\" mandate directing them to use tools like Anthropic's Claude more to finish the game."
-    },
-    {
-      "id": "7a844a813e581002f0e5ec42",
-      "title": "DLSS 5 gets toned down for its Hogwarts Legacy debut next month",
-      "url": "https://www.theverge.com/news/1009904/dlss-5-hogwarts-legacy-changes-improvements",
-      "source": "The Verge",
-      "published": "2026-10-13T13:55:45+00:00",
-      "topic": "Hardware",
-      "summary": "When Nvidia originally showed off DLSS 5 earlier this year, the technology immediately got branded as gen AI for video games. To gamers,\nNvidia had lost the plot\n."
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-11-03T20:48:55.958177+00:00",
+      "checked": "2026-11-04T02:56:37.134964+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-11-03T20:48:55.958177+00:00",
+      "checked": "2026-11-04T02:56:37.134964+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-11-03T20:48:55.958177+00:00",
+      "checked": "2026-11-04T02:56:37.134964+00:00",
       "error": null
     }
   ],
-  "updated": "2026-11-03T20:48:55.958177+00:00"
+  "updated": "2026-11-04T02:56:37.134964+00:00"
 }
