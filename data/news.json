@@ -1,13 +1,130 @@
 {
   "articles": [
     {
+      "id": "2a8256897722920e0cf4e9d9",
+      "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
+      "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
+      "source": "TechCrunch",
+      "published": "2026-11-05T18:02:27+00:00",
+      "topic": "Business",
+      "summary": "OpenAI President Greg Brockman says the company could be ready to go public in 2027, pointing to accelerating enterprise revenue and a turnaround in its business."
+    },
+    {
+      "id": "e6d6c85b3eb3fa4e89ea4aed",
+      "title": "Claude AI can plug directly into your bank account",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance",
+      "source": "The Verge",
+      "published": "2026-11-05T18:00:00+00:00",
+      "topic": "Models & research",
+      "summary": "Anthropic has a new pitch for managing your personal finances: let Claude do it instead, with a new Personal Finance feature that connects it to your bank and card accounts via the Plaid bank bridging platform. You can ask the chatbot \"where did my money go this month,\" for example, and it'll create an overview with a breakdown of spending by category,…"
+    },
+    {
+      "id": "b86f7c45dcb3e5423ed2512d",
+      "title": "Claude can now analyze your spending with its new Personal Finance tool",
+      "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
+      "source": "TechCrunch",
+      "published": "2026-11-05T18:00:00+00:00",
+      "topic": "Models & research",
+      "summary": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances."
+    },
+    {
+      "id": "a05905dc499c67f34cf1c177",
+      "title": "‘Total repudiation’: The blue wave is about to hit AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1026927/total-repudiation-the-blue-wave-is-about-to-hit-ai",
+      "source": "The Verge",
+      "published": "2026-11-05T17:51:52+00:00",
+      "topic": "Policy & safety",
+      "summary": "On Tuesday night, Democrats made history as they took control of the House and the Senate, and a blue wave swept through traditionally red and swing states - with the nation's first Black woman governor elected in Georgia, the country's first Native American woman governor elected in New Mexico, and a Maine Senator ceding to a Democrat after 30 years in…"
+    },
+    {
+      "id": "c84a4cb62f0462d241c36ce1",
+      "title": "OpenAI says its new cybersecurity model is better at not hacking other companies",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch",
+      "source": "The Verge",
+      "published": "2026-11-05T17:00:00+00:00",
+      "topic": "Models & research",
+      "summary": "OpenAI is\nlaunching GPT-6 Cyber\n, the latest version of its cybersecurity AI model, which it says is better at finding vulnerabilities and less likely to go rogue and hack other platforms in the process. OpenAI says that during testing, GPT-6 Cyber went out of bounds less than 1 percent of the time, down from around 5 percent with GPT-5.6 Cyber."
+    },
+    {
+      "id": "94c971e34f7981b09fb4e6a9",
+      "title": "Grimes is going to star in an AI movie that’s coming to theaters",
+      "url": "https://www.theverge.com/entertainment/1026282/grimes-ai-movie",
+      "source": "The Verge",
+      "published": "2026-11-05T17:00:00+00:00",
+      "topic": "AI overview",
+      "summary": "The AI-generated sci-fi film\nGods Don't Give Gifts\nhas added a bit of star power: Pop star Grimes is going to appear in the movie. Billed as \"the first AI film to come to theatres,\"\nGods Don't Give Gifts\nis a notable test case for the commercial potential of AI films, and it releases on December 4th."
+    },
+    {
+      "id": "ebef47c413e7a9e7a43039e6",
+      "title": "Axiom Math wants to keep AI slop out of mathematics",
+      "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
+      "source": "TechCrunch",
+      "published": "2026-11-05T16:16:45+00:00",
+      "topic": "Products & tools",
+      "summary": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup’s AI agents just formally verified the Stacks Project, one of the field’s biggest libraries."
+    },
+    {
+      "id": "9c6e67cc65141fc07bcb20be",
+      "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
+      "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
+      "source": "TechCrunch",
+      "published": "2026-11-05T15:19:05+00:00",
+      "topic": "Products & tools",
+      "summary": "The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents."
+    },
+    {
+      "id": "6167ca4f496ea89584cf01a4",
+      "title": "The hidden supply chain costs of the AI boom",
+      "url": "https://www.theverge.com/podcast/1024438/willy-shih-supply-chain-ai-chips-ram-where-does-my-stuff-come-from-book",
+      "source": "The Verge",
+      "published": "2026-11-05T15:00:00+00:00",
+      "topic": "Policy & safety",
+      "summary": "Today, I’m talking with Willy Shih, an economist, a professor of management practice at Harvard Business School, and the author of the upcoming book,\nWhere Does My Stuff Come From? The Powerful Economics Behind Global Supply Chains\n."
+    },
+    {
+      "id": "5c6fd66a42c8ea494afd10e5",
+      "title": "You can post AI music straight to SoundCloud from ElevenLabs",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1027427/ai-music-soundcloud-elevenlabs",
+      "source": "The Verge",
+      "published": "2026-11-05T15:00:00+00:00",
+      "topic": "AI overview",
+      "summary": "After\npartnering with Moises\nearlier this year, SoundCloud is now adding integration with another AI music platform, ElevenLabs. Now, rather than having to export and download your outputs from ElevenLabs and then upload them to SoundCloud, you can publish them directly."
+    },
+    {
+      "id": "e79288c48dc9eade2335d1a8",
+      "title": "Aina’s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
+      "url": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
+      "source": "TechCrunch",
+      "published": "2026-11-05T14:42:00+00:00",
+      "topic": "Products & tools",
+      "summary": "Aina's ring can also take calls and help you dictate notes on your Mac."
+    },
+    {
+      "id": "44f488c59aa9e3a6dd20daed",
+      "title": "A YC startup is putting $1M behind 5 unsolved materials science problems for AI",
+      "url": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
+      "source": "TechCrunch",
+      "published": "2026-11-05T13:00:00+00:00",
+      "topic": "Business",
+      "summary": "While frontier AI models have solved a remarkable series of outstanding mathematics problems and made progress in the life sciences, they have yet to truly plumb the complex physics in advanced materials."
+    },
+    {
+      "id": "788aca0b86fe44b26f68b2a9",
+      "title": "Big Tech’s big AI buildout will not end until someone stops it",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3",
+      "source": "The Verge",
+      "published": "2026-11-05T10:45:00+00:00",
+      "topic": "Hardware",
+      "summary": "After four of the biggest competitors in the AI race held quarterly earnings calls late last month, two things are clear: Big Tech is not done spending record amounts on the AI data center buildout, and the AI data center buildout is not any closer to yielding its promised returns. A third thing is also starting to become clear - Big Tech will not be…"
+    },
+    {
       "id": "ad1030df5ce46710e212924e",
       "title": "Apple is reportedly cutting budgets for its internal AI usage",
       "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
       "source": "TechCrunch",
       "published": "2026-11-05T01:26:22+00:00",
       "topic": "AI overview",
-      "summary": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams."
+      "summary": "The tokenmaxxing frenzy has been short-lived as bills for said tokens came due, and companies decided that token rationing might be a more fiscally sensible approach."
     },
     {
       "id": "7aa63af445bdd3ac983f6235",
@@ -2582,141 +2699,24 @@
       "published": "2026-10-15T01:01:32+00:00",
       "topic": "Hardware",
       "summary": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process."
-    },
-    {
-      "id": "e92cc7fb106b45e6af78c686",
-      "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
-      "url": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
-      "source": "TechCrunch",
-      "published": "2026-10-15T00:00:00+00:00",
-      "topic": "AI overview",
-      "summary": "Gudea, a company that tracks how stories and rumors spread online that describes itself as the “storm tracker for the internet,” is using AI to help organizations spot trouble brewing online before it turns into a crisis."
-    },
-    {
-      "id": "e10522981d38e79315278779",
-      "title": "McKinsey is making job applicants spar with a fake AI client",
-      "url": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
-      "source": "The Verge",
-      "published": "2026-10-14T22:53:31+00:00",
-      "topic": "AI overview",
-      "summary": "The AI simulation \"aims to reflect 80% of the scenarios McKinsey consultants might encounter in their day-to-day work,\" the\nWSJ\nsays, and it isn't designed to \"mimic an unhinged client.\" The AI won't score the candidates - humans will be in the room to assess the candidates and see how well they deal with the simulated situations."
-    },
-    {
-      "id": "9194e801adbca278e9a4cefb",
-      "title": "Eight states sue OpenAI, saying ChatGPT isn’t safe for kids",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
-      "source": "The Verge",
-      "published": "2026-10-14T21:11:28+00:00",
-      "topic": "Products & tools",
-      "summary": "OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading customers about the safety of ChatGPT,\nas reported earlier by\nReuters\n. The lawsuits, filed separately by Iowa, Kansas, Nebraska, West Virginia, Arkansas, Arizona, Idaho, and Montana, allege OpenAI unlawfully put profits over safety when…"
-    },
-    {
-      "id": "0a3035ce11f254c377e23e94",
-      "title": "The AI race is back on",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
-      "source": "The Verge",
-      "published": "2026-10-14T19:06:03+00:00",
-      "topic": "Models & research",
-      "summary": "Mark Zuckerberg at the Meta Connect developer conference. | Photo: Andrej Sokolow/dpa/picture alliance via Getty Images\nLast week, Anthropic and OpenAI looked like they had the AI race to themselves, pulling ahead with increasingly powerful models that left their rivals in the dust."
-    },
-    {
-      "id": "45dfe01c4dcdbd6bc5e9b39f",
-      "title": "Now that Character.AI is going bankrupt, what happens to all of its users’ data?",
-      "url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
-      "source": "The Verge",
-      "published": "2026-10-14T18:47:54+00:00",
-      "topic": "AI overview",
-      "summary": "New York Attorney General Letitia James\nrevealed\na years-long multi-state investigation against Character.AI as they now seek to require protections on consumer data sold through its bankruptcy proceeding."
-    },
-    {
-      "id": "f2a56b50bd832f0a2e0913fa",
-      "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
-      "url": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
-      "source": "TechCrunch",
-      "published": "2026-10-14T18:23:46+00:00",
-      "topic": "AI overview",
-      "summary": "The label will appear on the player page and include songs entirely generated by AI or partially, such as AI involved in composition and vocals."
-    },
-    {
-      "id": "7a9def3c48c7ae7bc22e8870",
-      "title": "YouTube sticks new labels on AI-generated songs",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1011369/youtube-music-ai-label",
-      "source": "The Verge",
-      "published": "2026-10-14T18:22:56+00:00",
-      "topic": "Models & research",
-      "summary": "YouTube is adding a\n\"Made with AI\" label\nto tracks that were \"altered or fully generated\" using AI, with a similar approach to its existing process for\napplying AI labels to videos\n. It doesn't sound like this will apply to any and all use of AI tools in making music, but according to YouTube, it includes things like \"using a generative model to create the…"
-    },
-    {
-      "id": "5a503e3d62a8f45c7dd932cf",
-      "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
-      "url": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
-      "source": "TechCrunch",
-      "published": "2026-10-14T18:00:00+00:00",
-      "topic": "Products & tools",
-      "summary": "Most companies use AI agents to ship products faster or speed up workflows. Apate.ai sends them undercover to get scammed."
-    },
-    {
-      "id": "bce858a37e75c4f00f738c35",
-      "title": "My AI doppelganger tells me what to eat",
-      "url": "https://www.theverge.com/column/1011264/digital-twin-metabolism-ai-twin-health",
-      "source": "The Verge",
-      "published": "2026-10-14T17:00:00+00:00",
-      "topic": "Products & tools",
-      "summary": "This is\nOptimizer\n, a weekly newsletter sent from\nVerge\nsenior reviewer\nVictoria Song\nthat dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for\nOptimizer\nhere\n."
-    },
-    {
-      "id": "52cefc42575c00abb39b9a52",
-      "title": "OpenAI claims an ex-employee took its product plans and presented them to Apple",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans",
-      "source": "The Verge",
-      "published": "2026-10-14T16:43:24+00:00",
-      "topic": "AI overview",
-      "summary": "OpenAI claims a former employee took more than 100 files related to its product plans before joining Apple. In\na document filed on Wednesday\n, OpenAI accuses the unnamed employee of sending this information to a personal account and then presenting it to Apple leadership, including the vice president of the company's operations in Asia."
-    },
-    {
-      "id": "0ffd9a974781584f9f58d0c0",
-      "title": "Microsoft has a new machine learning tool to improve weather forecasts",
-      "url": "https://www.theverge.com/science/1011127/ai-weather-forecast-microsoft",
-      "source": "The Verge",
-      "published": "2026-10-14T16:05:21+00:00",
-      "topic": "Products & tools",
-      "summary": "Researchers with the company say they've found a new, cost-effective way to make more accurate weather forecasts two to six weeks in advance - allowing farmers and emergency responders to plan ahead with greater certainty. The findings were\npublished\ntoday in the journal\nNature\n, and the tool is now\nopen-source software\n."
-    },
-    {
-      "id": "bddfffa0852196a7c048ed92",
-      "title": "Square’s new kiosk lets you talk to AI for help with your order",
-      "url": "https://www.theverge.com/tech/1009086/square-kiosk",
-      "source": "The Verge",
-      "published": "2026-10-14T16:00:00+00:00",
-      "topic": "Products & tools",
-      "summary": "Square is launching new hardware: a big kiosk for ordering things that has a touchscreen and lets you talk to an AI. It's called the Square Kiosk."
-    },
-    {
-      "id": "1a514aa5591417c5dedd5594",
-      "title": "Android is using AI to suss out scammers in Google Messages",
-      "url": "https://www.theverge.com/tech/1010928/android-scam-protection-enhanced-protection-google-messages",
-      "source": "The Verge",
-      "published": "2026-10-14T16:00:00+00:00",
-      "topic": "Models & research",
-      "summary": "Begone, Bot. | Image: Google / Android\nAndroid is introducing new scam defense features that aim to make it easier for users to evade mobile fraud, including bolstered protection in Google Messages and additional safeguarding tools."
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-11-05T10:27:02.059523+00:00",
+      "checked": "2026-11-05T18:33:55.324107+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-11-05T10:27:02.059523+00:00",
+      "checked": "2026-11-05T18:33:55.324107+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-11-05T10:27:02.059523+00:00",
+      "checked": "2026-11-05T18:33:55.324107+00:00",
       "error": null
     }
   ],
-  "updated": "2026-11-05T10:27:02.059523+00:00"
+  "updated": "2026-11-05T18:33:55.324107+00:00"
 }
