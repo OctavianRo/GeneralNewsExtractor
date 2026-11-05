@@ -1,6 +1,105 @@
 {
   "articles": [
     {
+      "id": "7aa63af445bdd3ac983f6235",
+      "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
+      "url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
+      "source": "TechCrunch",
+      "published": "2026-11-04T22:45:09+00:00",
+      "topic": "AI overview",
+      "summary": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle."
+    },
+    {
+      "id": "b531b56f4ce7687d64ce92b0",
+      "title": "Qualcomm is betting big on data centers as smartphone sales sink",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
+      "source": "The Verge",
+      "published": "2026-11-04T22:42:15+00:00",
+      "topic": "Business",
+      "summary": "With smartphone sales\ntanking by around 20 percent\ncompared to 2025, Qualcomm is looking to data centers to help boost its bottom line. During its\nQ4 2026 earnings\ncall, the company laid out its plans to make a splash in the AI data center business, through partnerships with companies like\nAmazon\nand\nMeta\nannounced earlier this year."
+    },
+    {
+      "id": "c1e93e47438d89a0794e104b",
+      "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
+      "url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
+      "source": "TechCrunch",
+      "published": "2026-11-04T22:13:16+00:00",
+      "topic": "Business",
+      "summary": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains."
+    },
+    {
+      "id": "b314cbc6665b0c27cf4d1fcf",
+      "title": "Almost no one uses AI agents to book their Uber, company says",
+      "url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
+      "source": "TechCrunch",
+      "published": "2026-11-04T21:56:01+00:00",
+      "topic": "Products & tools",
+      "summary": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent."
+    },
+    {
+      "id": "bd044bc53c19f14dcbd41f3b",
+      "title": "OpenAI is already trying to shape the 2028 election",
+      "url": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
+      "source": "TechCrunch",
+      "published": "2026-11-04T21:25:44+00:00",
+      "topic": "AI overview",
+      "summary": "OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests."
+    },
+    {
+      "id": "8d6f6c8bc49c9de3c6add4d3",
+      "title": "Meta acquires AI coding startup Conductor",
+      "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+      "source": "TechCrunch",
+      "published": "2026-11-04T21:10:56+00:00",
+      "topic": "Business",
+      "summary": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously."
+    },
+    {
+      "id": "97689e4470033f7c3c031778",
+      "title": "Gemini for Home now plugs into AT&T’s smart security system",
+      "url": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
+      "source": "The Verge",
+      "published": "2026-11-04T20:23:24+00:00",
+      "topic": "Models & research",
+      "summary": "AT&T's smart home security system now integrates with Gemini for Home. The\ncompany says its Connected Life system\nis the \"first\" home security product to integrate with Google Home Premium, enabling a bunch of Gemini-powered features that can summarize home events, search your video history, and more."
+    },
+    {
+      "id": "5112f3d519822a572a0230ce",
+      "title": "Open source AI is booming. Hugging Face explains who profits.",
+      "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
+      "source": "TechCrunch",
+      "published": "2026-11-04T19:30:04+00:00",
+      "topic": "Models & research",
+      "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value?"
+    },
+    {
+      "id": "e582a56b9edebbe87a5f72e6",
+      "title": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
+      "url": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
+      "source": "TechCrunch",
+      "published": "2026-11-04T19:29:52+00:00",
+      "topic": "Policy & safety",
+      "summary": "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features."
+    },
+    {
+      "id": "988e33cedf7304f8cc6daa3b",
+      "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+      "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+      "source": "MIT Technology Review",
+      "published": "2026-11-04T18:50:55+00:00",
+      "topic": "Hardware",
+      "summary": "Texas is the\nfastest-growing\ndata center market in the US and ground zero for Big Tech’s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position."
+    },
+    {
+      "id": "efff75d2c4af86e8eeaeba7a",
+      "title": "Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs",
+      "url": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/",
+      "source": "TechCrunch",
+      "published": "2026-11-04T18:44:57+00:00",
+      "topic": "Policy & safety",
+      "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value?"
+    },
+    {
       "id": "56101ee27feec7039fe1c7d0",
       "title": "Nothing teases a screen-free AI device ahead of launch next month",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
@@ -2600,123 +2699,24 @@
       "published": "2026-10-14T15:19:02+00:00",
       "topic": "Models & research",
       "summary": "Welcome to the unsettling world of AI worms, where, depending on who you ask, the prospect of models spreading uncontrollably across household appliances is either an imminent cybersecurity risk or another case of AI companies spreading doomer-tinged hype. In a\nblog post published this week\n, Anthropic warns that small AI models could be \"months away\" fro …"
-    },
-    {
-      "id": "bf36e2b66c18a7be4849bc87",
-      "title": "Deezer will soon let you filter out AI-generated music",
-      "url": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/",
-      "source": "TechCrunch",
-      "published": "2026-10-14T15:16:04+00:00",
-      "topic": "AI overview",
-      "summary": "Deezer said that the new toggle will be rolled out by the end of the year."
-    },
-    {
-      "id": "243e1edac8f0aba33d06958c",
-      "title": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco’s Moscone West",
-      "url": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/",
-      "source": "TechCrunch",
-      "published": "2026-10-14T15:13:24+00:00",
-      "topic": "Business",
-      "summary": "Get a 50% discount on the last two days of TechCrunch Disrupt 2026, October 14-15, in San Francisco. Register now and join the rest of the startup ecosystem."
-    },
-    {
-      "id": "e4249aa490a6b9a4d9b60183",
-      "title": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
-      "url": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/",
-      "source": "TechCrunch",
-      "published": "2026-10-14T15:08:00+00:00",
-      "topic": "Products & tools",
-      "summary": "Zenzap is used by organizations including Starbucks and Taco Bell."
-    },
-    {
-      "id": "43380d664f34c7605c44dd8f",
-      "title": "Floqer’s AI agents research sales prospects so teams don’t have to",
-      "url": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
-      "source": "TechCrunch",
-      "published": "2026-10-14T15:00:00+00:00",
-      "topic": "Models & research",
-      "summary": "The problem Floqer is trying to solve is familiar to anyone who has worked in sales or revenue operations."
-    },
-    {
-      "id": "6371c6dc0f453b8468093e09",
-      "title": "TechCrunch Disrupt 2026: Day 2",
-      "url": "https://techcrunch.com/2026/10/14/techcrunch-disrupt-2026-day-2/",
-      "source": "TechCrunch",
-      "published": "2026-10-14T14:30:00+00:00",
-      "topic": "AI overview",
-      "summary": "Day 2 at TechCrunch Disrupt 2026, full of all themes across AI, as well as an investor-only session, more roundtables, Side Events, and more. Register to save 50% on your pass."
-    },
-    {
-      "id": "1cf1a3388554a4ca5909f6f5",
-      "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
-      "url": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
-      "source": "TechCrunch",
-      "published": "2026-10-14T11:00:00+00:00",
-      "topic": "Business",
-      "summary": "Scimplify's annualized revenue run rate has tripled to $200 million as it eyes U.S. expansion."
-    },
-    {
-      "id": "7a61b7adbf1be295b08f427f",
-      "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
-      "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
-      "source": "TechCrunch",
-      "published": "2026-10-13T23:05:34+00:00",
-      "topic": "Products & tools",
-      "summary": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud."
-    },
-    {
-      "id": "b887f8768cd84d4afa7d76bb",
-      "title": "Cerebras CEO pushes back on AI doomsday warnings",
-      "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
-      "source": "TechCrunch",
-      "published": "2026-10-13T22:36:59+00:00",
-      "topic": "Policy & safety",
-      "summary": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its potential benefits."
-    },
-    {
-      "id": "6ec803e44d1742ccbdc9716f",
-      "title": "OpenAI employee arrested for allegedly planting a bug in a conference room",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
-      "source": "The Verge",
-      "published": "2026-10-13T20:45:25+00:00",
-      "topic": "Models & research",
-      "summary": "An OpenAI engineer was arrested after\nthe company said it discovered\na \"sophisticated recording device\" hidden in one of its offices. The employee was identified as Abdulrahman Alfozan, a 35-year-old Saudi national."
-    },
-    {
-      "id": "cd5bf687da9d4f13bec3b1af",
-      "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
-      "url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
-      "source": "TechCrunch",
-      "published": "2026-10-13T20:36:44+00:00",
-      "topic": "AI overview",
-      "summary": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case."
-    },
-    {
-      "id": "f1305662a1d2e7c412f2bf48",
-      "title": "Shopify opens its catalog up to more AI agents",
-      "url": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
-      "source": "The Verge",
-      "published": "2026-10-13T19:42:42+00:00",
-      "topic": "Products & tools",
-      "summary": "CANADA - 2025/07/20: In this photo illustration, the Shopify logo is seen displayed on a smartphone screen. (Photo Illustration by Thomas Fuller/SOPA Images/LightRocket via Getty Images)\nMore AI agents will soon be able to browse and purchase from Shopify listings, marking an expansion of the company's agentic commerce ambitions."
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-11-04T18:29:37.231164+00:00",
+      "checked": "2026-11-05T00:11:49.573740+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-11-04T18:29:37.231164+00:00",
+      "checked": "2026-11-05T00:11:49.573740+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-11-04T18:29:37.231164+00:00",
+      "checked": "2026-11-05T00:11:49.573740+00:00",
       "error": null
     }
   ],
-  "updated": "2026-11-04T18:29:37.231164+00:00"
+  "updated": "2026-11-05T00:11:49.573740+00:00"
 }
