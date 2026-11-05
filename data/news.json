@@ -1,13 +1,67 @@
 {
   "articles": [
     {
+      "id": "17b57e4655701f14b981722c",
+      "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+      "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+      "source": "TechCrunch",
+      "published": "2026-11-05T22:40:55+00:00",
+      "topic": "Products & tools",
+      "summary": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay."
+    },
+    {
+      "id": "2165b65a40c289be1bb36318",
+      "title": "Perplexity launches its own take on AI agents for work",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
+      "source": "The Verge",
+      "published": "2026-11-05T22:26:50+00:00",
+      "topic": "Products & tools",
+      "summary": "Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents. The startup's new always-on \"Teammates\" can take on multiple roles within a workspace, while pulling existing projects, skills, and memory from the Perplexity tools you already use."
+    },
+    {
+      "id": "ce33817e4026d3a9fdfa52a7",
+      "title": "Meta says US users can now video chat with their Muse AI avatar",
+      "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+      "source": "TechCrunch",
+      "published": "2026-11-05T19:48:28+00:00",
+      "topic": "Products & tools",
+      "summary": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life."
+    },
+    {
+      "id": "7d05777f3cb4ebe2dae708ac",
+      "title": "Meta warns that election backlash against data centers could make AI expansion harder",
+      "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
+      "source": "TechCrunch",
+      "published": "2026-11-05T19:12:39+00:00",
+      "topic": "Hardware",
+      "summary": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects."
+    },
+    {
+      "id": "42370702883d2723a98c10c3",
+      "title": "OpenAI released a new cybersecurity model. Is that enough?",
+      "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
+      "source": "TechCrunch",
+      "published": "2026-11-05T19:06:12+00:00",
+      "topic": "Models & research",
+      "summary": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure."
+    },
+    {
+      "id": "bcea566fc08fba9bba930a1f",
+      "title": "Muse has a voice mode now",
+      "url": "https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar",
+      "source": "The Verge",
+      "published": "2026-11-05T19:03:04+00:00",
+      "topic": "Products & tools",
+      "summary": "Meta now lets you have voice conversations with your Muse AI agent in real time, CEO Mark Zuckerberg\nannounced today\n. The feature has been rolled out to me, and I gave it a spin on the iOS app while writing this article."
+    },
+    {
       "id": "2a8256897722920e0cf4e9d9",
       "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
       "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
       "source": "TechCrunch",
       "published": "2026-11-05T18:02:27+00:00",
-      "topic": "Business",
-      "summary": "OpenAI President Greg Brockman says the company could be ready to go public in 2027, pointing to accelerating enterprise revenue and a turnaround in its business."
+      "topic": "AI overview",
+      "summary": "Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had already successfully made inroads."
     },
     {
       "id": "e6d6c85b3eb3fa4e89ea4aed",
@@ -2645,78 +2699,24 @@
       "published": "2026-10-15T14:03:42+00:00",
       "topic": "Business",
       "summary": "In hindsight, the post on Instagram should have raised more red flags. The image\npurported to show actress Mia Goth\n, just days after filing for divorce from actor and filmmaker Shia LaBeouf, posing in a T-shirt with a pointed message:\nMY EX IS MY BIGGEST FAN\n."
-    },
-    {
-      "id": "4b235d19b2c1618b275a6337",
-      "title": "Benn Jordan on Flock, privacy, and the new surveillance backlash",
-      "url": "https://www.theverge.com/podcast/1011170/benn-jordan-flock-cameras-alpr-ai-surveillance-privacy",
-      "source": "The Verge",
-      "published": "2026-10-15T14:00:00+00:00",
-      "topic": "Policy & safety",
-      "summary": "Today, I’m talking with Benn Jordan, musician, YouTuber, researcher, and investigative journalist. You might know Benn from those first two titles — he’s got a prolific discography of experimental music dating back decades."
-    },
-    {
-      "id": "ffc7b43ee50f74cceaeb1dca",
-      "title": "Google launches its ‘universal’ online shopping cart ahead of the holidays",
-      "url": "https://www.theverge.com/tech/1011797/google-ai-universal-cart-shopping-tool-launch",
-      "source": "The Verge",
-      "published": "2026-10-15T13:00:00+00:00",
-      "topic": "Products & tools",
-      "summary": "Google's intelligent AI shopping cart is finally here, and just in time to tempt users into Black Friday and seasonal holiday spending. The\nUniversal Cart\ntool Google previewed at its I/O event in May is now rolling out in the US across the Gemini app and Google Search, with the aim of making it easier to stay organized and save money when shopping online."
-    },
-    {
-      "id": "e407e4438cc9c69dbc4659d9",
-      "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
-      "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
-      "source": "TechCrunch",
-      "published": "2026-10-15T12:00:00+00:00",
-      "topic": "Business",
-      "summary": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize conversations, create to-do lists, and integrate with Alexa and Amazon shopping, with prices starting at $74.99."
-    },
-    {
-      "id": "c07a9af3c9fccff99bb26417",
-      "title": "Amazon’s always-listening Bee wearable can now help you buy stuff",
-      "url": "https://www.theverge.com/tech/1011475/amazon-bee-frontier-eclipse-price-specs",
-      "source": "The Verge",
-      "published": "2026-10-15T12:00:00+00:00",
-      "topic": "Business",
-      "summary": "Last year,\nAmazon bought Bee\n, a relatively unknown startup with a $50 always-listening AI wearable that summarized every conversation you had. Today, the e-commerce giant is announcing two new Bee devices - and a new subscription to go with them."
-    },
-    {
-      "id": "c0b77d592a9eb64d6164a123",
-      "title": "Your secrets aren’t safe with this cute robot toy — they’re on Chinese servers ready to be hacked",
-      "url": "https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab",
-      "source": "The Verge",
-      "published": "2026-10-15T11:00:00+00:00",
-      "topic": "AI overview",
-      "summary": "There's a new digital pet in town - a cute little marshmallow of a robot that can change its cartoony expressions to match your mood. But if you or your kids talk to \"Eiliko\" over Wi-Fi, it'll phone home to China."
-    },
-    {
-      "id": "b78f437ea8f9b4c04965fbcf",
-      "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
-      "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
-      "source": "TechCrunch",
-      "published": "2026-10-15T01:01:32+00:00",
-      "topic": "Hardware",
-      "summary": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process."
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-11-05T18:33:55.324107+00:00",
+      "checked": "2026-11-05T23:57:26.239775+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-11-05T18:33:55.324107+00:00",
+      "checked": "2026-11-05T23:57:26.239775+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-11-05T18:33:55.324107+00:00",
+      "checked": "2026-11-05T23:57:26.239775+00:00",
       "error": null
     }
   ],
-  "updated": "2026-11-05T18:33:55.324107+00:00"
+  "updated": "2026-11-05T23:57:26.239775+00:00"
 }
