@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "id": "ad1030df5ce46710e212924e",
+      "title": "Apple is reportedly cutting budgets for its internal AI usage",
+      "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+      "source": "TechCrunch",
+      "published": "2026-11-05T01:26:22+00:00",
+      "topic": "AI overview",
+      "summary": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams."
+    },
+    {
       "id": "7aa63af445bdd3ac983f6235",
       "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
       "url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
@@ -2690,33 +2699,24 @@
       "published": "2026-10-14T16:00:00+00:00",
       "topic": "Models & research",
       "summary": "Begone, Bot. | Image: Google / Android\nAndroid is introducing new scam defense features that aim to make it easier for users to evade mobile fraud, including bolstered protection in Google Messages and additional safeguarding tools."
-    },
-    {
-      "id": "3fcbdb0ebb6d7b0af9db5d03",
-      "title": "Anthropic’s self-replicating AI warning is alarming deja vu",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1011108/anthropic-self-replicating-ai-smart-devices-risk",
-      "source": "The Verge",
-      "published": "2026-10-14T15:19:02+00:00",
-      "topic": "Models & research",
-      "summary": "Welcome to the unsettling world of AI worms, where, depending on who you ask, the prospect of models spreading uncontrollably across household appliances is either an imminent cybersecurity risk or another case of AI companies spreading doomer-tinged hype. In a\nblog post published this week\n, Anthropic warns that small AI models could be \"months away\" fro …"
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-11-05T00:11:49.573740+00:00",
+      "checked": "2026-11-05T10:27:02.059523+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-11-05T00:11:49.573740+00:00",
+      "checked": "2026-11-05T10:27:02.059523+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-11-05T00:11:49.573740+00:00",
+      "checked": "2026-11-05T10:27:02.059523+00:00",
       "error": null
     }
   ],
-  "updated": "2026-11-05T00:11:49.573740+00:00"
+  "updated": "2026-11-05T10:27:02.059523+00:00"
 }
