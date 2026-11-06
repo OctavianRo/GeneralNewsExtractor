@@ -1,6 +1,69 @@
 {
   "articles": [
     {
+      "id": "a7e1415152c9585b8d71bca9",
+      "title": "China reportedly recruited AI exec to spy on Jensen Huang",
+      "url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
+      "source": "The Verge",
+      "published": "2026-11-06T23:00:44+00:00",
+      "topic": "Hardware",
+      "summary": "China's intelligence agency recruited\nMegaspeed\nexecutive Alice Huang to spy on Nvidia CEO Jensen Huang,\naccording to\nThe New York Times\n. The Ministry of State Security (MSS) enlisted her to glean information about American AI chips and \"potentially influence the company to push for its most advanced chips to be made available to China.\"\nMegaspeed\nis a…"
+    },
+    {
+      "id": "b19a52adc818672926aaedfb",
+      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+      "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+      "source": "TechCrunch",
+      "published": "2026-11-06T22:53:46+00:00",
+      "topic": "Business",
+      "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks."
+    },
+    {
+      "id": "f8fe21ba7f368ed10ce0a3c0",
+      "title": "All the latest updates on AI data centers",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+      "source": "The Verge",
+      "published": "2026-11-06T20:02:22+00:00",
+      "topic": "Hardware",
+      "summary": "From audacious plans about\ndata centers into space\n,\nheated local battles over buildouts\n, and\npotential environmental impacts\n, here’s\nThe Verge\n’s news, coverage, and reporting surrounding data centers and the companies that are building them."
+    },
+    {
+      "id": "c262b9961ff71dc31ad1bfdb",
+      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+      "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+      "source": "TechCrunch",
+      "published": "2026-11-06T18:44:38+00:00",
+      "topic": "Products & tools",
+      "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool."
+    },
+    {
+      "id": "2d23850120e57d6c5e320365",
+      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+      "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+      "source": "TechCrunch",
+      "published": "2026-11-06T18:44:20+00:00",
+      "topic": "Products & tools",
+      "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers."
+    },
+    {
+      "id": "9aeac73058ac351bd96e355b",
+      "title": "Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now",
+      "url": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
+      "source": "The Verge",
+      "published": "2026-11-06T18:10:10+00:00",
+      "topic": "Products & tools",
+      "summary": "Meta will now allow you to build customized, app-like experiences within Muse. The\nnew feature, called \"spaces,\"\nallows its AI assistant to build things like a shopping hub, school dashboard, music tracker, trivia game, and more, which you can interact with directly in the Muse app."
+    },
+    {
+      "id": "98f2cdcbd9596f7ba529ed08",
+      "title": "How a Blue Wave midterm might reshape the AI industry",
+      "url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
+      "source": "TechCrunch",
+      "published": "2026-11-06T18:00:00+00:00",
+      "topic": "Hardware",
+      "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry."
+    },
+    {
       "id": "b7e06d2c4d9dada9404502b4",
       "title": "After the midterms, is the AI industry in for a rough two years?",
       "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
@@ -2636,87 +2699,24 @@
       "published": "2026-10-16T12:55:09+00:00",
       "topic": "Products & tools",
       "summary": "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions."
-    },
-    {
-      "id": "eb0ac7f68c40eb75daf8838b",
-      "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
-      "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
-      "source": "TechCrunch",
-      "published": "2026-10-15T23:44:56+00:00",
-      "topic": "Business",
-      "summary": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March."
-    },
-    {
-      "id": "e07170025272d6f16433e736",
-      "title": "ChatGPT can peek at your Chrome tabs now",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
-      "source": "The Verge",
-      "published": "2026-10-15T22:43:23+00:00",
-      "topic": "Products & tools",
-      "summary": "A few big upgrades for Chrome users today! We're bringing the power of computer use to anyone who uses Chrome.First up: ChatGPT can now use your tabs in Chrome to make answers more useful and get things done for you."
-    },
-    {
-      "id": "c462dfdce3bb5a72ee6f5988",
-      "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
-      "url": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
-      "source": "The Verge",
-      "published": "2026-10-15T22:35:55+00:00",
-      "topic": "AI overview",
-      "summary": "Sega is removing\nTotal War: Shogun 2 - Complete Edition\nfrom storefronts following a disastrous launch where users complained about issues like bugs and upscaling that appears to have been done by AI."
-    },
-    {
-      "id": "43032a6db2e0b8c5afd7a7a9",
-      "title": "Trump posts AI-edited photo to brag about White House restoration work",
-      "url": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
-      "source": "The Verge",
-      "published": "2026-10-15T21:09:33+00:00",
-      "topic": "AI overview",
-      "summary": "President Donald Trump posted\na series of photos\non Truth Social showing off renovations to the White House - but\none of them appears\nto be modified with AI. The picture, which compares an old White House column to a \"restored\" one, has several discrepancies and was flagged by Google's AI detector as \"made or edited with OpenAI.\"\nAs\npointed out by users on…"
-    },
-    {
-      "id": "f2d5651ecb42923d93eaf1d9",
-      "title": "Meta launches an open-weight AI model that runs on Macs",
-      "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
-      "source": "TechCrunch",
-      "published": "2026-10-15T20:04:53+00:00",
-      "topic": "Models & research",
-      "summary": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon."
-    },
-    {
-      "id": "e85c6a5b67dae4b4f4efc90e",
-      "title": "Bluesky’s AI tool now lets you make games and apps to share on social",
-      "url": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps",
-      "source": "The Verge",
-      "published": "2026-10-15T19:57:16+00:00",
-      "topic": "Products & tools",
-      "summary": "Bluesky's Attie AI tool, which initially launched earlier this year as a way to use AI to build your own feeds, now lets you make \"small\" social apps like games, polls, and dashboards that you can then share with others as their own websites. In an interview\nat TechCrunch Disrupt\n, Bluesky CEO Toni Schneider said to think of Attie as \"social vibe coding or…"
-    },
-    {
-      "id": "f2f6f0e7a83f8ae6ffd92065",
-      "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
-      "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
-      "source": "TechCrunch",
-      "published": "2026-10-15T19:55:25+00:00",
-      "topic": "Products & tools",
-      "summary": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands."
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-11-06T17:50:05.155725+00:00",
+      "checked": "2026-11-06T23:40:05.819371+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-11-06T17:50:05.155725+00:00",
+      "checked": "2026-11-06T23:40:05.819371+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-11-06T17:50:05.155725+00:00",
+      "checked": "2026-11-06T23:40:05.819371+00:00",
       "error": null
     }
   ],
-  "updated": "2026-11-06T17:50:05.155725+00:00"
+  "updated": "2026-11-06T23:40:05.819371+00:00"
 }
