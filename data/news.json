@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "id": "b7e06d2c4d9dada9404502b4",
+      "title": "After the midterms, is the AI industry in for a rough two years?",
+      "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+      "source": "TechCrunch",
+      "published": "2026-11-06T17:23:52+00:00",
+      "topic": "Hardware",
+      "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry."
+    },
+    {
+      "id": "84e924c4ab2b73c17e2de193",
+      "title": "AI is the new dating dealbreaker",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity",
+      "source": "The Verge",
+      "published": "2026-11-06T17:00:00+00:00",
+      "topic": "Products & tools",
+      "summary": "When Irene moved to San Francisco last year, she started using dating apps as a way to meet new people, get to know her new city, and connect with others who care about the things she does. After the 25-year-old analyst downloaded Hinge and started swiping, she noticed a trend."
+    },
+    {
+      "id": "f659f2b84ee7c4315b2e2b9f",
+      "title": "Big Tech lost big in the 2026 election",
+      "url": "https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast",
+      "source": "The Verge",
+      "published": "2026-11-06T16:38:02+00:00",
+      "topic": "Policy & safety",
+      "summary": "On\nthis episode of\nThe Vergecast\n, Nilay and David discuss what the 2026 midterms mean for the tech industry going forward. They dig into\nthe self-quarantining echo chamber that is X\n, the\ncongressional energy\nlikely to be pointed at tech CEOs and AI regulation, and whether anything is actually likely to get done in the next two years."
+    },
+    {
+      "id": "291e476bb8671d5a13bf82bd",
+      "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+      "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+      "source": "TechCrunch",
+      "published": "2026-11-06T15:54:47+00:00",
+      "topic": "AI overview",
+      "summary": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth."
+    },
+    {
       "id": "1ca94b52e709b2f5558660d7",
       "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
       "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
@@ -2663,60 +2699,24 @@
       "published": "2026-10-15T19:55:25+00:00",
       "topic": "Products & tools",
       "summary": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands."
-    },
-    {
-      "id": "20dfecfa26f1e2fc7aa5844a",
-      "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
-      "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
-      "source": "TechCrunch",
-      "published": "2026-10-15T19:14:26+00:00",
-      "topic": "Models & research",
-      "summary": "METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them."
-    },
-    {
-      "id": "70eb8d3db75495311c3a94d9",
-      "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
-      "url": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
-      "source": "TechCrunch",
-      "published": "2026-10-15T18:56:46+00:00",
-      "topic": "Products & tools",
-      "summary": "Bluesky is bringing “social vibe coding” to its experimental Attie platform, allowing users to create interactive experiences like games, quizzes, and websites that can tap into the social network's audience."
-    },
-    {
-      "id": "a4dc299544df68f2cb5ed32f",
-      "title": "Meta and Apple team up to make Muse AI models run better on Macs",
-      "url": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
-      "source": "The Verge",
-      "published": "2026-10-15T18:15:36+00:00",
-      "topic": "Models & research",
-      "summary": "The new Muse Spark Open AI model can work on M5 Ultra Mac Studios. | Photo: Amelia Holowaty Krales / The Verge\nMeta announced\nthe Muse Spark Open AI model today\n, claiming that it's the \"most capable US open-weight model to date.\" But the company also says that it's the \"the first model in its class\" that can \"run on your desktop using two Apple M5 Ultra…"
-    },
-    {
-      "id": "c7c9cc2b493a13afd6e13327",
-      "title": "Friends don’t let friends feed their data to AI agents",
-      "url": "https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent",
-      "source": "The Verge",
-      "published": "2026-10-15T16:21:45+00:00",
-      "topic": "Products & tools",
-      "summary": "There's a growing trend in the consumer tech world: gadgets\ndesigned to spy on everything and everyone around you\n, regardless of whether or not anyone else actually consented to it. Now, with the advent of \"AI personal assistants\" like Meta's Muse, you're being cheerfully asked not just to give up your own data, but also the information of your friends,…"
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-11-06T10:28:42.653418+00:00",
+      "checked": "2026-11-06T17:50:05.155725+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-11-06T10:28:42.653418+00:00",
+      "checked": "2026-11-06T17:50:05.155725+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-11-06T10:28:42.653418+00:00",
+      "checked": "2026-11-06T17:50:05.155725+00:00",
       "error": null
     }
   ],
-  "updated": "2026-11-06T10:28:42.653418+00:00"
+  "updated": "2026-11-06T17:50:05.155725+00:00"
 }
