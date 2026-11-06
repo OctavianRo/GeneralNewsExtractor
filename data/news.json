@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "id": "1ca94b52e709b2f5558660d7",
+      "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+      "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+      "source": "MIT Technology Review",
+      "published": "2026-11-06T10:00:00+00:00",
+      "topic": "Models & research",
+      "summary": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser."
+    },
+    {
+      "id": "c822924fc1f280c7bb5c4ca2",
+      "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+      "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+      "source": "TechCrunch",
+      "published": "2026-11-06T06:28:32+00:00",
+      "topic": "Products & tools",
+      "summary": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source."
+    },
+    {
+      "id": "ad929875c5a71925cbcee255",
+      "title": "OpenAI is stepping back from NDAs for data center projects",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
+      "source": "The Verge",
+      "published": "2026-11-06T00:37:56+00:00",
+      "topic": "Hardware",
+      "summary": "Many data center projects have come under scrutiny for relying on NDAs to\nhide discussions\nbetween developers and local officials. However, OpenAI says it is now allowing \"only narrow protections covering legitimate security information, trade secrets, or proprietary or competitively sensitive information.\" In October, Amazon announced\nit would\nno longer u …"
+    },
+    {
+      "id": "8b33f1382f19de19bb661cbe",
+      "title": "Airbnb is working on an AI travel agent",
+      "url": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
+      "source": "The Verge",
+      "published": "2026-11-06T00:06:12+00:00",
+      "topic": "Products & tools",
+      "summary": "Airbnb plans to roll out an AI agent in the first half of 2027 that will help users plan and book travel, the company said in its Q3 2026 earnings shareholder letter\nreleased today\n."
+    },
+    {
       "id": "17b57e4655701f14b981722c",
       "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
       "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
@@ -2663,60 +2699,24 @@
       "published": "2026-10-15T16:21:45+00:00",
       "topic": "Products & tools",
       "summary": "There's a growing trend in the consumer tech world: gadgets\ndesigned to spy on everything and everyone around you\n, regardless of whether or not anyone else actually consented to it. Now, with the advent of \"AI personal assistants\" like Meta's Muse, you're being cheerfully asked not just to give up your own data, but also the information of your friends,…"
-    },
-    {
-      "id": "72c9fb61eb837aea964be0c0",
-      "title": "AI agents are coming to Rivian’s cars",
-      "url": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
-      "source": "TechCrunch",
-      "published": "2026-10-15T15:02:36+00:00",
-      "topic": "Products & tools",
-      "summary": "We'll likely learn more about how this will work at the company's upcoming \"AI & Autonomy Day\" event in December."
-    },
-    {
-      "id": "b7e6e91e4028317e604e2503",
-      "title": "How Windows is being optimized for Nvidia’s RTX Spark laptops",
-      "url": "https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad",
-      "source": "The Verge",
-      "published": "2026-10-15T14:30:00+00:00",
-      "topic": "Hardware",
-      "summary": "Microsoft and Nvidia held a launch party for the first wave of RTX Spark laptops last week in San Francisco, where a new wave of AI PCs took center stage amid a packed crowd and a lively hands-on area. A day after the media event, I was invited to a quieter Nvidia event to hear a lot more about the new RTX Spark computing platform."
-    },
-    {
-      "id": "812403745052045f3fc1cf82",
-      "title": "Google’s Universal Cart shopping tool launches in the US",
-      "url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
-      "source": "TechCrunch",
-      "published": "2026-10-15T14:29:33+00:00",
-      "topic": "Products & tools",
-      "summary": "The new shopping tool is available in the U.S. across Google Search and the Gemini app."
-    },
-    {
-      "id": "bd42108ff227ced5a405d222",
-      "title": "Nobody is safe from celebrity AI deepfakes",
-      "url": "https://www.theverge.com/report/1011927/instagram-celebrity-ai-slop-likeness-taylor-swift-mia-goth",
-      "source": "The Verge",
-      "published": "2026-10-15T14:03:42+00:00",
-      "topic": "Business",
-      "summary": "In hindsight, the post on Instagram should have raised more red flags. The image\npurported to show actress Mia Goth\n, just days after filing for divorce from actor and filmmaker Shia LaBeouf, posing in a T-shirt with a pointed message:\nMY EX IS MY BIGGEST FAN\n."
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-11-05T23:57:26.239775+00:00",
+      "checked": "2026-11-06T10:28:42.653418+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-11-05T23:57:26.239775+00:00",
+      "checked": "2026-11-06T10:28:42.653418+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-11-05T23:57:26.239775+00:00",
+      "checked": "2026-11-06T10:28:42.653418+00:00",
       "error": null
     }
   ],
-  "updated": "2026-11-05T23:57:26.239775+00:00"
+  "updated": "2026-11-06T10:28:42.653418+00:00"
 }
