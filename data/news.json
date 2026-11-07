@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "4b429bd7582936e31a06bd96",
+      "title": "AI broke the cybersecurity world. What’s next?",
+      "url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+      "source": "The Verge",
+      "published": "2026-11-07T15:00:00+00:00",
+      "topic": "Models & research",
+      "summary": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one of a special series looking at AI in real life."
+    },
+    {
+      "id": "eecad6fef1daea32eacda32c",
+      "title": "Why a new report on Anthropic automating AI development is alarming researchers",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+      "source": "The Verge",
+      "published": "2026-11-07T12:30:00+00:00",
+      "topic": "Models & research",
+      "summary": "Anthropic CEO Dario Amodei. | Photo: Jason Henry/Bloomberg via Getty Images\nAnthropic is using AI to build more powerful AI."
+    },
+    {
       "id": "ec2480d446f6212cddc53432",
       "title": "Crusoe sells troubled Wyoming data center project to Google",
       "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
@@ -2681,42 +2699,24 @@
       "published": "2026-10-16T15:33:49+00:00",
       "topic": "Models & research",
       "summary": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter."
-    },
-    {
-      "id": "54ebdfe79863725a246639b5",
-      "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
-      "url": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
-      "source": "The Verge",
-      "published": "2026-10-16T15:00:00+00:00",
-      "topic": "Hardware",
-      "summary": "Nvidia’s new SoC is available in Windows laptops from six different manufacturers. We’ve collectively tested four of them so far."
-    },
-    {
-      "id": "e1b3c44f13458aa644abeccb",
-      "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
-      "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
-      "source": "TechCrunch",
-      "published": "2026-10-16T14:26:51+00:00",
-      "topic": "AI overview",
-      "summary": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\""
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-11-07T09:41:35.639242+00:00",
+      "checked": "2026-11-07T16:45:41.314931+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-11-07T09:41:35.639242+00:00",
+      "checked": "2026-11-07T16:45:41.314931+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-11-07T09:41:35.639242+00:00",
+      "checked": "2026-11-07T16:45:41.314931+00:00",
       "error": null
     }
   ],
-  "updated": "2026-11-07T09:41:35.639242+00:00"
+  "updated": "2026-11-07T16:45:41.314931+00:00"
 }
