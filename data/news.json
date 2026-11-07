@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "1ab28dde47a3074f5d545d3a",
+      "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
+      "url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+      "source": "The Verge",
+      "published": "2026-11-07T15:50:00+00:00",
+      "topic": "Products & tools",
+      "summary": "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken\nagain\n?\" Yes, I should meal plan more, but I don't, so this is where I'm at. A nightly battle in which the chicken usually wins."
+    },
+    {
+      "id": "b521172828d62613029c51d5",
+      "title": "The US let Nvidia sell chips to an empty office in China",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+      "source": "The Verge",
+      "published": "2026-11-07T15:43:45+00:00",
+      "topic": "Hardware",
+      "summary": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to\nThe New York Times\n, New Matrix is on the list of approved firms, yet its offices are empty, \"a hollow gray shell with wires dangling from the ceiling where…"
+    },
+    {
       "id": "4b429bd7582936e31a06bd96",
       "title": "AI broke the cybersecurity world. What’s next?",
       "url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
@@ -2681,42 +2699,24 @@
       "published": "2026-10-16T16:30:00+00:00",
       "topic": "Hardware",
       "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who believe that robotics, powered by a general foundation model,…"
-    },
-    {
-      "id": "5cea1aeddd4affb9d6986e7b",
-      "title": "Elorian’s first AI model wants to reason with images, not just about them",
-      "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
-      "source": "TechCrunch",
-      "published": "2026-10-16T16:01:37+00:00",
-      "topic": "Models & research",
-      "summary": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks."
-    },
-    {
-      "id": "7ff2fab56ea772a237d9cee8",
-      "title": "Jev is Vercel’s fastest-adopted AI model ever",
-      "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
-      "source": "TechCrunch",
-      "published": "2026-10-16T15:33:49+00:00",
-      "topic": "Models & research",
-      "summary": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter."
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-11-07T16:45:41.314931+00:00",
+      "checked": "2026-11-07T22:30:23.944353+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-11-07T16:45:41.314931+00:00",
+      "checked": "2026-11-07T22:30:23.944353+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-11-07T16:45:41.314931+00:00",
+      "checked": "2026-11-07T22:30:23.944353+00:00",
       "error": null
     }
   ],
-  "updated": "2026-11-07T16:45:41.314931+00:00"
+  "updated": "2026-11-07T22:30:23.944353+00:00"
 }
