@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "b9c0dd474c98ba84113b49b4",
+      "title": "Apple is racing to make Siri more agentic",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+      "source": "The Verge",
+      "published": "2026-11-08T19:18:19+00:00",
+      "topic": "Products & tools",
+      "summary": "Bloomberg's\nMark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to\naccelerate the Siri roadmap\nand deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has delivered a functional version of Siri AI on an incredibly short timeline, the company has no illusions that it's keeping pace with its…"
+    },
+    {
+      "id": "c08233254ab55692344230fc",
+      "title": "Elvis and Eminem rights holders are suing Suno",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
+      "source": "The Verge",
+      "published": "2026-11-08T17:23:19+00:00",
+      "topic": "Policy & safety",
+      "summary": "Suno is facing yet another\npair of lawsuits\n. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illegally generates music and lyrics that mimic those artists."
+    },
+    {
       "id": "1ab28dde47a3074f5d545d3a",
       "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
       "url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
@@ -2681,42 +2699,24 @@
       "published": "2026-10-16T17:52:24+00:00",
       "topic": "Products & tools",
       "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles."
-    },
-    {
-      "id": "bd2b33f50b82d969ffaa0a39",
-      "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
-      "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
-      "source": "TechCrunch",
-      "published": "2026-10-16T16:30:00+00:00",
-      "topic": "Hardware",
-      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who believe that robotics, powered by a general foundation model,…"
-    },
-    {
-      "id": "68b9f741f3df646ee4cfe16c",
-      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-      "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-      "source": "TechCrunch",
-      "published": "2026-10-16T16:30:00+00:00",
-      "topic": "Hardware",
-      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who believe that robotics, powered by a general foundation model,…"
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-11-08T16:55:47.558915+00:00",
+      "checked": "2026-11-08T22:40:44.958290+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-11-08T16:55:47.558915+00:00",
+      "checked": "2026-11-08T22:40:44.958290+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-11-08T16:55:47.558915+00:00",
+      "checked": "2026-11-08T22:40:44.958290+00:00",
       "error": null
     }
   ],
-  "updated": "2026-11-08T16:55:47.558915+00:00"
+  "updated": "2026-11-08T22:40:44.958290+00:00"
 }
