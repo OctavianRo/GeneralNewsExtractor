@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "id": "f0be6325bfc4dec9fdd9097f",
+      "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+      "source": "The Verge",
+      "published": "2026-11-08T22:54:50+00:00",
+      "topic": "Hardware",
+      "summary": "On Sunday, Nvidia announced it was\nlaunching an investigation\ninto CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors announcing the investigation, Huang sent a memo to Nvidia employees acknowledging the affair."
+    },
+    {
       "id": "b9c0dd474c98ba84113b49b4",
       "title": "Apple is racing to make Siri more agentic",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
@@ -2690,33 +2699,24 @@
       "published": "2026-10-16T18:00:00+00:00",
       "topic": "Models & research",
       "summary": "Can AI design new life forms? In 2025, Stanford University PhD student\nSamuel King\ncame up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses."
-    },
-    {
-      "id": "8ffbbf24c13a812ddef930fd",
-      "title": "India becomes the latest country to report rogue AI agent activity",
-      "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
-      "source": "TechCrunch",
-      "published": "2026-10-16T17:52:24+00:00",
-      "topic": "Products & tools",
-      "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles."
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-11-08T22:40:44.958290+00:00",
+      "checked": "2026-11-09T02:25:51.990416+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-11-08T22:40:44.958290+00:00",
+      "checked": "2026-11-09T02:25:51.990416+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-11-08T22:40:44.958290+00:00",
+      "checked": "2026-11-09T02:25:51.990416+00:00",
       "error": null
     }
   ],
-  "updated": "2026-11-08T22:40:44.958290+00:00"
+  "updated": "2026-11-09T02:25:51.990416+00:00"
 }
