@@ -1,13 +1,157 @@
 {
   "articles": [
     {
+      "id": "fc6d536179e6162c05e00b35",
+      "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+      "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
+      "source": "TechCrunch",
+      "published": "2026-11-09T20:09:06+00:00",
+      "topic": "Hardware",
+      "summary": "The Nvidia CEO also pulled out of an Anthropic event earlier."
+    },
+    {
+      "id": "a0dbf5e97194380291567d53",
+      "title": "The backlash about data centers might really just be about electricity",
+      "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
+      "source": "MIT Technology Review",
+      "published": "2026-11-09T19:35:33+00:00",
+      "topic": "Hardware",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\nsign up here\n."
+    },
+    {
+      "id": "58580c03fbdd255285474491",
+      "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+      "source": "TechCrunch",
+      "published": "2026-11-09T19:24:51+00:00",
+      "topic": "Models & research",
+      "summary": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users."
+    },
+    {
+      "id": "5ef93d9981a0db1c3c84437a",
+      "title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
+      "url": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
+      "source": "The Verge",
+      "published": "2026-11-09T19:09:58+00:00",
+      "topic": "Products & tools",
+      "summary": "After publishing a\nsupport article in early September outlining usage limits\nfor some Apple Intelligence features, the company has updated Logic Pro with an option to \"Buy More Usage\" for a one-time purchase price of $49.99, as\nspotted by\n9to5Mac\n. It has a built-in AI assistant to do things like \"start a new song, set up a vocal track from a single prompt,…"
+    },
+    {
+      "id": "ea9e2270122931419f9b2e1c",
+      "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
+      "source": "The Verge",
+      "published": "2026-11-09T19:00:00+00:00",
+      "topic": "Models & research",
+      "summary": "Anthropic\nis announcing\ntwo new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on \"daunting\" technical challenges. The company claims the new models show improvements in coding, reasoning, and vision, and can generate outputs faster than the 5.1 versions of the Fable and Mythos models."
+    },
+    {
+      "id": "e5d7409756abf44b4d0aa8fa",
+      "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
+      "url": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
+      "source": "TechCrunch",
+      "published": "2026-11-09T18:09:52+00:00",
+      "topic": "Hardware",
+      "summary": "Jensen Huang’s alleged affair with a suspected Chinese spy threatens to complicate Nvidia’s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China’s lucrative AI market."
+    },
+    {
+      "id": "cf2829ad74c8e9e2273e5fdb",
+      "title": "Instagram’s Effect Builder makes new filters from AI prompts",
+      "url": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters",
+      "source": "The Verge",
+      "published": "2026-11-09T18:07:23+00:00",
+      "topic": "Products & tools",
+      "summary": "After expanding its\nEdits app to macOS\nlast week, Instagram's next move is launching this\nEffect Builder\nthat generates custom filters for your Stories posts with AI. Available now for US residents who are over 18, it has a prompt box for describing your filter idea to the chatbot, with an option to attach style reference images."
+    },
+    {
+      "id": "3a3ea27b30526f5b6846e82b",
+      "title": "The future of AI hinges on… Jensen Huang’s sex life?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029990/jensen-huang-the-spy-who-loved-me",
+      "source": "The Verge",
+      "published": "2026-11-09T17:36:08+00:00",
+      "topic": "Hardware",
+      "summary": "Alice Huang - no relation to Jensen - is a former TV reporter. That was before she became\n\"an executive\" at Megaspeed,\nwhich bought $4.8 billion of hard-to-get Nvidia chips, starting around the time she was being photographed with Jensen in a Taipei bar in 2024."
+    },
+    {
+      "id": "847f70281bec59e822d798f6",
+      "title": "Nancy Pelosi’s replacement is ready to regulate AI",
+      "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
+      "source": "MIT Technology Review",
+      "published": "2026-11-09T17:05:43+00:00",
+      "topic": "Policy & safety",
+      "summary": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play a key role in setting federal AI policy."
+    },
+    {
+      "id": "2f05eab281f5e9f67b4e049d",
+      "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
+      "source": "TechCrunch",
+      "published": "2026-11-09T16:56:54+00:00",
+      "topic": "Business",
+      "summary": "Anthropic bought billions of dollars' worth of natural gas turbines in a deal that could give it buyer's remorse."
+    },
+    {
+      "id": "4d2c1dac08712af8587b0117",
+      "title": "Medium’s new TK app brings AI assistance directly into the writing process",
+      "url": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
+      "source": "TechCrunch",
+      "published": "2026-11-09T16:12:28+00:00",
+      "topic": "Products & tools",
+      "summary": "Medium's new writing app embraces AI-assisted writing, despite growing controversy over the technology's role in publishing."
+    },
+    {
+      "id": "5ef96bda92f480d3b9a655ee",
+      "title": "Trump’s 60 Minutes interview touched on AI safety, threat to arrest an AI exec",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai",
+      "source": "The Verge",
+      "published": "2026-11-09T15:50:38+00:00",
+      "topic": "Policy & safety",
+      "summary": "Asked about AI executives' warnings about\ntheir models' safety\non\n60 Minutes\n, Trump said, \"I think that the risk is not nearly as real as it- as they talk, and I think the risk can be managed, and it's managed.\" He claimed the DOJ is managing that risk, saying, \"We had a situation where somebody was reported to us to be doing something bad with AI. We…"
+    },
+    {
+      "id": "a1d6a1e656f4ce844a1d9cb0",
+      "title": "Disney and Adobe are building generative AI tools together",
+      "url": "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership",
+      "source": "The Verge",
+      "published": "2026-11-09T15:38:56+00:00",
+      "topic": "Products & tools",
+      "summary": "The Walt Disney Company has teamed up with Adobe to develop proprietary \"artist-led\" generative AI models to support Disney's production pipeline. The multiyear partnership was announced today at Adobe's MAX conference, and it will see Adobe providing Disney with early access to its latest technologies for everything from Disney's theme parks and cruise…"
+    },
+    {
+      "id": "717aea7cb5bba68cb04d1d9d",
+      "title": "Hold up — I had a great time talking to the RIAA guy",
+      "url": "https://www.theverge.com/podcast/1029684/riaa-mitch-glazier-napster-ai-labels-music",
+      "source": "The Verge",
+      "published": "2026-11-09T15:30:00+00:00",
+      "topic": "Policy & safety",
+      "summary": "Today, I’m talking with Mitch Glazier, who is CEO and chairman of the RIAA. This conversation was a real full-circle moment for me: I was in college when Napster hit, and the RIAA became everyone’s villain for suing kids for downloading music."
+    },
+    {
+      "id": "d8ba4af02850aa5ef5b5b035",
+      "title": "Jonathan Kanter is using AI to take on Big Tech",
+      "url": "https://www.theverge.com/policy/1029652/kanter-doj-biden-legal-tech",
+      "source": "The Verge",
+      "published": "2026-11-09T14:30:00+00:00",
+      "topic": "Models & research",
+      "summary": "Alongside former acting Antitrust Division chief Doha Mekki, Kanter recently launched a new tech startup,\nFluxCap\n. The team is stacked with former DOJ staffers and former Palantir engineers, and it's selling an AI-based legal research and analysis tool that helps plaintiffs build and strengthen cases against the kinds of well-heeled companies Kanter and…"
+    },
+    {
+      "id": "f2fd344bf7be2cb6a6e37ae4",
+      "title": "Innovating with AI in the special chemicals industry",
+      "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
+      "source": "MIT Technology Review",
+      "published": "2026-11-09T13:00:00+00:00",
+      "topic": "Models & research",
+      "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market. For specialty chemicals manufacturer Lubrizol, digital transformation is all about giving…"
+    },
+    {
       "id": "f0be6325bfc4dec9fdd9097f",
       "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
       "source": "The Verge",
       "published": "2026-11-08T22:54:50+00:00",
       "topic": "Hardware",
-      "summary": "On Sunday, Nvidia announced it was\nlaunching an investigation\ninto CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors announcing the investigation, Huang sent a memo to Nvidia employees acknowledging the affair."
+      "summary": "Jensen Huang, Nvidia’s CEO, at media briefing in July 2026. | Photo: Bloomberg via Getty Images\nOn Sunday, Nvidia announced it was\nlaunching an investigation\ninto CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government."
     },
     {
       "id": "b9c0dd474c98ba84113b49b4",
@@ -2555,168 +2699,24 @@
       "published": "2026-10-19T18:22:47+00:00",
       "topic": "Products & tools",
       "summary": "Since agents don’t fit into the systems we have for differentiating bots from people, some platforms (especially the more security-conscious ones) have opted to just ban them entirely. TechCrunch\nrecently\nreported\npeople having trouble deploying their agents to websites ranging from Pizza Hut to Yelp, which doesn’t allow AI to book restaurant reservations."
-    },
-    {
-      "id": "58a40be5309dae3173ac26e1",
-      "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
-      "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
-      "source": "MIT Technology Review",
-      "published": "2026-10-19T17:45:55+00:00",
-      "topic": "Models & research",
-      "summary": "“I think I have good news about the nature of neural networks.” With those simple words of optimism, Nick Cammarata, a researcher at the AI startup Goodfire, kicked off a\n26,000-word blog post\nthat has knocked the AI world on its head, sparking wild speculation as well as cautious (and not-so-cautious) celebration. Cammarata’s claim is that LLMs might in…"
-    },
-    {
-      "id": "d1fa3609444938bcd2b0e68c",
-      "title": "People are using AI to make their smart TVs dumb again",
-      "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
-      "source": "TechCrunch",
-      "published": "2026-10-19T16:13:22+00:00",
-      "topic": "Products & tools",
-      "summary": "Fed up with ads, tracking, and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs."
-    },
-    {
-      "id": "ea3b81d8158f7d032a403471",
-      "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
-      "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
-      "source": "TechCrunch",
-      "published": "2026-10-19T15:37:09+00:00",
-      "topic": "Hardware",
-      "summary": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing."
-    },
-    {
-      "id": "7bf27ea750e3c7638bdbcb3a",
-      "title": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
-      "url": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws",
-      "source": "The Verge",
-      "published": "2026-10-19T14:30:00+00:00",
-      "topic": "Policy & safety",
-      "summary": "Today, I’m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you’ve been listening to the show, you know that one of my running theories is that those issues are driving a big and maybe kind of unexpected political realignment — and with the midterms coming up next month, and early voting already underway in a…"
-    },
-    {
-      "id": "c161d6bab52698d147d96d82",
-      "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
-      "source": "The Verge",
-      "published": "2026-10-19T13:58:41+00:00",
-      "topic": "Products & tools",
-      "summary": "A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to\nfindings from the AI security firm Norforge\n. Though Norforge doesn't name the targets,\nReuters\nreports\nthat the victims included companies like John Deere, SharkNinja, and Cummins."
-    },
-    {
-      "id": "9ef9dd8ae6783c12eb74decf",
-      "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
-      "url": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
-      "source": "TechCrunch",
-      "published": "2026-10-19T12:30:00+00:00",
-      "topic": "Business",
-      "summary": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco."
-    },
-    {
-      "id": "c713b9c06b3a02491be64323",
-      "title": "Democrats think cracking down on AI could give them an edge",
-      "url": "https://www.theverge.com/policy/1013113/democrats-ai-midterms",
-      "source": "The Verge",
-      "published": "2026-10-19T12:00:00+00:00",
-      "topic": "Hardware",
-      "summary": "Democrats could win back control of Congress this November, and if they do, they'll need to decide how to approach one of the country's newest and thorniest political issues: AI. Polls predict Democrats will flip at least one chamber of Congress in the midterm elections, which would put committee leadership back in their hands."
-    },
-    {
-      "id": "d67eff0903799e5f15a465ee",
-      "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
-      "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
-      "source": "MIT Technology Review",
-      "published": "2026-10-19T09:08:05+00:00",
-      "topic": "Products & tools",
-      "summary": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play."
-    },
-    {
-      "id": "16eddc2105cf8883d0ab644d",
-      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
-      "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
-      "source": "TechCrunch",
-      "published": "2026-10-18T20:37:40+00:00",
-      "topic": "AI overview",
-      "summary": "The company offered some broad-strokes ideas for how this money might actually be used, such as “large donations to traditional nonprofits or direct distributions to specific populations.”"
-    },
-    {
-      "id": "35cd62faf12b8e71eb0b92fd",
-      "title": "Disney agrees to hire the majority of Character AI’s workforce",
-      "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
-      "source": "TechCrunch",
-      "published": "2026-10-18T16:30:00+00:00",
-      "topic": "AI overview",
-      "summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer."
-    },
-    {
-      "id": "7dd27ee4e856d38c005b577b",
-      "title": "Meta removes language that raised scraping and AI training concerns",
-      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
-      "source": "TechCrunch",
-      "published": "2026-10-17T21:31:32+00:00",
-      "topic": "Business",
-      "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web."
-    },
-    {
-      "id": "fd3979152c2e61bd5aa53781",
-      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
-      "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
-      "source": "TechCrunch",
-      "published": "2026-10-17T20:21:19+00:00",
-      "topic": "AI overview",
-      "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year."
-    },
-    {
-      "id": "fcf73aabe3e37fa7f99807ec",
-      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
-      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
-      "source": "TechCrunch",
-      "published": "2026-10-17T18:48:08+00:00",
-      "topic": "AI overview",
-      "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer partnering with Anthropic."
-    },
-    {
-      "id": "b31543fcd7d1501be961df37",
-      "title": "Websites are closing their doors to AI agents",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-      "source": "The Verge",
-      "published": "2026-10-17T13:00:00+00:00",
-      "topic": "Products & tools",
-      "summary": "In recent weeks, users of services like Meta's Muse, xAI's Grok, OpenAI's Dots, and Instinct have reported blocks preventing their AI agents from performing tasks across top websites. Yelp\ntold\nTechCrunch\nthat it only allows AI agents that pay for its data licensing program, while Delta Air Lines is preventing them from booking ticket …"
-    },
-    {
-      "id": "fdd4c6f578d6ab89d343a0d6",
-      "title": "Replit is no longer working with Anthropic, CEO says",
-      "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
-      "source": "TechCrunch",
-      "published": "2026-10-16T21:22:28+00:00",
-      "topic": "AI overview",
-      "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic."
-    },
-    {
-      "id": "d7f9dafe0b002b49ecb832ec",
-      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-      "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-      "source": "MIT Technology Review",
-      "published": "2026-10-16T18:00:00+00:00",
-      "topic": "Models & research",
-      "summary": "Can AI design new life forms? In 2025, Stanford University PhD student\nSamuel King\ncame up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses."
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-11-09T10:59:48.549561+00:00",
+      "checked": "2026-11-09T21:23:50.468067+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-11-09T10:59:48.549561+00:00",
+      "checked": "2026-11-09T21:23:50.468067+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-11-09T10:59:48.549561+00:00",
+      "checked": "2026-11-09T21:23:50.468067+00:00",
       "error": null
     }
   ],
-  "updated": "2026-11-09T10:59:48.549561+00:00"
+  "updated": "2026-11-09T21:23:50.468067+00:00"
 }
