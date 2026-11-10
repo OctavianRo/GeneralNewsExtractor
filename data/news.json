@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "id": "8a35af252b32001f777c64f3",
+      "title": "Anthropic reportedly plans to move forward with IPO plans",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+      "source": "TechCrunch",
+      "published": "2026-11-10T01:27:12+00:00",
+      "topic": "Business",
+      "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported."
+    },
+    {
+      "id": "05e31abb81030e94daf9e1de",
+      "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
+      "url": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
+      "source": "The Verge",
+      "published": "2026-11-10T00:28:49+00:00",
+      "topic": "AI overview",
+      "summary": "\"I think when you zoom out and look at production, AI really has the potential to be the biggest creative unlock in modern history. The last time we saw anything close to this was really the, you know, advent of CGI and digital composites in the early 90s."
+    },
+    {
+      "id": "44bb6093a440b817c078f5dd",
+      "title": "What could China get from Jensen Huang?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
+      "source": "The Verge",
+      "published": "2026-11-09T23:51:58+00:00",
+      "topic": "Hardware",
+      "summary": "It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpaced supply for years."
+    },
+    {
+      "id": "38ea5b66d259522356b1fd73",
+      "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+      "source": "The Verge",
+      "published": "2026-11-09T23:07:59+00:00",
+      "topic": "Hardware",
+      "summary": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent reporting noted that since last year, US intelligence reports had identified Alice Huang (no relation) as not only the exec for an AI compute company renting access…"
+    },
+    {
       "id": "fc6d536179e6162c05e00b35",
       "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
       "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
@@ -2663,60 +2699,24 @@
       "published": "2026-10-19T19:28:34+00:00",
       "topic": "Products & tools",
       "summary": "OpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code."
-    },
-    {
-      "id": "7ab42e04cf3b71a360d769bd",
-      "title": "Tolan snags $30M for its AI companion that helps users navigate life",
-      "url": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
-      "source": "TechCrunch",
-      "published": "2026-10-19T19:00:12+00:00",
-      "topic": "Products & tools",
-      "summary": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users."
-    },
-    {
-      "id": "347bd5ae4a1a313bb817781e",
-      "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
-      "url": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
-      "source": "TechCrunch",
-      "published": "2026-10-19T18:49:04+00:00",
-      "topic": "Products & tools",
-      "summary": "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today."
-    },
-    {
-      "id": "2b9227ae1c18986a2fbe2047",
-      "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
-      "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
-      "source": "TechCrunch",
-      "published": "2026-10-19T18:37:27+00:00",
-      "topic": "Business",
-      "summary": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent."
-    },
-    {
-      "id": "c93e63abfb94a4dcc142ae02",
-      "title": "Making the internet better for AI agents might make it worse for everyone else",
-      "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
-      "source": "MIT Technology Review",
-      "published": "2026-10-19T18:22:47+00:00",
-      "topic": "Products & tools",
-      "summary": "Since agents don’t fit into the systems we have for differentiating bots from people, some platforms (especially the more security-conscious ones) have opted to just ban them entirely. TechCrunch\nrecently\nreported\npeople having trouble deploying their agents to websites ranging from Pizza Hut to Yelp, which doesn’t allow AI to book restaurant reservations."
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-11-09T21:23:50.468067+00:00",
+      "checked": "2026-11-10T04:30:23.330596+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-11-09T21:23:50.468067+00:00",
+      "checked": "2026-11-10T04:30:23.330596+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-11-09T21:23:50.468067+00:00",
+      "checked": "2026-11-10T04:30:23.330596+00:00",
       "error": null
     }
   ],
-  "updated": "2026-11-09T21:23:50.468067+00:00"
+  "updated": "2026-11-10T04:30:23.330596+00:00"
 }
