@@ -1,13 +1,157 @@
 {
   "articles": [
     {
+      "id": "612bc333be177914040d78b9",
+      "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+      "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+      "source": "TechCrunch",
+      "published": "2026-11-10T21:08:52+00:00",
+      "topic": "Business",
+      "summary": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry."
+    },
+    {
+      "id": "636bec9b1738d1053c35ef6f",
+      "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+      "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+      "source": "TechCrunch",
+      "published": "2026-11-10T20:52:13+00:00",
+      "topic": "Policy & safety",
+      "summary": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines."
+    },
+    {
+      "id": "fc8637108efa1d8182340393",
+      "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
+      "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
+      "source": "TechCrunch",
+      "published": "2026-11-10T19:57:52+00:00",
+      "topic": "AI overview",
+      "summary": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the group in control of the company."
+    },
+    {
+      "id": "1f23ddb43e5f7ed1bc5ad34c",
+      "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+      "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+      "source": "TechCrunch",
+      "published": "2026-11-10T19:23:34+00:00",
+      "topic": "Business",
+      "summary": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”"
+    },
+    {
+      "id": "38f7683430bac08520af0957",
+      "title": "The US is winning the AI race. Jensen Huang could have blown it",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
+      "source": "The Verge",
+      "published": "2026-11-10T19:04:05+00:00",
+      "topic": "Hardware",
+      "summary": "Which makes Huang's\nadmission that he had an affair\nwith a woman suspected of being a Chinese spy - reportedly\nwhile\nher spying was known to US intelligence and even President Donald Trump - all the more shocking. The fallout goes well beyond his marriage, his reputation, or Nvidia itself."
+    },
+    {
+      "id": "39a6d410c88cee38a21aab83",
+      "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+      "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+      "source": "TechCrunch",
+      "published": "2026-11-10T19:03:52+00:00",
+      "topic": "Models & research",
+      "summary": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades."
+    },
+    {
+      "id": "583dee252be92f18cc571241",
+      "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+      "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
+      "source": "TechCrunch",
+      "published": "2026-11-10T18:49:52+00:00",
+      "topic": "Products & tools",
+      "summary": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that."
+    },
+    {
+      "id": "3ec8add99452b34023174e31",
+      "title": "ChatGPT is getting verified AI ‘Business Agents’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
+      "source": "The Verge",
+      "published": "2026-11-10T18:00:00+00:00",
+      "topic": "Products & tools",
+      "summary": "ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like comparison shopping. The feature, available first to \"eligible\" e-commerce and online service businesses in the US, is launching as part of a suite of business-focused features in ChatGPT being\nannounced today in beta\n."
+    },
+    {
+      "id": "c619bb88505937dcdf397de9",
+      "title": "The indie game community is in disarray over AI and Big Walk",
+      "url": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai",
+      "source": "The Verge",
+      "published": "2026-11-10T17:32:47+00:00",
+      "topic": "AI overview",
+      "summary": "Some Independent Games Festival (IGF) jurors published a statement yesterday saying they would not vote for games that use generative AI in \"any capacity.\" Soon after, the developer of indie hit\nBig Walk\nhas published a statement saying it \"sparingly\" used AI in the \"final stretch\" of the game's development to \"help work through difficult technical…"
+    },
+    {
+      "id": "c0148d18638aab6826519e72",
+      "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+      "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+      "source": "TechCrunch",
+      "published": "2026-11-10T17:30:00+00:00",
+      "topic": "Models & research",
+      "summary": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figures."
+    },
+    {
+      "id": "25de9b307d30f91026dfc61c",
+      "title": "Anthropic has its own AI-powered office suite now",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now",
+      "source": "The Verge",
+      "published": "2026-11-10T17:30:00+00:00",
+      "topic": "Products & tools",
+      "summary": "For years, Anthropic has been known for its focus on enterprise and coding tools that attract high-flying corporate clients, inspiring competing frontier labs - like OpenAI, SpaceXSI, and Meta - to\ncopy its strategies\n. Earlier this year, Claude Code went through its own particular\nhype cycle\n."
+    },
+    {
+      "id": "9f7428ee17be8abb85265a7d",
+      "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
+      "url": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "source": "TechCrunch",
+      "published": "2026-11-10T17:04:19+00:00",
+      "topic": "Hardware",
+      "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure."
+    },
+    {
+      "id": "de59f40c4070218b9f64d96d",
+      "title": "eBay appears to have shut the door on third-party AI agents",
+      "url": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping",
+      "source": "The Verge",
+      "published": "2026-11-10T16:20:30+00:00",
+      "topic": "Products & tools",
+      "summary": "A reader tells\nThe Verge\nthat for several weeks he's had his Muse agent browse and curate a daily digest of watches for sale on platforms like eBay, including a link to listings, price, shipping details, and relevant notes about condition or style. This weekend, though, Muse was unable to pull any links or details from eBay, with Muse saying it was blocked…"
+    },
+    {
+      "id": "8658a0744e2cda3c83edc739",
+      "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
+      "source": "The Verge",
+      "published": "2026-11-10T16:00:00+00:00",
+      "topic": "Models & research",
+      "summary": "Google says Gemini 4 Carbon \"pushes the frontier even further\" than Argon, referring to the company's other frontier model that\nlaunched only last month\n. The company said Argon will likely remain \"the ideal choice for the majority of software engineering and knowledge work,\" but that Carbon is \"built for tasks that test the limits of a model's intellige …"
+    },
+    {
+      "id": "4ea7969a421c523902f6b1f6",
+      "title": "Google broadens its AI hardware portfolio with two new specialized chips",
+      "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
+      "source": "TechCrunch",
+      "published": "2026-11-10T15:54:08+00:00",
+      "topic": "Hardware",
+      "summary": "Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity."
+    },
+    {
+      "id": "679acb5039d281a572b7d5a5",
+      "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
+      "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
+      "source": "TechCrunch",
+      "published": "2026-11-10T15:29:30+00:00",
+      "topic": "Products & tools",
+      "summary": "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch."
+    },
+    {
       "id": "c039564e4f55eeeec8043ccd",
       "title": "Anthropic targets $1.4 trillion IPO",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion",
       "source": "The Verge",
       "published": "2026-11-10T14:06:54+00:00",
       "topic": "Business",
-      "summary": "Anthropic confirmed on Tuesday that its IPO could be one of the biggest ever, even while falling short of previous expectations. Its\nIPO price\nis expected to be between $70.00 and $78.00 per share, which would put its valuation as high as $1.4 trillion, according to the\nNew York Times\n."
+      "summary": "Anthropic confirmed on Tuesday that its IPO could be one of the biggest ever, even while falling short of previous expectations. Its\nIPO price\nis expected to be between $70.00 and $78.00 per share, which would put its valuation as high as $1.4 trillion, according to the\nThe New York Times\n."
     },
     {
       "id": "5ac8836f0ba144b39fd67983",
@@ -74,12 +218,12 @@
     },
     {
       "id": "697debda975c187536f85150",
-      "title": "Cyberattacks threaten to make open-source AI a little less open, Hugging Face exec warns",
+      "title": "Cyberattacks threaten to make open source AI a little less open, Hugging Face exec warns",
       "url": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
       "source": "TechCrunch",
       "published": "2026-11-10T13:00:00+00:00",
       "topic": "AI overview",
-      "summary": "Hugging Face executive Irene Solaiman warns that growing cyberattacks on open AI platforms could force tighter security restrictions, threatening the accessibility that makes open-source communities valuable to developers worldwide."
+      "summary": "Hugging Face executive Irene Solaiman warns that growing cyberattacks on open AI platforms could force tighter security restrictions, threatening the accessibility that makes open source communities valuable to developers worldwide."
     },
     {
       "id": "775ac0a390011ca0c2cf43ed",
@@ -2555,168 +2699,24 @@
       "published": "2026-10-20T23:01:23+00:00",
       "topic": "Models & research",
       "summary": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge."
-    },
-    {
-      "id": "e7e49edf894520550da10662",
-      "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
-      "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
-      "source": "TechCrunch",
-      "published": "2026-10-20T22:24:02+00:00",
-      "topic": "AI overview",
-      "summary": "Before you share the Netflix documentary \"AI Gone Rogue,\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate."
-    },
-    {
-      "id": "925e6a635cad1b6fed420699",
-      "title": "Google’s more personalized Gemini AI is heading to your car",
-      "url": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
-      "source": "The Verge",
-      "published": "2026-10-20T22:11:34+00:00",
-      "topic": "Models & research",
-      "summary": "Google is\nbringing Personal Intelligence to Gemini AI\nin your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar, Maps, Photos, YouTube, and Search."
-    },
-    {
-      "id": "244c48fc443eebd58da5d18b",
-      "title": "Anthropic’s cloud partnerships are getting messy",
-      "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
-      "source": "TechCrunch",
-      "published": "2026-10-20T21:25:22+00:00",
-      "topic": "AI overview",
-      "summary": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO."
-    },
-    {
-      "id": "23c7d3cfe76cb13601c33628",
-      "title": "SpaceX’s AI business is beating expectations",
-      "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
-      "source": "TechCrunch",
-      "published": "2026-10-20T20:40:41+00:00",
-      "topic": "Business",
-      "summary": "SpaceX hit profitability in the third quarter, with net income of $4.4 billion. AI was the engine."
-    },
-    {
-      "id": "fb5a585d63d0a7f5e41bad48",
-      "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
-      "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
-      "source": "TechCrunch",
-      "published": "2026-10-20T20:35:10+00:00",
-      "topic": "Models & research",
-      "summary": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results."
-    },
-    {
-      "id": "61ce75599c83f81b177fcb12",
-      "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
-      "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
-      "source": "TechCrunch",
-      "published": "2026-10-20T18:38:24+00:00",
-      "topic": "Products & tools",
-      "summary": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs."
-    },
-    {
-      "id": "af34a6699219bf32973d4718",
-      "title": "ChatGPT now lets you lock your chats",
-      "url": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
-      "source": "TechCrunch",
-      "published": "2026-10-20T18:36:53+00:00",
-      "topic": "Products & tools",
-      "summary": "The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep those conversations private when handing their device to friends or family to show them something in another chat."
-    },
-    {
-      "id": "edff2445aa44f28f9d3d24b3",
-      "title": "Meta pauses Muse sharing after researchers find AI chats on the web",
-      "url": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
-      "source": "The Verge",
-      "published": "2026-10-20T18:07:34+00:00",
-      "topic": "Products & tools",
-      "summary": "Meta says it paused a Muse feature that lets you share conversations with the AI assistant after researchers found the URLs publicly available on the web,\nas reported by\nArs Technica\n. In\na report published this week\n, researchers at the security firm Claroc say they found more than 6,800 Muse links through public DNS records."
-    },
-    {
-      "id": "f947e16b0eddde440bb41ff2",
-      "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
-      "url": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
-      "source": "TechCrunch",
-      "published": "2026-10-20T17:55:12+00:00",
-      "topic": "AI overview",
-      "summary": "Eric Schmidt’s fortune is about to get even bigger."
-    },
-    {
-      "id": "17c56b266c7cbdfad25d1f04",
-      "title": "Meta’s Muse hits 10M US downloads in 40 days, a milestone reached by only 11 other apps",
-      "url": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
-      "source": "TechCrunch",
-      "published": "2026-10-20T17:12:48+00:00",
-      "topic": "Products & tools",
-      "summary": "New data also shows Muse is retaining users at higher rates than its AI rivals."
-    },
-    {
-      "id": "2c0c78d6dd60d8434364a06d",
-      "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in its LEGO era’",
-      "url": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
-      "source": "TechCrunch",
-      "published": "2026-10-20T16:20:06+00:00",
-      "topic": "Hardware",
-      "summary": "It’s the moment everyone is waiting for — the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch’s Equity."
-    },
-    {
-      "id": "335069c0b0123efa318eeb10",
-      "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
-      "url": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
-      "source": "TechCrunch",
-      "published": "2026-10-20T16:00:00+00:00",
-      "topic": "Models & research",
-      "summary": "Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their stems."
-    },
-    {
-      "id": "9c36667f60bf29498686543c",
-      "title": "The new economics of enterprise AI",
-      "url": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
-      "source": "MIT Technology Review",
-      "published": "2026-10-20T15:20:25+00:00",
-      "topic": "Models & research",
-      "summary": "Imagine your company just discovered electricity. At first only a few machines run on it, and nobody worries about efficiency — consumption is low and the value is obvious."
-    },
-    {
-      "id": "7a091aa12d54f3f37fcd7ec1",
-      "title": "Spotify pulled 50 million AI slop and spam tracks from its recommendations",
-      "url": "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed",
-      "source": "The Verge",
-      "published": "2026-10-20T14:18:37+00:00",
-      "topic": "AI overview",
-      "summary": "Spotify says it has removed more than 50 million songs considered AI-generated slop or spam from user recommendations over the past year. That's according to an\nannouncement on Tuesday\nthat says Spotify has also made changes to its recommendation system to highlight more music made by human artists."
-    },
-    {
-      "id": "9124fc501335a8a314bad333",
-      "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
-      "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
-      "source": "TechCrunch",
-      "published": "2026-10-20T13:07:24+00:00",
-      "topic": "AI overview",
-      "summary": "The U.S. has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns."
-    },
-    {
-      "id": "5c947a61567ff990d0b05276",
-      "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
-      "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
-      "source": "TechCrunch",
-      "published": "2026-10-20T13:00:00+00:00",
-      "topic": "Models & research",
-      "summary": "Eka Robotics may be the first robotic arm that is actually good at picking up a wide range of objects, and it is so smooth and human-like, it is wowing the industry."
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-11-10T15:26:42.347795+00:00",
+      "checked": "2026-11-10T23:55:35.957969+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-11-10T15:26:42.347795+00:00",
+      "checked": "2026-11-10T23:55:35.957969+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-11-10T15:26:42.347795+00:00",
+      "checked": "2026-11-10T23:55:35.957969+00:00",
       "error": null
     }
   ],
-  "updated": "2026-11-10T15:26:42.347795+00:00"
+  "updated": "2026-11-10T23:55:35.957969+00:00"
 }
