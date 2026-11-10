@@ -1,6 +1,96 @@
 {
   "articles": [
     {
+      "id": "c039564e4f55eeeec8043ccd",
+      "title": "Anthropic targets $1.4 trillion IPO",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion",
+      "source": "The Verge",
+      "published": "2026-11-10T14:06:54+00:00",
+      "topic": "Business",
+      "summary": "Anthropic confirmed on Tuesday that its IPO could be one of the biggest ever, even while falling short of previous expectations. Its\nIPO price\nis expected to be between $70.00 and $78.00 per share, which would put its valuation as high as $1.4 trillion, according to the\nNew York Times\n."
+    },
+    {
+      "id": "5ac8836f0ba144b39fd67983",
+      "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
+      "url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
+      "source": "TechCrunch",
+      "published": "2026-11-10T14:05:10+00:00",
+      "topic": "Products & tools",
+      "summary": "Adobe is taking on Figma with a new prototype builder tool in Firefly."
+    },
+    {
+      "id": "1a56c99530ddc4c22fe174a0",
+      "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+      "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
+      "source": "TechCrunch",
+      "published": "2026-11-10T14:01:39+00:00",
+      "topic": "Business",
+      "summary": "The company could end up being worth a hefty $1.404 trillion if its shares list at the top of the price range, on a fully diluted basis."
+    },
+    {
+      "id": "e313ab2892aad27b24def402",
+      "title": "Photoshop, Lightroom, and Premiere are making it easier to remove things",
+      "url": "https://www.theverge.com/tech/1030653/adobe-max-2026-photoshop-premiere-removal-updates",
+      "source": "The Verge",
+      "published": "2026-11-10T14:00:00+00:00",
+      "topic": "Products & tools",
+      "summary": "Photoshop’s Quick Compare feature lets you quickly review a before-and-after comparison of edits. | Image: Adobe\nAdobe is expanding its Creative Cloud apps and Firefly AI platform with new capabilities that aim to make design and editing projects faster and less complicated."
+    },
+    {
+      "id": "90450c1293322385f7d9dfb8",
+      "title": "Spotify’s AI DJ gets new voices, personalities, and an option for less chatter",
+      "url": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/",
+      "source": "TechCrunch",
+      "published": "2026-11-10T14:00:00+00:00",
+      "topic": "AI overview",
+      "summary": "Spotify Premium users can now customize their AI DJ with new voices with different personalities, or turn off the commentary between songs."
+    },
+    {
+      "id": "499cff9552f92642d8da1095",
+      "title": "Adobe is going all in on agentic AI",
+      "url": "https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates",
+      "source": "The Verge",
+      "published": "2026-11-10T14:00:00+00:00",
+      "topic": "Products & tools",
+      "summary": "Adobe is committing itself to the notion that chatbots and AI agents could be your next design assistant, or even automate creative workflows and repetitive tasks on your behalf. Some of the tools and features announced today at Adobe's Max conference in Miami, Florida, include allowing your preferred third-party AI agents to access and change Creative…"
+    },
+    {
+      "id": "3739b5b6833681c55fbe66ed",
+      "title": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
+      "url": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
+      "source": "TechCrunch",
+      "published": "2026-11-10T14:00:00+00:00",
+      "topic": "Models & research",
+      "summary": "Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents."
+    },
+    {
+      "id": "1d8889c9661cfe547bb2e072",
+      "title": "Hands-on with Ring’s new AI drone camera for your home",
+      "url": "https://www.theverge.com/tech/1030601/ring-drone-cam-hands-on-price-release-date-ai-pilot",
+      "source": "The Verge",
+      "published": "2026-11-10T13:30:00+00:00",
+      "topic": "AI overview",
+      "summary": "Ring’s new Drone Cam is a flying indoor security camera. Ring is finally shipping a flying indoor drone camera."
+    },
+    {
+      "id": "697debda975c187536f85150",
+      "title": "Cyberattacks threaten to make open-source AI a little less open, Hugging Face exec warns",
+      "url": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
+      "source": "TechCrunch",
+      "published": "2026-11-10T13:00:00+00:00",
+      "topic": "AI overview",
+      "summary": "Hugging Face executive Irene Solaiman warns that growing cyberattacks on open AI platforms could force tighter security restrictions, threatening the accessibility that makes open-source communities valuable to developers worldwide."
+    },
+    {
+      "id": "775ac0a390011ca0c2cf43ed",
+      "title": "Otter AI can now follow conversations across 30+ languages",
+      "url": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
+      "source": "TechCrunch",
+      "published": "2026-11-10T07:00:00+00:00",
+      "topic": "AI overview",
+      "summary": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages."
+    },
+    {
       "id": "8a35af252b32001f777c64f3",
       "title": "Anthropic reportedly plans to move forward with IPO plans",
       "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
@@ -35,6 +125,15 @@
       "published": "2026-11-09T23:07:59+00:00",
       "topic": "Hardware",
       "summary": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent reporting noted that since last year, US intelligence reports had identified Alice Huang (no relation) as not only the exec for an AI compute company renting access…"
+    },
+    {
+      "id": "79ac4b66951afb869c2b51ef",
+      "title": "The global pledge to use AI for climate good is a cruel joke",
+      "url": "https://www.theverge.com/science/1030252/ai-data-center-climate-pledge-united-nations-cop31",
+      "source": "The Verge",
+      "published": "2026-11-09T21:13:16+00:00",
+      "topic": "AI overview",
+      "summary": "At this point, reading through the latest splashy pledge to use AI for the good of the environment feels like downing a nonalcoholic beer. Admittedly, I'm suspicious from the onset."
     },
     {
       "id": "fc6d536179e6162c05e00b35",
@@ -2600,123 +2699,24 @@
       "published": "2026-10-20T13:00:00+00:00",
       "topic": "Models & research",
       "summary": "Eka Robotics may be the first robotic arm that is actually good at picking up a wide range of objects, and it is so smooth and human-like, it is wowing the industry."
-    },
-    {
-      "id": "c4d6d4ec5bcc77a7e9961793",
-      "title": "AI adoption by industry shows what other sectors can learn",
-      "url": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
-      "source": "MIT Technology Review",
-      "published": "2026-10-20T12:00:00+00:00",
-      "topic": "Products & tools",
-      "summary": "The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in technology adoption–tech is just the first industry in line."
-    },
-    {
-      "id": "739162d7487a517b5d02bfa4",
-      "title": "Yelp can now call on your behalf to check wait times at a restaurant",
-      "url": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
-      "source": "TechCrunch",
-      "published": "2026-10-20T11:00:00+00:00",
-      "topic": "Products & tools",
-      "summary": "Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized recommendations that remember your preferences."
-    },
-    {
-      "id": "2bb6d52be70271119a6b2114",
-      "title": "Otter AI raises $320M from General Catalyst’s growth fund for its meeting tool",
-      "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
-      "source": "TechCrunch",
-      "published": "2026-10-20T11:00:00+00:00",
-      "topic": "Products & tools",
-      "summary": "Otter.ai said that it will use these funds for enterprise growth, go-to-market strategy, international expansion, and product innovation."
-    },
-    {
-      "id": "4560d3830d9f53773ac5ee77",
-      "title": "A visit to Samsung’s massive new semiconductor hub",
-      "url": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
-      "source": "MIT Technology Review",
-      "published": "2026-10-20T09:00:00+00:00",
-      "topic": "Hardware",
-      "summary": "_____________\nTHE PLACE\nPyeongtaek,South Korea\nGenerative AI models run on powerful chips known as GPUs, which depend on stacks of specialized memory chips packaged with the processor. To meet growing demand for memory, Samsung is building a massive new semiconductor manufacturing complex in Pyeongtaek, South Korea."
-    },
-    {
-      "id": "a608b97bceb1e7261a121c27",
-      "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
-      "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
-      "source": "TechCrunch",
-      "published": "2026-10-20T01:27:03+00:00",
-      "topic": "Policy & safety",
-      "summary": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands."
-    },
-    {
-      "id": "68a6b53f34def307ff2f22bd",
-      "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
-      "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
-      "source": "TechCrunch",
-      "published": "2026-10-19T23:39:38+00:00",
-      "topic": "AI overview",
-      "summary": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year."
-    },
-    {
-      "id": "e6f1ae44f641af38a03dee81",
-      "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
-      "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
-      "source": "TechCrunch",
-      "published": "2026-10-19T22:49:27+00:00",
-      "topic": "Policy & safety",
-      "summary": "The idea of embedded evaluators — in which supposedly \"neutral\" third-party observers are placed inside AI organizations — has been popularized over the last several months, as AI labs grapple with a rash of safety incidents that have spurred concerns over the potential harms of their technology."
-    },
-    {
-      "id": "4de91e1540639e75e1428207",
-      "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
-      "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
-      "source": "TechCrunch",
-      "published": "2026-10-19T22:04:28+00:00",
-      "topic": "Products & tools",
-      "summary": "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic."
-    },
-    {
-      "id": "85ed69736e92d20ff74d7e20",
-      "title": "CoreWeave’s debt is becoming the whole AI industry’s problem",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
-      "source": "The Verge",
-      "published": "2026-10-19T21:28:20+00:00",
-      "topic": "AI overview",
-      "summary": "Now, I have\nalso\nasked if the AI industry is a bubble, but when the SPAC King echoes concerns held by a lady whose ongoing questi …"
-    },
-    {
-      "id": "c1dfee28d50b17ef202b4348",
-      "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
-      "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
-      "source": "TechCrunch",
-      "published": "2026-10-19T20:09:24+00:00",
-      "topic": "Products & tools",
-      "summary": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own."
-    },
-    {
-      "id": "f649037fa8e9c17ec2101444",
-      "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
-      "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
-      "source": "TechCrunch",
-      "published": "2026-10-19T19:28:34+00:00",
-      "topic": "Products & tools",
-      "summary": "OpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code."
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-11-10T04:30:23.330596+00:00",
+      "checked": "2026-11-10T15:26:42.347795+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-11-10T04:30:23.330596+00:00",
+      "checked": "2026-11-10T15:26:42.347795+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-11-10T04:30:23.330596+00:00",
+      "checked": "2026-11-10T15:26:42.347795+00:00",
       "error": null
     }
   ],
-  "updated": "2026-11-10T04:30:23.330596+00:00"
+  "updated": "2026-11-10T15:26:42.347795+00:00"
 }
