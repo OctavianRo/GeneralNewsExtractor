@@ -1,6 +1,60 @@
 {
   "articles": [
     {
+      "id": "f31248890af40385bfab1b68",
+      "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
+      "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
+      "source": "TechCrunch",
+      "published": "2026-11-11T16:14:44+00:00",
+      "topic": "Business",
+      "summary": "Sales of $10B represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter."
+    },
+    {
+      "id": "ccd519173ba2f65ad7a8e16c",
+      "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
+      "url": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
+      "source": "The Verge",
+      "published": "2026-11-11T16:00:00+00:00",
+      "topic": "Products & tools",
+      "summary": "Tabletop isn’t anything to do with D&D or boardgames, but it does make it easier to coordinate with freinds, | Image: Google\nGoogle has cooked up a new experimental AI tool called Tabletop that generates customized collaborative hubs to help you coordinate with family, and friends. The Tabletop platform shares some visual similarities with workplace…"
+    },
+    {
+      "id": "d5ce8d4f2e7d567c6d43a125",
+      "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
+      "url": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
+      "source": "TechCrunch",
+      "published": "2026-11-11T15:00:00+00:00",
+      "topic": "Products & tools",
+      "summary": "At 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to."
+    },
+    {
+      "id": "943bd9ebdd36c5629d76e702",
+      "title": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
+      "source": "The Verge",
+      "published": "2026-11-11T15:00:00+00:00",
+      "topic": "Models & research",
+      "summary": "AlphaGenome 2 is the successor to DeepMind's genome-predicting AI model AlphaGenome, which was\nreleased last year\n. While nearly every cell in the human body carries the same DNA, different types of cells - from heart muscle cells and skin cells to immune cells fighting an infection - switch different genes on and off, and those patterns can change d …"
+    },
+    {
+      "id": "274edf310d65fc26118a3caa",
+      "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
+      "url": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
+      "source": "TechCrunch",
+      "published": "2026-11-11T14:00:00+00:00",
+      "topic": "Products & tools",
+      "summary": "Like the end-to-end models trained to drive cars, AI agents are probabilistic systems operating in unpredictable environments."
+    },
+    {
+      "id": "1251f00274bede43be17fe09",
+      "title": "Adobe’s AI experiments let you walk around in photos and interview your characters",
+      "url": "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai",
+      "source": "The Verge",
+      "published": "2026-11-11T14:00:00+00:00",
+      "topic": "Products & tools",
+      "summary": "Project Screen Test lets you talk with AI-generated characters to shape their personality. | Image: Adobe\nSome of the most impressive tech that Adobe showcases at its annual Max conference each year is the experimental features it's developing, and the latest of those tools are being announced today: they can transform images into explorable 3D scenes,…"
+    },
+    {
       "id": "612bc333be177914040d78b9",
       "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
       "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
@@ -2645,78 +2699,24 @@
       "published": "2026-10-21T17:59:12+00:00",
       "topic": "Policy & safety",
       "summary": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI."
-    },
-    {
-      "id": "5f7eaed02b6699202b09fb83",
-      "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
-      "url": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
-      "source": "TechCrunch",
-      "published": "2026-10-21T17:18:27+00:00",
-      "topic": "Business",
-      "summary": "Blacksmith, a platform that lets companies build and test AI code more effectively, just announced a $66 million Series C round led by Sequoia that values the company at $1 billion."
-    },
-    {
-      "id": "b3bb7eb8417b3c05c7514322",
-      "title": "Conversational Gemini navigation comes to Apple CarPlay",
-      "url": "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps",
-      "source": "The Verge",
-      "published": "2026-10-21T15:00:00+00:00",
-      "topic": "Models & research",
-      "summary": "After introducing its Gemini AI assistant to\nAndroid Auto last year\n, Google is now bringing it to Apple CarPlay users. The conversational Gemini in navigation is available today for US drivers, with \"rollout happening globally too,\" according to Google (we've asked for specific regional availability details)."
-    },
-    {
-      "id": "a61adc6e1acb139db65a2be5",
-      "title": "AI promises productivity, but for managers, it’s mostly a headache for now",
-      "url": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
-      "source": "TechCrunch",
-      "published": "2026-10-21T14:00:00+00:00",
-      "topic": "AI overview",
-      "summary": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey."
-    },
-    {
-      "id": "8eaa1a0c536053841d6fdbe8",
-      "title": "OpenAI says an AI agent lied about disabling its safety monitoring system",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
-      "source": "The Verge",
-      "published": "2026-10-21T13:57:43+00:00",
-      "topic": "Policy & safety",
-      "summary": "\"The reference didn't configure a monitor, and Astra decided that was reason to remove the monitoring integration from the user's code,\" Marcus Williams, an AI safety researcher at OpenAI,\nwrites on X\n. \"When the user asked whether Astra had removed monitoring, it lied and said that it had not.\""
-    },
-    {
-      "id": "9a73f4d6937ae6af8131a4ab",
-      "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
-      "source": "The Verge",
-      "published": "2026-10-20T23:04:19+00:00",
-      "topic": "Policy & safety",
-      "summary": "On Tuesday, US District Judge Zachary Bluestone dismissed the\nlawsuit\nAnn Altman\nfiled last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her\nthroughout her childhood. As reported earlier by\nThe Guardian\n, the judge wrote that over the past year, Ann had failed to appear for an independent medical examination or meet other…"
-    },
-    {
-      "id": "2d2caae98728dfe7fcc2bc80",
-      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
-      "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
-      "source": "TechCrunch",
-      "published": "2026-10-20T23:01:23+00:00",
-      "topic": "Models & research",
-      "summary": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge."
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-11-11T10:26:39.170284+00:00",
+      "checked": "2026-11-11T18:25:42.481355+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-11-11T10:26:39.170284+00:00",
+      "checked": "2026-11-11T18:25:42.481355+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-11-11T10:26:39.170284+00:00",
+      "checked": "2026-11-11T18:25:42.481355+00:00",
       "error": null
     }
   ],
-  "updated": "2026-11-11T10:26:39.170284+00:00"
+  "updated": "2026-11-11T18:25:42.481355+00:00"
 }
