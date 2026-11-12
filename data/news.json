@@ -1,13 +1,67 @@
 {
   "articles": [
     {
+      "id": "2c1c14009b34ac8bb9e2d456",
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "source": "TechCrunch",
+      "published": "2026-11-11T23:50:00+00:00",
+      "topic": "AI overview",
+      "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure."
+    },
+    {
+      "id": "3c4a130ff1dbafc38dee6b28",
+      "title": "United won’t let your AI agent book your flight",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+      "source": "The Verge",
+      "published": "2026-11-11T21:54:21+00:00",
+      "topic": "Products & tools",
+      "summary": "The company says it hasn't yet seen many people try to use AI agents to book their flights,\nThe Wall Street Journal\nreports\n, in line with observations from other businesses like\nDoordash\n. But United is concerned that agents could expose customers' information or make purchases they didn't intend, and potentially skirt federal rules about the kind of…"
+    },
+    {
+      "id": "351392b31b9f8e2235920237",
+      "title": "Why the data center you dread might never even be built",
+      "url": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
+      "source": "TechCrunch",
+      "published": "2026-11-11T20:15:15+00:00",
+      "topic": "Hardware",
+      "summary": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, though, there’s a more basic problem: A lot of the projects being announced may never get built in the first place."
+    },
+    {
+      "id": "fe5a008bd23712d19711cf7b",
+      "title": "How backlash and red tape continue to slow data centers post-Blue Wave",
+      "url": "https://techcrunch.com/podcast/how-backlash-and-red-tape-continue-to-slow-data-centers-post-blue-wave/",
+      "source": "TechCrunch",
+      "published": "2026-11-11T20:02:14+00:00",
+      "topic": "Hardware",
+      "summary": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, though, there’s a more basic problem: A lot of the projects being announced may never get built in the first place."
+    },
+    {
+      "id": "e4e9565de9f6f79762855b04",
+      "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
+      "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
+      "source": "TechCrunch",
+      "published": "2026-11-11T19:54:00+00:00",
+      "topic": "AI overview",
+      "summary": "CoreWeave is increasingly asking customers to pay upfront, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings."
+    },
+    {
+      "id": "22d6799f13a3486d4568cc73",
+      "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
+      "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
+      "source": "TechCrunch",
+      "published": "2026-11-11T19:34:55+00:00",
+      "topic": "Hardware",
+      "summary": "Fractile has now become one of the top-funded players in the race for purpose-built AI chips."
+    },
+    {
       "id": "f31248890af40385bfab1b68",
       "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
       "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
       "source": "TechCrunch",
       "published": "2026-11-11T16:14:44+00:00",
       "topic": "Business",
-      "summary": "Sales of $10B represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter."
+      "summary": "Sales of $10 billion represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter."
     },
     {
       "id": "ccd519173ba2f65ad7a8e16c",
@@ -25,7 +79,7 @@
       "source": "TechCrunch",
       "published": "2026-11-11T15:00:00+00:00",
       "topic": "Products & tools",
-      "summary": "At 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to."
+      "summary": "With Databricks at 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to."
     },
     {
       "id": "943bd9ebdd36c5629d76e702",
@@ -2645,78 +2699,24 @@
       "published": "2026-10-21T21:30:02+00:00",
       "topic": "Business",
       "summary": "Meta says it's issuing a new class of shares to fund its AI initiatives. As part of its\nthird-quarter earnings report released on Wednesday\n, the company says the non-voting stock will also go toward potential acquisitions and employee compensation, with trading beginning in 2027."
-    },
-    {
-      "id": "40e4827a0c18ace8d7b0643f",
-      "title": "Meta says Muse has over 10M users, with shopping a top activity",
-      "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
-      "source": "TechCrunch",
-      "published": "2026-10-21T21:14:19+00:00",
-      "topic": "Products & tools",
-      "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during its Q3 earnings call. The AI app now has over 10M users."
-    },
-    {
-      "id": "b1ec87d705753567cead9b8e",
-      "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
-      "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
-      "source": "TechCrunch",
-      "published": "2026-10-21T20:27:41+00:00",
-      "topic": "Models & research",
-      "summary": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself."
-    },
-    {
-      "id": "258d5ff776fa8f139d323b47",
-      "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
-      "source": "The Verge",
-      "published": "2026-10-21T19:53:20+00:00",
-      "topic": "Products & tools",
-      "summary": "Each morning, it sends you a short brief on the most important items across your connected apps. Throughout the day, it keeps tabs on those apps and messages you only when something needs your attention."
-    },
-    {
-      "id": "dd62bb078550a17e52648fab",
-      "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
-      "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
-      "source": "TechCrunch",
-      "published": "2026-10-21T19:30:00+00:00",
-      "topic": "Products & tools",
-      "summary": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals."
-    },
-    {
-      "id": "20d01956fcee92e766917384",
-      "title": "Walmart is inviting AI agents to shop for you",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents",
-      "source": "The Verge",
-      "published": "2026-10-21T19:30:00+00:00",
-      "topic": "Products & tools",
-      "summary": "Walmart will soon let AI agents shop on its website for you. Next month,\nthe retail giant will allow you\nto use an AI agent on the site, with systems in place to let you approve and review purchases and set spending limits."
-    },
-    {
-      "id": "9f2c544ee9306da05b518172",
-      "title": "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
-      "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
-      "source": "TechCrunch",
-      "published": "2026-10-21T17:59:12+00:00",
-      "topic": "Policy & safety",
-      "summary": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI."
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-11-11T18:25:42.481355+00:00",
+      "checked": "2026-11-12T01:20:23.695835+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-11-11T18:25:42.481355+00:00",
+      "checked": "2026-11-12T01:20:23.695835+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-11-11T18:25:42.481355+00:00",
+      "checked": "2026-11-12T01:20:23.695835+00:00",
       "error": null
     }
   ],
-  "updated": "2026-11-11T18:25:42.481355+00:00"
+  "updated": "2026-11-12T01:20:23.695835+00:00"
 }
