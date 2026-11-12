@@ -1,6 +1,132 @@
 {
   "articles": [
     {
+      "id": "bd79903a17a4b8df7ffd328a",
+      "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
+      "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
+      "source": "TechCrunch",
+      "published": "2026-11-12T18:39:23+00:00",
+      "topic": "Hardware",
+      "summary": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open-source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition."
+    },
+    {
+      "id": "ce1eab2bbb5c79a9e4f64049",
+      "title": "The Jensen Huang scandal is hardly over",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling",
+      "source": "The Verge",
+      "published": "2026-11-12T17:44:33+00:00",
+      "topic": "Hardware",
+      "summary": "I was certain, until the story of Jensen Huang's second affair hit, that Huang was bulletproof. After all, why wouldn't he be?"
+    },
+    {
+      "id": "cf8aede2b245e7bec292d7ba",
+      "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
+      "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
+      "source": "TechCrunch",
+      "published": "2026-11-12T17:36:40+00:00",
+      "topic": "Business",
+      "summary": "Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition."
+    },
+    {
+      "id": "0544f18fda8e323256631f35",
+      "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
+      "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
+      "source": "TechCrunch",
+      "published": "2026-11-12T17:17:58+00:00",
+      "topic": "Products & tools",
+      "summary": "The airline said it will not allow customers to use AI agents to book flights and manage reservations."
+    },
+    {
+      "id": "0039716ebb4ac156c62a9641",
+      "title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
+      "url": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
+      "source": "TechCrunch",
+      "published": "2026-11-12T17:00:52+00:00",
+      "topic": "Business",
+      "summary": "SoftBank lost over $3 billion preordering natural gas turbines to power AI data centers. Here's what the loss means to power markets."
+    },
+    {
+      "id": "889dda614b5244142fc73907",
+      "title": "More game developers are starting to use generative AI",
+      "url": "https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs",
+      "source": "The Verge",
+      "published": "2026-11-12T17:00:00+00:00",
+      "topic": "Products & tools",
+      "summary": "The survey is being published as the game industry continues to reckon with generative AI tools. While many game developers, particularly\nindie developers\n, have spoken out strongly against the technology, AI is at the center of indie awa …"
+    },
+    {
+      "id": "64a6f20ebcc4dac132a4e18a",
+      "title": "AI chatbots are recommending fake retail websites, study finds",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
+      "source": "The Verge",
+      "published": "2026-11-12T17:00:00+00:00",
+      "topic": "Products & tools",
+      "summary": "The\nstudy\nconducted by IP protection firm Podqi and shared exclusively with\nThe Verge\nprompted ChatGPT, Gemini, and Perplexity with a handful of shopping-related questions involving a selection of 151 brands. Questions included \"What are the top websites for buying [brand]?\"; \"Where can I find [brand] online?\"; and \"Does [brand] ship internationally?"
+    },
+    {
+      "id": "62853baff9e5dea322e4decd",
+      "title": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
+      "url": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/",
+      "source": "TechCrunch",
+      "published": "2026-11-12T17:00:00+00:00",
+      "topic": "Products & tools",
+      "summary": "Rather than giving consumers yet another photo-editing tool, Phota Labs aims to use advances in AI to automate the editing process so it’s easier for anyone to turn everyday moments into better photos."
+    },
+    {
+      "id": "c32c9bb4ff06b22c45346198",
+      "title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
+      "url": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/",
+      "source": "TechCrunch",
+      "published": "2026-11-12T16:32:33+00:00",
+      "topic": "Hardware",
+      "summary": "Nvidia's ousted CEO Jensen Huang's downfall isn’t just your run-of-the-mill salacious billionaire sex scandal. He was using his influence to push the AI industry in some very specific ways."
+    },
+    {
+      "id": "d533790e4d2bd7ed50cfc6e2",
+      "title": "Jensen Huang is out. What did China want from him?",
+      "url": "https://www.theverge.com/podcast/1031260/nvidia-jensen-huang-resign-china-spy-scandal-ai-chips-trump",
+      "source": "The Verge",
+      "published": "2026-11-12T16:30:00+00:00",
+      "topic": "Hardware",
+      "summary": "Today, we’re talking about the Jensen Huang scandal at Nvidia, which is developing so quickly that we had to do an emergency update of this intro minutes before publishing this episode. Huang\njust resigned\nfrom his position as CEO of Nvidia as news of his affairs, including with an alleged Chinese spy, threatened to engulf the company."
+    },
+    {
+      "id": "7c091be54b73fa0eb62aca80",
+      "title": "Norwest pushes deeper into AI with new $4B fund",
+      "url": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/",
+      "source": "TechCrunch",
+      "published": "2026-11-12T15:18:14+00:00",
+      "topic": "Business",
+      "summary": "This is the investment firm's largest fund to date."
+    },
+    {
+      "id": "3d14e9acb8c155627b9d40d0",
+      "title": "Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts",
+      "url": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
+      "source": "TechCrunch",
+      "published": "2026-11-12T15:02:28+00:00",
+      "topic": "AI overview",
+      "summary": "This is Fireworks' second data breach in as many months."
+    },
+    {
+      "id": "07a62a8bb6b160cd51f5174a",
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "source": "TechCrunch",
+      "published": "2026-11-12T14:30:01+00:00",
+      "topic": "Hardware",
+      "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure."
+    },
+    {
+      "id": "49ac9311c7b4233f04bc0254",
+      "title": "Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition",
+      "url": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/",
+      "source": "TechCrunch",
+      "published": "2026-11-12T13:26:25+00:00",
+      "topic": "Business",
+      "summary": "The startups work across the deep tech sector, including healthcare, fintech, energy, semiconductors, and AI. All nine are looking to enter the U.S."
+    },
+    {
       "id": "2c1c14009b34ac8bb9e2d456",
       "title": "The unfolding Jensen Huang scandal: a timeline",
       "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
@@ -2573,150 +2699,24 @@
       "published": "2026-10-22T15:50:30+00:00",
       "topic": "Hardware",
       "summary": "It was a busy summer for AI lobbyists. Anthropic, OpenAI, and Nvidia each had their highest-spending lobbying quarter between July and September, federal disclosures show."
-    },
-    {
-      "id": "78de0a5236401fb7ad301781",
-      "title": "Spotify’s current AI bet is about being the music service that agents choose",
-      "url": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
-      "source": "TechCrunch",
-      "published": "2026-10-22T15:03:58+00:00",
-      "topic": "Products & tools",
-      "summary": "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service."
-    },
-    {
-      "id": "f790f518b7407f12127e8aed",
-      "title": "Bill Gates says to prepare for 20 years of ‘tumultuous’ AI disruption",
-      "url": "https://www.theverge.com/podcast/1015408/bill-gates-ai-interview-microsoft-openai-anthropic-risk-policy-regulation",
-      "source": "The Verge",
-      "published": "2026-10-22T14:00:00+00:00",
-      "topic": "Models & research",
-      "summary": "Today, I’m talking to Bill Gates, cofounder and former CEO of Microsoft and chairman of the Gates Foundation. You may have noticed Bill in the news more lately — he’s been on\nsomething of a tour\nfor the past few months, ever since\npublishing an essay in late August\ntitled “The turbulent AI era is here."
-    },
-    {
-      "id": "832ac47bcb49fb139641f06f",
-      "title": "Claude Duet app is Anthropic’s bet on agents",
-      "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
-      "source": "TechCrunch",
-      "published": "2026-10-22T13:53:26+00:00",
-      "topic": "Products & tools",
-      "summary": "Claude Duet is available through waitlist for Pro and Max plan users."
-    },
-    {
-      "id": "13578360dd8cd764f27a442b",
-      "title": "Nirva raises $33M for a pendant that only listens to you",
-      "url": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
-      "source": "TechCrunch",
-      "published": "2026-10-22T13:26:52+00:00",
-      "topic": "Business",
-      "summary": "Nirva will ship its $249 ambient AI pendant by the end of the year."
-    },
-    {
-      "id": "3721c0cfc60457c537d3aecf",
-      "title": "1Password lets AI agents use your passwords without seeing them",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1016399/1password-ai-agent-password-sign-in",
-      "source": "The Verge",
-      "published": "2026-10-22T13:00:00+00:00",
-      "topic": "Products & tools",
-      "summary": "1Password is introducing a new feature that allows AI agents to sign into your accounts without actually seeing or handling your passwords. The aptly named 1Password for Agents doesn't give bots free reign to access all of your connected accounts - you'll still need to grant approval for sign-in requests - but should make it less cumbersome to use Agents…"
-    },
-    {
-      "id": "98d9236d4f529e574f6b74da",
-      "title": "AI agents are ready to shop. Some retailers are wary.",
-      "url": "https://www.theverge.com/report/1015811/ai-shopping-agents-blocked-amazon-the-realreal-target-meta-muse",
-      "source": "The Verge",
-      "published": "2026-10-22T12:30:00+00:00",
-      "topic": "Products & tools",
-      "summary": "Using an AI agent to shop for you is a strange experience. Tech companies have marketed them as personal assistants - the democratizing of labor that ordinarily would only be available to the rich and powerful."
-    },
-    {
-      "id": "f2ef808e610cb1b89c936f58",
-      "title": "Claude did not invent scorpion antivenom",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1016443/anthropic-claude-citrini-vibecoding-scorpion-antivenom",
-      "source": "The Verge",
-      "published": "2026-10-22T12:21:07+00:00",
-      "topic": "Models & research",
-      "summary": "An investment research firm wanted to prove AI could revolutionize drug development. So they teamed up with Anthropic to see whether an unreleased version of Claude could make scorpion antivenom."
-    },
-    {
-      "id": "69e867673d3f62844532a5a6",
-      "title": "Eiliko maker says it’s hiring an ‘independent security firm’ after Verge report on its insecure robots",
-      "url": "https://www.theverge.com/news/1015824/eiliko-energize-lab-statement-on-robot-hack-breach",
-      "source": "The Verge",
-      "published": "2026-10-22T11:00:00+00:00",
-      "topic": "AI overview",
-      "summary": "Eiliko, a cute robot charm you can hang on your bag with built-in AI conversations,\nturned out to be a security nightmare\n. It told owners that \"your secrets are safe with me,\" but hackers could easily read complete transcripts of everything we told the toy, and that was\njust the beginning\n."
-    },
-    {
-      "id": "fec7036c87350b493dbac160",
-      "title": "Making the case for context-aware AI",
-      "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
-      "source": "MIT Technology Review",
-      "published": "2026-10-22T10:00:00+00:00",
-      "topic": "Products & tools",
-      "summary": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships that determine whether a decision is the right one."
-    },
-    {
-      "id": "5ba1ec3db181cdc2407ee679",
-      "title": "AI’s hidden storage bill: What inference leaves behind",
-      "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
-      "source": "MIT Technology Review",
-      "published": "2026-10-22T08:41:18+00:00",
-      "topic": "Hardware",
-      "summary": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs."
-    },
-    {
-      "id": "8d2d0448075e63e8fffa2e4c",
-      "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
-      "url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
-      "source": "TechCrunch",
-      "published": "2026-10-21T22:51:22+00:00",
-      "topic": "AI overview",
-      "summary": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters."
-    },
-    {
-      "id": "c456f043e53d43f8fd18090f",
-      "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
-      "url": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
-      "source": "TechCrunch",
-      "published": "2026-10-21T22:45:34+00:00",
-      "topic": "Models & research",
-      "summary": "The social media giant is planning a new stock strategy to help power its broad investments in AI models and services."
-    },
-    {
-      "id": "5fda1e1adb27276c57f0bd6f",
-      "title": "Data centers could erase decades of air quality gains",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
-      "source": "The Verge",
-      "published": "2026-10-21T22:33:44+00:00",
-      "topic": "Hardware",
-      "summary": "A rush of new data centers could bring air pollution roaring back to levels not seen since the 2000s in Texas, which has become ground zero for the physical infrastructure behind generative AI. New and proposed data centers are demanding a tremendous amount of electricity."
-    },
-    {
-      "id": "cdc94824f0231fc8363b9905",
-      "title": "Meta to create a new class of shares to fund AI push",
-      "url": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings",
-      "source": "The Verge",
-      "published": "2026-10-21T21:30:02+00:00",
-      "topic": "Business",
-      "summary": "Meta says it's issuing a new class of shares to fund its AI initiatives. As part of its\nthird-quarter earnings report released on Wednesday\n, the company says the non-voting stock will also go toward potential acquisitions and employee compensation, with trading beginning in 2027."
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-11-12T10:43:23.220582+00:00",
+      "checked": "2026-11-12T18:43:19.193435+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-11-12T10:43:23.220582+00:00",
+      "checked": "2026-11-12T18:43:19.193435+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-11-12T10:43:23.220582+00:00",
+      "checked": "2026-11-12T18:43:19.193435+00:00",
       "error": null
     }
   ],
-  "updated": "2026-11-12T10:43:23.220582+00:00"
+  "updated": "2026-11-12T18:43:19.193435+00:00"
 }
