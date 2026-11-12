@@ -1,13 +1,85 @@
 {
   "articles": [
     {
+      "id": "ca2f28331a6de25aeb308571",
+      "title": "Muse can now place calls to U.S. businesses — if you pay",
+      "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+      "source": "TechCrunch",
+      "published": "2026-11-12T22:22:28+00:00",
+      "topic": "AI overview",
+      "summary": "Muse's AI can now place outbound calls to US businesses — but it's not free."
+    },
+    {
+      "id": "a3e1afb4a33deb1bb631451a",
+      "title": "Google’s new Gemini model is better at understanding complicated questions",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+      "source": "The Verge",
+      "published": "2026-11-12T21:55:32+00:00",
+      "topic": "Models & research",
+      "summary": "Google says its new\nGemini 4 Hydrogen\nmodel can give more helpful answers to complex questions, including \"questions with multiple parts, hard-to-understand typos, or highly specific requests.\" The new model can break down your questions and address each part in its responses. It's\navailable starting today\nin search, the Gemini app, all tiers of Google AI…"
+    },
+    {
+      "id": "07a62a8bb6b160cd51f5174a",
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "source": "TechCrunch",
+      "published": "2026-11-12T21:35:00+00:00",
+      "topic": "Hardware",
+      "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure."
+    },
+    {
+      "id": "9f9ef1f7c9cc007bd12568f5",
+      "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+      "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+      "source": "TechCrunch",
+      "published": "2026-11-12T21:27:10+00:00",
+      "topic": "Business",
+      "summary": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model."
+    },
+    {
+      "id": "eeb3027690b25fcf558b3727",
+      "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+      "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+      "source": "MIT Technology Review",
+      "published": "2026-11-12T20:16:24+00:00",
+      "topic": "Hardware",
+      "summary": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told\nMIT Technology Review\nin an interview on Thursday, even while an industry group claimed they were “potentially infeasible.”\nFoster, a Democrat who serves on the…"
+    },
+    {
+      "id": "a20d1e6a0e529bc1715f1ee0",
+      "title": "No, AI agents did not discover a previously unknown Maya site",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
+      "source": "The Verge",
+      "published": "2026-11-12T19:42:40+00:00",
+      "topic": "Products & tools",
+      "summary": "Armed with a team of AI agents, Google researcher Pietro Miotti claimed earlier this week to have discovered a potentially unmapped Maya site in Mexico. There was just one problem: The site had already been discovered and was published in an academic journal last year."
+    },
+    {
+      "id": "76f0f9d265ce6e4d1e1fa545",
+      "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
+      "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
+      "source": "TechCrunch",
+      "published": "2026-11-12T19:27:45+00:00",
+      "topic": "Models & research",
+      "summary": "Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses."
+    },
+    {
+      "id": "5e287749a052919098f3627a",
+      "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+      "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+      "source": "TechCrunch",
+      "published": "2026-11-12T19:11:00+00:00",
+      "topic": "Products & tools",
+      "summary": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results."
+    },
+    {
       "id": "bd79903a17a4b8df7ffd328a",
       "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
       "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
       "source": "TechCrunch",
       "published": "2026-11-12T18:39:23+00:00",
       "topic": "Hardware",
-      "summary": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open-source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition."
+      "summary": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition."
     },
     {
       "id": "ce1eab2bbb5c79a9e4f64049",
@@ -107,15 +179,6 @@
       "published": "2026-11-12T15:02:28+00:00",
       "topic": "AI overview",
       "summary": "This is Fireworks' second data breach in as many months."
-    },
-    {
-      "id": "07a62a8bb6b160cd51f5174a",
-      "title": "The unfolding Jensen Huang scandal: a timeline",
-      "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "source": "TechCrunch",
-      "published": "2026-11-12T14:30:01+00:00",
-      "topic": "Hardware",
-      "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure."
     },
     {
       "id": "49ac9311c7b4233f04bc0254",
@@ -2636,87 +2699,24 @@
       "published": "2026-10-22T18:43:53+00:00",
       "topic": "Models & research",
       "summary": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself."
-    },
-    {
-      "id": "ee144e79e7d9cf2133686f07",
-      "title": "In Meta’s version of the future, I’ll have my Muse call your Muse",
-      "url": "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network",
-      "source": "The Verge",
-      "published": "2026-10-22T18:15:00+00:00",
-      "topic": "Products & tools",
-      "summary": "Mark Zuckerberg is barrelling toward a future in which an autonomous network of AI agents will run our lives - shopping for us, working for us, talking to other people's AI agents for us. Are humans ready for this very specific and unrelenting vision of a life in which we communicate primarily through bot proxies?"
-    },
-    {
-      "id": "5ddee939d5fa55a3d6e1a343",
-      "title": "Microsoft says its AI tool is better than doctors at diagnosing conditions",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence",
-      "source": "The Verge",
-      "published": "2026-10-22T18:00:00+00:00",
-      "topic": "Products & tools",
-      "summary": "For years, AI leaders have touted healthcare as one of the clearest examples of where their technology will improve lives. Now \"it is finally here,\" Microsoft AI CEO Mustafa Suleyman tells\nThe Verge\n."
-    },
-    {
-      "id": "c7b5ab6ad70c88c97d83a535",
-      "title": "Someone hacked the Switch 2 by using an old game and AI",
-      "url": "https://www.theverge.com/games/1016862/nintendo-switch-2-jailbreak-ai",
-      "source": "The Verge",
-      "published": "2026-10-22T17:21:31+00:00",
-      "topic": "AI overview",
-      "summary": "i jailbroke the nintendo switch 2so i modded cinnamoroll, peter griffin, hatsune miku, and more into Mario Kart World, a switch 2 exclusivenow watch my friends and i get cooked by botslearn more and get the exploit\nhttps://t.co/ykjgyfrFRp\npic.twitter.com/BOcFhejRz1\n- pepsipu (@pepsipu)\nOctober 22, 2026"
-    },
-    {
-      "id": "6af0fd42e696c932c3bba7c8",
-      "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
-      "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
-      "source": "TechCrunch",
-      "published": "2026-10-22T16:47:17+00:00",
-      "topic": "Products & tools",
-      "summary": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers."
-    },
-    {
-      "id": "6d8c30677ef69bab4819d2fe",
-      "title": "Wildwood’s director says AI is ‘antithetical to everything that we are at this studio’",
-      "url": "https://www.theverge.com/entertainment/1016647/wildwood-travis-knight-interview-ai-laika-stop-motion",
-      "source": "The Verge",
-      "published": "2026-10-22T16:16:15+00:00",
-      "topic": "Products & tools",
-      "summary": "Wildwood\nis the most ambitious film yet from Laika, the stop-motion studio best known for the likes of\nCoraline\nand\nParaNorman\n. It's a sprawling fantasy adventure that took five years to complete."
-    },
-    {
-      "id": "9fdd22fa30fbdf82a9dd441c",
-      "title": "Uber puts all 30,000 employees on ChatGPT Work",
-      "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
-      "source": "TechCrunch",
-      "published": "2026-10-22T16:00:00+00:00",
-      "topic": "Products & tools",
-      "summary": "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide."
-    },
-    {
-      "id": "923baa0debc108433ed2d7e1",
-      "title": "OpenAI, Anthropic, and Nvidia had record lobbying quarters",
-      "url": "https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records",
-      "source": "The Verge",
-      "published": "2026-10-22T15:50:30+00:00",
-      "topic": "Hardware",
-      "summary": "It was a busy summer for AI lobbyists. Anthropic, OpenAI, and Nvidia each had their highest-spending lobbying quarter between July and September, federal disclosures show."
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-11-12T18:43:19.193435+00:00",
+      "checked": "2026-11-12T23:59:07.143700+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-11-12T18:43:19.193435+00:00",
+      "checked": "2026-11-12T23:59:07.143700+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-11-12T18:43:19.193435+00:00",
+      "checked": "2026-11-12T23:59:07.143700+00:00",
       "error": null
     }
   ],
-  "updated": "2026-11-12T18:43:19.193435+00:00"
+  "updated": "2026-11-12T23:59:07.143700+00:00"
 }
