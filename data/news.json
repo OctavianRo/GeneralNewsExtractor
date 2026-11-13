@@ -2,12 +2,12 @@
   "articles": [
     {
       "id": "ca2f28331a6de25aeb308571",
-      "title": "Muse can now place calls to U.S. businesses — if you pay",
+      "title": "Muse can now place calls to US businesses — if you pay",
       "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
       "source": "TechCrunch",
       "published": "2026-11-12T22:22:28+00:00",
       "topic": "AI overview",
-      "summary": "Muse's AI can now place outbound calls to US businesses — but it's not free."
+      "summary": "Muse's AI can now place outbound calls to U.S. businesses — but it's not free."
     },
     {
       "id": "a3e1afb4a33deb1bb631451a",
@@ -2704,19 +2704,19 @@
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-11-12T23:59:07.143700+00:00",
+      "checked": "2026-11-13T10:38:46.990343+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-11-12T23:59:07.143700+00:00",
+      "checked": "2026-11-13T10:38:46.990343+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-11-12T23:59:07.143700+00:00",
+      "checked": "2026-11-13T10:38:46.990343+00:00",
       "error": null
     }
   ],
-  "updated": "2026-11-12T23:59:07.143700+00:00"
+  "updated": "2026-11-13T10:38:46.990343+00:00"
 }
