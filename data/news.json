@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "cd336cbdb7962f39cc94b911",
+      "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+      "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+      "source": "TechCrunch",
+      "published": "2026-11-13T16:00:12+00:00",
+      "topic": "Products & tools",
+      "summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers."
+    },
+    {
+      "id": "73b823aa24f5b8c88ebe2281",
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "source": "TechCrunch",
+      "published": "2026-11-13T15:58:00+00:00",
+      "topic": "Hardware",
+      "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure."
+    },
+    {
+      "id": "0acc674430dfd202ca5a420e",
+      "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
+      "source": "The Verge",
+      "published": "2026-11-13T14:00:00+00:00",
+      "topic": "Models & research",
+      "summary": "Let’s get to work. | Photo: Allison Johnson / The Verge\nNormally, the products I test don't offer to help me write up my experience with them."
+    },
+    {
+      "id": "cea0e000c38dfa2e29789a1c",
+      "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
+      "url": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
+      "source": "TechCrunch",
+      "published": "2026-11-13T12:52:19+00:00",
+      "topic": "Hardware",
+      "summary": "Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure."
+    },
+    {
+      "id": "b790ef257fc3d1721f2b1f33",
+      "title": "Let’s talk about Jensen Huang’s many affairs!",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow",
+      "source": "The Verge",
+      "published": "2026-11-13T12:00:00+00:00",
+      "topic": "Hardware",
+      "summary": "Usually, we'd be offering to answer your questions about a news event, but honestly we don't really have any answers about what the hell is going on over at Nvidia. I can't speak for Nilay but\nat the rate Jensen Huang's new mistresses are dropping,\nI am concerned we are approaching\nan affair Singularity\n."
+    },
+    {
       "id": "ca2f28331a6de25aeb308571",
       "title": "Muse can now place calls to US businesses — if you pay",
       "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
@@ -2654,69 +2699,24 @@
       "published": "2026-10-22T21:17:29+00:00",
       "topic": "Models & research",
       "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift."
-    },
-    {
-      "id": "32b3170e24109d9a6879a006",
-      "title": "Meta’s AI could still scrape news sites, legal experts say",
-      "url": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
-      "source": "The Verge",
-      "published": "2026-10-22T20:32:05+00:00",
-      "topic": "Models & research",
-      "summary": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like\nThe Verge\n- but legal experts say these changes aren't enough to address their concerns. \"This does nothing to restrict the 'associated with your products or services' [language] that would let Meta scrape entire sites,\" James…"
-    },
-    {
-      "id": "264af0525447e45c75f4bb6b",
-      "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
-      "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
-      "source": "TechCrunch",
-      "published": "2026-10-22T19:07:09+00:00",
-      "topic": "Products & tools",
-      "summary": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts."
-    },
-    {
-      "id": "9053b1f287d8b411ac917103",
-      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-      "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
-      "source": "TechCrunch",
-      "published": "2026-10-22T19:00:00+00:00",
-      "topic": "Models & research",
-      "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?"
-    },
-    {
-      "id": "285861fa05fad723e31f9f3e",
-      "title": "The Foundations of Scalable AI",
-      "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
-      "source": "MIT Technology Review",
-      "published": "2026-10-22T18:48:04+00:00",
-      "topic": "Models & research",
-      "summary": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one."
-    },
-    {
-      "id": "5595c812cd34051e71017df9",
-      "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
-      "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
-      "source": "TechCrunch",
-      "published": "2026-10-22T18:43:53+00:00",
-      "topic": "Models & research",
-      "summary": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself."
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-11-13T10:38:46.990343+00:00",
+      "checked": "2026-11-13T18:25:33.305292+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-11-13T10:38:46.990343+00:00",
+      "checked": "2026-11-13T18:25:33.305292+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-11-13T10:38:46.990343+00:00",
+      "checked": "2026-11-13T18:25:33.305292+00:00",
       "error": null
     }
   ],
-  "updated": "2026-11-13T10:38:46.990343+00:00"
+  "updated": "2026-11-13T18:25:33.305292+00:00"
 }
