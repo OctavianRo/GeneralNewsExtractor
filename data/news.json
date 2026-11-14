@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "id": "6c2539c06ead4df205307d96",
+      "title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
+      "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+      "source": "The Verge",
+      "published": "2026-11-14T15:00:00+00:00",
+      "topic": "Models & research",
+      "summary": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life."
+    },
+    {
       "id": "96048276e5de0ccf8cbe79a8",
       "title": "Amazon has a plan to index the world’s online shopping data",
       "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
@@ -2690,33 +2699,24 @@
       "published": "2026-10-23T14:47:41+00:00",
       "topic": "Business",
       "summary": "Meta is delaying the enforcement of its new business terms after publishers raised concerns that they could allow the company to scrape news sites for AI training, as\nreported earlier by\nFast Company\n. In a statement to\nThe Verge\n, Meta spokesperson Daniel Roberts says the terms will go into effect on November 20th \"to allow more time for us to explain to…"
-    },
-    {
-      "id": "4958c298c837622190856639",
-      "title": "Retro gaming is being overrun with AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port",
-      "source": "The Verge",
-      "published": "2026-10-23T12:00:00+00:00",
-      "topic": "Products & tools",
-      "summary": "Retro video games are everywhere lately - especially in places where they aren't supposed to be. Halo\nin a web browser\n,\nWind Waker\non the iPhone\n,\nSuper Smash Bros."
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-11-14T09:52:16.297861+00:00",
+      "checked": "2026-11-14T16:51:54.470581+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-11-14T09:52:16.297861+00:00",
+      "checked": "2026-11-14T16:51:54.470581+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-11-14T09:52:16.297861+00:00",
+      "checked": "2026-11-14T16:51:54.470581+00:00",
       "error": null
     }
   ],
-  "updated": "2026-11-14T09:52:16.297861+00:00"
+  "updated": "2026-11-14T16:51:54.470581+00:00"
 }
