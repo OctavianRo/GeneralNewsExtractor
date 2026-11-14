@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "96048276e5de0ccf8cbe79a8",
+      "title": "Amazon has a plan to index the world’s online shopping data",
+      "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+      "source": "The Verge",
+      "published": "2026-11-13T23:49:11+00:00",
+      "topic": "Products & tools",
+      "summary": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to\nReuters\n. The project, called the \"World Product Graph,\" is meant to make it less likely that shoppers leave Amazon to do their product research on Reddit or…"
+    },
+    {
+      "id": "a53b6d6797d1d8cee9d094bf",
+      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "source": "TechCrunch",
+      "published": "2026-11-13T22:43:00+00:00",
+      "topic": "Business",
+      "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations."
+    },
+    {
+      "id": "754f24889ed9e00a6da88e40",
+      "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+      "source": "The Verge",
+      "published": "2026-11-13T20:45:10+00:00",
+      "topic": "Products & tools",
+      "summary": "After adding a card to the wallet, your Dots agents can use it to buy things in response to your prompts, but they'll check in with you each time before checking out. OpenAI's\nsupport page\nsays every purchase with ChatGPT Wallet requires a security check with biometric verification like Face ID or a fingerprint scan."
+    },
+    {
+      "id": "b96c8f1ce3eaba55d8f9d7ee",
+      "title": "AI agent startup LangChain hits $3B valuation",
+      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+      "source": "TechCrunch",
+      "published": "2026-11-13T19:37:57+00:00",
+      "topic": "Products & tools",
+      "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith."
+    },
+    {
+      "id": "6669a4d19d8d97224289adfc",
+      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+      "source": "TechCrunch",
+      "published": "2026-11-13T18:40:30+00:00",
+      "topic": "Hardware",
+      "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips."
+    },
+    {
       "id": "cd336cbdb7962f39cc94b911",
       "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
       "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
@@ -2654,69 +2699,24 @@
       "published": "2026-10-23T12:00:00+00:00",
       "topic": "Products & tools",
       "summary": "Retro video games are everywhere lately - especially in places where they aren't supposed to be. Halo\nin a web browser\n,\nWind Waker\non the iPhone\n,\nSuper Smash Bros."
-    },
-    {
-      "id": "cf51e24baa15d2e11b32351f",
-      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
-      "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
-      "source": "TechCrunch",
-      "published": "2026-10-23T04:00:00+00:00",
-      "topic": "Hardware",
-      "summary": "The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027."
-    },
-    {
-      "id": "fee5d6bca690475f34839095",
-      "title": "Left alone with nothing to do, AI agents started playing",
-      "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
-      "source": "TechCrunch",
-      "published": "2026-10-23T00:45:37+00:00",
-      "topic": "Products & tools",
-      "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs."
-    },
-    {
-      "id": "0e6b7b9249b2f756123357b0",
-      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
-      "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
-      "source": "TechCrunch",
-      "published": "2026-10-22T22:08:24+00:00",
-      "topic": "Business",
-      "summary": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever."
-    },
-    {
-      "id": "5eee804247a435ab2dffe426",
-      "title": "Canva’s first AI image model plans designs before generating them",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
-      "source": "The Verge",
-      "published": "2026-10-22T21:51:25+00:00",
-      "topic": "Models & research",
-      "summary": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model,\ncalled Canva Craft\n, uses a two-stage architecture that allows it to plan a design before generating an image, allowing for \"greater precision, consistency and control,\" according to\nan…"
-    },
-    {
-      "id": "c8127c2e57511fe8aa99e119",
-      "title": "Designing an AI serving harness built to last",
-      "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
-      "source": "MIT Technology Review",
-      "published": "2026-10-22T21:17:29+00:00",
-      "topic": "Models & research",
-      "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift."
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-11-13T18:25:33.305292+00:00",
+      "checked": "2026-11-14T00:13:19.060703+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-11-13T18:25:33.305292+00:00",
+      "checked": "2026-11-14T00:13:19.060703+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-11-13T18:25:33.305292+00:00",
+      "checked": "2026-11-14T00:13:19.060703+00:00",
       "error": null
     }
   ],
-  "updated": "2026-11-13T18:25:33.305292+00:00"
+  "updated": "2026-11-14T00:13:19.060703+00:00"
 }
