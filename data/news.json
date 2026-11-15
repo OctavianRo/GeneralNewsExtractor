@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "9bfb2ab667837ec0affdf83f",
+      "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+      "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+      "source": "TechCrunch",
+      "published": "2026-11-15T21:56:35+00:00",
+      "topic": "Hardware",
+      "summary": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\""
+    },
+    {
+      "id": "6c2c64409dfbba0f00e1fc81",
+      "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+      "source": "The Verge",
+      "published": "2026-11-15T19:15:43+00:00",
+      "topic": "Hardware",
+      "summary": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have voiced support for various measures and bills that would tighten rules and have demanded that Huang and other Nvidia leaders testify before Congress."
+    },
+    {
       "id": "13482003797f2776b71cf048",
       "title": "An overview of Jensen Huang’s messy days",
       "url": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
@@ -2681,42 +2699,24 @@
       "published": "2026-10-23T21:11:07+00:00",
       "topic": "Models & research",
       "summary": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In\na blog post on Friday\n, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web content \"without risk of affecting external systems.\""
-    },
-    {
-      "id": "60b56cc3037dbda3a95126cc",
-      "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
-      "source": "The Verge",
-      "published": "2026-10-23T19:32:39+00:00",
-      "topic": "Models & research",
-      "summary": "Take\nthis one\n, for example, shared by Dessa lead Ragavan Thurairatnam. The conversation between the model and the speaker does have a mostly natural back and forth (though for some reason, the model initially mistakes the speaker for somebody named \"Ronaldo\")."
-    },
-    {
-      "id": "6f6451b374ed58f7d87c482b",
-      "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
-      "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
-      "source": "TechCrunch",
-      "published": "2026-10-23T19:06:23+00:00",
-      "topic": "Business",
-      "summary": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside traditional startup hubs."
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-11-15T17:35:39.990013+00:00",
+      "checked": "2026-11-15T23:19:39.310643+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-11-15T17:35:39.990013+00:00",
+      "checked": "2026-11-15T23:19:39.310643+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-11-15T17:35:39.990013+00:00",
+      "checked": "2026-11-15T23:19:39.310643+00:00",
       "error": null
     }
   ],
-  "updated": "2026-11-15T17:35:39.990013+00:00"
+  "updated": "2026-11-15T23:19:39.310643+00:00"
 }
