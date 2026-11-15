@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "id": "13482003797f2776b71cf048",
+      "title": "An overview of Jensen Huang’s messy days",
+      "url": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
+      "source": "The Verge",
+      "published": "2026-11-15T13:00:00+00:00",
+      "topic": "Policy & safety",
+      "summary": "On October 29th,\nThe New York Times\nreported that Nvidia co-founder and\nshowman\nCEO Jensen Huang\nappeared to be the target\nof a Chinese spy plot. Any major tech CEO potentially being compromised by the Chinese government is concerning - especially Jensen Huang."
+    },
+    {
       "id": "0dac5bc8bd77a78df1260cd1",
       "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
       "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
@@ -2690,33 +2699,24 @@
       "published": "2026-10-23T19:06:23+00:00",
       "topic": "Business",
       "summary": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside traditional startup hubs."
-    },
-    {
-      "id": "a9526976eeebfbfe11f723ec",
-      "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
-      "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
-      "source": "The Verge",
-      "published": "2026-10-23T16:52:55+00:00",
-      "topic": "Policy & safety",
-      "summary": "Google has updated\nits privacy policy\nin a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by\nAndroid Authority\n, adds an exception to its promise about not using your Drive, Gmail, or Google Photos for personalized ads."
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-11-15T10:28:33.854471+00:00",
+      "checked": "2026-11-15T17:35:39.990013+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-11-15T10:28:33.854471+00:00",
+      "checked": "2026-11-15T17:35:39.990013+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-11-15T10:28:33.854471+00:00",
+      "checked": "2026-11-15T17:35:39.990013+00:00",
       "error": null
     }
   ],
-  "updated": "2026-11-15T10:28:33.854471+00:00"
+  "updated": "2026-11-15T17:35:39.990013+00:00"
 }
