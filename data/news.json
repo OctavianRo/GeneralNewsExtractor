@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "id": "a22318abd9f9f9471832e6b6",
+      "title": "Apple launches new app to study how people use AI for health",
+      "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+      "source": "TechCrunch",
+      "published": "2026-11-16T01:30:00+00:00",
+      "topic": "Products & tools",
+      "summary": "Apple's new app for a study will answer everyday medical questions"
+    },
+    {
+      "id": "c57d5fdb338c13ebb4994b05",
+      "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
+      "url": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+      "source": "The Verge",
+      "published": "2026-11-16T01:26:56+00:00",
+      "topic": "Products & tools",
+      "summary": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The company is conducting the Apple Health AI Usage Study in collaboration with\nOpenEvidence\n, a clinical AI platform used by healthcare professionals that generates answers based on…"
+    },
+    {
+      "id": "04196bef9b67627d8cc938f7",
+      "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+      "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+      "source": "TechCrunch",
+      "published": "2026-11-15T23:30:00+00:00",
+      "topic": "Business",
+      "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics."
+    },
+    {
       "id": "9bfb2ab667837ec0affdf83f",
       "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
       "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
@@ -2672,51 +2699,24 @@
       "published": "2026-10-24T15:00:00+00:00",
       "topic": "Models & research",
       "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races."
-    },
-    {
-      "id": "ba1e969f5ed16b52b1196083",
-      "title": "Here are the top AI agents that can live in your text messages",
-      "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "source": "TechCrunch",
-      "published": "2026-10-24T14:00:00+00:00",
-      "topic": "Products & tools",
-      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
-    },
-    {
-      "id": "dfe5fb536ca517ba2b1e8957",
-      "title": "OpenAI says it will no longer train its AI models on the live internet, citing ‘significant risks’",
-      "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-      "source": "TechCrunch",
-      "published": "2026-10-23T23:05:49+00:00",
-      "topic": "Models & research",
-      "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work."
-    },
-    {
-      "id": "a6d2d5fdb7657f8a34ec9e61",
-      "title": "OpenAI now trains its frontier AI models with no internet access",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
-      "source": "The Verge",
-      "published": "2026-10-23T21:11:07+00:00",
-      "topic": "Models & research",
-      "summary": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In\na blog post on Friday\n, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web content \"without risk of affecting external systems.\""
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-11-15T23:19:39.310643+00:00",
+      "checked": "2026-11-16T10:44:03.745874+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-11-15T23:19:39.310643+00:00",
+      "checked": "2026-11-16T10:44:03.745874+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-11-15T23:19:39.310643+00:00",
+      "checked": "2026-11-16T10:44:03.745874+00:00",
       "error": null
     }
   ],
-  "updated": "2026-11-15T23:19:39.310643+00:00"
+  "updated": "2026-11-16T10:44:03.745874+00:00"
 }
