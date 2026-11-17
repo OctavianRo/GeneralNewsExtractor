@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "id": "1cdd7a082303f93b19f528a9",
+      "title": "Daydream’s new AI agent acts as your personal stylist — and can shop for you, too",
+      "url": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/",
+      "source": "TechCrunch",
+      "published": "2026-11-17T16:32:55+00:00",
+      "topic": "Products & tools",
+      "summary": "Daydream's new AI shopping agent can remember your style, virtually try on clothes, plan outfits around your wardrobe, track sales, and complete purchases."
+    },
+    {
+      "id": "4ec6ed4a696566010a8aebc9",
+      "title": "Voyage Labs raises $12 million for a specialized AI travel assistant",
+      "url": "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/",
+      "source": "TechCrunch",
+      "published": "2026-11-17T15:00:00+00:00",
+      "topic": "Products & tools",
+      "summary": "Voyage Labs’ flagship product is called Atlas, meant to work as a personal assistant for your trip-planning, available today in private beta."
+    },
+    {
+      "id": "c4b7e80cb7863d47f187dd47",
+      "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
+      "url": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
+      "source": "TechCrunch",
+      "published": "2026-11-17T14:50:58+00:00",
+      "topic": "Business",
+      "summary": "Isomorphic Labs, the AI drug-discovery platform that was spun out of Google’s DeepMind in 2021, has raised $5 Billion in a Series C funding round."
+    },
+    {
       "id": "24baf68da2c147d6568a9bc4",
       "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
       "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
@@ -2672,51 +2699,24 @@
       "published": "2026-10-27T01:12:21+00:00",
       "topic": "Models & research",
       "summary": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI."
-    },
-    {
-      "id": "b555ce2afa55383d5d6c0fd9",
-      "title": "OpenAI announces three big science discoveries and a new way to work with academics",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
-      "source": "The Verge",
-      "published": "2026-10-26T23:34:58+00:00",
-      "topic": "AI overview",
-      "summary": "Less than a month after its\nmass release of hundreds of manuscripts\nthat it said contained solutions to long-standing mathematics questions, OpenAI is back with\nthree more \"major\" discoveries in math, computer science, and physics\n. What's different this time is the choice to have external experts that OpenAI describes as \"shepherds\" guiding the results in…"
-    },
-    {
-      "id": "092e8ceea2bd79fc970f45ee",
-      "title": "Anthropic is burning gas to feed the AI boom",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
-      "source": "The Verge",
-      "published": "2026-10-26T21:45:31+00:00",
-      "topic": "Hardware",
-      "summary": "In documents filed with the US Securities and Exchange Commission Monday, Anthropic acknowledges that data centers are becoming increasingly reliant on \"natural gas\" - the fossil fuel industry's\nmarketing term\nfor what is primarily methane - leaving the company's AI data center buildout vulnerable to rising fuel costs and existing supply chain constraints.…"
-    },
-    {
-      "id": "a7f46c4aaa0095afdf65864b",
-      "title": "Will the real Anthropic please stand up",
-      "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
-      "source": "MIT Technology Review",
-      "published": "2026-10-26T17:45:43+00:00",
-      "topic": "Policy & safety",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\nsign up here\n."
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-11-17T04:58:31.693065+00:00",
+      "checked": "2026-11-17T16:44:46.798490+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-11-17T04:58:31.693065+00:00",
+      "checked": "2026-11-17T16:44:46.798490+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-11-17T04:58:31.693065+00:00",
+      "checked": "2026-11-17T16:44:46.798490+00:00",
       "error": null
     }
   ],
-  "updated": "2026-11-17T04:58:31.693065+00:00"
+  "updated": "2026-11-17T16:44:46.798490+00:00"
 }
