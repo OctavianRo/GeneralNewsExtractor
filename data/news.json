@@ -1,13 +1,22 @@
 {
   "articles": [
     {
+      "id": "24baf68da2c147d6568a9bc4",
+      "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+      "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+      "source": "TechCrunch",
+      "published": "2026-11-16T23:32:32+00:00",
+      "topic": "Business",
+      "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA."
+    },
+    {
       "id": "5eb97c34dc0bb0175914168e",
       "title": "California sues OpenAI over rogue AI hacking incidents",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
       "source": "The Verge",
       "published": "2026-11-16T20:46:01+00:00",
       "topic": "Policy & safety",
-      "summary": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In\na lawsuit on Monday\n, Attorney General\nRob Bonta accuses\nOpenAI of violating consumer safety law by knowingly developing a \"dangerous product without proper oversight,\"\nas reported earlier by\nReuters\n."
+      "summary": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In\na lawsuit filed Monday\n, Attorney General\nRob Bonta accuses\nOpenAI of violating consumer safety law by knowingly developing a \"dangerous product without proper oversight,\"\nas reported earlier by\nReuters\n."
     },
     {
       "id": "57cc1ea3d3bbd2bf579116d3",
@@ -16,7 +25,7 @@
       "source": "TechCrunch",
       "published": "2026-11-16T20:07:13+00:00",
       "topic": "Products & tools",
-      "summary": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident"
+      "summary": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident."
     },
     {
       "id": "c358f6a12927d5b0c7a2a350",
@@ -47,7 +56,7 @@
     },
     {
       "id": "5a338c56f325da9cb4008695",
-      "title": "Sam Altman on Nvidia without Jensen Huang: the industry will be ‘fine’",
+      "title": "Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’",
       "url": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
       "source": "TechCrunch",
       "published": "2026-11-16T18:11:10+00:00",
@@ -56,12 +65,12 @@
     },
     {
       "id": "04075f0baa85bb63e6bf1841",
-      "title": "FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’",
+      "title": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
       "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
       "source": "TechCrunch",
       "published": "2026-11-16T17:36:43+00:00",
       "topic": "Products & tools",
-      "summary": "The FBI says that the open-source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry."
+      "summary": "The FBI says that the open source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry."
     },
     {
       "id": "b6e5102dfbebd3a448d8ccdc",
@@ -88,7 +97,7 @@
       "source": "TechCrunch",
       "published": "2026-11-16T17:00:00+00:00",
       "topic": "Products & tools",
-      "summary": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning"
+      "summary": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning."
     },
     {
       "id": "7f5c627298368a7eb8db5d2f",
@@ -169,7 +178,7 @@
       "source": "TechCrunch",
       "published": "2026-11-16T01:30:00+00:00",
       "topic": "Products & tools",
-      "summary": "Apple's new app for a study will answer everyday medical questions"
+      "summary": "Apple's new app for a study will answer everyday medical questions."
     },
     {
       "id": "c57d5fdb338c13ebb4994b05",
@@ -187,7 +196,7 @@
       "source": "TechCrunch",
       "published": "2026-11-15T23:30:00+00:00",
       "topic": "Business",
-      "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics."
+      "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies, including General Atomics."
     },
     {
       "id": "9bfb2ab667837ec0affdf83f",
@@ -2690,33 +2699,24 @@
       "published": "2026-10-26T17:45:43+00:00",
       "topic": "Policy & safety",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\nsign up here\n."
-    },
-    {
-      "id": "c703d92e74636f36951afe7e",
-      "title": "The RealReal won’t let AI agents hog designer clothing",
-      "url": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
-      "source": "The Verge",
-      "published": "2026-10-26T17:30:55+00:00",
-      "topic": "Products & tools",
-      "summary": "The change comes days after\nThe Verge\nreported\nthat an AI agent could be used to take advantage of The RealReal's item reserve system. On the retailer's website, an item goes \"on hold\" and is unavailable for other customers to buy for 20 minutes once it's placed in a user's shopping cart."
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-11-16T20:49:59.524843+00:00",
+      "checked": "2026-11-17T04:58:31.693065+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-11-16T20:49:59.524843+00:00",
+      "checked": "2026-11-17T04:58:31.693065+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-11-16T20:49:59.524843+00:00",
+      "checked": "2026-11-17T04:58:31.693065+00:00",
       "error": null
     }
   ],
-  "updated": "2026-11-16T20:49:59.524843+00:00"
+  "updated": "2026-11-17T04:58:31.693065+00:00"
 }
