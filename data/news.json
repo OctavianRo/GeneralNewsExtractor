@@ -1,6 +1,159 @@
 {
   "articles": [
     {
+      "id": "aed3ea0dfc61854d1cd692e6",
+      "title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
+      "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+      "source": "TechCrunch",
+      "published": "2026-11-18T22:11:15+00:00",
+      "topic": "AI overview",
+      "summary": "The long-awaited IPO reportedly values the company at $1.5 trillion on fully diluted basis."
+    },
+    {
+      "id": "734339654a32d098c3aef7f5",
+      "title": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’",
+      "url": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/",
+      "source": "TechCrunch",
+      "published": "2026-11-18T21:34:13+00:00",
+      "topic": "AI overview",
+      "summary": "The Anduril co-founder says outdated technology is leaving systems vulnerable to a new wave of AI-enabled attacks."
+    },
+    {
+      "id": "53453b71f99b11c73bbdda07",
+      "title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
+      "url": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/",
+      "source": "TechCrunch",
+      "published": "2026-11-18T19:56:39+00:00",
+      "topic": "Products & tools",
+      "summary": "Lens creators can describe the Lens they want in plain language, and their AI assistant handles the process from start to finish, Snapchat says."
+    },
+    {
+      "id": "d023ba6fde32bc2f03d6e165",
+      "title": "Trump’s latest land grab is an AI hub in the Philippines",
+      "url": "https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica",
+      "source": "The Verge",
+      "published": "2026-11-18T19:40:36+00:00",
+      "topic": "AI overview",
+      "summary": "President Donald Trump was greeted by no less than five beauty queens when he landed in the Philippines on Tuesday,\naccording to local news outlet\nRappler\n. As he\nstepped onto the tarmac\n, a child handed him small US and Philippine flags."
+    },
+    {
+      "id": "7132415e461f71d944225970",
+      "title": "What is Nvidia without AI’s sugar daddy in charge?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1036776/nvidia-earnings-kress-jensen-huang-petition",
+      "source": "The Verge",
+      "published": "2026-11-18T18:34:15+00:00",
+      "topic": "Hardware",
+      "summary": "If the glorious AI revolution rests entirely on the well-being of one man, AI is perhaps not as robust a technology as I had previously been led to believe. Nonetheless, chunks of Silicon Valley are now insisting he is indispensable."
+    },
+    {
+      "id": "13feb5a0d5b21e6a122bd1fc",
+      "title": "Google’s AI feature in Search gets its own incognito mode",
+      "url": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/",
+      "source": "TechCrunch",
+      "published": "2026-11-18T18:04:05+00:00",
+      "topic": "AI overview",
+      "summary": "Google's new temporary threads let users have conversations in AI Mode without adding them to their search history or influencing future recommendations."
+    },
+    {
+      "id": "120da5d8476ca5b48f81943c",
+      "title": "Disney’s new Star Wars animatronics interact with guests using AI",
+      "url": "https://www.theverge.com/tech/1036729/disney-star-wars-anzellans-animatronic-amazon-aws-cloud-ai",
+      "source": "The Verge",
+      "published": "2026-11-18T17:50:57+00:00",
+      "topic": "AI overview",
+      "summary": "As advanced and\nlifelike as the animatronic characters\nat Disney parks have become, they typically either stick to predefined movements and routines, or there's an\nout of sight puppeteer\nhelping make their behavior appear more spontaneous. That could soon change as\nWalt Disney Imagineering R&D\nhas revealed\nthree new Audio-Animatronic prototypes\nthat rely on…"
+    },
+    {
+      "id": "663072a237570232a4eced6e",
+      "title": "More banks say customers using AI agents are on their own — even if they get hacked",
+      "url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
+      "source": "TechCrunch",
+      "published": "2026-11-18T17:32:10+00:00",
+      "topic": "Products & tools",
+      "summary": "Citi is the latest major financial institution to put the breaks on personal finance AI agents."
+    },
+    {
+      "id": "d83fee4011ac317b0a62c64c",
+      "title": "Sam Altman warns against a future where AI, not humans, calls the shots",
+      "url": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/",
+      "source": "TechCrunch",
+      "published": "2026-11-18T16:59:00+00:00",
+      "topic": "Models & research",
+      "summary": "Sam Altman and Greg Brockman pushed back against Silicon Valley's growing debate over an AI takeover, while acknowledging the challenges of keeping advanced models under human control."
+    },
+    {
+      "id": "eaeb1e564c509a5a9ad387a4",
+      "title": "OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’",
+      "url": "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/",
+      "source": "TechCrunch",
+      "published": "2026-11-18T16:14:09+00:00",
+      "topic": "Hardware",
+      "summary": "Nvidia founder and former CEO Jensen Huang stepped down last week amid several scandals, including an affair with an alleged Chinese spy."
+    },
+    {
+      "id": "4270e297502a029b32d7c31b",
+      "title": "Remember the frontier AI pause? Chip companies don’t either",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models",
+      "source": "The Verge",
+      "published": "2026-11-18T15:44:02+00:00",
+      "topic": "Hardware",
+      "summary": "Nvidia began shipping its most advanced AI computing system, the Vera Rubin NVL72, calling it the “fastest product ramp in the company’s history.” | Image: Nvidia\nThis summer, OpenAI\npaused its largest planned frontier training run\nafter its AI agents\naccidentally hacked Hugging Face\nand early evidence suggested that its next model could independently find…"
+    },
+    {
+      "id": "76a160b2736ec6d054a32164",
+      "title": "The AI Hype Index: AI is everywhere",
+      "url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
+      "source": "MIT Technology Review",
+      "published": "2026-11-18T14:42:44+00:00",
+      "topic": "AI overview",
+      "summary": "You go to the movies and see\nSam Altman\nbeing played with nauseating intensity by Andrew Garfield, and go back home to find that Elon Musk has released a\nGrok-fied version of\nThe Odyssey\n. You try to watch it, but it feels like a long, unskippable mobile ad."
+    },
+    {
+      "id": "ddf152f6d3b592a40ce9a00b",
+      "title": "Will Wright’s next game uses AI to map your memories",
+      "url": "https://www.theverge.com/games/1036140/will-wright-mymems-ai-game-interview",
+      "source": "The Verge",
+      "published": "2026-11-18T14:00:00+00:00",
+      "topic": "AI overview",
+      "summary": "The\nMyMems\nwebsite\ndescribes the mobile game as a \"social simulation\" with worlds \"built from your memories and the people who shaped you.\" You can add \"memories\" to your game, like speaking a short story to your phone, and those memories are ge …"
+    },
+    {
+      "id": "fcf93c416202eb38a45dd0e1",
+      "title": "Nvidia isn’t selling any more AI chips to China",
+      "url": "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling",
+      "source": "The Verge",
+      "published": "2026-11-18T13:01:05+00:00",
+      "topic": "Hardware",
+      "summary": "\"Our guidance ⁠does not have any licensed Hopper data center products included, and we are no longer shipping ​licenced Hopper data center products to China,\"\nKress said\n. She did not explain why Nvidia was ceasing its H200 processor shipments or …"
+    },
+    {
+      "id": "00b7a83010aaeca9a87572c3",
+      "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
+      "url": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/",
+      "source": "TechCrunch",
+      "published": "2026-11-18T12:00:00+00:00",
+      "topic": "Products & tools",
+      "summary": "With a team of just seven, Unsiloed AI plans to compete with tech giants and specialized startups in the crowded AI document-processing market."
+    },
+    {
+      "id": "7910f56b348bc37fcbcc0743",
+      "title": "India’s Humyn Labs raises $47M to feed US robotics companies the data they need",
+      "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
+      "source": "TechCrunch",
+      "published": "2026-11-18T11:30:00+00:00",
+      "topic": "Business",
+      "summary": "Founded in February, Humyn Labs competes with startups such as Mecka AI and XDOF, with about 90% of its revenue coming from the U.S."
+    },
+    {
+      "id": "942518637ca001c7d15439b6",
+      "title": "Suno now lets you make AI videos for your AI music",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1036415/suno-visuals-ai-generated-video-images-feature",
+      "source": "The Verge",
+      "published": "2026-11-18T11:16:53+00:00",
+      "topic": "AI overview",
+      "summary": "Suno has introduced image and video generation in its latest effort to expand beyond being an AI music platform. The new feature,\ncalled \"Visuals,\"\nallows users to turn Suno songs into AI-generated video clips that automatically lipsync to lyrics, or make images via prompt descriptions that can be used as thumbnails and album artwork."
+    },
+    {
       "id": "0443a0c6c8ceb7b93dc594a7",
       "title": "This smell startup says its AI nose is as good as a human’s",
       "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
@@ -2546,177 +2699,24 @@
       "published": "2026-10-28T17:00:00+00:00",
       "topic": "AI overview",
       "summary": "The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission."
-    },
-    {
-      "id": "dc7790b3a03a16cfe3a5e172",
-      "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
-      "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
-      "source": "TechCrunch",
-      "published": "2026-10-28T17:00:00+00:00",
-      "topic": "Products & tools",
-      "summary": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps."
-    },
-    {
-      "id": "db30df4bb3be374c702132d6",
-      "title": "Chrome’s enhanced autofill can now pull info from Gmail to help you fill out forms",
-      "url": "https://www.theverge.com/tech/1020626/chrome-enhanced-autofill-gmail-forms-gemini-personal-intelligence",
-      "source": "The Verge",
-      "published": "2026-10-28T17:00:00+00:00",
-      "topic": "Models & research",
-      "summary": "Following improvements made to Chrome's enhanced autofill last year that included your name,\npassport number\n, email address, and physical addresses\nsourced from your Google Accounts\nand services like Google Wallet, the feature is now expanding. Starting today, Chrome's enhanced autofill will use Gemini with Personal Intelligence to suggest information…"
-    },
-    {
-      "id": "1583c560106073a3e7c93605",
-      "title": "Meta says it’ll probably delay its controversial new business terms again",
-      "url": "https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely",
-      "source": "The Verge",
-      "published": "2026-10-28T16:15:30+00:00",
-      "topic": "Policy & safety",
-      "summary": "Meta says it may push the implementation of its new business terms past November 20th as it faces backlash from publishers over concerns about AI training. In\na post on X\n, Meta communications head Andy Stone said the company does \"not plan to make policy changes without a full consultation with industry groups and leaders.\""
-    },
-    {
-      "id": "c3f3cbf4e178e82211eb43f3",
-      "title": "AI execs may be too out of touch to build for the general public",
-      "url": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
-      "source": "TechCrunch",
-      "published": "2026-10-28T15:53:52+00:00",
-      "topic": "AI overview",
-      "summary": "Tech leaders are flaunting how out of touch they are when they brag about using AI to connect with their families."
-    },
-    {
-      "id": "776aed39bd32c423750c0f95",
-      "title": "South Korea’s financial industry hit by fresh wave of cyberattacks",
-      "url": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/",
-      "source": "TechCrunch",
-      "published": "2026-10-28T15:41:18+00:00",
-      "topic": "Policy & safety",
-      "summary": "South Korea’s financial institutions have been hit by another wave of cyberattacks, highlighting the growing risk of AI-driven hacking in Asia."
-    },
-    {
-      "id": "8fd264d14a343cc6ba12ad78",
-      "title": "Voice AI in vogue: Nvidia releases new open transcription model",
-      "url": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
-      "source": "TechCrunch",
-      "published": "2026-10-28T15:00:00+00:00",
-      "topic": "Models & research",
-      "summary": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it’s a big step for meeting and medical transcription tools while still leaving real-time use to rivals like ElevenLabs."
-    },
-    {
-      "id": "e59a3c9fb64c26563abc4b1f",
-      "title": "Pairing industrial AI autonomy and human control",
-      "url": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
-      "source": "MIT Technology Review",
-      "published": "2026-10-28T12:00:00+00:00",
-      "topic": "AI overview",
-      "summary": "No excerpt provided. Read the original article for details."
-    },
-    {
-      "id": "3c84bdc9f1b42a29241020b8",
-      "title": "Meta quietly launched an ‘AI pet journal’ app",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world",
-      "source": "The Verge",
-      "published": "2026-10-28T11:27:30+00:00",
-      "topic": "Products & tools",
-      "summary": "A little friend that listens. A cozy world that's yours."
-    },
-    {
-      "id": "4ba4897dde9b2c1a6b325a71",
-      "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
-      "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
-      "source": "TechCrunch",
-      "published": "2026-10-28T01:15:28+00:00",
-      "topic": "Business",
-      "summary": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic."
-    },
-    {
-      "id": "4c5627bb695205d19ffc196f",
-      "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
-      "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
-      "source": "TechCrunch",
-      "published": "2026-10-27T23:34:27+00:00",
-      "topic": "Models & research",
-      "summary": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February."
-    },
-    {
-      "id": "5b8f2377809f90dcf69cfe60",
-      "title": "The data center boom has an upside: innovation for the US grid",
-      "url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
-      "source": "TechCrunch",
-      "published": "2026-10-27T22:55:41+00:00",
-      "topic": "Hardware",
-      "summary": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say."
-    },
-    {
-      "id": "22c376eb4e78466379a2f976",
-      "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
-      "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
-      "source": "TechCrunch",
-      "published": "2026-10-27T21:44:34+00:00",
-      "topic": "Products & tools",
-      "summary": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access."
-    },
-    {
-      "id": "4f33acf6a2b5045b42df119c",
-      "title": "Who’s really in charge at Anthropic after the IPO?",
-      "url": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
-      "source": "TechCrunch",
-      "published": "2026-10-27T21:38:28+00:00",
-      "topic": "AI overview",
-      "summary": "Here's a clear explanation of Anthropic's incredibly complex governance structure."
-    },
-    {
-      "id": "578f4a1cc2a6a4ecc178ce6a",
-      "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
-      "source": "The Verge",
-      "published": "2026-10-27T20:48:58+00:00",
-      "topic": "AI overview",
-      "summary": "On Monday, OpenAI\nannounced\nimpressive\nbreakthroughs\nin mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite its apparent course correction, researchers who spoke to\nThe Verge\nare growing increasingly tired of the company's antics."
-    },
-    {
-      "id": "373a8b625d1496cb7cd529c3",
-      "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
-      "url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
-      "source": "TechCrunch",
-      "published": "2026-10-27T18:55:35+00:00",
-      "topic": "Business",
-      "summary": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs."
-    },
-    {
-      "id": "b2aff63a03e983b29f98161a",
-      "title": "VisionQuest is what happens when AI really goes rogue",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
-      "source": "The Verge",
-      "published": "2026-10-27T17:30:00+00:00",
-      "topic": "AI overview",
-      "summary": "In Marvel's\nVisionQuest\n, a superpowered robot tries to better understand humanity by getting lost in elaborate, digital daydreams in which he and other artificial intelligence-powered beings live together in a home. The series is deeply fantastical, yet it plays with some of the ideas that have come to dominate the conversation about real-world generative…"
-    },
-    {
-      "id": "24969064b492b7122a6e92b7",
-      "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
-      "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
-      "source": "TechCrunch",
-      "published": "2026-10-27T17:08:08+00:00",
-      "topic": "Models & research",
-      "summary": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery."
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-11-18T11:15:09.915956+00:00",
+      "checked": "2026-11-18T22:29:42.788492+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-11-18T11:15:09.915956+00:00",
+      "checked": "2026-11-18T22:29:42.788492+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-11-18T11:15:09.915956+00:00",
+      "checked": "2026-11-18T22:29:42.788492+00:00",
       "error": null
     }
   ],
-  "updated": "2026-11-18T11:15:09.915956+00:00"
+  "updated": "2026-11-18T22:29:42.788492+00:00"
 }
