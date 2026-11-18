@@ -1,6 +1,96 @@
 {
   "articles": [
     {
+      "id": "d34ce25785fdf87b116dcefd",
+      "title": "Satya Nadella says he’s AGI-pilled now",
+      "url": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
+      "source": "The Verge",
+      "published": "2026-11-17T23:41:18+00:00",
+      "topic": "Models & research",
+      "summary": "Microsoft CEO Satya Nadella on stage at Microsoft Ignite. | Image: Microsoft / YouTube\nMicrosoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of the economy and how politics might change because of it."
+    },
+    {
+      "id": "8339a30c8d70bc4c3f5ca833",
+      "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
+      "source": "TechCrunch",
+      "published": "2026-11-17T23:04:35+00:00",
+      "topic": "Hardware",
+      "summary": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure."
+    },
+    {
+      "id": "c55f92969fc4ef13b604f4b7",
+      "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+      "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+      "source": "TechCrunch",
+      "published": "2026-11-17T22:29:05+00:00",
+      "topic": "AI overview",
+      "summary": "Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher. Google is a close second with holdings of nearly 14%."
+    },
+    {
+      "id": "782245fbd80625eb45b0dda4",
+      "title": "Not even Sam Altman is safe from AI deepfakes on Instagram",
+      "url": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake",
+      "source": "The Verge",
+      "published": "2026-11-17T21:00:55+00:00",
+      "topic": "Products & tools",
+      "summary": "Open AI CEO Sam Altman does a television interview | Getty Images\nInstagram is filled with people posting deepfaked content - including, as of late, from one of Meta's most prominent executives. Earlier in November, Alexandr Wang, Meta's chief AI officer, shared a short clip to promote Muse, the company's consumer AI agent."
+    },
+    {
+      "id": "534361927951e2d99a3b21f1",
+      "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
+      "url": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/",
+      "source": "TechCrunch",
+      "published": "2026-11-17T19:02:20+00:00",
+      "topic": "Models & research",
+      "summary": "Gemini's Task mode can help users coordinate calls, log into websites, and even make purchases on the user's behalf."
+    },
+    {
+      "id": "20774146b79ca781277a1055",
+      "title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
+      "url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
+      "source": "The Verge",
+      "published": "2026-11-17T18:58:01+00:00",
+      "topic": "Models & research",
+      "summary": "You can now switch from the “Chat” toggle to “Tasks.” | Image: Google\nGoogle is rebranding its Spark AI agent\nas \"Tasks\"\nand making it free to use. The\nfeature, which is powered\nby Google's new Gemini 4 Hydrogen AI model, can do things like create meal plans, manage your calendar, and dig through your emails to find recurring expenses you might not need."
+    },
+    {
+      "id": "f6980f92e029130a7b2cffb5",
+      "title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
+      "url": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/",
+      "source": "TechCrunch",
+      "published": "2026-11-17T18:48:23+00:00",
+      "topic": "Models & research",
+      "summary": "Google's Gemini update extending chat retention will roll out globally over the coming weeks."
+    },
+    {
+      "id": "837c136c3245c58a015e7355",
+      "title": "Pedestal AI raises $4.7 million to agentify the supply chain",
+      "url": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/",
+      "source": "TechCrunch",
+      "published": "2026-11-17T18:04:16+00:00",
+      "topic": "Business",
+      "summary": "The company uses agentic AI to make supply chains faster and more reliable."
+    },
+    {
+      "id": "e17e376e57102864b346f6cf",
+      "title": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
+      "url": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
+      "source": "TechCrunch",
+      "published": "2026-11-17T17:32:25+00:00",
+      "topic": "Products & tools",
+      "summary": "Proton's new Lumo Desktop app for Windows, Mac, and Linux lets users automate tasks across files and connected apps, with granular controls over what its AI can access."
+    },
+    {
+      "id": "597ba1940b56481d206d4a62",
+      "title": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
+      "url": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
+      "source": "TechCrunch",
+      "published": "2026-11-17T17:20:41+00:00",
+      "topic": "Models & research",
+      "summary": "Vals, a San Francisco-based AI evaluation startup, tested whether leading AI models could be manipulated into participating in autonomous warfare. They usually compiled."
+    },
+    {
       "id": "1cdd7a082303f93b19f528a9",
       "title": "Daydream’s new AI agent acts as your personal stylist — and can shop for you, too",
       "url": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/",
@@ -25,7 +115,7 @@
       "source": "TechCrunch",
       "published": "2026-11-17T14:50:58+00:00",
       "topic": "Business",
-      "summary": "Isomorphic Labs, the AI drug-discovery platform that was spun out of Google’s DeepMind in 2021, has raised $5 Billion in a Series C funding round."
+      "summary": "Isomorphic Labs, the AI drug-discovery platform that was spun out of Google’s DeepMind in 2021, has raised $5 billion in a Series C funding round."
     },
     {
       "id": "24baf68da2c147d6568a9bc4",
@@ -1073,7 +1163,7 @@
     },
     {
       "id": "f2fd344bf7be2cb6a6e37ae4",
-      "title": "Innovating with AI in the special chemicals industry",
+      "title": "Innovating with AI in the specialty chemicals industry",
       "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
       "source": "MIT Technology Review",
       "published": "2026-11-09T13:00:00+00:00",
@@ -2609,114 +2699,24 @@
       "published": "2026-10-27T16:51:22+00:00",
       "topic": "AI overview",
       "summary": "Sam Altman, the CEO of Anthropic's archrival, OpenAI, has\ncited\ninvestor pressures as one reason the company is not pursuing an IPO this year. Anthropic hopes it can resist investor pressures with a mind-boggling governance structure."
-    },
-    {
-      "id": "991356d9e9385200ab3c9f5b",
-      "title": "Firefox’s Smart Window adds AI form filling and webpage monitoring",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms",
-      "source": "The Verge",
-      "published": "2026-10-27T16:14:18+00:00",
-      "topic": "AI overview",
-      "summary": "You can\ntry out this feature\nby clicking into a form with at least four text fields. From there, you'll see an option to \"Fill from sources,\" which will show all of the tabs Firefox will draw from."
-    },
-    {
-      "id": "8fc62bcb0cb10104010287d3",
-      "title": "Google’s next Genie AI model generates more realistic experiences",
-      "url": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
-      "source": "The Verge",
-      "published": "2026-10-27T16:00:00+00:00",
-      "topic": "Models & research",
-      "summary": "Google announced today\nits Genie 4 world model\nfor generating interactive experiences using AI. The company says the model has four main updates: It allows for more realistic worlds, lets users update an experience in real time with a natural language prompt, can generate audio, and uses Gemini 3.8 Flash under the hood to help with its simulations."
-    },
-    {
-      "id": "0fcf6f6c92fd1124bb803ec0",
-      "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
-      "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
-      "source": "TechCrunch",
-      "published": "2026-10-27T14:59:09+00:00",
-      "topic": "Business",
-      "summary": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite."
-    },
-    {
-      "id": "77387043f69a853ed6d45064",
-      "title": "Apple is adding an AI chatbot to Pages, Keynote, and Numbers",
-      "url": "https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update",
-      "source": "The Verge",
-      "published": "2026-10-27T13:50:51+00:00",
-      "topic": "Products & tools",
-      "summary": "Apple is bringing\nan AI assistant to its suite of productivity apps\n, including Keynote, Pages, and Numbers. The assistant, which is built on AI models from Apple and OpenAI, can understand a document's context to perform tasks like designing, animating, and refining slides in Keynote."
-    },
-    {
-      "id": "840f2acb14a494b9a8c9e466",
-      "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
-      "url": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
-      "source": "TechCrunch",
-      "published": "2026-10-27T13:00:00+00:00",
-      "topic": "Models & research",
-      "summary": "The new standard, WebAI, is designed to work with a variety of AI models."
-    },
-    {
-      "id": "5e2d9e6f0fc03de4fa036bee",
-      "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
-      "url": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
-      "source": "MIT Technology Review",
-      "published": "2026-10-27T11:19:18+00:00",
-      "topic": "Products & tools",
-      "summary": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers."
-    },
-    {
-      "id": "72e188139d8466867249a905",
-      "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
-      "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
-      "source": "TechCrunch",
-      "published": "2026-10-27T11:00:00+00:00",
-      "topic": "Business",
-      "summary": "Simplismart says its annualized revenue run rate has grown fourteenfold in six months, with the U.S. accounting for more than half its revenue."
-    },
-    {
-      "id": "10515f024c670e282247cef8",
-      "title": "Data center backlash is uniting America",
-      "url": "https://www.theverge.com/policy/1019152/data-centers-midterm-elections",
-      "source": "The Verge",
-      "published": "2026-10-27T10:00:00+00:00",
-      "topic": "Hardware",
-      "summary": "At the same time, tech money has been pouring into many of these races. Leading the Future, a super PAC backed by venture capitalist Marc Andreessen and OpenAI President Greg Brockman, has already spent $45 million in a year."
-    },
-    {
-      "id": "939d943fc8f0d3999bfa9328",
-      "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
-      "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
-      "source": "TechCrunch",
-      "published": "2026-10-27T02:00:00+00:00",
-      "topic": "Products & tools",
-      "summary": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent."
-    },
-    {
-      "id": "8af7b30500f9c04c48b14d5a",
-      "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
-      "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
-      "source": "TechCrunch",
-      "published": "2026-10-27T01:12:21+00:00",
-      "topic": "Models & research",
-      "summary": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI."
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-11-17T16:44:46.798490+00:00",
+      "checked": "2026-11-18T01:30:03.261174+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-11-17T16:44:46.798490+00:00",
+      "checked": "2026-11-18T01:30:03.261174+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-11-17T16:44:46.798490+00:00",
+      "checked": "2026-11-18T01:30:03.261174+00:00",
       "error": null
     }
   ],
-  "updated": "2026-11-17T16:44:46.798490+00:00"
+  "updated": "2026-11-18T01:30:03.261174+00:00"
 }
