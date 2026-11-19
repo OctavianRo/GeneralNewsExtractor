@@ -1,13 +1,49 @@
 {
   "articles": [
     {
+      "id": "108d95f376814446edb6b674",
+      "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+      "source": "TechCrunch",
+      "published": "2026-11-19T00:42:56+00:00",
+      "topic": "AI overview",
+      "summary": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might expect."
+    },
+    {
+      "id": "afb1f8fc849417dafc40566f",
+      "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+      "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+      "source": "TechCrunch",
+      "published": "2026-11-18T23:45:00+00:00",
+      "topic": "AI overview",
+      "summary": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world."
+    },
+    {
+      "id": "d8ba4398191c3d4681c92784",
+      "title": "The nation’s largest school districts consider ditching Google Search",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
+      "source": "The Verge",
+      "published": "2026-11-18T23:18:35+00:00",
+      "topic": "Models & research",
+      "summary": "New York, Los Angeles, and Chicago schools are considering Google alternatives after the company said it will disable Search for schools that opt out of its AI features, according to\nThe New York Times\n. Starting next year, schools will not have the option to disable Gemini-powered features without also disabling Search."
+    },
+    {
+      "id": "49ff21afd78ef9de5ec7b048",
+      "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+      "url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
+      "source": "TechCrunch",
+      "published": "2026-11-18T22:58:11+00:00",
+      "topic": "Products & tools",
+      "summary": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers."
+    },
+    {
       "id": "aed3ea0dfc61854d1cd692e6",
-      "title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
+      "title": "Anthropic prices IPO at $83 a share, above projected range",
       "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
       "source": "TechCrunch",
       "published": "2026-11-18T22:11:15+00:00",
       "topic": "AI overview",
-      "summary": "The long-awaited IPO reportedly values the company at $1.5 trillion on fully diluted basis."
+      "summary": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis."
     },
     {
       "id": "734339654a32d098c3aef7f5",
@@ -2663,60 +2699,24 @@
       "published": "2026-10-28T21:25:30+00:00",
       "topic": "Business",
       "summary": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago quarter."
-    },
-    {
-      "id": "9957645d2f759c419e960204",
-      "title": "Creating AI value with enterprise context",
-      "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
-      "source": "MIT Technology Review",
-      "published": "2026-10-28T20:32:02+00:00",
-      "topic": "Products & tools",
-      "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond."
-    },
-    {
-      "id": "7b5653451a244c2d34efb38f",
-      "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
-      "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
-      "source": "The Verge",
-      "published": "2026-10-28T20:03:00+00:00",
-      "topic": "Models & research",
-      "summary": "The new Gemini 4 Carbon model offers improvements over Argon, which Google released earlier this month. It's currently only available to a select group of cybersecurity defense companies, but it will eventually expand to other partners\nin its Fairwind Program\n."
-    },
-    {
-      "id": "3b6696291dbcf94fbfc4afeb",
-      "title": "Anthropic just launched tools to show companies what their AI spending is buying",
-      "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
-      "source": "TechCrunch",
-      "published": "2026-10-28T19:19:58+00:00",
-      "topic": "Products & tools",
-      "summary": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO."
-    },
-    {
-      "id": "f2796a9e771f5f13b03f9d08",
-      "title": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
-      "url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
-      "source": "TechCrunch",
-      "published": "2026-10-28T17:00:00+00:00",
-      "topic": "AI overview",
-      "summary": "The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission."
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-11-18T22:29:42.788492+00:00",
+      "checked": "2026-11-19T03:59:50.254165+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-11-18T22:29:42.788492+00:00",
+      "checked": "2026-11-19T03:59:50.254165+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-11-18T22:29:42.788492+00:00",
+      "checked": "2026-11-19T03:59:50.254165+00:00",
       "error": null
     }
   ],
-  "updated": "2026-11-18T22:29:42.788492+00:00"
+  "updated": "2026-11-19T03:59:50.254165+00:00"
 }
