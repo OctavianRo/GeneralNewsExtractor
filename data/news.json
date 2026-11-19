@@ -1,6 +1,60 @@
 {
   "articles": [
     {
+      "id": "d708a4dbf97db5f26e869833",
+      "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
+      "url": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
+      "source": "TechCrunch",
+      "published": "2026-11-19T16:19:41+00:00",
+      "topic": "AI overview",
+      "summary": "In his Nasdaq opening bell speech, Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless of business or political pressure."
+    },
+    {
+      "id": "9f19183b29edeb233bebaa52",
+      "title": "ChatGPT can transcribe as you speak now with Live Dictation",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation",
+      "source": "The Verge",
+      "published": "2026-11-19T15:16:45+00:00",
+      "topic": "Products & tools",
+      "summary": "ChatGPT can receive audio prompts from your microphone faster now with a\nLive Dictation feature\nthat transcribes as you speak, rather than waiting until you finish recording. It's\nrolling out now\nglobally on all ChatGPT plans on the web, desktop app, and iOS and Android apps."
+    },
+    {
+      "id": "ddb4b8e8befa63e4944ce484",
+      "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
+      "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
+      "source": "TechCrunch",
+      "published": "2026-11-19T14:54:39+00:00",
+      "topic": "AI overview",
+      "summary": "Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthropic loses its lead."
+    },
+    {
+      "id": "60ff07a70f51c3692ee09240",
+      "title": "With the biggest IPO of all time, Anthropic’s ‘good guy’ reputation is on the line",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure",
+      "source": "The Verge",
+      "published": "2026-11-19T14:25:37+00:00",
+      "topic": "Business",
+      "summary": "Today is a new beginning for Anthropic: a years-in-the-making IPO that beat out SpaceX for most valuable of all time, having raised $81.3 billion and set an important precedent for the other public AI lab debuts to come. But it's not simply a financial milestone."
+    },
+    {
+      "id": "b5b2890766e5da552ea917c0",
+      "title": "I let Apple’s always-listening AI summarize my life for two weeks",
+      "url": "https://www.theverge.com/tech/1037100/apple-siri-recap-audio-intelligence-hands-on",
+      "source": "The Verge",
+      "published": "2026-11-19T13:00:00+00:00",
+      "topic": "AI overview",
+      "summary": "Siri Recap can be turned on or off manually from the wrist. Was it worth it?"
+    },
+    {
+      "id": "c263b280fabbf4887d0f127a",
+      "title": "Canva adds an AI ‘off’ button",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button",
+      "source": "The Verge",
+      "published": "2026-11-19T12:30:00+00:00",
+      "topic": "Products & tools",
+      "summary": "This toggle doesn't turn off\nevery\nAI-powered feature on Canva, however. That includes Canva's background remover and its Magic Grab tool, which lets you select an object in an image and move it somewhere else."
+    },
+    {
       "id": "108d95f376814446edb6b674",
       "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
       "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
@@ -196,7 +250,7 @@
       "source": "MIT Technology Review",
       "published": "2026-11-18T10:20:30+00:00",
       "topic": "Models & research",
-      "summary": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced with a chemical analysis to create a rich set of training data for what AI startup Osmo calls the world’s first foundation model for smell."
+      "summary": "But not everyone is convinced by the technology or the company’s big claims. Avery Gilbert, a smell scientist and author of\nWhat the Nose Knows\n, has been sharply critical of Osmo on his\nSubstack\n, arguing that some of its marketing claims are undocumented, and that its patent filings still rely on human sensory panels and perfumers, rather than AI."
     },
     {
       "id": "d34ce25785fdf87b116dcefd",
@@ -2645,78 +2699,24 @@
       "published": "2026-10-29T13:00:00+00:00",
       "topic": "AI overview",
       "summary": "With Pipecat, Deepgram will likely gain a deeper understanding of real-time voice and video infrastructure."
-    },
-    {
-      "id": "32d69d7e6fd51a11d82013a0",
-      "title": "We urgently need to monitor AI agents’ actions in real time",
-      "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
-      "source": "MIT Technology Review",
-      "published": "2026-10-29T10:11:12+00:00",
-      "topic": "Products & tools",
-      "summary": "This summer, hundreds of OpenAI agents tried to\ncheat\non a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded."
-    },
-    {
-      "id": "d62a8f09dced3dd91988f5ed",
-      "title": "AI has come for Arizona’s water",
-      "url": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc",
-      "source": "The Verge",
-      "published": "2026-10-29T10:00:04+00:00",
-      "topic": "Hardware",
-      "summary": "And yet it’s not AI safety, air pollution, or fears of AGI-enabled economic collapse but water that dominates the data center debate in Arizona and elsewhere, even when those other issues are raised, too. More broadly, recent concerns over data centers’ water usage may stem from\nEmpire of AI\n, a 2025 bestseller by journalist Karen Hao that traces the rise…"
-    },
-    {
-      "id": "3b64f2126ca310fc1aab8c27",
-      "title": "Adam Mosseri says negativity around AI is ‘going to get worse’",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
-      "source": "The Verge",
-      "published": "2026-10-28T23:05:39+00:00",
-      "topic": "AI overview",
-      "summary": "Asked about AI and the trend of\ncollege students booing tech CEOs\nat graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's not just young people and creatives. Appearing on the\nColin and Samir\npodcast\nto talk about the launch of\nwidescreen and long-form video for Instagram\n,…"
-    },
-    {
-      "id": "e46d29680afeffb35eba7f55",
-      "title": "Google expands AI Search ads globally as core ad growth slows",
-      "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
-      "source": "TechCrunch",
-      "published": "2026-10-28T21:48:37+00:00",
-      "topic": "Business",
-      "summary": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion."
-    },
-    {
-      "id": "020314ea17c3bf3d5e5dd5c2",
-      "title": "Microsoft recorded $10 billion in revenue from OpenAI",
-      "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
-      "source": "TechCrunch",
-      "published": "2026-10-28T21:34:30+00:00",
-      "topic": "Business",
-      "summary": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership."
-    },
-    {
-      "id": "f32d7efe87a5d30e33f2451e",
-      "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
-      "url": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
-      "source": "TechCrunch",
-      "published": "2026-10-28T21:25:30+00:00",
-      "topic": "Business",
-      "summary": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago quarter."
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-11-19T03:59:50.254165+00:00",
+      "checked": "2026-11-19T16:23:02.850796+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-11-19T03:59:50.254165+00:00",
+      "checked": "2026-11-19T16:23:02.850796+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-11-19T03:59:50.254165+00:00",
+      "checked": "2026-11-19T16:23:02.850796+00:00",
       "error": null
     }
   ],
-  "updated": "2026-11-19T03:59:50.254165+00:00"
+  "updated": "2026-11-19T16:23:02.850796+00:00"
 }
