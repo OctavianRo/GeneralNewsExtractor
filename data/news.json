@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "28c764e2cf8a36efd027dea0",
+      "title": "Binding of Isaac developer removes AI music from Repentance Plus",
+      "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+      "source": "The Verge",
+      "published": "2026-11-22T17:25:20+00:00",
+      "topic": "AI overview",
+      "summary": "The\nBinding of Isaac: Repentance Plus\nhas spent the last few days getting\nreview-bombed on Steam\nafter it was discovered that a particular segment of the game\nused AI music\n. Reddit user\nShweetsStuff\ndiscovered the songs used during a\nGrand Theft Auto\n-themed section."
+    },
+    {
+      "id": "e8029993afd719ae83793ee1",
+      "title": "The vibe-coding revolution is coming to all the gadgets",
+      "url": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
+      "source": "The Verge",
+      "published": "2026-11-22T13:00:00+00:00",
+      "topic": "Models & research",
+      "summary": "This is\nThe Stepback\n, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything,\nfollow David Pierce\n."
+    },
+    {
       "id": "7289e21f33e265e97a89457e",
       "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
       "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
@@ -2681,42 +2699,24 @@
       "published": "2026-10-30T18:21:38+00:00",
       "topic": "Models & research",
       "summary": "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday,\nGoogle says\nit successfully booted up the satellite's Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow through on a prompt to create a haiku about being in space:"
-    },
-    {
-      "id": "4d0843b360d077cf4f8e57d3",
-      "title": "Zest’s new AI agent finds restaurants and books reservations over text",
-      "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
-      "source": "TechCrunch",
-      "published": "2026-10-30T17:47:12+00:00",
-      "topic": "Products & tools",
-      "summary": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation."
-    },
-    {
-      "id": "8789b25f4f928a029c45ca21",
-      "title": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
-      "source": "The Verge",
-      "published": "2026-10-30T17:38:04+00:00",
-      "topic": "AI overview",
-      "summary": "Starbucks could eventually show you a personalized digital menu when you pull up to the drive-thru. During\nan earnings call on Thursday\n, Starbucks CEO Brian Niccol said the company is going to explore \"experiences that recognize participating customers as they arrive, present personalized digital menus, and make payment more effortless,\" as spotted earlier…"
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-11-22T10:48:57.283813+00:00",
+      "checked": "2026-11-22T18:16:39.818686+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-11-22T10:48:57.283813+00:00",
+      "checked": "2026-11-22T18:16:39.818686+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-11-22T10:48:57.283813+00:00",
+      "checked": "2026-11-22T18:16:39.818686+00:00",
       "error": null
     }
   ],
-  "updated": "2026-11-22T10:48:57.283813+00:00"
+  "updated": "2026-11-22T18:16:39.818686+00:00"
 }
