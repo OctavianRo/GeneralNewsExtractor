@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "id": "90468db0d5a9c8d3332bd7b5",
+      "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+      "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+      "source": "TechCrunch",
+      "published": "2026-11-22T21:14:07+00:00",
+      "topic": "AI overview",
+      "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed."
+    },
+    {
       "id": "28c764e2cf8a36efd027dea0",
       "title": "Binding of Isaac developer removes AI music from Repentance Plus",
       "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
@@ -2690,33 +2699,24 @@
       "published": "2026-10-30T20:26:10+00:00",
       "topic": "AI overview",
       "summary": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as\nreported earlier by\nSearch Engine Roundtable\n. With this control, publishers can apply their AI training preferences across multiple AI companies, instead of setting them individually."
-    },
-    {
-      "id": "b9ee8bb30716fa37b159432c",
-      "title": "Google’s satellite AI server transmits its first response to Earth",
-      "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
-      "source": "The Verge",
-      "published": "2026-10-30T18:21:38+00:00",
-      "topic": "Models & research",
-      "summary": "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday,\nGoogle says\nit successfully booted up the satellite's Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow through on a prompt to create a haiku about being in space:"
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-11-22T18:16:39.818686+00:00",
+      "checked": "2026-11-23T00:00:26.893654+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-11-22T18:16:39.818686+00:00",
+      "checked": "2026-11-23T00:00:26.893654+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-11-22T18:16:39.818686+00:00",
+      "checked": "2026-11-23T00:00:26.893654+00:00",
       "error": null
     }
   ],
-  "updated": "2026-11-22T18:16:39.818686+00:00"
+  "updated": "2026-11-23T00:00:26.893654+00:00"
 }
