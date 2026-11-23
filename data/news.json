@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "599ec3a9c12f02c6cc12b631",
+      "title": "Meta Muse can do your Black Friday shopping at Walmart",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday",
+      "source": "The Verge",
+      "published": "2026-11-23T11:00:00+00:00",
+      "topic": "Products & tools",
+      "summary": "Muse can find Walmart’s Black Friday deals so that you don’t have to. | Image: Walmart\nWalmart will let Meta's Muse shop on its website on your behalf, allowing the AI agent to find and purchase Black Friday deals."
+    },
+    {
+      "id": "04e5e033b7998e4feb3c5278",
+      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+      "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+      "source": "TechCrunch",
+      "published": "2026-11-23T01:25:53+00:00",
+      "topic": "Business",
+      "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic."
+    },
+    {
       "id": "90468db0d5a9c8d3332bd7b5",
       "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
       "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
@@ -2681,42 +2699,24 @@
       "published": "2026-10-30T21:17:40+00:00",
       "topic": "Business",
       "summary": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom."
-    },
-    {
-      "id": "05a1378ae455d54de0c67676",
-      "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
-      "source": "The Verge",
-      "published": "2026-10-30T20:48:43+00:00",
-      "topic": "Hardware",
-      "summary": "Asked about supply chain shortages, like the\nongoing RAM shortage\n, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers. During his appearance on the\nCheeky Pint\npodcast, where he also\ncommented on AI's impact on math\n, Altman said:"
-    },
-    {
-      "id": "7a24eca35f77e86d873fde1b",
-      "title": "The biggest names in AI are backing a new way to opt out of scraping",
-      "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
-      "source": "The Verge",
-      "published": "2026-10-30T20:26:10+00:00",
-      "topic": "AI overview",
-      "summary": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as\nreported earlier by\nSearch Engine Roundtable\n. With this control, publishers can apply their AI training preferences across multiple AI companies, instead of setting them individually."
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-11-23T00:00:26.893654+00:00",
+      "checked": "2026-11-23T11:55:27.820552+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-11-23T00:00:26.893654+00:00",
+      "checked": "2026-11-23T11:55:27.820552+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-11-23T00:00:26.893654+00:00",
+      "checked": "2026-11-23T11:55:27.820552+00:00",
       "error": null
     }
   ],
-  "updated": "2026-11-23T00:00:26.893654+00:00"
+  "updated": "2026-11-23T11:55:27.820552+00:00"
 }
