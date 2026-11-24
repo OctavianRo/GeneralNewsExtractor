@@ -1,6 +1,132 @@
 {
   "articles": [
     {
+      "id": "ddf5f5e1e3a03a64600eccd2",
+      "title": "Even the best AI agents struggle with everyday life",
+      "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+      "source": "TechCrunch",
+      "published": "2026-11-24T21:33:29+00:00",
+      "topic": "Products & tools",
+      "summary": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems."
+    },
+    {
+      "id": "a18f6caa7fc18d5b78fd6852",
+      "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+      "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+      "source": "TechCrunch",
+      "published": "2026-11-24T21:32:38+00:00",
+      "topic": "Products & tools",
+      "summary": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent."
+    },
+    {
+      "id": "9fd8a5bde39c37e2783d0108",
+      "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+      "url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+      "source": "TechCrunch",
+      "published": "2026-11-24T21:19:52+00:00",
+      "topic": "Business",
+      "summary": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data."
+    },
+    {
+      "id": "b68502d162ee9e06f7de3106",
+      "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+      "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+      "source": "TechCrunch",
+      "published": "2026-11-24T18:30:42+00:00",
+      "topic": "Business",
+      "summary": "Anthropic’s post-IPO slump could put pressure on AI startup valuations."
+    },
+    {
+      "id": "ee49075fab924212ef402873",
+      "title": "David Fincher is being dragged for suspected use of AI in his latest film",
+      "url": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive",
+      "source": "The Verge",
+      "published": "2026-11-24T18:15:00+00:00",
+      "topic": "Business",
+      "summary": "Though\nDavid Fincher\n's fans had been eagerly anticipating\nThe Further Mis-Adventures of Cliff Booth\n, early screenings of the\nOnce Upon a Time in Hollywood\nsequel starring Brad Pitt have raised questions about whether generative AI was used in the film. People have claimed that the movie is chock-full of uncanny, inconsistent visuals that make it feel more…"
+    },
+    {
+      "id": "a15f266d5fa6e5a5fe678e8e",
+      "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
+      "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+      "source": "TechCrunch",
+      "published": "2026-11-24T18:02:59+00:00",
+      "topic": "Products & tools",
+      "summary": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws."
+    },
+    {
+      "id": "09e62d6e11167de49a84f0ef",
+      "title": "Tidal will start banning AI-generated music next month",
+      "url": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
+      "source": "The Verge",
+      "published": "2026-11-24T17:17:09+00:00",
+      "topic": "Policy & safety",
+      "summary": "Tidal is officially banning AI-generated music on December 9th. As a result of this change, Tidal will delete around 29 million AI-generated songs and reject an estimated 80,000 to 85,000 tracks per day,\naccording to Tidal music lead Robert Andersen\n."
+    },
+    {
+      "id": "08a6094b9f24b3f9375f2a62",
+      "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
+      "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
+      "source": "TechCrunch",
+      "published": "2026-11-24T17:00:00+00:00",
+      "topic": "Products & tools",
+      "summary": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent."
+    },
+    {
+      "id": "022f717aafc7a3a3d2acfb3b",
+      "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
+      "url": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
+      "source": "TechCrunch",
+      "published": "2026-11-24T16:46:00+00:00",
+      "topic": "Policy & safety",
+      "summary": "The company said it will still accept songs that were made with AI assistance, but not fully generated."
+    },
+    {
+      "id": "9b7f0538ab9342259f2c86b6",
+      "title": "Jensen Huang deepfakes are the hot new AI slop",
+      "url": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
+      "source": "The Verge",
+      "published": "2026-11-24T16:30:00+00:00",
+      "topic": "Hardware",
+      "summary": "Jensen Huang is partying it up in Ibiza. In\na video\nwith nearly 6 million views on Instagram, the former CEO of Nvidia is dancing in a crowded club, champagne glass in hand, still wearing his signature black leather jacket."
+    },
+    {
+      "id": "b6f91c10121e3db79fbf2012",
+      "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
+      "url": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
+      "source": "TechCrunch",
+      "published": "2026-11-24T16:10:00+00:00",
+      "topic": "Hardware",
+      "summary": "Next-generation data centers will need tens of gigawatts of power every year. One of Crusoe's investors thinks solar and energy storage are the obvious choice."
+    },
+    {
+      "id": "1bfb90103b3c1d8e3d87c8f4",
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+      "source": "The Verge",
+      "published": "2026-11-24T16:09:23+00:00",
+      "topic": "Products & tools",
+      "summary": "Adobe has spent the\npast few years filling Photoshop\nand other apps in its creative suite with a trove of AI-powered tools. The\nNovember update\ncited by the\nNYT\n's email adds several new AI features, including\nAdobe's new \"AI Assiste …"
+    },
+    {
+      "id": "22cc1bf342d89ca2fde4a961",
+      "title": "Pinterest will now let parents limit the AI-generated content their teens see",
+      "url": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/",
+      "source": "TechCrunch",
+      "published": "2026-11-24T16:02:37+00:00",
+      "topic": "Products & tools",
+      "summary": "While other social platforms have focused on restricting teens' access to AI chatbots, Pinterest is addressing the AI content filling their feeds."
+    },
+    {
+      "id": "89335320727d8b60994a248c",
+      "title": "Raising the stakes for enterprise networks with AI modernization",
+      "url": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
+      "source": "MIT Technology Review",
+      "published": "2026-11-24T15:15:16+00:00",
+      "topic": "Models & research",
+      "summary": "As AI inference shifts from hyperscale training clouds—the huge centralized data centers where raw AI models ingest vast datasets and learn—to real-time, latency-sensitive applications, the need for on-premises or near-premises infrastructure grows. As a result, the gap between enterprise networks that are ready to support AI and those that are not is…"
+    },
+    {
       "id": "a72cc3aa1f3d17c03694eaff",
       "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
       "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
@@ -2573,150 +2699,24 @@
       "published": "2026-11-03T00:35:52+00:00",
       "topic": "Products & tools",
       "summary": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builders, Tan put a price tag on his passion."
-    },
-    {
-      "id": "c8564f3a68709075cd7869fa",
-      "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
-      "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
-      "source": "TechCrunch",
-      "published": "2026-11-02T23:13:53+00:00",
-      "topic": "Business",
-      "summary": "The one-year-old startup is now valued at $300 million."
-    },
-    {
-      "id": "ca204e1c0052a71213a13f97",
-      "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
-      "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
-      "source": "TechCrunch",
-      "published": "2026-11-02T22:14:50+00:00",
-      "topic": "AI overview",
-      "summary": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return."
-    },
-    {
-      "id": "e7389883fb553bcf4252b304",
-      "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
-      "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
-      "source": "TechCrunch",
-      "published": "2026-11-02T19:19:17+00:00",
-      "topic": "AI overview",
-      "summary": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Perplexity."
-    },
-    {
-      "id": "5426dcc4966dc2198453b84b",
-      "title": "Anthropic clamps down on Claude’s AI video game clones",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
-      "source": "The Verge",
-      "published": "2026-11-02T18:56:02+00:00",
-      "topic": "Models & research",
-      "summary": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to re-create existing video games,\nas reported by\nTom's Hardware\n. Retro gaming is currently being overrun\nwith AI-made decompilations, recompilations, and ports\n, but while Anthropic will still let people use Claude Code to make games, it doesn't want people to use it…"
-    },
-    {
-      "id": "565e6fad1f4c3724a211de5e",
-      "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
-      "source": "The Verge",
-      "published": "2026-11-02T18:01:30+00:00",
-      "topic": "Hardware",
-      "summary": "In\nan announcement on Monday\n, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts of power during extreme weather or emergencies, enough to power air conditioners in around 700,000 homes."
-    },
-    {
-      "id": "0b86c010857d521d9160c570",
-      "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
-      "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
-      "source": "The Verge",
-      "published": "2026-11-02T17:51:19+00:00",
-      "topic": "Models & research",
-      "summary": "According to\na complaint\nfiled by the\nNew York Daily News\n, the\nChicago Tribune\n, and the\nOrlando Sentinel\n, Brave Software has monetized its index of scraped websites by, in part, providing AI companies with paid access to \"real-time online content from the Brave Index.\" The AI companies then use that index to train their models, access content to \"respond…"
-    },
-    {
-      "id": "b475b7dcc2276d63203ffeb5",
-      "title": "Raising the quality of insights in agentic analytics",
-      "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
-      "source": "MIT Technology Review",
-      "published": "2026-11-02T17:00:00+00:00",
-      "topic": "Products & tools",
-      "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights."
-    },
-    {
-      "id": "8bfd7590d71c0d95edb1f484",
-      "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
-      "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
-      "source": "TechCrunch",
-      "published": "2026-11-02T16:30:00+00:00",
-      "topic": "Models & research",
-      "summary": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?"
-    },
-    {
-      "id": "5a201e1426e1fb30b60319f0",
-      "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
-      "url": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
-      "source": "TechCrunch",
-      "published": "2026-11-02T15:00:00+00:00",
-      "topic": "Business",
-      "summary": "Two startups tackling the data center water problem are joining forces in a $16 million deal."
-    },
-    {
-      "id": "e732affa3e390d123d460693",
-      "title": "OpenAI is finally merging ChatGPT’s Chat and Work tabs",
-      "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
-      "source": "TechCrunch",
-      "published": "2026-11-02T13:57:53+00:00",
-      "topic": "Products & tools",
-      "summary": "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change."
-    },
-    {
-      "id": "8d847b3ebc262e19a01af222",
-      "title": "Stop counting tokens, start counting what ships",
-      "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
-      "source": "MIT Technology Review",
-      "published": "2026-11-02T13:10:32+00:00",
-      "topic": "Models & research",
-      "summary": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors."
-    },
-    {
-      "id": "a09e48d0b66bcc5cf629ac4c",
-      "title": "The agentic web is here",
-      "url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
-      "source": "MIT Technology Review",
-      "published": "2026-11-02T09:35:19+00:00",
-      "topic": "Products & tools",
-      "summary": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an\narticle\nin the magazine\nScientific American\nin which he outlined what he called the\n“Semantic Web”\n: an internet designed to be navigated by autonomous software agents that could address our every need, without…"
-    },
-    {
-      "id": "944be91cc06a18a89b9b88b4",
-      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
-      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
-      "source": "TechCrunch",
-      "published": "2026-11-01T21:55:23+00:00",
-      "topic": "Hardware",
-      "summary": "Data centers are deeply unpopular. But what if we called them something else?"
-    },
-    {
-      "id": "7a5ce7ed2f78d2842904d684",
-      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
-      "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
-      "source": "TechCrunch",
-      "published": "2026-11-01T20:57:58+00:00",
-      "topic": "AI overview",
-      "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf."
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-11-24T13:21:43.414691+00:00",
+      "checked": "2026-11-24T23:46:24.537316+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-11-24T13:21:43.414691+00:00",
+      "checked": "2026-11-24T23:46:24.537316+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-11-24T13:21:43.414691+00:00",
+      "checked": "2026-11-24T23:46:24.537316+00:00",
       "error": null
     }
   ],
-  "updated": "2026-11-24T13:21:43.414691+00:00"
+  "updated": "2026-11-24T23:46:24.537316+00:00"
 }
