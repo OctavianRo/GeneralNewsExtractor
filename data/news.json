@@ -1,6 +1,105 @@
 {
   "articles": [
     {
+      "id": "c91a30b4e6522b01bf534e47",
+      "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+      "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+      "source": "The Verge",
+      "published": "2026-11-25T21:51:26+00:00",
+      "topic": "AI overview",
+      "summary": "Last year,\nGoogle filed a patent\nfor a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users. The patent has been rejected, but unfortunately, Google might appeal or resubmit an amended version, and we could see this monstrosity come to…"
+    },
+    {
+      "id": "fb19c642f1b7558434080e89",
+      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+      "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+      "source": "TechCrunch",
+      "published": "2026-11-25T20:03:27+00:00",
+      "topic": "Products & tools",
+      "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences."
+    },
+    {
+      "id": "b4fddd7d3c17c325b4153d7a",
+      "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+      "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+      "source": "TechCrunch",
+      "published": "2026-11-25T19:44:24+00:00",
+      "topic": "Models & research",
+      "summary": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development."
+    },
+    {
+      "id": "8b23f29d590b586f5e61e5b4",
+      "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+      "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+      "source": "TechCrunch",
+      "published": "2026-11-25T18:11:46+00:00",
+      "topic": "Policy & safety",
+      "summary": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development."
+    },
+    {
+      "id": "17929128d139e3d01b22009c",
+      "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+      "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+      "source": "The Verge",
+      "published": "2026-11-25T17:44:51+00:00",
+      "topic": "Hardware",
+      "summary": "In\nan announcement on Wednesday\n, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned\ncompany's \"Starmind\" initiative\n. With\nseveral others also pursuing the idea of putting AI data centers in space\n, including Google and Blue Origin, this is the first approval the agency has granted for a…"
+    },
+    {
+      "id": "5b2e3451b1a570f55bbadfb6",
+      "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+      "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+      "source": "TechCrunch",
+      "published": "2026-11-25T17:35:58+00:00",
+      "topic": "AI overview",
+      "summary": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said."
+    },
+    {
+      "id": "927dd6b10beb1b9592b8a7f1",
+      "title": "Nothing offers a full look at its AI earbuds and charging case",
+      "url": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
+      "source": "The Verge",
+      "published": "2026-11-25T16:00:59+00:00",
+      "topic": "AI overview",
+      "summary": "Nothing\nis showing off a much more detailed look\nat its upcoming AI earbuds ahead of their December 8th release. The Ear Note buds can record your calls, while their charging case can record, transcribe, and summarize your conversations."
+    },
+    {
+      "id": "ef02d096cf97eadcf115b879",
+      "title": "AI data centers are becoming harder to build, and neoclouds are feeling it",
+      "url": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
+      "source": "TechCrunch",
+      "published": "2026-11-25T15:41:43+00:00",
+      "topic": "Hardware",
+      "summary": "⁠Nvidia has made clear⁠ it won’t backstop an AI data center until it’s nearly ready to run, and that’s landing just as neoclouds report construction delays and more expensive debt. The message to developers is that land, power, and a finished building matter more than a pitch deck."
+    },
+    {
+      "id": "8309588c20e1138eb4c3bfaf",
+      "title": "Amazon is reportedly in talks to end Muse AI shopping block",
+      "url": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
+      "source": "The Verge",
+      "published": "2026-11-25T14:12:33+00:00",
+      "topic": "Business",
+      "summary": "As reported by\nFortune\n, Amazon is concerned that it could lose advertising revenue by allowing Muse on its site, since it depends on actual humans seeing ads across its online marketplace. It's also reportedly worried about the quality of the product search results that Muse will present to users, as well as whether the AI age …"
+    },
+    {
+      "id": "9d204a99ce77317cf5efd4a2",
+      "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+      "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+      "source": "TechCrunch",
+      "published": "2026-11-25T14:10:18+00:00",
+      "topic": "Products & tools",
+      "summary": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse."
+    },
+    {
+      "id": "d7f8df890f989b59e60830da",
+      "title": "Has vibe coding made open source the new normal for synths?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware",
+      "source": "The Verge",
+      "published": "2026-11-25T13:00:00+00:00",
+      "topic": "Products & tools",
+      "summary": "The emergence of powerful vibe-coding agents and tools like\nReverse Engineer Anything\nhas\ncaused chaos in the music gear world\n, leaving companies scrambling to figure out how to respond. While some, like Roland, have remained silent for now, others have embraced the modding community."
+    },
+    {
       "id": "aa2815536f14a5a8498bff2d",
       "title": "AI is straining America’s open records systems",
       "url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
@@ -2600,123 +2699,24 @@
       "published": "2026-11-03T17:07:01+00:00",
       "topic": "AI overview",
       "summary": "At a moment when Anthropic's compute margins should be getting better, they’re getting worse."
-    },
-    {
-      "id": "c01265aacc1a10af6e560e69",
-      "title": "Google is entirely disabling Search in schools that don’t want AI",
-      "url": "https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features",
-      "source": "The Verge",
-      "published": "2026-11-03T17:00:04+00:00",
-      "topic": "Models & research",
-      "summary": "Google is completely turning off Search in schools that reject its AI features, the company\ntold\nThe New York Times\n. The decision was also shared in\na broader education-related update\nfrom Google on Tuesday, saying that access to Gemini, Gemini Notebook, Gemini in Classroom, and Google Search \"will be entirely off\" for K-12 student accounts unless…"
-    },
-    {
-      "id": "0a382aa136fca6d9cc4d27f0",
-      "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
-      "url": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
-      "source": "TechCrunch",
-      "published": "2026-11-03T16:30:34+00:00",
-      "topic": "Products & tools",
-      "summary": "Schools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine."
-    },
-    {
-      "id": "5fb7488de8910ebe9bc333c6",
-      "title": "Midterm elections 2026: all the news",
-      "url": "https://www.theverge.com/policy/1020640/midterm-elections-2026-all-the-news",
-      "source": "The Verge",
-      "published": "2026-11-03T15:58:39+00:00",
-      "topic": "Hardware",
-      "summary": "The 2026 midterm elections will determine the scope of President Donald Trump’s power in his final two years in office, and signal what voters care about going into the 2028 presidential election. While this year’s races are expected to be most broadly defined by affordability issues, there are several topics impacting the tech industry that appear to be on…"
-    },
-    {
-      "id": "5eba943719a0061f995f10f7",
-      "title": "Apple restricts dating apps and AI companions to users 18 and up",
-      "url": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
-      "source": "TechCrunch",
-      "published": "2026-11-03T15:38:27+00:00",
-      "topic": "Products & tools",
-      "summary": "Apple's new App Store rules will require 18+ ratings for dating apps and AI companions that offer sexual or romantic content."
-    },
-    {
-      "id": "03ad66ba1fba6125878e6a09",
-      "title": "Apple is all in on AI — its own and everyone else’s",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1025245/apple-earnings-q4-ai",
-      "source": "The Verge",
-      "published": "2026-11-03T15:24:51+00:00",
-      "topic": "Business",
-      "summary": "Overall, Apple posted its best-ever fiscal year for revenue and earnings per share. iPhone and Mac sales continued to grow strongly in the fourth quarter."
-    },
-    {
-      "id": "e2d2bf508ced1caa0845b33b",
-      "title": "OpenAI is quietly renaming data centers ‘compute campuses’",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses",
-      "source": "The Verge",
-      "published": "2026-11-03T15:00:44+00:00",
-      "topic": "Hardware",
-      "summary": "The Stargate AI data center “compute campus” in Abilene, Texas. | Photo: Bloomberg via Getty Images\nPeople hate\ndata centers\n."
-    },
-    {
-      "id": "e6e258092e928f0d256b4e64",
-      "title": "How “reverse game theory” could keep AI agents in check",
-      "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
-      "source": "MIT Technology Review",
-      "published": "2026-11-03T10:43:41+00:00",
-      "topic": "Models & research",
-      "summary": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, in other words, that rogue agents don’t break the law, hack into unauthorized…"
-    },
-    {
-      "id": "aafb2d2c8fa2107938d3734b",
-      "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
-      "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
-      "source": "TechCrunch",
-      "published": "2026-11-03T07:20:00+00:00",
-      "topic": "AI overview",
-      "summary": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations."
-    },
-    {
-      "id": "b7492bd5cea1d25b75401839",
-      "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
-      "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
-      "source": "MIT Technology Review",
-      "published": "2026-11-03T04:18:47+00:00",
-      "topic": "Policy & safety",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\nsign up here\n."
-    },
-    {
-      "id": "23abe1f1b0a2b246b606e768",
-      "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
-      "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
-      "source": "TechCrunch",
-      "published": "2026-11-03T03:30:00+00:00",
-      "topic": "AI overview",
-      "summary": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages."
-    },
-    {
-      "id": "804d2e2f62a5210f78bc3a25",
-      "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
-      "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
-      "source": "TechCrunch",
-      "published": "2026-11-03T01:49:52+00:00",
-      "topic": "Business",
-      "summary": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call."
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-11-25T12:14:45.666117+00:00",
+      "checked": "2026-11-25T23:29:04.029919+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-11-25T12:14:45.666117+00:00",
+      "checked": "2026-11-25T23:29:04.029919+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-11-25T12:14:45.666117+00:00",
+      "checked": "2026-11-25T23:29:04.029919+00:00",
       "error": null
     }
   ],
-  "updated": "2026-11-25T12:14:45.666117+00:00"
+  "updated": "2026-11-25T23:29:04.029919+00:00"
 }
