@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "979e22972f743c1451fecf67",
+      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+      "source": "TechCrunch",
+      "published": "2026-11-26T20:03:54+00:00",
+      "topic": "Hardware",
+      "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China."
+    },
+    {
+      "id": "b81da0547893b26212f11b72",
+      "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+      "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+      "source": "TechCrunch",
+      "published": "2026-11-26T16:00:00+00:00",
+      "topic": "AI overview",
+      "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time."
+    },
+    {
       "id": "e51b021662e92d608165a6d2",
       "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
       "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
@@ -2681,42 +2699,24 @@
       "published": "2026-11-03T18:42:16+00:00",
       "topic": "AI overview",
       "summary": "The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for."
-    },
-    {
-      "id": "2a746fdcd099abae656f1592",
-      "title": "OpenAI says ChatGPT is catching up to Google in search",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
-      "source": "The Verge",
-      "published": "2026-11-03T18:30:42+00:00",
-      "topic": "Products & tools",
-      "summary": "In many circles, \"Ask Chat\" has replaced \"Google it,\" and that's reflected in a new announcement from OpenAI: the volume of search queries run through ChatGPT now equals 20 percent of the volume run through Google. Adam Fry, OpenAI's consumer product lead for ChatGPT, made the announcement at a press event on Monday."
-    },
-    {
-      "id": "c968c83100b75a67cad368c0",
-      "title": "Netflix will show you themed recommendations through a new ‘AI Discover’ tab",
-      "url": "https://www.theverge.com/streaming/1025029/netflix-ai-discover-recommendations",
-      "source": "The Verge",
-      "published": "2026-11-03T18:00:00+00:00",
-      "topic": "Products & tools",
-      "summary": "Netflix's TV app is getting a new \"AI Discover\" tab where the company will show experimental, AI-powered features\nto help you find new shows and movies to watch. The first of these experiments surfaces content based around themes, like \"Something Light,\" \"Family Movie Night,\" or \"Quick Watches.\" When you pick a theme, Netflix will show you recommendations…"
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-11-26T11:58:09.530690+00:00",
+      "checked": "2026-11-26T23:31:48.412850+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-11-26T11:58:09.530690+00:00",
+      "checked": "2026-11-26T23:31:48.412850+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-11-26T11:58:09.530690+00:00",
+      "checked": "2026-11-26T23:31:48.412850+00:00",
       "error": null
     }
   ],
-  "updated": "2026-11-26T11:58:09.530690+00:00"
+  "updated": "2026-11-26T23:31:48.412850+00:00"
 }
