@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "id": "e51b021662e92d608165a6d2",
+      "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+      "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+      "source": "The Verge",
+      "published": "2026-11-26T09:54:40+00:00",
+      "topic": "AI overview",
+      "summary": "A coalition of\n42 state attorneys general\nis\ntrying to prevent\nCharacter.AI from\nselling off user data\nas it navigates Chapter 11 bankruptcy proceedings. In a\ndeluge\nof\nnearly\nidentical\npress\nreleases, the various AGs accuse the company of planning to auction off \"the private chat histories of more than 21 million U.S."
+    },
+    {
       "id": "c91a30b4e6522b01bf534e47",
       "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
       "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
@@ -2690,33 +2699,24 @@
       "published": "2026-11-03T18:00:00+00:00",
       "topic": "Products & tools",
       "summary": "Netflix's TV app is getting a new \"AI Discover\" tab where the company will show experimental, AI-powered features\nto help you find new shows and movies to watch. The first of these experiments surfaces content based around themes, like \"Something Light,\" \"Family Movie Night,\" or \"Quick Watches.\" When you pick a theme, Netflix will show you recommendations…"
-    },
-    {
-      "id": "89158d68bf9594ef8ca890b6",
-      "title": "Anthropic is still grappling with the economics of compute",
-      "url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
-      "source": "TechCrunch",
-      "published": "2026-11-03T17:07:01+00:00",
-      "topic": "AI overview",
-      "summary": "At a moment when Anthropic's compute margins should be getting better, they’re getting worse."
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-11-25T23:29:04.029919+00:00",
+      "checked": "2026-11-26T11:58:09.530690+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-11-25T23:29:04.029919+00:00",
+      "checked": "2026-11-26T11:58:09.530690+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-11-25T23:29:04.029919+00:00",
+      "checked": "2026-11-26T11:58:09.530690+00:00",
       "error": null
     }
   ],
-  "updated": "2026-11-25T23:29:04.029919+00:00"
+  "updated": "2026-11-26T11:58:09.530690+00:00"
 }
