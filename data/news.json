@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "id": "1d140bb3b26b0663e87bbf53",
+      "title": "Android’s DIY widgets are a bit of vibe-coding fun",
+      "url": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
+      "source": "The Verge",
+      "published": "2026-11-27T14:00:00+00:00",
+      "topic": "Products & tools",
+      "summary": "Widgets, your way. | Photo: Allison Johnson / The Verge\nAside from\ndealing with my calendar\n, there's one thing I want AI to do: tell me if I'm about to miss the bus."
+    },
+    {
       "id": "979e22972f743c1451fecf67",
       "title": "Nvidia hits pause on chip shipments to Southeast Asia",
       "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
@@ -2690,33 +2699,24 @@
       "published": "2026-11-03T19:34:43+00:00",
       "topic": "Business",
       "summary": "The five-year-old startup raised a $1.3 billion round led by Bessemer."
-    },
-    {
-      "id": "90ff5ab634ecc941280f64fe",
-      "title": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
-      "url": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
-      "source": "TechCrunch",
-      "published": "2026-11-03T18:42:16+00:00",
-      "topic": "AI overview",
-      "summary": "The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for."
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-11-27T11:51:01.083468+00:00",
+      "checked": "2026-11-27T23:15:15.623258+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-11-27T11:51:01.083468+00:00",
+      "checked": "2026-11-27T23:15:15.623258+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-11-27T11:51:01.083468+00:00",
+      "checked": "2026-11-27T23:15:15.623258+00:00",
       "error": null
     }
   ],
-  "updated": "2026-11-27T11:51:01.083468+00:00"
+  "updated": "2026-11-27T23:15:15.623258+00:00"
 }
